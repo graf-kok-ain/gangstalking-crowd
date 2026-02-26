@@ -1,34 +1,34 @@
 # anakinbaby
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 7o3ewLBIwhrZjdFrCeFEce
 - **Spotify Link**: https://open.spotify.com/artist/7o3ewLBIwhrZjdFrCeFEce
 - **Original Spotify-Link**: https://open.spotify.com/artist/7o3ewLBIwhrZjdFrCeFEce?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 548 (erfasst: 26.02.2026 04:58)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Niedrig (548 monatliche Hörer)
+- **Monthly Listeners**: 548 (captured: 26.02.2026 04:58)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Low (548 monthly listeners)
 
-## Biografie
+## Biography
 "💵pwarecords"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 04:58
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 04:58
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - KIWI (Latest Release) - Single
@@ -40,7 +40,7 @@
 2. pulp fiction (feat. saimuzz) (Explicit) - 8,960 Plays
 3. KIWI (Explicit) - 1,645 Plays
 
-## Kollaborationen
+## Collaborations
 - saimuzz (rain is fallin, pulp fiction)
 - D4VID777 (anakinbaby Radio)
 - va1e (anakinbaby Radio)
@@ -48,29 +48,29 @@
 - croown (Fans also like)
 - CXDEX (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "anakinbaby" - Star Wars Referenz
-- **Themen**: Natur (rain is fallin), Film (pulp fiction), Früchte (KIWI)
-- **Sprachmuster**: Deutsch mit englischen Elementen, metaphorische Themen
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "anakinbaby" - Star Wars reference
+- **Themes**: Nature (rain is fallin), Film (pulp fiction), Fruits (KIWI)
+- **Language Patterns**: German with English elements, metaphorical themes
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 548 monatliche Hörer bei 11,198+ Plays (realistisch für Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 548 monthly listeners with 11,198+ plays (realistic for indie artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Hohe Kollaborations-Dichte mit saimuzz
-- **Genre-Cluster**: Deutschrap/Trap mit metaphorischen Themen
-- **Verbindungs-Stärke**: Stark verbunden mit saimuzz, croown, CXDEX (Fans also like)
-- **Influence-Patterns**: Teil des Trap/Underground Netzwerks
+## Network Analysis
+- **Collaboration Density**: High collaboration density with saimuzz
+- **Genre Cluster**: German Rap/Trap with metaphorical themes
+- **Connection Strength**: Strongly connected with saimuzz, croown, CXDEX (Fans also like)
+- **Influence Patterns**: Part of Trap/Underground network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap mit metaphorischen Elementen
-- **Ansatz**: Kommerziell ("💵pwarecords")
-- **Themen**: Natur, Film, Früchte
-- **Community**: Starke Kollaborations-Präsenz mit saimuzz
+## Artist Philosophy
+- **Music Style**: German Rap/Trap with metaphorical elements
+- **Approach**: Commercial ("💵pwarecords")
+- **Themes**: Nature, Film, Fruits
+- **Community**: Strong collaboration presence with saimuzz
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)
