@@ -1,34 +1,34 @@
 # Aliena.
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 2OyB3aZA4sxx4LPNEb0546
 - **Spotify Link**: https://open.spotify.com/artist/2OyB3aZA4sxx4LPNEb0546
 - **Original Spotify-Link**: https://open.spotify.com/artist/2OyB3aZA4sxx4LPNEb0546?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 126 (erfasst: 26.02.2026 03:40)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 126 (captured: 26.02.2026 03:40)
+- **Followers**: Not available
 - **Genre**: Alternative/Indie
-- **Popularität**: Niedrig (126 monatliche Hörer)
+- **Popularity**: Low (126 monthly listeners)
 
-## Biografie
+## Biography
 Seit ihrer Kindheit wusste Aliena., dass Musik ihre Bestimmung ist. Schon im Kindergarten träumte sie davon, Sängerin zu werden – ein Traum, den sie bis heute unaufhörlich verfolgt. Mit zwölf Jahren begann sie, ihre ersten eigenen Songs zu schreiben und ihre Stimme zu formen. Ihre Musik ist roh, emotional und ungeschönt. Sie spricht über Themen, die andere meiden, und verbietet sich selbst keine Grenzen. Mit ihrer einzigartigen Mischung aus tiefgehenden Texten und ausdrucksstarken Melodien schafft sie Songs, die unter die Haut gehen und zum Nachdenken anregen. Egal ob Liebe, Schmerz, gesellschaftliche Tabus oder persönliche Kämpfe – Aliena. scheut sich nicht davor, ihre Gedanken und Gefühle ungefiltert in ihre Musik zu legen. Ihre Songs sind nicht nur Ausdruck ihrer eigenen Erfahrungen, sondern auch ein Spiegel für all jene, die sich in ihren Worten wiederfinden. Mit jeder Veröffentlichung bringt sie ihr Publikum näher an ihr Innerstes und beweist, dass Musik mehr ist als nur Klang – sie ist ein Ventil, eine Stimme und ein Statement.
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.ph
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:40
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:40
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - Raum und Zeit (Latest Release) - Single
@@ -41,7 +41,7 @@ Seit ihrer Kindheit wusste Aliena., dass Musik ihre Bestimmung ist. Schon im Kin
 4. BLACKOUT
 5. KALT BEI DIR (feat. NYAR)
 
-## Kollaborationen
+## Collaborations
 - Laer Xirtam (OHNE DICH)
 - NYAR (KALT BEI DIR)
 - El Rafo (Aliena. Radio)
@@ -51,29 +51,29 @@ Seit ihrer Kindheit wusste Aliena., dass Musik ihre Bestimmung ist. Schon im Kin
 - LVCAS (Fans also like)
 - 1o1 (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Aliena." - Punkt am Ende, weiblicher Name
-- **Themen**: Emotionale Themen (Raum und Zeit, Weniger von mir), existenzielle Themen (OHNE DICH, BLACKOUT), persönliche Themen (KALT BEI DIR)
-- **Sprachmuster**: Deutsch mit emotionalen, tiefgehenden Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Aliena." - period at the end, female name
+- **Themes**: Emotional themes (Raum und Zeit, Weniger von mir), existential themes (OHNE DICH, BLACKOUT), personal themes (KALT BEI DIR)
+- **Language Patterns**: German with emotional, deep lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 126 monatliche Hörer bei 12K+ Plays (realistisch für Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, authentische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 126 monthly listeners with 12K+ plays (realistic for indie artist)
+- **Activity Patterns**: Regular releases, authentic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Indie-Künstlern
-- **Genre-Cluster**: Alternative/Indie mit emotionalen Themen
-- **Verbindungs-Stärke**: Verbunden mit dazed, LVCAS, 1o1 (Fans also like)
-- **Influence-Patterns**: Authentische Indie-Künstlerin mit emotionaler Community
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar indie artists
+- **Genre Cluster**: Alternative/Indie with emotional themes
+- **Connection Strength**: Connected with dazed, LVCAS, 1o1 (Fans also like)
+- **Influence Patterns**: Authentic indie artist with emotional community
 
-## Künstler-Philosophie
-- **Musikstil**: Alternative/Indie mit emotionalen Themen
-- **Ansatz**: Roh, emotional, ungeschönt ("Papa, der Song ist für dich 🕊️")
-- **Themen**: Liebe, Schmerz, gesellschaftliche Tabus, persönliche Kämpfe
-- **Community**: Authentische Verbindung durch emotionale Verarbeitung
+## Artist Philosophy
+- **Music Style**: Alternative/Indie with emotional themes
+- **Approach**: Raw, emotional, unfiltered ("Papa, der Song ist für dich 🕊️")
+- **Themes**: Love, pain, social taboos, personal struggles
+- **Community**: Authentic connection through emotional processing
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

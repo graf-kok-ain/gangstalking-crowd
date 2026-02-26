@@ -1,34 +1,34 @@
 # Artan67
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 5l8LtmbV6Wqy15DWc7wGTQ
 - **Spotify Link**: https://open.spotify.com/artist/5l8LtmbV6Wqy15DWc7wGTQ
 - **Original Spotify-Link**: https://open.spotify.com/artist/5l8LtmbV6Wqy15DWc7wGTQ?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 14 (erfasst: 26.02.2026 03:50)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 14 (captured: 26.02.2026 03:50)
+- **Followers**: Not available
 - **Genre**: Alternative/Indie
-- **Popularität**: Extrem niedrig (14 monatliche Hörer)
+- **Popularity**: Extremely low (14 monthly listeners)
 
-## Biografie
+## Biography
 Artan67 ist in einer Kleinstadt aufgewachsen und hat bereits in jungen Jahren erkannt, dass sein Weg anders sein wird als der von den meisten. Er brach sein begonnenes Studium ab, verließ sein altes Leben und zog in die Hauptstadt, um von Null an zu beginnen und mit 100% Einsatz an sich und seinen Zielen zu arbeiten. In seiner Kunst verarbeitet er den täglichen Weg, den er alleine gehen muss, umgeben von Liebe, Ängsten, Trauer, Sucht und Glauben. Sein einzigartiger Stil zeigt seine authentische Persönlichkeit und seine tiefe Verbindung zu den Emotionen, die er in seinen Werken ausdrückt.
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.ph
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:50
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:50
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - Mir geht es dreckig weil ich kiffe... (2023) - Single
@@ -39,7 +39,7 @@ Artan67 ist in einer Kleinstadt aufgewachsen und hat bereits in jungen Jahren er
 2. Ready2Die (feat. Yung Lieblich, Jueengling) - 2:41
 3. Pepcier (feat. Justslit, Jueengling) (Explicit) - 1:53
 
-## Kollaborationen
+## Collaborations
 - einfachnureddy
 - Bre.beats
 - Yung Lieblich
@@ -54,38 +54,38 @@ Artan67 ist in einer Kleinstadt aufgewachsen und hat bereits in jungen Jahren er
 - Anxiety (2022) - EP
 - MESSER (2022) - EP
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Artan67" - albanischer Name mit Zahl
-- **Themen**: Drogenthemen ("Mir geht es dreckig weil ich kiffe..."), existenzielle Themen ("Ready2Die"), emotionale Themen ("Pepcier")
-- **Sprachmuster**: Deutsch mit emotionalen, introspektiven Texten
-- **Zahlenmystik**: "67" im Namen, "100%" in Biografie
+## Patterns & Anomalies
+- **Name Conventions**: "Artan67" - Albanian name with number
+- **Themes**: Drug themes ("Mir geht es dreckig weil ich kiffe..."), existential themes ("Ready2Die"), emotional themes ("Pepcier")
+- **Language Patterns**: German with emotional, introspective lyrics
+- **Number Mysticism**: "67" in name, "100%" in biography
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 14 monatliche Hörer bei authentischer Entwicklung (sehr niedrig)
-- **Aktivitäts-Muster**: Regelmäßige Singles bei minimaler Reichweite
-- **Bot-Indikatoren**: Keine Anzeichen für Bot-Aktivität
-- **Künstliche Popularität**: Echte organische Entwicklung
+## Manipulation Indicators
+- **Listener Count Anomalies**: 14 monthly listeners with authentic development (very low)
+- **Activity Patterns**: Regular singles with minimal reach
+- **Bot Indicators**: No signs of bot activity
+- **Artificial Popularity**: Genuine organic development
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Künstlern
-- **Genre-Cluster**: Alternative/Indie mit emotionalen Themen
-- **Verbindungs-Stärke**: Moderate Verbindungen, Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Minimaler Einfluss, aber authentische Community
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar artists
+- **Genre Cluster**: Alternative/Indie with emotional themes
+- **Connection Strength**: Moderate connections, part of "Fans also like" cluster
+- **Influence Patterns**: Minimal influence, but authentic community
 
-## Künstler-Philosophie
-- **Musikstil**: Alternative/Indie mit emotionalen Themen
-- **Ansatz**: "100% Einsatz an sich und seinen Zielen" - vollkommener Einsatz
-- **Themen**: Drogenthemen, existenzielle Fragen, emotionale Verarbeitung
-- **Community**: Verbindung durch authentische emotionale Inhalte
+## Artist Philosophy
+- **Music Style**: Alternative/Indie with emotional themes
+- **Approach**: "100% Einsatz an sich und seinen Zielen" - complete dedication
+- **Themes**: Drug themes, existential questions, emotional processing
+- **Community**: Connection through authentic emotional content
 
-## Kulturelle Besonderheiten
-- **Namensstil**: "Artan67" - albanischer Name mit Zahl
-- **Bio-Stil**: Sehr detailliert, persönliche Geschichte mit Lebensentscheidungen
-- **Themen-Fokus**: Drogenthemen und persönliche Kämpfe
-- **Community-Ansatz**: Verbindung durch authentische Lebensgeschichte
+## Cultural Characteristics
+- **Name Style**: "Artan67" - Albanian name with number
+- **Bio Style**: Very detailed, personal story with life decisions
+- **Theme Focus**: Drug themes and personal struggles
+- **Community Approach**: Connection through authentic life story
 
 ## Status
-✅ 100% vollständig erfasst (Archive.ph manuell nachzuholen)
+✅ 100% fully captured (Archive.ph to be completed manually)
 
-## 🎭 BESONDERHEITEN
-**SEHR DETAILLIERTE BIOGRAFIE**: Artan67 hat eine der ausführlichsten Biografien aller bisher erfassten Künstler, die seine Lebensentscheidungen und künstlerische Entwicklung detailliert beschreibt. Die Musik behandelt explizit Drogenthemen ("Mir geht es dreckig weil ich kiffe...") und persönliche Kämpfe.
+## 🎭 SPECIAL FEATURES
+**VERY DETAILED BIOGRAPHY**: Artan67 has one of the most detailed biographies of all captured artists, describing his life decisions and artistic development in detail. The music explicitly addresses drug themes ("Mir geht es dreckig weil ich kiffe...") and personal struggles.

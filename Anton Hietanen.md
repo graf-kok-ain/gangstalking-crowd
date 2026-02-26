@@ -1,37 +1,37 @@
 # Anton Hietanen
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 6i9yD5InlxtUpPrTjV0vMy
 - **Spotify Link**: https://open.spotify.com/artist/6i9yD5InlxtUpPrTjV0vMy
 - **Original Spotify-Link**: https://open.spotify.com/artist/6i9yD5InlxtUpPrTjV0vMy?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 29 (erfasst: 26.02.2026 03:34)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 29 (captured: 26.02.2026 03:34)
+- **Followers**: Not available
 - **Genre**: Emo Rap/Alternative
-- **Popularität**: Niedrig (29 monatliche Hörer)
+- **Popularity**: Low (29 monthly listeners)
 
 ## Status
-⚠️ **KOLLABORATIONS-KÜNSTLER** - Dieser Künstler wird nicht direkt vom User gefolgt, aber ist über Kollaborationen mit erfassten Künstlern verbunden
+⚠️ **COLLABORATION ARTIST** - This artist is not directly followed by the user, but is connected through collaborations with captured artists
 
-## Biografie
-Keine Biografie verfügbar
+## Biography
+No biography available
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:34
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:34
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - High Functioning Addict (Latest Release) - Single
@@ -44,7 +44,7 @@ Keine Biografie verfügbar
 4. With The Crew (feat. awgst, Sacha, Zilo Sage)
 5. Street Lights (feat. Sacha, Zilo Sage)
 
-## Kollaborationen
+## Collaborations
 - awgst
 - Mykel
 - diskoteque
@@ -56,38 +56,38 @@ Keine Biografie verfügbar
 ## Appears On
 - Straight Flush (2023) - Single
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Anton Hietanen" - traditioneller finnischer Name
-- **Themen**: Psychologische Themen ("High Functioning Addict"), existenzielle Themen ("Golden One"), soziale Themen ("With The Crew", "Street Lights")
-- **Sprachmuster**: Englisch mit emotionalen, introspektiven Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Anton Hietanen" - traditional Finnish name
+- **Themes**: Psychological themes ("High Functioning Addict"), existential themes ("Golden One"), social themes ("With The Crew", "Street Lights")
+- **Language Patterns**: English with emotional, introspective lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 29 monatliche Hörer bei authentischer Entwicklung (realistisch)
-- **Aktivitäts-Muster**: Regelmäßige Singles bei minimaler Reichweite
-- **Bot-Indikatoren**: Keine Anzeichen für Bot-Aktivität
-- **Künstliche Popularität**: Echte organische Entwicklung
+## Manipulation Indicators
+- **Listener Count Anomalies**: 29 monthly listeners with authentic development (realistic)
+- **Activity Patterns**: Regular singles with minimal reach
+- **Bot Indicators**: No signs of bot activity
+- **Artificial Popularity**: Genuine organic development
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Hohe Kollaborationsdichte mit ähnlichen Low-Count-Künstlern
-- **Genre-Cluster**: Emo Rap mit psychologischen Themen
-- **Verbindungs-Stärke**: Moderate Verbindungen, Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Minimaler Einfluss, aber authentische Community
+## Network Analysis
+- **Collaboration Density**: High collaboration density with similar low-count artists
+- **Genre Cluster**: Emo Rap with psychological themes
+- **Connection Strength**: Moderate connections, part of "Fans also like" cluster
+- **Influence Patterns**: Minimal influence, but authentic community
 
-## Künstler-Philosophie
-- **Musikstil**: Emo Rap mit psychologischen Themen
-- **Ansatz**: Emotionale Verarbeitung und existenzielle Fragen
-- **Themen**: Psychologische Gesundheit, soziale Verbindungen, existenzielle Fragen
-- **Community**: Verbindung durch emotionale Inhalte
+## Artist Philosophy
+- **Music Style**: Emo Rap with psychological themes
+- **Approach**: Emotional processing and existential questions
+- **Themes**: Psychological health, social connections, existential questions
+- **Community**: Connection through emotional content
 
-## Kulturelle Besonderheiten
-- **Namensstil**: "Anton Hietanen" - traditioneller finnischer Name
-- **Themen-Fokus**: Psychologische Gesundheit ("High Functioning Addict")
-- **Bio-Stil**: Keine Biografie verfügbar
-- **Community-Ansatz**: Verbindung durch psychologische und soziale Themen
+## Cultural Characteristics
+- **Name Style**: "Anton Hietanen" - traditional Finnish name
+- **Theme Focus**: Psychological health ("High Functioning Addict")
+- **Bio Style**: No biography available
+- **Community Approach**: Connection through psychological and social themes
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)
 
-## ⚠️ WICHTIGER HINWEIS
-**KOLLABORATIONS-KÜNSTLER**: Anton Hietanen ist nicht direkt vom User "Traveler" gefolgt, sondern wird über Kollaborationen mit erfassten Künstlern (Mirage, Silas, awgst, Mykel, diskoteque) identifiziert. Diese Erfassung dient der Vervollständigung der Netzwerk-Analyse.
+## ⚠️ IMPORTANT NOTE
+**COLLABORATION ARTIST**: Anton Hietanen is not directly followed by the user "Traveler", but is identified through collaborations with captured artists (Mirage, Silas, awgst, Mykel, diskoteque). This capture serves to complete the network analysis.

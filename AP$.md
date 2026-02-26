@@ -1,41 +1,41 @@
 # AP$
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 3QcHVaIAppi8WZyd1k43ZE
 - **Spotify Link**: https://open.spotify.com/artist/3QcHVaIAppi8WZyd1k43ZE
 - **Original Spotify-Link**: https://open.spotify.com/artist/3QcHVaIAppi8WZyd1k43ZE?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 3 (erfasst: 26.02.2026 03:04)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 3 (captured: 26.02.2026 03:04)
+- **Followers**: Not available
 - **Genre**: Rap/Hip-Hop
-- **Popularität**: Extrem niedrig (3 monatliche Hörer)
+- **Popularity**: Extremely low (3 monthly listeners)
 
-## Biografie
+## Biography
 "AP$ is a young rapper from Tennessee who is a rising upcoming talent. His unique style and quality music can satisfy most ears. He just wants to live life to the fullest and give people music to make there life better to."
 
-## Persönliche Informationen
-- **Herkunft**: Tennessee, USA
-- **Alter**: Jung (rising upcoming talent)
+## Personal Information
+- **Origin**: Tennessee, USA
+- **Age**: Young (rising upcoming talent)
 - **Genre**: Rap/Hip-Hop
-- **Philosophie**: Leben zum vollen, Musik um das Leben anderer zu verbessern
-- **Stil**: Einzigartiger Stil mit qualitativ hochwertiger Musik
+- **Philosophy**: Live life to the fullest, music to improve others' lives
+- **Style**: Unique style with high-quality music
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:04
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:04
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - OUT YOUR LANE (2021) - Single
@@ -45,7 +45,7 @@
 1. SEEMS RIGHT (feat. 3vd) (Explicit) - 3,374 Plays
 2. OUT YOUR LANE
 
-## Kollaborationen
+## Collaborations
 - 3vd
 - XRAEDED
 - casi nada vnd
@@ -54,35 +54,35 @@
 - JXMIZ
 - Benzo Bailey
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "AP$" - Dollar-Symbol am Ende
-- **Themen**: Motivierende Themen ("OUT YOUR LANE"), existenzielle Themen ("SEEMS RIGHT")
-- **Sprachmuster**: Englisch mit motivierenden, positiven Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "AP$" - Dollar symbol at the end
+- **Themes**: Motivational themes ("OUT YOUR LANE"), existential themes ("SEEMS RIGHT")
+- **Language Patterns**: English with motivational, positive lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 3 monatliche Hörer bei 3,374 Plays (extrem verdächtig)
-- **Aktivitäts-Muster**: Singles bei minimaler Reichweite
-- **Bot-Indikatoren**: Hohe Play-Zahlen bei fast nicht existenten Hörern deutet stark auf Bot-Aktivität hin
-- **Künstliche Popularität**: Extrem verdächtiges Verhältnis zwischen Plays und Hörern
+## Manipulation Indicators
+- **Listener Count Anomalies**: 3 monthly listeners with 3,374 plays (extremely suspicious)
+- **Activity Patterns**: Singles with minimal reach
+- **Bot Indicators**: High play counts with almost non-existent listeners strongly indicates bot activity
+- **Artificial Popularity**: Extremely suspicious ratio between plays and listeners
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Low-Count-Künstlern
-- **Genre-Cluster**: Rap/Hip-Hop mit motivierenden Themen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Minimaler Einfluss, aber potenzielle Bot-Cluster-Bildung
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar low-count artists
+- **Genre Cluster**: Rap/Hip-Hop with motivational themes
+- **Connection Strength**: Weak connections, but part of "Fans also like" cluster
+- **Influence Patterns**: Minimal influence, but potential bot cluster formation
 
-## Künstler-Philosophie
-- **Musikstil**: Rap/Hip-Hop mit motivierenden Themen
-- **Ansatz**: Leben zum vollen, Musik zur Verbesserung des Lebens
-- **Themen**: Motivation, Selbstverbesserung, positive Botschaft
-- **Community**: Verbindung durch motivierende Musik
+## Artist Philosophy
+- **Music Style**: Rap/Hip-Hop with motivational themes
+- **Approach**: Live life to the fullest, music to improve life
+- **Themes**: Motivation, self-improvement, positive message
+- **Community**: Connection through motivational music
 
-## Kulturelle Besonderheiten
-- **Herkunft**: Tennessee, USA
-- **Alter**: Junges Talent mit aufsteigender Karriere
-- **Namensstil**: AP$ mit Dollar-Symbol
-- **Philosophie**: Positive Lebenshaltung und Musik als Verbesserung
+## Cultural Characteristics
+- **Origin**: Tennessee, USA
+- **Age**: Young talent with rising career
+- **Name Style**: AP$ with dollar symbol
+- **Philosophy**: Positive life attitude and music as improvement
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

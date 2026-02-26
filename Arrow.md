@@ -1,31 +1,31 @@
 # Arrow
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 4QkVryzHbHUTodfa1dNZYh
 - **Spotify Link**: https://open.spotify.com/artist/4QkVryzHbHUTodfa1dNZYh
 - **Original Spotify-Link**: https://open.spotify.com/artist/4QkVryzHbHUTodfa1dNZYh?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 75 (erfasst: 26.02.2026 03:48)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 75 (captured: 26.02.2026 03:48)
+- **Followers**: Not available
 - **Genre**: Alternative/Indie
-- **Popularität**: Sehr niedrig (75 monatliche Hörer)
+- **Popularity**: Very low (75 monthly listeners)
 
-## Biografie
+## Biography
 "- Arrow -"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.ph
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:48
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:48
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
 - Insomnia & Heartbreaks (2023) - EP
@@ -38,10 +38,10 @@
 1. Lass Mich Brennen (feat. Kid Grizz, Raphyy) - 13,085 Plays
 2. Keine Love (feat. Kid Grizz, Chrome.) - 7,118 Plays
 3. Insonmia & Heartbreaks (feat. Kid Grizz) - 2,348 Plays
-4. Sender (feat. Kid Grizz) - Keine Plays angezeigt
+4. Sender (feat. Kid Grizz) - No plays shown
 5. Lass Mich Brennen - 2:28
 
-## Kollaborationen
+## Collaborations
 - Kid Grizz
 - Raphyy
 - Chrome.
@@ -53,38 +53,38 @@
 - Raphyy
 - SCENIC
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Arrow" - englischer Begriff, symbolisch
-- **Themen**: Emotionale Themen ("Lass Mich Brennen", "Keine Love"), existenzielle Themen ("Insonmia & Heartbreaks")
-- **Sprachmuster**: Deutsch mit emotionalen, introspektiven Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Arrow" - English term, symbolic
+- **Themes**: Emotional themes ("Lass Mich Brennen", "Keine Love"), existential themes ("Insonmia & Heartbreaks")
+- **Language Patterns**: German with emotional, introspective lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 75 monatliche Hörer bei 13,085 Plays für Top-Track (Verhältnis 1:174)
-- **Aktivitäts-Muster**: EP und Singles bei sehr geringer Reichweite
-- **Bot-Indikatoren**: Extrem hohe Play-Zahlen bei minimalen Hörern
-- **Künstliche Popularität**: Starke Bot-Unterstützung wahrscheinlich
+## Manipulation Indicators
+- **Listener Count Anomalies**: 75 monthly listeners with 13,085 plays for top track (ratio 1:174)
+- **Activity Patterns**: EP and singles with very minimal reach
+- **Bot Indicators**: Extremely high play counts with minimal listeners
+- **Artificial Popularity**: Strong bot support likely
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Hohe Kollaborationsdichte mit Kid Grizz
-- **Genre-Cluster**: Alternative/Indie mit emotionalen Themen
-- **Verbindungs-Stärke**: Moderate Verbindungen, Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Minimaler Einfluss bei hoher Bot-Unterstützung
+## Network Analysis
+- **Collaboration Density**: High collaboration density with Kid Grizz
+- **Genre Cluster**: Alternative/Indie with emotional themes
+- **Connection Strength**: Moderate connections, part of "Fans also like" cluster
+- **Influence Patterns**: Minimal influence with high bot support
 
-## Künstler-Philosophie
-- **Musikstil**: Alternative/Indie mit emotionalen Themen
-- **Ansatz**: "- Arrow -" - minimalistischer, direkter Ansatz
-- **Themen**: Emotionale Verarbeitung, existenzielle Fragen, persönliche Kämpfe
-- **Community**: Verbindung durch emotionale Inhalte
+## Artist Philosophy
+- **Music Style**: Alternative/Indie with emotional themes
+- **Approach**: "- Arrow -" - minimalist, direct approach
+- **Themes**: Emotional processing, existential questions, personal struggles
+- **Community**: Connection through emotional content
 
-## Kulturelle Besonderheiten
-- **Namensstil**: "Arrow" - englischer Begriff bei Deutschrap
-- **Bio-Stil**: Extrem kurz, minimalistisch
-- **Themen-Fokus**: Emotionale Verarbeitung mit direktem Ansatz
-- **Community-Ansatz**: Verbindung durch Kollaborationen und emotionale Inhalte
+## Cultural Characteristics
+- **Name Style**: "Arrow" - English term in German rap
+- **Bio Style**: Extremely short, minimalist
+- **Theme Focus**: Emotional processing with direct approach
+- **Community Approach**: Connection through collaborations and emotional content
 
 ## Status
-✅ 100% vollständig erfasst (Archive.ph manuell nachzuholen)
+✅ 100% fully captured (Archive.ph to be completed manually)
 
-## 🚨 BESONDERHEITEN
-**EXTREM HOHE PLAY-ZAHLEN BEI MINIMALEN HÖRERN**: Arrow hat mit 13,085 Plays bei nur 75 monatlichen Hörern ein extrem verdächtiges Verhältnis von 1:174, was auf starke Bot-Unterstützung hindeutet. Die Musik ist stark kollaborationsbasiert mit Kid Grizz.
+## 🚨 SPECIAL FEATURES
+**EXTREMELY HIGH PLAY COUNTS WITH MINIMAL LISTENERS**: Arrow has an extremely suspicious ratio of 1:174 with 13,085 plays and only 75 monthly listeners, indicating strong bot support. The music is heavily collaboration-based with Kid Grizz.

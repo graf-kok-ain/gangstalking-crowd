@@ -1,31 +1,31 @@
 # Beneath040
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 2ZXX5vMRrf6QoNMb05vaJr
 - **Spotify Link**: https://open.spotify.com/artist/2ZXX5vMRrf6QoNMb05vaJr
 - **Original Spotify-Link**: https://open.spotify.com/artist/2ZXX5vMRrf6QoNMb05vaJr?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 1,165 (erfasst: 26.02.2026 03:54)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 1,165 (captured: 26.02.2026 03:54)
+- **Followers**: Not available
 - **Genre**: Alternative/Indie
-- **Popularität**: Moderat (1,165 monatliche Hörer)
+- **Popularity**: Moderate (1,165 monthly listeners)
 
-## Biografie
+## Biography
 "Ich bin zu müde um zu schlafen."
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.ph
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:54
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:54
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
 - Deine Schuld (2024) - EP
@@ -40,7 +40,7 @@
 4. Deine Schuld (feat. prod.jobe) - 2:32
 5. In Zwei (feat. lin) - 3:12
 
-## Kollaborationen
+## Collaborations
 - Revvnecc
 - Icy
 - prod.jobe
@@ -58,38 +58,38 @@
 - Blurry Vision
 - dxstin
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Beneath040" - englischer Begriff mit Zahl
-- **Themen**: Emotionale Themen ("Drunk", "Deine Schuld"), existenzielle Themen ("Gewissen", "In Zwei"), persönliche Themen ("Draht zu dir")
-- **Sprachmuster**: Deutsch mit emotionalen, introspektiven Texten
-- **Zahlenmystik**: "040" im Namen (möglicherweise Vorwahl)
+## Patterns & Anomalies
+- **Name Conventions**: "Beneath040" - English term with number
+- **Themes**: Emotional themes ("Drunk", "Deine Schuld"), existential themes ("Gewissen", "In Zwei"), personal themes ("Draht zu dir")
+- **Language Patterns**: German with emotional, introspective lyrics
+- **Number Mysticism**: "040" in name (possibly area code)
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 1,165 monatliche Hörer bei authentischer Entwicklung (realistisch)
-- **Aktivitäts-Muster**: EP und Singles bei moderater Reichweite
-- **Bot-Indikatoren**: Keine Anzeichen für Bot-Aktivität
-- **Künstliche Popularität**: Echte organische Entwicklung
+## Manipulation Indicators
+- **Listener Count Anomalies**: 1,165 monthly listeners with authentic development (realistic)
+- **Activity Patterns**: EP and singles with moderate reach
+- **Bot Indicators**: No signs of bot activity
+- **Artificial Popularity**: Genuine organic development
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Hohe Kollaborationsdichte mit ähnlichen Künstlern
-- **Genre-Cluster**: Alternative/Indie mit emotionalen Themen
-- **Verbindungs-Stärke**: Moderate Verbindungen, Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Moderater Einfluss durch Kollaborationen
+## Network Analysis
+- **Collaboration Density**: High collaboration density with similar artists
+- **Genre Cluster**: Alternative/Indie with emotional themes
+- **Connection Strength**: Moderate connections, part of "Fans also like" cluster
+- **Influence Patterns**: Moderate influence through collaborations
 
-## Künstler-Philosophie
-- **Musikstil**: Alternative/Indie mit emotionalen Themen
-- **Ansatz**: "Ich bin zu müde um zu schlafen" - minimalistischer, erschöpfter Ansatz
-- **Themen**: Emotionale Verarbeitung, existenzielle Fragen, persönliche Kämpfe
-- **Community**: Verbindung durch emotionale Inhalte
+## Artist Philosophy
+- **Music Style**: Alternative/Indie with emotional themes
+- **Approach**: "Ich bin zu müde um zu schlafen" - minimalist, exhausted approach
+- **Themes**: Emotional processing, existential questions, personal struggles
+- **Community**: Connection through emotional content
 
-## Kulturelle Besonderheiten
-- **Namensstil**: "Beneath040" - englischer Begriff mit Zahl bei Deutschrap
-- **Bio-Stil**: Extrem kurz, minimalistisch, erschöpft
-- **Themen-Fokus**: Emotionale Verarbeitung mit direktem Ansatz
-- **Community-Ansatz**: Verbindung durch emotionale Inhalte und Kollaborationen
+## Cultural Characteristics
+- **Name Style**: "Beneath040" - English term with number in German rap
+- **Bio Style**: Extremely short, minimalist, exhausted
+- **Theme Focus**: Emotional processing with direct approach
+- **Community Approach**: Connection through emotional content and collaborations
 
 ## Status
-✅ 100% vollständig erfasst (Archive.ph manuell nachzuholen)
+✅ 100% fully captured (Archive.ph to be completed manually)
 
-## 🎭 BESONDERHEITEN
-**EXTREM MINIMALISTISCHE BIOGRAFIE**: Beneath040 hat eine der kürzesten Biografien aller bisher erfassten Künstler - nur "Ich bin zu müde um zu schlafen." Die Musik behandelt emotionale und existenzielle Themen bei moderater Reichweite. Der Name enthält möglicherweise eine Vorwahl (040).
+## 🎭 SPECIAL FEATURES
+**EXTREMELY MINIMALIST BIOGRAPHY**: Beneath040 has one of the shortest biographies of all captured artists - only "Ich bin zu müde um zu schlafen." The music addresses emotional and existential themes with moderate reach. The name possibly contains an area code (040).
