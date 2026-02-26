@@ -1,34 +1,34 @@
 # Mirage
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 5Yeu1o9mbXr6WQ9Kxs2gYq
 - **Spotify Link**: https://open.spotify.com/artist/5Yeu1o9mbXr6WQ9Kxs2gYq
 - **Original Spotify-Link**: https://open.spotify.com/artist/5Yeu1o9mbXr6WQ9Kxs2gYq?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 6 (erfasst: 26.02.2026 03:18)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 6 (captured: 26.02.2026 03:18)
+- **Followers**: Not available
 - **Genre**: Emo Rap/Alternative
-- **Popularität**: Extrem niedrig (6 monatliche Hörer)
+- **Popularity**: Extremely low (6 monthly listeners)
 
-## Biografie
-Keine Biografie verfügbar
+## Biography
+No biography available
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:18
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:18
 
-## Diskographie
-### Alben
+## Discography
+### Albums
 - Mirage Pt. 1 (2023) - Album
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - Veil (2023) - Single
@@ -40,7 +40,7 @@ Keine Biografie verfügbar
 4. 5am (feat. J4y, Afterclass) (Explicit)
 5. Parliament (feat. spiral, J4y, Afterclass) (Explicit)
 
-## Kollaborationen
+## Collaborations
 - Afterclass
 - Faint
 - ANT
@@ -53,35 +53,35 @@ Keine Biografie verfügbar
 - Mykel
 - toe
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Mirage" - optischer Täuschungs-Name
-- **Themen**: Optische Täuschung ("Mirage"), emotionale Themen ("Veil"), existenzielle Themen ("5am"), politische Themen ("Parliament")
-- **Sprachmuster**: Englisch mit emotionalen, introspektiven Texten
-- **Zahlenmystik**: "5am" - Zeit-Thematik
+## Patterns & Anomalies
+- **Name Conventions**: "Mirage" - optical illusion name
+- **Themes**: Optical illusion ("Mirage"), emotional themes ("Veil"), existential themes ("5am"), political themes ("Parliament")
+- **Language Patterns**: English with emotional, introspective lyrics
+- **Number Mysticism**: "5am" - time theme
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 6 monatliche Hörer bei authentischer Entwicklung (realistisch)
-- **Aktivitäts-Muster**: Album und Singles bei minimaler Reichweite
-- **Bot-Indikatoren**: Keine Anzeichen für Bot-Aktivität
-- **Künstliche Popularität**: Echte organische Entwicklung
+## Manipulation Indicators
+- **Listener Count Anomalies**: 6 monthly listeners with authentic development (realistic)
+- **Activity Patterns**: Album and singles with minimal reach
+- **Bot Indicators**: No signs of bot activity
+- **Artificial Popularity**: Genuine organic development
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: EXTREM hohe Kollaborationsdichte mit vielen verschiedenen Künstlern
-- **Genre-Cluster**: Emo Rap mit optischen Täuschungs-Themen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Minimaler Einfluss, aber authentische Community
+## Network Analysis
+- **Collaboration Density**: EXTREMELY high collaboration density with many different artists
+- **Genre Cluster**: Emo Rap with optical illusion themes
+- **Connection Strength**: Weak connections, but part of "Fans also like" cluster
+- **Influence Patterns**: Minimal influence, but authentic community
 
-## Künstler-Philosophie
-- **Musikstil**: Emo Rap mit optischen Täuschungs-Themen
-- **Ansatz**: Optische Täuschung als zentrales Konzept
-- **Themen**: Täuschung, Emotionen, existenzielle Fragen
-- **Community**: Verbindung durch intensive Kollaborationen
+## Artist Philosophy
+- **Music Style**: Emo Rap with optical illusion themes
+- **Approach**: Optical illusion as central concept
+- **Themes**: Illusion, emotions, existential questions
+- **Community**: Connection through intensive collaborations
 
-## Kulturelle Besonderheiten
-- **Namenskonzept**: "Mirage" - optische Täuschung als zentrales Thema
-- **Kollaborations-Stil**: EXTREM hohe Kollaborationsdichte (6+ Künstler pro Track)
-- **Themen-Fokus**: Optische Täuschung, emotionale Verarbeitung
-- **Community-Ansatz**: Intensive Zusammenarbeit mit vielen Künstlern
+## Cultural Characteristics
+- **Name Concept**: "Mirage" - optical illusion as central theme
+- **Collaboration Style**: EXTREMELY high collaboration density (6+ artists per track)
+- **Theme Focus**: Optical illusion, emotional processing
+- **Community Approach**: Intensive collaboration with many artists
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

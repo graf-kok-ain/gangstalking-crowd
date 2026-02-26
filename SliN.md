@@ -1,31 +1,31 @@
 # SliN
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 1AlUvhBwPnjRDTdvpb80DJ
 - **Spotify Link**: https://open.spotify.com/artist/1AlUvhBwPnjRDTdvpb80DJ
 - **Original Spotify-Link**: https://open.spotify.com/artist/1AlUvhBwPnjRDTdvpb80DJ?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 15 (erfasst: 26.02.2026 02:06)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Cloud Rap
-- **Popularität**: Extrem niedrig (15 monatliche Hörer)
+- **Monthly Listeners**: 15 (captured: 26.02.2026 02:06)
+- **Followers**: Not available
+- **Genre**: German Rap/Cloud Rap
+- **Popularity**: Extremely low (15 monthly listeners)
 
-## Biografie
+## Biography
 "Makin´ music til im dead"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 02:06
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 02:06
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### Singles
 - Vor nem Monat (2023) - Single
@@ -37,29 +37,29 @@
 3. Vor nem Monat (Explicit)
 4. Runaway (Explicit)
 
-## Kollaborationen
+## Collaborations
 - tobi777
 - SpaceMan Zack
 - utpv
 - Hallow Notes
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: Englischer Name "SliN" mit deutscher Musik
-- **Themen**: Dunkle, depressive Themen ("til im dead"), Abschied ("Kein Goodbye")
-- **Sprachmuster**: Englisch-Deutsch Mix, düstere Tonalität
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: English name "SliN" with German music
+- **Themes**: Dark, depressive themes ("til im dead"), farewell ("Kein Goodbye")
+- **Language Patterns**: English-German mix, dark tone
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 15 monatliche Hörer ist extrem niedrig
-- **Aktivitäts-Muster**: Regelmäßige Releases trotz minimaler Reichweite
-- **Bot-Indikatoren**: Minimaler Content könnte auf Bot hindeuten
-- **Künstliche Popularität**: Verdächtige Aktivität bei fast nicht existenter Reichweite
+## Manipulation Indicators
+- **Listener Count Anomalies**: 15 monthly listeners is extremely low
+- **Activity Patterns**: Regular releases despite minimal reach
+- **Bot Indicators**: Minimal content could indicate bot
+- **Artificial Popularity**: Suspicious activity with almost non-existent reach
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Künstlern
-- **Genre-Cluster**: Deutschrap mit düsteren, emotionalen Themen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber thematische Ähnlichkeit zu anderen Low-Count-Künstlern
-- **Influence-Patterns**: Minimaler Einfluss, aber Teil des "Fans also like" Clusters
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar artists
+- **Genre Cluster**: German Rap with dark, emotional themes
+- **Connection Strength**: Weak connections, but thematic similarity to other low-count artists
+- **Influence Patterns**: Minimal influence, but part of "Fans also like" cluster
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

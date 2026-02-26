@@ -1,31 +1,31 @@
 # Kento
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 68XSQxGcnbVXuoXPNX0EQB
 - **Spotify Link**: https://open.spotify.com/artist/68XSQxGcnbVXuoXPNX0EQB
 - **Original Spotify-Link**: https://open.spotify.com/artist/68XSQxGcnbVXuoXPNX0EQB?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 369 (erfasst: 26.02.2026 04:14)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Niedrig-Mittel (369 monatliche Hörer)
+- **Monthly Listeners**: 369 (captured: 26.02.2026 04:14)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Low-Medium (369 monthly listeners)
 
-## Biografie
+## Biography
 "slattdemon"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 04:14
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 04:14
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
 - THRILL KILLER (2025) - EP
@@ -38,7 +38,7 @@
 2. she ain't comin back (feat. pulsi, Kinaro) (Explicit)
 3. Eiskalte Soda (Explicit)
 
-## Kollaborationen
+## Collaborations
 - Punk Christ (fly! 2-c-b)
 - pulsi (she ain't comin back)
 - Kinaro (she ain't comin back)
@@ -47,29 +47,29 @@
 - Matse (Fans also like)
 - LLYON (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Kento" - japanischer Name
-- **Themen**: Drogen (fly! 2-c-b), Beziehungen (she ain't comin back), Getränke (Eiskalte Soda), Gewalt (THRILL KILLER)
-- **Sprachmuster**: Deutsch mit englischen Elementen, aggressive Texte
-- **Zahlenmystik**: "2-c-b" als Drogen-Referenz
+## Patterns & Anomalies
+- **Name Conventions**: "Kento" - Japanese name
+- **Themes**: Drugs (fly! 2-c-b), relationships (she ain't comin back), beverages (Eiskalte Soda), violence (THRILL KILLER)
+- **Language Patterns**: German with English elements, aggressive lyrics
+- **Number Mysticism**: "2-c-b" as drug reference
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 369 monatliche Hörer (realistisch für Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 369 monthly listeners (realistic for indie artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Trap-Künstlern
-- **Genre-Cluster**: Deutschrap/Trap mit aggressiven Themen
-- **Verbindungs-Stärke**: Verbunden mit Matse, LLYON (Fans also like)
-- **Influence-Patterns**: Teil des Trap/Underground Netzwerks
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar trap artists
+- **Genre Cluster**: German Rap/Trap with aggressive themes
+- **Connection Strength**: Connected with Matse, LLYON (Fans also like)
+- **Influence Patterns**: Part of Trap/Underground network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap mit aggressiven Elementen
-- **Ansatz**: Aggressiv, düster ("slattdemon")
-- **Themen**: Drogen, Beziehungen, Gewalt
-- **Community**: Starke Kollaborations-Präsenz mit Punk Christ, pulsi
+## Artist Philosophy
+- **Music Style**: German Rap/Trap with aggressive elements
+- **Approach**: Aggressive, dark ("slattdemon")
+- **Themes**: Drugs, relationships, violence
+- **Community**: Strong collaboration presence with Punk Christ, pulsi
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

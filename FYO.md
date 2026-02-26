@@ -1,37 +1,37 @@
 # FYO
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 4wm2BouoqXSVGttUsqzeZC
 - **Spotify Link**: https://open.spotify.com/artist/4wm2BouoqXSVGttUsqzeZC
 - **Original Spotify-Link**: https://open.spotify.com/artist/4wm2BouoqXSVGttUsqzeZC?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 23 (erfasst: 26.02.2026 02:30)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 23 (captured: 26.02.2026 02:30)
+- **Followers**: Not available
 - **Genre**: Hip-Hop/Rap
-- **Popularität**: Niedrig (23 monatliche Hörer)
+- **Popularity**: Low (23 monthly listeners)
 
-## Biografie
+## Biography
 "FYO is a Hip-Hop/Rap artist from Australia, also known as Ben Langstreth, who started creating music in late 2019."
 
-## Persönliche Informationen
-- **Echter Name**: Ben Langstreth
-- **Herkunft**: Australien
-- **Musik-Start**: Spät 2019
+## Personal Information
+- **Real Name**: Ben Langstreth
+- **Origin**: Australia
+- **Music Start**: Late 2019
 - **Genre**: Hip-Hop/Rap
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 02:30
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 02:30
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### Singles
 - *Why Are You Here?* (2024) - Single
@@ -44,7 +44,7 @@
 4. ihopeyoucanhearme
 5. Jet to the room (Explicit)
 
-## Kollaborationen
+## Collaborations
 - F3V3R
 - Hallow Notes
 - Nathan Got Bars
@@ -54,29 +54,29 @@
 ## Artist Playlists
 - This is FYO (By Ben)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "FYO" - kurzer, prägnanter Name mit echtem Namen
-- **Themen**: Emotionale Themen ("Want Me Dead", "ihopeyoucanhearme"), existenzielle Fragen ("*Why Are You Here?*")
-- **Sprachmuster**: Englisch mit emotionalen, introspektiven Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "FYO" - short, concise name with real name
+- **Themes**: Emotional themes ("Want Me Dead", "ihopeyoucanhearme"), existential questions ("*Why Are You Here?*")
+- **Language Patterns**: English with emotional, introspective lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 23 monatliche Hörer ist realistisch für Indie-Künstler aus Australien
-- **Aktivitäts-Muster**: Regelmäßige Releases seit 2019, authentische Entwicklung
-- **Bot-Indikatoren**: Keine Anzeichen für Bot-Aktivität
-- **Künstliche Popularität**: Echte organische Entwicklung mit authentischer Biografie
+## Manipulation Indicators
+- **Listener Count Anomalies**: 23 monthly listeners is realistic for indie artist from Australia
+- **Activity Patterns**: Regular releases since 2019, authentic development
+- **Bot Indicators**: No signs of bot activity
+- **Artificial Popularity**: Genuine organic development with authentic biography
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Indie-Künstlern
-- **Genre-Cluster**: Hip-Hop/Rap mit emotionalen Themen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber authentische Community
-- **Influence-Patterns**: Minimaler Einfluss, aber authentische australische Präsenz
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar indie artists
+- **Genre Cluster**: Hip-Hop/Rap with emotional themes
+- **Connection Strength**: Weak connections, but authentic community
+- **Influence Patterns**: Minimal influence, but authentic Australian presence
 
-## Künstler-Philosophie
-- **Musikstil**: Hip-Hop/Rap mit emotionalen Themen
-- **Ansatz**: Authentische persönliche Verarbeitung
-- **Herkunft**: Australische Hip-Hop-Szene
-- **Entwicklung**: Seit 2019 aktiv
+## Artist Philosophy
+- **Music Style**: Hip-Hop/Rap with emotional themes
+- **Approach**: Authentic personal processing
+- **Origin**: Australian Hip-Hop scene
+- **Development**: Active since 2019
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

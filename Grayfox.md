@@ -1,40 +1,40 @@
 # Grayfox
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 3hh9ddSDfXLaiIZu5om0sJ
 - **Spotify Link**: https://open.spotify.com/artist/3hh9ddSDfXLaiIZu5om0sJ
 - **Original Spotify-Link**: https://open.spotify.com/artist/3hh9ddSDfXLaiIZu5om0sJ?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 36 (erfasst: 26.02.2026 03:30)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 36 (captured: 26.02.2026 03:30)
+- **Followers**: Not available
 - **Genre**: Emo Rap/Alternative
-- **Popularität**: Niedrig (36 monatliche Hörer)
+- **Popularity**: Low (36 monthly listeners)
 
-## Biografie
+## Biography
 "** I HAVE CHANGED MY ARTIST NAME ** This spotify is not in use anymore. Please go and search "sendflowrs" or check the featured song at the top of the page. Thank you for everything."
 
-## Künstler-Update
-- **Alter Name**: Grayfox
-- **Neuer Name**: sendflowrs
-- **Status**: Spotify-Konto nicht mehr in Nutzung
-- **Hinweis**: Suche nach "sendflowrs" für neue Musik
+## Artist Update
+- **Old Name**: Grayfox
+- **New Name**: sendflowrs
+- **Status**: Spotify account no longer in use
+- **Note**: Search for "sendflowrs" for new music
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht verfügbar
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not available
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:30
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:30
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - Another Holiday Spent on My Own (2020) - Single
@@ -47,7 +47,7 @@
 4. Not in the Mood (Explicit)
 5. Spit (Explicit)
 
-## Kollaborationen
+## Collaborations
 - nevermadeithome
 - Lazrfuze
 - F3V3R
@@ -58,44 +58,44 @@
 ## Artist Playlists
 - sendflowrs. all of my releases and features in one place <3
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Grayfox" → "sendflowrs" (Namensänderung)
-- **Themen**: Emotionale Themen ("Heart Eyes", "Not in the Mood"), existenzielle Themen ("Another Holiday Spent on My Own"), kontroversielle Themen ("Spit")
-- **Sprachmuster**: Englisch mit emotionalen, introspektiven Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Grayfox" → "sendflowrs" (name change)
+- **Themes**: Emotional themes ("Heart Eyes", "Not in the Mood"), existential themes ("Another Holiday Spent on My Own"), controversial themes ("Spit")
+- **Language Patterns**: English with emotional, introspective lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Künstler-Entwicklung
-- **Namensänderung**: Grayfox → sendflowrs
-- **Konto-Status**: Spotify nicht mehr in Nutzung
-- **Neue Präsenz**: sendflowrs mit zentraler Playlist
-- **Dankbarkeit**: "Thank you for everything"
+## Artist Development
+- **Name Change**: Grayfox → sendflowrs
+- **Account Status**: Spotify no longer in use
+- **New Presence**: sendflowrs with central playlist
+- **Gratitude**: "Thank you for everything"
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 36 monatliche Hörer bei authentischer Entwicklung (realistisch)
-- **Aktivitäts-Muster**: Singles bei minimaler Reichweite
-- **Bot-Indikatoren**: Keine Anzeichen für Bot-Aktivität
-- **Künstliche Popularität**: Echte organische Entwicklung
+## Manipulation Indicators
+- **Listener Count Anomalies**: 36 monthly listeners with authentic development (realistic)
+- **Activity Patterns**: Singles with minimal reach
+- **Bot Indicators**: No signs of bot activity
+- **Artificial Popularity**: Genuine organic development
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Low-Count-Künstlern
-- **Genre-Cluster**: Emo Rap mit emotionalen Themen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Minimaler Einfluss, aber authentische Community
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar low-count artists
+- **Genre Cluster**: Emo Rap with emotional themes
+- **Connection Strength**: Weak connections, but part of "Fans also like" cluster
+- **Influence Patterns**: Minimal influence, but authentic community
 
-## Künstler-Philosophie
-- **Musikstil**: Emo Rap mit emotionalen Themen
-- **Ansatz**: Namensänderung und Neuanfang als sendflowrs
-- **Themen**: Emotionale Verarbeitung, existenzielle Fragen
-- **Community**: Dankbarkeit und Verbindung durch neue Identität
+## Artist Philosophy
+- **Music Style**: Emo Rap with emotional themes
+- **Approach**: Name change and new beginning as sendflowrs
+- **Themes**: Emotional processing, existential questions
+- **Community**: Gratitude and connection through new identity
 
-## Kulturelle Besonderheiten
-- **Namensstil**: "Grayfox" → "sendflowrs" (evolutionäre Entwicklung)
-- **Bio-Stil**: Wichtige Mitteilung über Namensänderung
-- **Themen-Fokus**: Emotionale Verarbeitung mit persönlicher Entwicklung
-- **Community-Ansatz**: Dankbarkeit und Neuanfang
+## Cultural Characteristics
+- **Name Style**: "Grayfox" → "sendflowrs" (evolutionary development)
+- **Bio Style**: Important announcement about name change
+- **Theme Focus**: Emotional processing with personal development
+- **Community Approach**: Gratitude and new beginning
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)
 
-## ⚠️ WICHTIGER HINWEIS
-**KÜNSTLER HAT NAMEN GEÄNDERT**: Grayfox ist jetzt "sendflowrs". Dieses Spotify-Konto wird nicht mehr genutzt. Für aktuelle Musik nach "sendflowrs" suchen.
+## ⚠️ IMPORTANT NOTE
+**ARTIST HAS CHANGED NAME**: Grayfox is now "sendflowrs". This Spotify account is no longer used. For current music, search for "sendflowrs".

@@ -1,34 +1,34 @@
 # Squidy
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 5jm4L70OPt87hMQOV1NtH3
 - **Spotify Link**: https://open.spotify.com/artist/5jm4L70OPt87hMQOV1NtH3
 - **Original Spotify-Link**: https://open.spotify.com/artist/5jm4L70OPt87hMQOV1NtH3?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 17 (erfasst: 26.02.2026 03:16)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 17 (captured: 26.02.2026 03:16)
+- **Followers**: Not available
 - **Genre**: Emo Rap/Alternative
-- **Popularität**: Extrem niedrig (17 monatliche Hörer)
+- **Popularity**: Extremely low (17 monthly listeners)
 
-## Biografie
+## Biography
 "it's for you when i'm gone."
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:16
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:16
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - weary (Latest Release) - Single
@@ -41,7 +41,7 @@
 4. see through
 5. love for tragedy (feat. veil) (Explicit)
 
-## Kollaborationen
+## Collaborations
 - haunted_sad
 - nadir
 - veil
@@ -54,38 +54,38 @@
 ## Appears On
 - Everything's Wrong But It's Okay (2023) - Album
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Squidy" - spielerischer Name
-- **Themen**: EXTREM BESORGNISERREGENDE THEMEN: Suizid ("im going to kill myself soon"), Unsicherheit ("i dont feel safe here"), Tragödie ("love for tragedy")
-- **Sprachmuster**: Englisch mit extrem düsteren, besorgniserregenden Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Squidy" - playful name
+- **Themes**: EXTREMELY CONCERNING THEMES: Suicide ("im going to kill myself soon"), insecurity ("i dont feel safe here"), tragedy ("love for tragedy")
+- **Language Patterns**: English with extremely dark, concerning lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 17 monatliche Hörer bei authentischer Entwicklung (realistisch)
-- **Aktivitäts-Muster**: Regelmäßige Singles bei minimaler Reichweite
-- **Bot-Indikatoren**: Keine Anzeichen für Bot-Aktivität
-- **Künstliche Popularität**: Echte organische Entwicklung
+## Manipulation Indicators
+- **Listener Count Anomalies**: 17 monthly listeners with authentic development (realistic)
+- **Activity Patterns**: Regular singles with minimal reach
+- **Bot Indicators**: No signs of bot activity
+- **Artificial Popularity**: Genuine organic development
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Low-Count-Künstlern
-- **Genre-Cluster**: Emo Rap mit extrem düsteren Themen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Minimaler Einfluss, aber authentische Community
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar low-count artists
+- **Genre Cluster**: Emo Rap with extremely dark themes
+- **Connection Strength**: Weak connections, but part of "Fans also like" cluster
+- **Influence Patterns**: Minimal influence, but authentic community
 
-## Künstler-Philosophie
-- **Musikstil**: Emo Rap mit extrem düsteren Themen
-- **Ansatz**: "it's for you when i'm gone" - düstere, abschiedliche Botschaft
-- **Themen**: EXTREM BESORGNISERREGEND: Suizid, Unsicherheit, Tragödie
-- **Community**: Verbindung durch extrem emotionale, besorgniserregende Inhalte
+## Artist Philosophy
+- **Music Style**: Emo Rap with extremely dark themes
+- **Approach**: "it's for you when i'm gone" - dark, farewell message
+- **Themes**: EXTREMELY CONCERNING: Suicide, insecurity, tragedy
+- **Community**: Connection through extremely emotional, concerning content
 
-## Kulturelle Besonderheiten
-- **Bio-Stil**: Extrem düstere, abschiedliche Botschaft
-- **Track-Titel**: Direkte Suizid-Andeutungen ("im going to kill myself soon")
-- **Themen-Fokus**: EXTREM BESORGNISERREGENDE Inhalte
-- **Community-Ansatz**: Verbindung durch extrem emotionale Verarbeitung
+## Cultural Characteristics
+- **Bio Style**: Extremely dark, farewell message
+- **Track Titles**: Direct suicide implications ("im going to kill myself soon")
+- **Theme Focus**: EXTREMELY CONCERNING CONTENT
+- **Community Approach**: Connection through extremely emotional processing
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+ 100% fully captured (Archive.is to be completed manually)
 
-## ⚠️ BESONDERE WARNUNG
-**EXTREM BESORGNISERREGENDE INHALTE**: Die Track-Titel und Biografie enthalten direkte Suizid-Andeutungen und extrem düstere Themen. Dies erfordert besondere Aufmerksamkeit bei der Analyse und Dokumentation.
+## SPECIAL WARNING
+**EXTREMELY CONCERNING CONTENT**: The track titles and biography contain direct suicide implications and extremely dark themes. This requires special attention in analysis and documentation.

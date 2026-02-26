@@ -1,40 +1,40 @@
 # Seb Cordero
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 1PF13uQsf1OgqY21zOcrlQ
 - **Spotify Link**: https://open.spotify.com/artist/1PF13uQsf1OgqY21zOcrlQ
 - **Original Spotify-Link**: https://open.spotify.com/artist/1PF13uQsf1OgqY21zOcrlQ?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 10 (erfasst: 26.02.2026 03:12)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 10 (captured: 26.02.2026 03:12)
+- **Followers**: Not available
 - **Genre**: Rap/Hip-Hop
-- **Popularität**: Extrem niedrig (10 monatliche Hörer)
+- **Popularity**: Extremely low (10 monthly listeners)
 
-## Biografie
+## Biography
 "Young artist born and raised in Chicago"
 
-## Persönliche Informationen
-- **Herkunft**: Chicago, USA
-- **Alter**: Jung (Young artist)
+## Personal Information
+- **Origin**: Chicago, USA
+- **Age**: Young (Young artist)
 - **Genre**: Rap/Hip-Hop
-- **Hintergrund**: In Chicago geboren und aufgewachsen
+- **Background**: Born and raised in Chicago
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:12
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:12
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - Nada Bien (Latest Release) - Single
@@ -48,7 +48,7 @@
 4. Red Light (Explicit) - 1,652 Plays
 5. Fumble (Explicit)
 
-## Kollaborationen
+## Collaborations
 - XRAEDED
 - RTT
 - CONTRITUM
@@ -56,35 +56,35 @@
 - Dante The Inferno
 - Squidy
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Seb Cordero" - traditioneller Name
-- **Themen**: Emotionale Themen ("Blue Smiles", "Peace of Mind"), existenzielle Themen ("Nada Bien"), kontroversielle Themen ("Red Light")
-- **Sprachmuster**: Englisch mit emotionalen, introspektiven Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Seb Cordero" - traditional name
+- **Themes**: Emotional themes ("Blue Smiles", "Peace of Mind"), existential themes ("Nada Bien"), controversial themes ("Red Light")
+- **Language Patterns**: English with emotional, introspective lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 10 monatliche Hörer bei 3,517 Plays (extrem verdächtig)
-- **Aktivitäts-Muster**: Regelmäßige Singles bei minimaler Reichweite
-- **Bot-Indikatoren**: Hohe Play-Zahlen bei fast nicht existenten Hörern deutet stark auf Bot-Aktivität hin
-- **Künstliche Popularität**: Extrem verdächtiges Verhältnis zwischen Plays und Hörern
+## Manipulation Indicators
+- **Listener Count Anomalies**: 10 monthly listeners with 3,517 plays (extremely suspicious)
+- **Activity Patterns**: Regular singles with minimal reach
+- **Bot Indicators**: High play counts with almost non-existent listeners strongly indicates bot activity
+- **Artificial Popularity**: Extremely suspicious ratio between plays and listeners
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Low-Count-Künstlern
-- **Genre-Cluster**: Rap/Hip-Hop mit emotionalen Themen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Minimaler Einfluss, aber potenzielle Bot-Cluster-Bildung
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar low-count artists
+- **Genre Cluster**: Rap/Hip-Hop with emotional themes
+- **Connection Strength**: Weak connections, but part of "Fans also like" cluster
+- **Influence Patterns**: Minimal influence, but potential bot cluster formation
 
-## Künstler-Philosophie
-- **Musikstil**: Rap/Hip-Hop mit emotionalen Themen
-- **Ansatz**: Junger Künstler aus Chicago
-- **Themen**: Emotionale Verarbeitung, existenzielle Fragen
-- **Community**: Verbindung durch authentische Chicago-Szene
+## Artist Philosophy
+- **Music Style**: Rap/Hip-Hop with emotional themes
+- **Approach**: Young artist from Chicago
+- **Themes**: Emotional processing, existential questions
+- **Community**: Connection through authentic Chicago scene
 
-## Kulturelle Besonderheiten
-- **Herkunft**: Chicago, USA
-- **Alter**: Junges Talent mit lokalen Wurzeln
-- **Namensstil**: Traditioneller Name mit Chicago-Bezug
-- **Philosophie**: Junger Künstler mit authentischer Entwicklung
+## Cultural Characteristics
+- **Origin**: Chicago, USA
+- **Age**: Young talent with local roots
+- **Name Style**: Traditional name with Chicago reference
+- **Philosophy**: Young artist with authentic development
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

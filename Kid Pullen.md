@@ -1,31 +1,31 @@
 # Kid Pullen
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 40cMUmrg5YSu9uHaGIvYJn
 - **Spotify Link**: https://open.spotify.com/artist/40cMUmrg5YSu9uHaGIvYJn
 - **Original Spotify-Link**: https://open.spotify.com/artist/40cMUmrg5YSu9uHaGIvYJn?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 11 (erfasst: 26.02.2026 02:10)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 11 (captured: 26.02.2026 02:10)
+- **Followers**: Not available
 - **Genre**: Emo Rap/Alternative
-- **Popularität**: Extrem niedrig (11 monatliche Hörer)
+- **Popularity**: Extremely low (11 monthly listeners)
 
-## Biografie
+## Biography
 "The weirdo in the Midwest :("
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 02:10
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 02:10
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### Singles
 - Last December (Latest Release) - Single
@@ -34,7 +34,7 @@
 ### Popular Tracks (Top 1)
 1. Last December (Explicit) - 2,078 Plays
 
-## Kollaborationen
+## Collaborations
 - toe
 - Mykel
 - Brix Noire
@@ -45,23 +45,23 @@
 ## Featured On
 - No Time (2021) - Single
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: Englischer Name "Kid Pullen" mit emotionalen Titeln
-- **Themen**: Selbstironie ("weirdo"), emotionale Themen ("Last December")
-- **Sprachmuster**: Englisch mit emotionalen, introspektiven Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: English name "Kid Pullen" with emotional titles
+- **Themes**: Self-irony ("weirdo"), emotional themes ("Last December")
+- **Language Patterns**: English with emotional, introspective lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 11 monatliche Hörer bei 2,078 Plays (verdächtig)
-- **Aktivitäts-Muster**: Minimaler Content, aber hohe Play-Zahlen
-- **Bot-Indikatoren**: Hohe Play-Zahlen bei extrem niedrigen Hörern könnten auf Bot-Aktivität hindeuten
-- **Künstliche Popularität**: Verdächtiges Verhältnis zwischen Plays und Hörern
+## Manipulation Indicators
+- **Listener Count Anomalies**: 11 monthly listeners with 2,078 plays (suspicious)
+- **Activity Patterns**: Minimal content, but high play counts
+- **Bot Indicators**: High play counts with extremely low listeners could indicate bot activity
+- **Artificial Popularity**: Suspicious ratio between plays and listeners
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Low-Count-Künstlern
-- **Genre-Cluster**: Emo Rap mit emotionalen Themen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Minimaler Einfluss, aber potenzielle Bot-Cluster-Bildung
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar low-count artists
+- **Genre Cluster**: Emo Rap with emotional themes
+- **Connection Strength**: Weak connections, but part of "Fans also like" cluster
+- **Influence Patterns**: Minimal influence, but potential bot cluster formation
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

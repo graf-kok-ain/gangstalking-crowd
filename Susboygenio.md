@@ -1,38 +1,38 @@
 # Susboygenio
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 5aM0Ag65fPpaqge1DIKSrx
 - **Spotify Link**: https://open.spotify.com/artist/5aM0Ag65fPpaqge1DIKSrx
 - **Original Spotify-Link**: https://open.spotify.com/artist/5aM0Ag65fPpaqge1DIKSrx?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 8 (erfasst: 26.02.2026 02:58)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 8 (captured: 26.02.2026 02:58)
+- **Followers**: Not available
 - **Genre**: Emo Rap/Alternative
-- **Popularität**: Extrem niedrig (8 monatliche Hörer)
+- **Popularity**: Extremely low (8 monthly listeners)
 
-## Biografie
+## Biography
 "ARTIST BASED IN MONTREAL. HERE TO CONNECT WITH PEOPLE THROUGH MY MUSIC. ALL SONGS WERE DIRECTED TO SOMEONE WHO DID ME WRONG. FEEL MY PAIN </3"
 
-## Persönliche Informationen
-- **Herkunft**: Montreal, Kanada
-- **Motivation**: Durch Musik mit Menschen verbinden
-- **Themen**: Alle Songs an jemanden gerichtet, der ihm Unrecht getan hat
-- **Emotionen**: Schmerz, Verrat, emotionale Verarbeitung
-- **Community**: Verbindung durch Musik
+## Personal Information
+- **Origin**: Montreal, Canada
+- **Motivation**: Connecting with people through music
+- **Themes**: All songs directed at someone who did them wrong
+- **Emotions**: Pain, betrayal, emotional processing
+- **Community**: Connection through music
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 02:58
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 02:58
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
 - A BrokeRich Classic (2022) - EP
@@ -46,7 +46,7 @@
 3. REJECTZ (feat. Kid Kenny) (Explicit)
 4. NUMBRRZ (feat. Kid Kenny) (Explicit)
 
-## Kollaborationen
+## Collaborations
 - Kid Kenny
 - toe
 - Black Rose-Croix
@@ -57,35 +57,35 @@
 - Drugs Are Really Expensive (D.A.R.E.) (2022) - Album
 - ROCKSTARS RUIN ROSES (2021) - Album
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Susboygenio" - ironische Selbstbezeichnung
-- **Themen**: Emotionale Themen ("Love Lies"), dunkle Themen ("gothstars"), existenzielle Themen ("REJECTZ", "NUMBRRZ")
-- **Sprachmuster**: Englisch mit emotionalen, verletzlichen Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Susboygenio" - ironic self-designation
+- **Themes**: Emotional themes ("Love Lies"), dark themes ("gothstars"), existential themes ("REJECTZ", "NUMBRRZ")
+- **Language Patterns**: English with emotional, vulnerable lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 8 monatliche Hörer bei authentischer Biografie (realistisch)
-- **Aktivitäts-Muster**: EP und Singles bei minimaler Reichweite
-- **Bot-Indikatoren**: Keine Anzeichen für Bot-Aktivität
-- **Künstliche Popularität**: Echte organische Entwicklung mit authentischer Biografie
+## Manipulation Indicators
+- **Listener Count Anomalies**: 8 monthly listeners with authentic biography (realistic)
+- **Activity Patterns**: EP and singles with minimal reach
+- **Bot Indicators**: No signs of bot activity
+- **Artificial Popularity**: Genuine organic development with authentic biography
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Starke Kollaborationen mit Kid Kenny
-- **Genre-Cluster**: Emo Rap mit emotionalen Themen
-- **Verbindungs-Stärke**: Moderate Verbindungen, aber authentische Community
-- **Influence-Patterns**: Minimaler Einfluss, aber authentische Entwicklung
+## Network Analysis
+- **Collaboration Density**: Strong collaborations with Kid Kenny
+- **Genre Cluster**: Emo Rap with emotional themes
+- **Connection Strength**: Moderate connections, but authentic community
+- **Influence Patterns**: Minimal influence, but authentic development
 
-## Künstler-Philosophie
-- **Musikstil**: Emo Rap mit emotionalen Themen
-- **Ansatz**: Durch Musik verbinden und Schmerz verarbeiten
-- **Themen**: Verrat, emotionale Verarbeitung, Schmerz
-- **Community**: Montreal-Szene, Verbindung durch Musik
+## Artist Philosophy
+- **Music Style**: Emo Rap with emotional themes
+- **Approach**: Connecting through music and processing pain
+- **Themes**: Betrayal, emotional processing, pain
+- **Community**: Montreal scene, connection through music
 
-## Kulturelle Besonderheiten
-- **Herkunft**: Montreal, Kanada
-- **Sprache**: Englisch mit emotionalen Ausdrücken
-- **Emotionale Authentizität**: Offene Darstellung von Schmerz
-- **Community-Fokus**: Verbindung durch Musik
+## Cultural Characteristics
+- **Origin**: Montreal, Canada
+- **Language**: English with emotional expressions
+- **Emotional Authenticity**: Open display of pain
+- **Community Focus**: Connection through music
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

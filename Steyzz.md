@@ -1,31 +1,31 @@
 # Steyzz
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 7mcgzrPSdwUUzIUGD3lmWv
 - **Spotify Link**: https://open.spotify.com/artist/7mcgzrPSdwUUzIUGD3lmWv
 - **Original Spotify-Link**: https://open.spotify.com/artist/7mcgzrPSdwUUzIUGD3lmWv?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 7 (erfasst: 26.02.2026 02:02)
-- **Followers**: Nicht verfügbar
-- **Genre**: Russischer Rap/Trap
-- **Popularität**: Extrem niedrig (7 monatliche Hörer)
+- **Monthly Listeners**: 7 (captured: 26.02.2026 02:02)
+- **Followers**: Not available
+- **Genre**: Russian Rap/Trap
+- **Popularity**: Extremely low (7 monthly listeners)
 
-## Biografie
-Keine Biografie verfügbar
+## Biography
+No biography available
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 02:02
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 02:02
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### Singles
 - Раны (2025) - Single
@@ -39,30 +39,30 @@ Keine Biografie verfügbar
 4. Силуэты
 5. Шарм
 
-## Kollaborationen
+## Collaborations
 - Плага (Plaga)
 - Cruze
 - Favi0 Lanez
 - Lucidity
 - toe
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: Englischer Künstlername "Steyzz" mit ausschließlich kyrillischen Track-Titeln
-- **Themen**: Russische Sprache, emotionale Themen (Раны = Wunden), Flucht (Улетай = flieg weg)
-- **Sprachmuster**: Kyrillisch-Deutsch Mix bei Kollaborationen
-- **Zahlenmystik**: "4Adir" enthält Zahl, kyrillische Schreibweise
+## Patterns & Anomalies
+- **Name Conventions**: English artist name "Steyzz" with exclusively Cyrillic track titles
+- **Themes**: Russian language, emotional themes (Раны = Wounds), escape (Улетай = fly away)
+- **Language Patterns**: Cyrillic-German mix in collaborations
+- **Number Mysticism**: "4Adir" contains number, Cyrillic spelling
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 7 monatliche Hörer ist extrem niedrig, fast inaktiv
-- **Aktivitäts-Muster**: Regelmäßige Releases trotz minimaler Hörer
-- **Bot-Indikatoren**: Kyrillische Titel könnten auf gezielte Zielgruppe oder Bot-Aktivität hindeuten
-- **Künstliche Popularität**: Verdächtige Aktivität bei minimaler Reichweite
+## Manipulation Indicators
+- **Listener Count Anomalies**: 7 monthly listeners is extremely low, almost inactive
+- **Activity Patterns**: Regular releases despite minimal listeners
+- **Bot Indicators**: Cyrillic titles could indicate targeted audience or bot activity
+- **Artificial Popularity**: Suspicious activity with minimal reach
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit russischen Künstlern
-- **Genre-Cluster**: Russischer Rap mit kyrillischer Titeln
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber thematische Cluster-Bildung
-- **Influence-Patterns**: Minimaler Einfluss, aber sprachliche Nischen-Strategie
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with Russian artists
+- **Genre Cluster**: Russian Rap with Cyrillic titles
+- **Connection Strength**: Weak connections, but thematic cluster formation
+- **Influence Patterns**: Minimal influence, but linguistic niche strategy
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

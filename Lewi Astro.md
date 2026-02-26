@@ -1,31 +1,31 @@
 # Lewi Astro
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 5wn2DyaNhEI7KnufAAQY4X
 - **Spotify Link**: https://open.spotify.com/artist/5wn2DyaNhEI7KnufAAQY4X
 - **Original Spotify-Link**: https://open.spotify.com/artist/5wn2DyaNhEI7KnufAAQY4X?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 3 (erfasst: 26.02.2026 02:14)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 3 (captured: 26.02.2026 02:14)
+- **Followers**: Not available
 - **Genre**: Rap/Trap
-- **Popularität**: Extrem niedrig (3 monatliche Hörer)
+- **Popularity**: Extremely low (3 monthly listeners)
 
-## Biografie
-Keine Biografie verfügbar
+## Biography
+No biography available
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 02:14
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 02:14
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### Singles
 - Rude (2020) - Single
@@ -37,7 +37,7 @@ Keine Biografie verfügbar
 3. Honest (Outro) (feat. MicNite Entertainment)
 4. Be Mine
 
-## Kollaborationen
+## Collaborations
 - Ninetyniiine
 - vvsvincii
 - MicNite Entertainment
@@ -49,23 +49,23 @@ Keine Biografie verfügbar
 - Gravitropism (2020) - EP
 - On Your Own Time (2018) - Album
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: Englischer Name "Lewi Astro" mit Raum-Thema
-- **Themen**: Emotionale Themen ("Be Mine", "Honest"), Konfrontation ("Rude")
-- **Sprachmuster**: Englisch mit emotionalen Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: English name "Lewi Astro" with space theme
+- **Themes**: Emotional themes ("Be Mine", "Honest"), confrontation ("Rude")
+- **Language Patterns**: English with emotional lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 3 monatliche Hörer bei regulären Releases (verdächtig)
-- **Aktivitäts-Muster**: Regelmäßige Releases seit 2018 bei minimaler Reichweite
-- **Bot-Indikatoren**: Minimaler Content bei fast nicht existenten Hörern
-- **Künstliche Popularität**: Verdächtige Aktivität bei extrem niedriger Reichweite
+## Manipulation Indicators
+- **Listener Count Anomalies**: 3 monthly listeners with regular releases (suspicious)
+- **Activity Patterns**: Regular releases since 2018 with minimal reach
+- **Bot Indicators**: Minimal content with almost non-existent listeners
+- **Artificial Popularity**: Suspicious activity with extremely low reach
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Low-Count-Künstlern
-- **Genre-Cluster**: Rap/Trap mit emotionalen Themen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber Teil des "Fans also like" Clusters mit Steyzz und ₭EV
-- **Influence-Patterns**: Minimaler Einfluss, aber potenzielle Bot-Cluster-Bildung
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar low-count artists
+- **Genre Cluster**: Rap/Trap with emotional themes
+- **Connection Strength**: Weak connections, but part of "Fans also like" cluster with Steyzz and ₭EV
+- **Influence Patterns**: Minimal influence, but potential bot cluster formation
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

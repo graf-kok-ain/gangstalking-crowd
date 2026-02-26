@@ -1,34 +1,34 @@
 # STOA
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 5JfV91xRrEBbYOZaJgcIQ8
 - **Spotify Link**: https://open.spotify.com/artist/5JfV91xRrEBbYOZaJgcIQ8
 - **Original Spotify-Link**: https://open.spotify.com/artist/5JfV91xRrEBbYOZaJgcIQ8?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 145 (erfasst: 26.02.2026 04:26)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Sehr niedrig (145 monatliche Hörer)
+- **Monthly Listeners**: 145 (captured: 26.02.2026 04:26)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Very low (145 monthly listeners)
 
-## Biografie
+## Biography
 "ERINNERUNG AN DIE ZUKUNFT"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 04:26
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 04:26
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - kKs (Latest Release) - Single
@@ -40,36 +40,36 @@
 3. Kein Zurück
 4. Hinter Mir (Explicit)
 
-## Kollaborationen
+## Collaborations
 - Snowz (STOA Radio)
 - nightfvry (STOA Radio)
 - Rameyn (STOA Radio)
 - Tapsi (Fans also like)
 - realey (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "STOA" - antike griechische Architektur-Referenz
-- **Themen**: Selbstwert (Erkenn dein Wert), Vergangenheit (Kein Zurück, Hinter Mir), Abkürzungen (kKs)
-- **Sprachmuster**: Deutsch mit philosophischen Themen
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "STOA" - ancient Greek architecture reference
+- **Themes**: Self-worth (Erkenn dein Wert), past (Kein Zurück, Hinter Mir), abbreviations (kKs)
+- **Language Patterns**: German with philosophical themes
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 145 monatliche Hörer (realistisch für Underground-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 145 monthly listeners (realistic for underground artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit Underground-Künstlern
-- **Genre-Cluster**: Deutschrap/Trap mit philosophischen Themen
-- **Verbindungs-Stärke**: Verbunden mit Tapsi, realey (Fans also like)
-- **Influence-Patterns**: Teil des Underground-Trap Netzwerks
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with underground artists
+- **Genre Cluster**: German Rap/Trap with philosophical themes
+- **Connection Strength**: Connected with Tapsi, realey (Fans also like)
+- **Influence Patterns**: Part of underground trap network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap mit philosophischen Elementen
-- **Ansatz**: Philosophisch, zukunftsorientiert ("ERINNERUNG AN DIE ZUKUNFT")
-- **Themen**: Selbstwert, Vergangenheit, Zukunft
-- **Community**: Underground-Präsenz, philosophische Ästhetik
+## Artist Philosophy
+- **Music Style**: German Rap/Trap with philosophical elements
+- **Approach**: Philosophical, future-oriented ("ERINNERUNG AN DIE ZUKUNFT")
+- **Themes**: Self-worth, past, future
+- **Community**: Underground presence, philosophical aesthetic
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

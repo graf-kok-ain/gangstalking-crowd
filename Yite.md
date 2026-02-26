@@ -1,38 +1,38 @@
 # Yite
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 1ct0Djc3Gp4LVf987Kekvm
 - **Spotify Link**: https://open.spotify.com/artist/1ct0Djc3Gp4LVf987Kekvm
 - **Original Spotify-Link**: https://open.spotify.com/artist/1ct0Djc3Gp4LVf987Kekvm?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 28 (erfasst: 26.02.2026 01:52)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 28 (captured: 26.02.2026 01:52)
+- **Followers**: Not available
 - **Genre**: Emo Rap
-- **Popularität**: Niedrig (28 monatliche Hörer)
+- **Popularity**: Low (28 monthly listeners)
 
-## Biografie
+## Biography
 "Hi. My name is Yannick or "Yite". I am 19 years old and live in Germany. I am an artist that focusses on Emorap, but that can change anytime, depends on my mood. My biggest inspirations are JuiceWRLD, XXXTENTACION, Iann Dior, Trippie Redd, Marco Luka. I first started to perform a song to my Friends on Discord and with more time and more training we decided to upload the songs. That was enough about me, hope you enjoy my music! Peace Out!"
 
-## Persönliche Informationen
-- **Echter Name**: Yannick
-- **Alter**: 19 Jahre
-- **Standort**: Deutschland
-- **Musikstil**: Emo Rap (kann sich je nach Stimmung ändern)
-- **Anfang**: Über Discord für Freunde gestartet
+## Personal Information
+- **Real Name**: Yannick
+- **Age**: 19 years old
+- **Location**: Germany
+- **Music Style**: Emo Rap (can change depending on mood)
+- **Beginning**: Started on Discord for friends
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 01:52
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 01:52
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### Singles
 - Good Vibes (2023) - Single
@@ -46,10 +46,10 @@
 4. Countdown (Explicit)
 5. Losing
 
-## Kollaborationen
+## Collaborations
 - redlightrage
 
-## Künstler-Inspirationen
+## Artist Inspirations
 - JuiceWRLD
 - XXXTENTACION
 - Iann Dior
@@ -60,22 +60,22 @@
 - Alone as always (by Yannick)
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: Einfacher, prägnanter Name "Yite" mit echtem Namen "Yannick"
-- **Themen**: Emotionale Themen ("Alone as always"), Selbstreflexion
-- **Sprachmuster**: Englisch mit deutschen Elementen
-- **Zahlenmystik**: Alter "19" prominent in Biografie
+## Patterns & Anomalies
+- **Name Conventions**: Simple, concise name "Yite" with real name "Yannick"
+- **Themes**: Emotional themes ("Alone as always"), self-reflection
+- **Language Patterns**: English with German elements
+- **Number Mysticism**: Age "19" prominent in biography
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 28 monatliche Hörer ist realistisch für Indie-Künstler
-- **Aktivitäts-Muster**: Organische Entwicklung von Discord zu Spotify
-- **Bot-Indikatoren**: Echte persönliche Biografie, authentische Entwicklung
-- **Künstliche Popularität**: Natürliches Wachstum ohne Manipulationszeichen
+## Manipulation Indicators
+- **Listener Count Anomalies**: 28 monthly listeners is realistic for indie artist
+- **Activity Patterns**: Organic development from Discord to Spotify
+- **Bot Indicators**: Genuine personal biography, authentic development
+- **Artificial Popularity**: Natural growth without manipulation signs
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Eher begrenzte Kollaborationen (redlightrage)
-- **Genre-Cluster**: Emo Rap mit Inspirationen von JuiceWRLD, XXXTENTACION
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber authentische Community
-- **Influence-Patterns**: Nischener Einfluss in der Emo-Rap-Szene
+## Network Analysis
+- **Collaboration Density**: Rather limited collaborations (redlightrage)
+- **Genre Cluster**: Emo Rap with inspirations from JuiceWRLD, XXXTENTACION
+- **Connection Strength**: Weak connections, but authentic community
+- **Influence Patterns**: Niche influence in the Emo Rap scene

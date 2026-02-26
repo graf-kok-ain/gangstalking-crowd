@@ -1,31 +1,31 @@
 # Gruber
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 0O5cX36i2H4H8hwghvQ1pO
 - **Spotify Link**: https://open.spotify.com/artist/0O5cX36i2H4H8hwghvQ1pO
 - **Original Spotify-Link**: https://open.spotify.com/artist/0O5cX36i2H4H8hwghvQ1pO?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 152 (erfasst: 26.02.2026 02:04)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Cloud Rap
-- **Popularität**: Niedrig-Mittel (152 monatliche Hörer)
+- **Monthly Listeners**: 152 (captured: 26.02.2026 02:04)
+- **Followers**: Not available
+- **Genre**: German Rap/Cloud Rap
+- **Popularity**: Low-Medium (152 monthly listeners)
 
-## Biografie
+## Biography
 "nur für mich🔒 tw"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: tw (Twitter-Referenz)
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: tw (Twitter reference)
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 02:04
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 02:04
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
 - Ich war allein (imoka) (2022) - EP
@@ -41,8 +41,8 @@
 4. Mein Nachbar (feat. CANEVA333, Traum Waers) (Explicit) - 2,162 Plays
 5. Wenn ich meine Farben misch (feat. joni) - 1,858 Plays
 
-## Kollaborationen
-- joni (starke Verbindung)
+## Collaborations
+- joni (strong connection)
 - alinafabienne
 - SLEEP
 - CANEVA333
@@ -53,23 +53,23 @@
 - Traum Waers Compilation ("alles unserer 6 freunde auf 1 blick")
 - gruber's raum (by renrewyy)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: Einfacher deutscher Nachname "Gruber"
-- **Themen**: Private, persönliche Themen ("nur für mich"), Nachbarschaft, Drogenreferenzen
-- **Sprachmuster**: Deutsch mit emotionalen, introspektiven Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: Simple German surname "Gruber"
+- **Themes**: Private, personal themes ("nur für mich"), neighborhood, drug references
+- **Language Patterns**: German with emotional, introspective lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 152 monatliche Hörer ist realistisch für Indie-Künstler
-- **Aktivitäts-Muster**: Starke Kollaborations-Strategie, organische Entwicklung
-- **Bot-Indikatoren**: Keine Anzeichen für Bot-Aktivität
-- **Künstliche Popularität**: Echte Kollaborationen mit nachweisbaren Play-Zahlen
+## Manipulation Indicators
+- **Listener Count Anomalies**: 152 monthly listeners is realistic for indie artist
+- **Activity Patterns**: Strong collaboration strategy, organic development
+- **Bot Indicators**: No signs of bot activity
+- **Artificial Popularity**: Genuine collaborations with verifiable play counts
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Sehr hohe Kollaborations-Dichte (fast alle Tracks sind Features)
-- **Genre-Cluster**: Deutschrap mit starker Community-Verbindung
-- **Verbindungs-Stärke**: Starke Verbindung zu joni und Traum Waers
-- **Influence-Patterns**: Community-basierter Einfluss durch "Traum Waers Compilation"
+## Network Analysis
+- **Collaboration Density**: Very high collaboration density (almost all tracks are features)
+- **Genre Cluster**: German Rap with strong community connection
+- **Connection Strength**: Strong connection to joni and Traum Waers
+- **Influence Patterns**: Community-based influence through "Traum Waers Compilation"
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

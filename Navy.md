@@ -1,34 +1,34 @@
 # Navy
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 2ZldWWrOgxe3VWgbAD0T0p
 - **Spotify Link**: https://open.spotify.com/artist/2ZldWWrOgxe3VWgbAD0T0p
 - **Original Spotify-Link**: https://open.spotify.com/artist/2ZldWWrOgxe3VWgbAD0T0p?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 2,015 (erfasst: 26.02.2026 04:34)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Mittel-Hoch (2.0K monatliche Hörer)
+- **Monthly Listeners**: 2,015 (captured: 26.02.2026 04:34)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Medium-High (2.0K monthly listeners)
 
-## Biografie
+## Biography
 "gebt euch musik"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 04:34
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 04:34
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - crash die whip (Latest Release) - Single
@@ -40,7 +40,7 @@
 3. Realflex (feat. sabe) (Explicit)
 4. LASS NICHT LOS (feat. TEMPZ72) (Explicit)
 
-## Kollaborationen
+## Collaborations
 - sabe (Realflex)
 - TEMPZ72 (LASS NICHT LOS)
 - Matse (Navy Radio)
@@ -49,29 +49,29 @@
 - cazyy (Fans also like)
 - SIYA (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Navy" - militärische/ maritime Referenz
-- **Themen**: Autos (crash die whip), Wahrnehmung (siehst du mich?), Realität (Realflex), Bindung (LASS NICHT LOS)
-- **Sprachmuster**: Deutsch mit englischen Elementen, direkte Texte
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Navy" - military/maritime reference
+- **Themes**: Cars (crash die whip), perception (siehst du mich?), reality (Realflex), attachment (LASS NICHT LOS)
+- **Language Patterns**: German with English elements, direct lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 2,015 monatliche Hörer (realistisch für etablierten Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 2,015 monthly listeners (realistic for established indie artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Trap-Künstlern
-- **Genre-Cluster**: Deutschrap/Trap mit direkten Themen
-- **Verbindungs-Stärke**: Stark verbunden mit cazyy, SIYA (Fans also like)
-- **Influence-Patterns**: Teil des Trap/Underground Netzwerks
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar trap artists
+- **Genre Cluster**: German Rap/Trap with direct themes
+- **Connection Strength**: Strongly connected with cazyy, SIYA (Fans also like)
+- **Influence Patterns**: Part of Trap/Underground network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap mit direkten Elementen
-- **Ansatz**: Gemeinschaftsorientiert ("gebt euch musik")
-- **Themen**: Autos, Wahrnehmung, Realität, Bindung
-- **Community**: Starke Kollaborations-Präsenz mit Matse, sabe
+## Artist Philosophy
+- **Music Style**: German Rap/Trap with direct elements
+- **Approach**: Community-oriented ("gebt euch musik")
+- **Themes**: Cars, perception, reality, attachment
+- **Community**: Strong collaboration presence with Matse, sabe
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

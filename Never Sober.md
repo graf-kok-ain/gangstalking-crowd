@@ -1,31 +1,31 @@
 # Never Sober
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 5oLtzHc6FJxeQtYbk3Aymo
 - **Spotify Link**: https://open.spotify.com/artist/5oLtzHc6FJxeQtYbk3Aymo
 - **Original Spotify-Link**: https://open.spotify.com/artist/5oLtzHc6FJxeQtYbk3Aymo?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 14 (erfasst: 26.02.2026 02:00)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 14 (captured: 26.02.2026 02:00)
+- **Followers**: Not available
 - **Genre**: Trap/Rap
-- **Popularität**: Niedrig (14 monatliche Hörer)
+- **Popularity**: Low (14 monthly listeners)
 
-## Biografie
-"Jsme free, jsme mladí, proč být střízlivý ?" (Tschechisch: "Wir sind frei, wir sind jung, warum nüchtern sein?")
+## Biography
+"Jsme free, jsme mladí, proč být střízlivý ?" (Czech: "We are free, we are young, why be sober?")
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 02:00
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 02:00
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### Singles
 - Jedna (2022) - Single
@@ -38,8 +38,8 @@
 4. Natural (feat. Yukami) (Explicit)
 5. Rockstar (feat. Yukami) (Explicit)
 
-## Kollaborationen
-- Yukami (Hauptkollaborateur)
+## Collaborations
+- Yukami (Main collaborator)
 - toe
 - SpaceMan Zack
 
@@ -47,23 +47,23 @@
 - Sick Vize (2024) - Album
 - 24u (2021) - Single
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: Englischer Name "Never Sober" mit tschechischer Biografie
-- **Themen**: Party-Kultur, Jugend, Freiheit, Alkohol-Konsum
-- **Sprachmuster**: Tschechisch-Deutsch-Englisch Mix
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: English name "Never Sober" with Czech biography
+- **Themes**: Party culture, youth, freedom, alcohol consumption
+- **Language Patterns**: Czech-German-English mix
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 14 monatliche Hörer ist extrem niedrig
-- **Aktivitäts-Muster**: Starke Abhängigkeit von Yukami-Kollaborationen
-- **Bot-Indikatoren**: Minimaler Content könnte auf Bot hindeuten
-- **Künstliche Popularität**: Alle Top-Tracks sind Kollaborationen - möglicherweise Support-Artist
+## Manipulation Indicators
+- **Listener Count Anomalies**: 14 monthly listeners is extremely low
+- **Activity Patterns**: Strong dependency on Yukami collaborations
+- **Bot Indicators**: Minimal content could indicate bot
+- **Artificial Popularity**: All top tracks are collaborations - possibly support artist
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Extrem hohe Abhängigkeit von Yukami (100% Kollaborationsrate)
-- **Genre-Cluster**: Trap mit tschechischen Einflüssen
-- **Verbindungs-Stärke**: Sehr starke Verbindung zu Yukami, sonst isoliert
-- **Influence-Patterns**: Wahrscheinlich Support-Role für Yukami, kein eigenständiger Einfluss
+## Network Analysis
+- **Collaboration Density**: Extremely high dependency on Yukami (100% collaboration rate)
+- **Genre Cluster**: Trap with Czech influences
+- **Connection Strength**: Very strong connection to Yukami, otherwise isolated
+- **Influence Patterns**: Likely support role for Yukami, no independent influence
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

@@ -1,38 +1,38 @@
 # Saddex
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 1X4ot7s7jhogpcAJbhCimp
 - **Spotify Link**: https://open.spotify.com/artist/1X4ot7s7jhogpcAJbhCimp
 - **Original Spotify-Link**: https://open.spotify.com/artist/1X4ot7s7jhogpcAJbhCimp?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 486 (erfasst: 26.02.2026 03:52)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Cloud Rap
-- **Popularität**: Moderat (486 monatliche Hörer)
+- **Monthly Listeners**: 486 (captured: 26.02.2026 03:52)
+- **Followers**: Not available
+- **Genre**: German Rap/Cloud Rap
+- **Popularity**: Moderate (486 monthly listeners)
 
-## Biografie
-Keine Biografie verfügbar
+## Biography
+No biography available
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:52
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:52
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
 - DEAD FEELINGS (2024) - EP
 - DON'T TRUST (2024) - EP
 
 ### Singles
-- Keine aktuellen Singles verfügbar
+- No current singles available
 
 ### Popular Tracks (Top 5)
 1. ENTSCHEIDEN (Explicit)
@@ -41,7 +41,7 @@ Keine Biografie verfügbar
 4. FALL (feat. Cubbie) (Explicit)
 5. KING (Explicit)
 
-## Kollaborationen
+## Collaborations
 - Cubbie (FALL)
 - aidan (Saddex Radio)
 - D4VID777 (Saddex Radio)
@@ -49,29 +49,29 @@ Keine Biografie verfügbar
 - Marou (Fans also like)
 - lukas (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Saddex" - moderner Name mit "ex" Suffix
-- **Themen**: Entscheidungen (ENTSCHEIDEN), Bedürfnisse (NEED U), Vertrauen (DON'T TRUST, NEVER AGAIN), Macht (KING), Fall (FALL)
-- **Sprachmuster**: Deutsch mit englischen Elementen, emotionale Texte
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Saddex" - modern name with "ex" suffix
+- **Themes**: Decisions (ENTSCHEIDEN), needs (NEED U), trust (DON'T TRUST, NEVER AGAIN), power (KING), fall (FALL)
+- **Language Patterns**: German with English elements, emotional lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 486 monatliche Hörer (realistisch für Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige EP-Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 486 monthly listeners (realistic for indie artist)
+- **Activity Patterns**: Regular EP releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Cloud Rap-Künstlern
-- **Genre-Cluster**: Deutschrap/Cloud Rap mit emotionalen Themen
-- **Verbindungs-Stärke**: Verbunden mit Marou, lukas (Fans also like)
-- **Influence-Patterns**: Teil des Cloud Rap Netzwerks mit aidan Verbindung
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar cloud rap artists
+- **Genre Cluster**: German Rap/Cloud Rap with emotional themes
+- **Connection Strength**: Connected with Marou, lukas (Fans also like)
+- **Influence Patterns**: Part of cloud rap network with aidan connection
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Cloud Rap mit emotionalen Themen
-- **Ansatz**: Emotional, direkt, selbstreflektierend
-- **Themen**: Entscheidungen, Bedürfnisse, Vertrauensverlust, Macht
-- **Community**: Verbindung durch emotionale Verarbeitung
+## Artist Philosophy
+- **Music Style**: German Rap/Cloud Rap with emotional themes
+- **Approach**: Emotional, direct, self-reflective
+- **Themes**: Decisions, needs, loss of trust, power
+- **Community**: Connection through emotional processing
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

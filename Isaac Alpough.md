@@ -1,65 +1,65 @@
 # Isaac Alpough
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 0MiU4qLKKjN5BVLCssgRSK
 - **Spotify Link**: https://open.spotify.com/artist/0MiU4qLKKjN5BVLCssgRSK
 - **Original Spotify-Link**: https://open.spotify.com/artist/0MiU4qLKKjN5BVLCssgRSK?si=f6523f81492b4cdc
-- **Monatliche Hörer**: Nicht verfügbar (Seite lädt nicht)
-- **Followers**: Nicht verfügbar
-- **Genre**: Nicht verfügbar
-- **Popularität**: Nicht verfügbar
+- **Monthly Listeners**: Not available (page not loading)
+- **Followers**: Not available
+- **Genre**: Not available
+- **Popularity**: Not available
 
-## Biografie
-Seite lädt nicht - keine Informationen verfügbar
+## Biography
+Page not loading - no information available
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:06
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:06
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar (Seite lädt nicht)
+## Discography
+### Albums
+- No albums available (page not loading)
 
 ### EPs
-- Keine EPs verfügbar (Seite lädt nicht)
+- No EPs available (page not loading)
 
 ### Singles
-- Keine Singles verfügbar (Seite lädt nicht)
+- No singles available (page not loading)
 
 ### Popular Tracks
-- Keine Tracks verfügbar (Seite lädt nicht)
+- No tracks available (page not loading)
 
-## Kollaborationen
+## Collaborations
 - AP$
 - Susboygenio
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Isaac Alpough" - traditioneller Name
-- **Themen**: Nicht verfügbar
-- **Sprachmuster**: Nicht verfügbar
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Isaac Alpough" - traditional name
+- **Themes**: Not available
+- **Language Patterns**: Not available
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: Nicht überprüfbar (Seite lädt nicht)
-- **Aktivitäts-Muster**: Nicht überprüfbar
-- **Bot-Indikatoren**: Nicht überprüfbar
-- **Künstliche Popularität**: Nicht überprüfbar
+## Manipulation Indicators
+- **Listener Count Anomalies**: Not verifiable (page not loading)
+- **Activity Patterns**: Not verifiable
+- **Bot Indicators**: Not verifiable
+- **Artificial Popularity**: Not verifiable
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Verbindung zu AP$ und Susboygenio
-- **Genre-Cluster**: Nicht zuzuordnen
-- **Verbindungs-Stärke**: Schwache Verbindungen
-- **Influence-Patterns**: Nicht überprüfbar
+## Network Analysis
+- **Collaboration Density**: Connection to AP$ and Susboygenio
+- **Genre Cluster**: Not assignable
+- **Connection Strength**: Weak connections
+- **Influence Patterns**: Not verifiable
 
 ## Status
-⚠️ **PARTIELL ERFASST** - Spotify-Seite lädt nicht, grundlegende Informationen erfasst
+⚠️ **PARTIALLY CAPTURED** - Spotify page not loading, basic information captured
 
-## Hinweis
-Die Spotify-Seite für Isaac Alpough lädt nicht korrekt. Die verfügbaren Informationen wurden aus den "Fans also like" Verbindungen von anderen Künstlern extrahiert. Eine vollständige Erfassung ist nicht möglich.
+## Note
+The Spotify page for Isaac Alpough is not loading correctly. Available information was extracted from "Fans also like" connections from other artists. Complete capture is not possible.

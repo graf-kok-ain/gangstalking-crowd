@@ -1,35 +1,35 @@
 # Matse
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 4jS4ZqhqjkADr28Ftz7Yow
 - **Spotify Link**: https://open.spotify.com/artist/4jS4ZqhqjkADr28Ftz7Yow
 - **Original Spotify-Link**: https://open.spotify.com/artist/4jS4ZqhqjkADr28Ftz7Yow?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 766 (erfasst: 26.02.2026 04:16)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Mittel (766 monatliche Hörer)
+- **Monthly Listeners**: 766 (captured: 26.02.2026 04:16)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Medium (766 monthly listeners)
 
-## Biografie
+## Biography
 "Instagram/ tiktok: matse.uptown"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
 - **Instagram**: matse.uptown
 - **TikTok**: matse.uptown
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 04:16
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 04:16
 
-## Diskographie
-### Alben
+## Discography
+### Albums
 - TRAUMA TAPE (2025) - Album
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - TicTacTow (Latest Release) - Single
@@ -42,7 +42,7 @@
 4. TicTacTow (feat. Rob) - 2,276 Plays
 5. MONEYWALK - 2,022 Plays
 
-## Kollaborationen
+## Collaborations
 - Navy (UND SO, GLEICHE NIKES)
 - prod.anno (UND SO)
 - Rob (TicTacTow)
@@ -52,29 +52,29 @@
 - LLYON (Fans also like)
 - Fryz! (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Matse" - deutscher Kurzname
-- **Themen**: Spiele (TicTacTow), Psychologie (insane, TRAUMA TAPE), Geld (MONEYWALK), Marken (GLEICHE NIKES)
-- **Sprachmuster**: Deutsch mit englischen Elementen, direkte Texte
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Matse" - German short name
+- **Themes**: Games (TicTacTow), psychology (insane, TRAUMA TAPE), money (MONEYWALK), brands (GLEICHE NIKES)
+- **Language Patterns**: German with English elements, direct lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 766 monatliche Hörer bei 13,583+ Plays (realistisch für Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 766 monthly listeners with 13,583+ plays (realistic for indie artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Hohe Kollaborations-Dichte mit Navy
-- **Genre-Cluster**: Deutschrap/Trap mit psychologischen Themen
-- **Verbindungs-Stärke**: Stark verbunden mit Mars, LLYON, Fryz! (Fans also like)
-- **Influence-Patterns**: Teil des Trap/Underground Netzwerks
+## Network Analysis
+- **Collaboration Density**: High collaboration density with Navy
+- **Genre Cluster**: German Rap/Trap with psychological themes
+- **Connection Strength**: Strongly connected with Mars, LLYON, Fryz! (Fans also like)
+- **Influence Patterns**: Part of Trap/Underground network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap mit psychologischen Elementen
-- **Ansatz**: Direkt, psychologisch ("TRAUMA TAPE")
-- **Themen**: Spiele, Psychologie, Geld, Marken
-- **Community**: Starke Social-Media-Präsenz, Navy-Partnerschaft
+## Artist Philosophy
+- **Music Style**: German Rap/Trap with psychological elements
+- **Approach**: Direct, psychological ("TRAUMA TAPE")
+- **Themes**: Games, psychology, money, brands
+- **Community**: Strong social media presence, Navy partnership
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

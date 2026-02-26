@@ -1,34 +1,34 @@
 # SIYA
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 6dtIvlVlndseFF4d2UwEzU
 - **Spotify Link**: https://open.spotify.com/artist/6dtIvlVlndseFF4d2UwEzU
 - **Original Spotify-Link**: https://open.spotify.com/artist/6dtIvlVlndseFF4d2UwEzU?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 2,807 (erfasst: 26.02.2026 04:38)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Mittel-Hoch (2.8K monatliche Hörer)
+- **Monthly Listeners**: 2,807 (captured: 26.02.2026 04:38)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Medium-High (2.8K monthly listeners)
 
-## Biografie
+## Biography
 "#echtewiener #22"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 04:38
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 04:38
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - Skyline (Latest Release) - Single
@@ -39,7 +39,7 @@
 2. Gstar (feat. Maho) (Explicit)
 3. Matrix
 
-## Kollaborationen
+## Collaborations
 - Maho (Gstar)
 - D4VID777 (SIYA Radio)
 - va1e (SIYA Radio)
@@ -47,29 +47,29 @@
 - Cheekyteo (Fans also like)
 - CXDEX (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "SIYA" - kurzer, kreativer Name
-- **Themen**: Architektur (Skyline), Marken (Gstar), Technologie (Matrix)
-- **Sprachmuster**: Deutsch mit englischen Elementen, urbane Themen
-- **Zahlenmystik**: "#22" als Identitäts-Referenz
+## Patterns & Anomalies
+- **Name Conventions**: "SIYA" - short, creative name
+- **Themes**: Architecture (Skyline), brands (Gstar), technology (Matrix)
+- **Language Patterns**: German with English elements, urban themes
+- **Number Mysticism**: "#22" as identity reference
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 2,807 monatliche Hörer (realistisch für etablierten Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 2,807 monthly listeners (realistic for established indie artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Trap-Künstlern
-- **Genre-Cluster**: Deutschrap/Trap mit urbanen Themen
-- **Verbindungs-Stärke**: Verbunden mit Cheekyteo, CXDEX (Fans also like)
-- **Influence-Patterns**: Teil des Trap/Underground Netzwerks
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar trap artists
+- **Genre Cluster**: German Rap/Trap with urban themes
+- **Connection Strength**: Connected with Cheekyteo, CXDEX (Fans also like)
+- **Influence Patterns**: Part of Trap/Underground network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap mit urbanen Elementen
-- **Ansatz**: Urban, wienerisch ("#echtewiener")
-- **Themen**: Architektur, Marken, Technologie
-- **Community**: Starke Kollaborations-Präsenz mit Maho, nightfvry
+## Artist Philosophy
+- **Music Style**: German Rap/Trap with urban elements
+- **Approach**: Urban, Viennese ("#echtewiener")
+- **Themes**: Architecture, brands, technology
+- **Community**: Strong collaboration presence with Maho, nightfvry
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

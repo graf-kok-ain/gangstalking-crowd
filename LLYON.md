@@ -1,31 +1,31 @@
 # LLYON
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 4NbZFmUnO3VdriktMSLVPQ
 - **Spotify Link**: https://open.spotify.com/artist/4NbZFmUnO3VdriktMSLVPQ
 - **Original Spotify-Link**: https://open.spotify.com/artist/4NbZFmUnO3VdriktMSLVPQ?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 124 (erfasst: 26.02.2026 04:18)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Experimental
-- **Popularität**: Sehr niedrig (124 monatliche Hörer)
+- **Monthly Listeners**: 124 (captured: 26.02.2026 04:18)
+- **Followers**: Not available
+- **Genre**: German Rap/Experimental
+- **Popularity**: Very low (124 monthly listeners)
 
-## Biografie
+## Biography
 "LLY"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 04:18
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 04:18
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
 - ANANKĒ: VORGESCHICHTE (2025) - EP
@@ -42,7 +42,7 @@
 4. SONAR SO NAH
 5. Gêkêêd up/Schuld (Explicit)
 
-## Kollaborationen
+## Collaborations
 - aleggsodernichts (sie benutzt dich nur llyon x era rmx)
 - aven (Kunst bleiben)
 - Lytro (LLYON Radio)
@@ -52,29 +52,29 @@
 - jey (Fans also like)
 - Demian (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "LLYON" - stilisierter Name mit doppeltem L
-- **Themen**: Beziehungen (sie benutzt dich nur), Kunst (Kunst bleiben), Tradition (tanz in den mai), Technologie (SONAR SO NAH), Schuld (Gêkêêd up/Schuld)
-- **Sprachmuster**: Deutsch mit experimentellen Elementen, griechische Referenzen (ANANKĒ)
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "LLYON" - stylized name with double L
+- **Themes**: Relationships (sie benutzt dich nur), art (Kunst bleiben), tradition (tanz in den mai), technology (SONAR SO NAH), guilt (Gêkêêd up/Schuld)
+- **Language Patterns**: German with experimental elements, Greek references (ANANKĒ)
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 124 monatliche Hörer bei 4,116+ Plays (leicht verdächtig, 1:33 Ratio)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, aber geringe Reichweite
-- **Bot-Indikatoren**: Leicht verdächtig durch höhere Plays bei geringen Hörern
-- **Künstliche Popularität**: Leichte Anomalien, aber organische Kollaborationen
+## Manipulation Indicators
+- **Listener Count Anomalies**: 124 monthly listeners with 4,116+ plays (slightly suspicious, 1:33 ratio)
+- **Activity Patterns**: Regular releases, but low reach
+- **Bot Indicators**: Slightly suspicious due to higher plays with low listeners
+- **Artificial Popularity**: Slight anomalies, but organic collaborations
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit experimentellen Künstlern
-- **Genre-Cluster**: Deutschrap/Experimental mit künstlerischen Themen
-- **Verbindungs-Stärke**: Verbunden mit cyan prada, jey, Demian (Fans also like)
-- **Influence-Patterns**: Teil des Experimental-Underground Netzwerks
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with experimental artists
+- **Genre Cluster**: German Rap/Experimental with artistic themes
+- **Connection Strength**: Connected with cyan prada, jey, Demian (Fans also like)
+- **Influence Patterns**: Part of experimental underground network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Experimental mit künstlerischen Elementen
-- **Ansatz**: Experimentell, künstlerisch ("mach ein album mach ein neuen sound")
-- **Themen**: Beziehungen, Kunst, Tradition, Technologie, Schuld
-- **Community**: Starke Kollaborations-Präsenz mit aleggsodernichts, aven
+## Artist Philosophy
+- **Music Style**: German Rap/Experimental with artistic elements
+- **Approach**: Experimental, artistic ("mach ein album mach ein neuen sound")
+- **Themes**: Relationships, art, tradition, technology, guilt
+- **Community**: Strong collaboration presence with aleggsodernichts, aven
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

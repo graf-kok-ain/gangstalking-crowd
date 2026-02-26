@@ -1,34 +1,34 @@
 # Silas
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 4JyVT43cux0CYYV0LMTY90
 - **Spotify Link**: https://open.spotify.com/artist/4JyVT43cux0CYYV0LMTY90
 - **Original Spotify-Link**: https://open.spotify.com/artist/4JyVT43cux0CYYV0LMTY90?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 40 (erfasst: 26.02.2026 03:20)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 40 (captured: 26.02.2026 03:20)
+- **Followers**: Not available
 - **Genre**: Emo Rap/Alternative
-- **Popularität**: Niedrig (40 monatliche Hörer)
+- **Popularity**: Low (40 monthly listeners)
 
-## Biografie
-Keine Biografie verfügbar
+## Biography
+No biography available
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:20
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:20
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - i try (2025) - Single
@@ -41,7 +41,7 @@ Keine Biografie verfügbar
 4. loathing (Explicit)
 5. protocol (Explicit)
 
-## Kollaborationen
+## Collaborations
 - Diegointhedark
 - jack cxrtier!
 - Mirage
@@ -57,35 +57,35 @@ Keine Biografie verfügbar
 ## Appears On
 - Everything's Wrong But It's Okay (2023) - Album
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Silas" - biblischer Name
-- **Themen**: Emotionale Themen ("needle", "glimpse"), existenzielle Themen ("loathing"), kontroversielle Themen ("white lines"), formale Themen ("protocol")
-- **Sprachmuster**: Englisch mit emotionalen, introspektiven Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Silas" - biblical name
+- **Themes**: Emotional themes ("needle", "glimpse"), existential themes ("loathing"), controversial themes ("white lines"), formal themes ("protocol")
+- **Language Patterns**: English with emotional, introspective lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 40 monatliche Hörer bei authentischer Entwicklung (höchste bisher)
-- **Aktivitäts-Muster**: Regelmäßige Singles bei moderater Reichweite
-- **Bot-Indikatoren**: Keine Anzeichen für Bot-Aktivität
-- **Künstliche Popularität**: Echte organische Entwicklung
+## Manipulation Indicators
+- **Listener Count Anomalies**: 40 monthly listeners with authentic development (highest so far)
+- **Activity Patterns**: Regular singles with moderate reach
+- **Bot Indicators**: No signs of bot activity
+- **Artificial Popularity**: Genuine organic development
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Low-Count-Künstlern
-- **Genre-Cluster**: Emo Rap mit emotionalen Themen
-- **Verbindungs-Stärke**: Moderate Verbindungen, Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Moderater Einfluss, authentische Community
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar low-count artists
+- **Genre Cluster**: Emo Rap with emotional themes
+- **Connection Strength**: Moderate connections, part of "Fans also like" cluster
+- **Influence Patterns**: Moderate influence, authentic community
 
-## Künstler-Philosophie
-- **Musikstil**: Emo Rap mit emotionalen Themen
-- **Ansatz**: Emotionale Verarbeitung und existenzielle Fragen
-- **Themen**: Emotionen, existenzielle Fragen, formale Strukturen
-- **Community**: Verbindung durch Playlists und Kollaborationen
+## Artist Philosophy
+- **Music Style**: Emo Rap with emotional themes
+- **Approach**: Emotional processing and existential questions
+- **Themes**: Emotions, existential questions, formal structures
+- **Community**: Connection through playlists and collaborations
 
-## Kulturelle Besonderheiten
-- **Namensstil**: Biblischer Name "Silas"
-- **Playlist-Erkennung**: In Playlists entdeckt ("(night tiger😂)", "Diegointhedark")
-- **Kollaborations-Stil**: Regelmäßige Zusammenarbeit mit Diegointhedark
-- **Community-Ansatz**: Verbindung durch Playlist-Platzierungen
+## Cultural Characteristics
+- **Name Style**: Biblical name "Silas"
+- **Playlist Discovery**: Discovered in playlists ("(night tiger😂)", "Diegointhedark")
+- **Collaboration Style**: Regular collaboration with Diegointhedark
+- **Community Approach**: Connection through playlist placements
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

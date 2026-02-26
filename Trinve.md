@@ -1,31 +1,31 @@
 # Trinve
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 6sMNuIFC46OBAoLgSukIz9
 - **Spotify Link**: https://open.spotify.com/artist/6sMNuIFC46OBAoLgSukIz9
 - **Original Spotify-Link**: https://open.spotify.com/artist/6sMNuIFC46OBAoLgSukIz9?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 22 (erfasst: 26.02.2026 01:54)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 22 (captured: 26.02.2026 01:54)
+- **Followers**: Not available
 - **Genre**: Pop/Electronic/Trap/Ambient
-- **Popularität**: Niedrig (22 monatliche Hörer)
+- **Popularity**: Low (22 monthly listeners)
 
-## Biografie
+## Biography
 "Trinve merges pop, electronic, trap, and ambient, crafting a fantasy-driven sound with sci-fi undertones. Sharing what few would hear in real life, the artist communicates through music—exploring self-discovery and resilience in a relatable, uplifting way."
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 01:54
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 01:54
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### Singles
 - Gas N' Roses (Latest Release) - Single
@@ -39,17 +39,17 @@
 4. Gas N' Roses (Explicit)
 5. Percs Again (feat. Dyewest) (Explicit)
 
-## Kollaborationen
+## Collaborations
 - Jakhongir
 - Dyewest
 - DirtyBoys
 - before you fall asleep
 
-## Künstler-Philosophie
-- **Musikstil**: Fantasy-driven mit Sci-Fi Untertönen
-- **Themen**: Self-discovery und Resilienz
-- **Kommunikation**: Durch Musik als Ausdrucksform
-- **Ansatz**: Relatable und uplifting
+## Artist Philosophy
+- **Music Style**: Fantasy-driven with Sci-Fi undertones
+- **Themes**: Self-discovery and resilience
+- **Communication**: Through music as expression
+- **Approach**: Relatable and uplifting
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

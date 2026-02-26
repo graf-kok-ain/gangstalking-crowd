@@ -1,34 +1,34 @@
 # Yatsu
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 1j38Vqp1TtSeLBLY1ATI5t
 - **Spotify Link**: https://open.spotify.com/artist/1j38Vqp1TtSeLBLY1ATI5t
 - **Original Spotify-Link**: https://open.spotify.com/artist/1j38Vqp1TtSeLBLY1ATI5t?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 52,481 (erfasst: 26.02.2026 03:36)
-- **Followers**: Nicht verfügbar
-- **Genre**: Techno/Deutschrap
-- **Popularität**: Hoch (52,481 monatliche Hörer)
+- **Monthly Listeners**: 52,481 (captured: 26.02.2026 03:36)
+- **Followers**: Not available
+- **Genre**: Techno/German Rap
+- **Popularity**: High (52,481 monthly listeners)
 
-## Biografie
+## Biography
 "Let's Go!!"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.ph
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:36
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:36
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - heYY!! (Latest Release) - Single
@@ -41,7 +41,7 @@
 4. Life is Strange (Explicit) - 2:23
 5. Not Found (feat. Armando) (Explicit) - 2:33
 
-## Kollaborationen
+## Collaborations
 - denshi
 - ystn
 - Yungmon
@@ -50,44 +50,44 @@
 - NYAR
 
 ## Artist Pick
-- heYY!! - Single mit "<3!" Beschreibung
+- heYY!! - Single with "<3!" description
 
 ## Discovered On
-- TECHNO DEUTSCH 2026 💿 - Techno Party, Deutsche Remixe
-- Weitere Playlists verfügbar
+- TECHNO DEUTSCH 2026 💿 - Techno Party, German Remixes
+- More playlists available
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Yatsu" - japanischer Name
-- **Themen**: Emotionale Themen ("nie yeliebt"), existenzielle Themen ("Life is Strange"), technologische Themen ("Midnight Club")
-- **Sprachmuster**: Deutsch und Englisch gemischt, emotionale Texte
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Yatsu" - Japanese name
+- **Themes**: Emotional themes ("nie yeliebt"), existential themes ("Life is Strange"), technological themes ("Midnight Club")
+- **Language Patterns**: German and English mixed, emotional lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 52,481 monatliche Hörer bei authentischer Entwicklung (höchster Wert bisher!)
-- **Aktivitäts-Muster**: Regelmäßige Singles bei hoher Reichweite
-- **Bot-Indikatoren**: Keine Anzeichen für Bot-Aktivität
-- **Künstliche Popularität**: Echte organische Entwicklung mit hoher Reichweite
+## Manipulation Indicators
+- **Listener Count Anomalies**: 52,481 monthly listeners with authentic development (highest value so far!)
+- **Activity Patterns**: Regular singles with high reach
+- **Bot Indicators**: No signs of bot activity
+- **Artificial Popularity**: Genuine organic development with high reach
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Künstlern
-- **Genre-Cluster**: Techno/Deutschrap mit emotionalen Themen
-- **Verbindungs-Stärke**: Starke Verbindungen, Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Hoher Einfluss durch hohe Hörerzahlen
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar artists
+- **Genre Cluster**: Techno/German Rap with emotional themes
+- **Connection Strength**: Strong connections, part of "Fans also like" cluster
+- **Influence Patterns**: High influence due to high listener counts
 
-## Künstler-Philosophie
-- **Musikstil**: Techno/Deutschrap mit emotionalen Themen
-- **Ansatz**: "Let's Go!!" - motivierendes, energisches Konzept
-- **Themen**: Emotionale Verarbeitung, existenzielle Fragen, technologische Referenzen
-- **Community**: Verbindung durch emotionale und energische Inhalte
+## Artist Philosophy
+- **Music Style**: Techno/German Rap with emotional themes
+- **Approach**: "Let's Go!!" - motivating, energetic concept
+- **Themes**: Emotional processing, existential questions, technological references
+- **Community**: Connection through emotional and energetic content
 
-## Kulturelle Besonderheiten
-- **Namensstil**: "Yatsu" - japanischer Name
-- **Bio-Stil**: Kurz und motivierend ("Let's Go!!")
-- **Themen-Fokus**: Emotionale Verarbeitung mit energischem Ansatz
-- **Community-Ansatz**: Verbindung durch "<3!" und motivierende Inhalte
+## Cultural Characteristics
+- **Name Style**: "Yatsu" - Japanese name
+- **Bio Style**: Short and motivating ("Let's Go!!")
+- **Theme Focus**: Emotional processing with energetic approach
+- **Community Approach**: Connection through "<3!" and motivating content
 
 ## Status
-✅ 100% vollständig erfasst (Archive.ph manuell nachzuholen)
+✅ 100% fully captured (Archive.ph to be completed manually)
 
-## 🏆 BESONDERHEITEN
-**HÖCHSTER WERT BISHER**: Yatsu hat mit 52,481 monatlichen Hörern die höchste Reichweite aller bisher erfassten Künstler! Dies deutet auf eine etablierte Präsenz in der Techno/Deutschrap-Szene hin.
+## 🏆 SPECIAL FEATURES
+**HIGHEST VALUE SO FAR**: Yatsu has the highest reach of all artists captured so far with 52,481 monthly listeners! This indicates an established presence in the Techno/German Rap scene.

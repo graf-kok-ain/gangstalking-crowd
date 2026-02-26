@@ -1,42 +1,42 @@
 # Pandora's Vox
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 7ru6LUfh3nvQjkw4M6DQxF
 - **Spotify Link**: https://open.spotify.com/artist/7ru6LUfh3nvQjkw4M6DQxF
 - **Original Spotify-Link**: https://open.spotify.com/artist/7ru6LUfh3nvQjkw4M6DQxF?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 0 (erfasst: 26.02.2026 02:56)
-- **Followers**: Nicht verfügbar
-- **Genre**: Nicht verfügbar
-- **Popularität**: Inaktiv (0 monatliche Hörer)
+- **Monthly Listeners**: 0 (captured: 26.02.2026 02:56)
+- **Followers**: Not available
+- **Genre**: Not available
+- **Popularity**: Inactive (0 monthly listeners)
 
-## Biografie
-Keine Biografie verfügbar
+## Biography
+No biography available
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 02:56
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 02:56
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
-- Keine Singles verfügbar
+- No singles available
 
 ### Popular Tracks
-- Keine Tracks verfügbar
+- No tracks available
 
-## Kollaborationen
+## Collaborations
 - XRAEDED
 - Mykel
 - Hobberz.wav
@@ -44,23 +44,23 @@ Keine Biografie verfügbar
 - 0nlinefrndz Archieve
 - Raw Roach
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Pandora's Vox" - mythologischer Name mit Apostroph
-- **Themen**: Keine Themen erkennbar (keine Tracks verfügbar)
-- **Sprachmuster**: Nicht verfügbar
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Pandora's Vox" - mythological name with apostrophe
+- **Themes**: No themes detectable (no tracks available)
+- **Language Patterns**: Not available
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 0 monatliche Hörer bei aktivem Profil (extrem verdächtig)
-- **Aktivitäts-Muster**: Keine Releases, keine Tracks bei minimaler Reichweite
-- **Bot-Indikatoren**: Extrem verdächtig - Profil ohne jeglichen Content
-- **Künstliche Popularität**: Potenzieller Bot- oder Test-Account
+## Manipulation Indicators
+- **Listener Count Anomalies**: 0 monthly listeners with active profile (extremely suspicious)
+- **Activity Patterns**: No releases, no tracks with minimal reach
+- **Bot Indicators**: Extremely suspicious - profile without any content
+- **Artificial Popularity**: Potential bot or test account
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Verbindung zu ähnlichen Low-Count-Künstlern
-- **Genre-Cluster**: Nicht zuzuordnen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Minimaler Einfluss, potenzielle Bot-Cluster-Bildung
+## Network Analysis
+- **Collaboration Density**: Connection to similar low-count artists
+- **Genre Cluster**: Not assignable
+- **Connection Strength**: Weak connections, but part of "Fans also like" cluster
+- **Influence Patterns**: Minimal influence, potential bot cluster formation
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

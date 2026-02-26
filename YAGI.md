@@ -1,34 +1,34 @@
 # YAGI
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 38ISFit43ffzBQ68fqmlPb
 - **Spotify Link**: https://open.spotify.com/artist/38ISFit43ffzBQ68fqmlPb
 - **Original Spotify-Link**: https://open.spotify.com/artist/38ISFit43ffzBQ68fqmlPb?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 3 (erfasst: 26.02.2026 03:10)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 3 (captured: 26.02.2026 03:10)
+- **Followers**: Not available
 - **Genre**: Emo Rap/Alternative
-- **Popularität**: Extrem niedrig (3 monatliche Hörer)
+- **Popularity**: Extremely low (3 monthly listeners)
 
-## Biografie
+## Biography
 "just 4 fun :)"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:10
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:10
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - Stardust (2024) - Single
@@ -41,7 +41,7 @@
 4. let go of me (Explicit)
 5. echoes (Explicit)
 
-## Kollaborationen
+## Collaborations
 - CONTRITUM
 - Mykel
 - before you fall asleep
@@ -52,41 +52,41 @@
 - uwu | I´m acting up (By arthur)
 - insta vibez (By arthur)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "YAGI" - kurzer, einfacher Name in Großbuchstaben
-- **Themen**: Emotionale Themen ("last dance", "memories of a smile"), existenzielle Themen ("let go of me"), kosmische Themen ("Stardust", "echoes")
-- **Sprachmuster**: Englisch mit emotionalen, introspektiven Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "YAGI" - short, simple name in all caps
+- **Themes**: Emotional themes ("last dance", "memories of a smile"), existential themes ("let go of me"), cosmic themes ("Stardust", "echoes")
+- **Language Patterns**: English with emotional, introspective lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Künstler-Philosophie
-- **Musikstil**: Emo Rap mit emotionalen Themen
-- **Ansatz**: "just 4 fun :)" - lockere, spielerische Haltung
-- **Themen**: Emotionale Verarbeitung, existenzielle Fragen, kosmische Elemente
-- **Community**: Verbindung durch persönliche Playlists
+## Artist Philosophy
+- **Music Style**: Emo Rap with emotional themes
+- **Approach**: "just 4 fun :)" - casual, playful attitude
+- **Themes**: Emotional processing, existential questions, cosmic elements
+- **Community**: Connection through personal playlists
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 3 monatliche Hörer bei authentischer Entwicklung (realistisch)
-- **Aktivitäts-Muster**: Regelmäßige Singles bei minimaler Reichweite
-- **Bot-Indikatoren**: Keine Anzeichen für Bot-Aktivität
-- **Künstliche Popularität**: Echte organische Entwicklung mit spielerischer Haltung
+## Manipulation Indicators
+- **Listener Count Anomalies**: 3 monthly listeners with authentic development (realistic)
+- **Activity Patterns**: Regular singles with minimal reach
+- **Bot Indicators**: No signs of bot activity
+- **Artificial Popularity**: Genuine organic development with playful attitude
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Low-Count-Künstlern
-- **Genre-Cluster**: Emo Rap mit emotionalen Themen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Minimaler Einfluss, aber authentische Community
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar low-count artists
+- **Genre Cluster**: Emo Rap with emotional themes
+- **Connection Strength**: Weak connections, but part of "Fans also like" cluster
+- **Influence Patterns**: Minimal influence, but authentic community
 
-## Künstler-Philosophie
-- **Musikstil**: Emo Rap mit emotionalen Themen
-- **Ansatz**: Lockere, spielerische Haltung ("just 4 fun :)")
-- **Themen**: Emotionale Verarbeitung, existenzielle Fragen
-- **Community**: Persönliche Playlists und Verbindung
+## Artist Philosophy
+- **Music Style**: Emo Rap with emotional themes
+- **Approach**: Casual, playful attitude ("just 4 fun :)")
+- **Themes**: Emotional processing, existential questions
+- **Community**: Personal playlists and connection
 
-## Kulturelle Besonderheiten
-- **Bio-Stil**: Kurz und ironisch ("just 4 fun :)")
-- **Playlist-Konzept**: Persönliche Playlists mit "uwu" und "insta vibez"
-- **Themen-Fokus**: Emotionale Verarbeitung mit spielerischem Ansatz
-- **Community-Ansatz**: Lockere Verbindung durch Musik
+## Cultural Characteristics
+- **Bio Style**: Short and ironic ("just 4 fun :)")
+- **Playlist Concept**: Personal playlists with "uwu" and "insta vibez"
+- **Theme Focus**: Emotional processing with playful approach
+- **Community Approach**: Casual connection through music
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

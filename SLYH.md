@@ -1,31 +1,31 @@
 # SLYH
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 4xZuClA8DuRapWHBSazpLy
 - **Spotify Link**: https://open.spotify.com/artist/4xZuClA8DuRapWHBSazpLy
 - **Original Spotify-Link**: https://open.spotify.com/artist/4xZuClA8DuRapWHBSazpLy?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 10 (erfasst: 26.02.2026 02:44)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 10 (captured: 26.02.2026 02:44)
+- **Followers**: Not available
 - **Genre**: Emo Rap/Alternative
-- **Popularität**: Extrem niedrig (10 monatliche Hörer)
+- **Popularity**: Extremely low (10 monthly listeners)
 
-## Biografie
-Keine Biografie verfügbar
+## Biography
+No biography available
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 02:44
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 02:44
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
 - Shooting Star (2023) - EP
@@ -39,7 +39,7 @@ Keine Biografie verfügbar
 3. Bipolar - Slowed + Reverb (Explicit) - 2,041 Plays
 4. Bipolar (Explicit) - 1,326 Plays
 
-## Kollaborationen
+## Collaborations
 - F3V3R
 - Hallow Notes
 - Brix Noire
@@ -47,28 +47,28 @@ Keine Biografie verfügbar
 - Keno Chanel
 - BRY$iN
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "SLYH" - kurzer, prägnanter Name in Großbuchstaben
-- **Themen**: Emotionale Themen ("Bipolar"), romantische Themen ("Shooting Star")
-- **Sprachmuster**: Englisch mit emotionalen, introspektiven Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "SLYH" - short, concise name in all caps
+- **Themes**: Emotional themes ("Bipolar"), romantic themes ("Shooting Star")
+- **Language Patterns**: English with emotional, introspective lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Musik-Stil
-- **Slowed + Reverb Versionen**: Spezielle Remixe für emotionalen Effekt
-- **EP-Struktur**: Konzeptionelle EPs mit thematischen Tracks
-- **Sound**: Emo Rap mit atmosphärischen Elementen
+## Music Style
+- **Slowed + Reverb Versions**: Special remixes for emotional effect
+- **EP Structure**: Conceptual EPs with thematic tracks
+- **Sound**: Emo Rap with atmospheric elements
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 10 monatliche Hörer bei 16,244 Plays (extrem verdächtig)
-- **Aktivitäts-Muster**: EP und Singles mit Slowed + Reverb Versionen bei minimaler Reichweite
-- **Bot-Indikatoren**: Hohe Play-Zahlen bei fast nicht existenten Hörern deutet stark auf Bot-Aktivität hin
-- **Künstliche Popularität**: Extrem verdächtiges Verhältnis zwischen Plays und Hörern
+## Manipulation Indicators
+- **Listener Count Anomalies**: 10 monthly listeners with 16,244 plays (extremely suspicious)
+- **Activity Patterns**: EP and singles with Slowed + Reverb versions with minimal reach
+- **Bot Indicators**: High play counts with almost non-existent listeners strongly indicates bot activity
+- **Artificial Popularity**: Extremely suspicious ratio between plays and listeners
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Low-Count-Künstlern
-- **Genre-Cluster**: Emo Rap mit emotionalen Themen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber Teil des "Fans also like" Clusters mit FYO
-- **Influence-Patterns**: Minimaler Einfluss, aber potenzielle Bot-Cluster-Bildung
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar low-count artists
+- **Genre Cluster**: Emo Rap with emotional themes
+- **Connection Strength**: Weak connections, but part of "Fans also like" cluster with FYO
+- **Influence Patterns**: Minimal influence, but potential bot cluster formation
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

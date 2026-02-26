@@ -1,34 +1,34 @@
 # Mars
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 0Iu6LY4UJnqaEBPvUqqcTj
 - **Spotify Link**: https://open.spotify.com/artist/0Iu6LY4UJnqaEBPvUqqcTj
 - **Original Spotify-Link**: https://open.spotify.com/artist/0Iu6LY4UJnqaEBPvUqqcTj?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 1,437 (erfasst: 26.02.2026 04:28)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Hyperpop
-- **Popularität**: Mittel-Hoch (1.4K monatliche Hörer)
+- **Monthly Listeners**: 1,437 (captured: 26.02.2026 04:28)
+- **Followers**: Not available
+- **Genre**: German Rap/Hyperpop
+- **Popularity**: Medium-High (1.4K monthly listeners)
 
-## Biografie
+## Biography
 ":/"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 04:28
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 04:28
 
-## Diskographie
-### Alben
+## Discography
+### Albums
 - Respawn:/crazyworld (Latest Release) - Album
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - Fotos von dir (2025) - Single
@@ -41,7 +41,7 @@
 4. Ganz weit weg (feat. hqwilli) (Explicit)
 5. Hello (Explicit)
 
-## Kollaborationen
+## Collaborations
 - hqwilli (Fotos von dir, Verrückte Welt, Zunge, Ganz weit weg)
 - mikeycyrus (Mars Radio)
 - JB 50 (Mars Radio)
@@ -49,29 +49,29 @@
 - jeremyy (Fans also like)
 - qfat (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Mars" - Planeten-Referenz
-- **Themen**: Fotografie (Fotos von dir), Wahnsinn (Verrückte Welt), Körperlichkeit (Zunge), Entfernung (Ganz weit weg), Kommunikation (Hello)
-- **Sprachmuster**: Deutsch mit emotionalen, direkten Themen
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Mars" - planet reference
+- **Themes**: Photography (Fotos von dir), madness (Verrückte Welt), physicality (Zunge), distance (Ganz weit weg), communication (Hello)
+- **Language Patterns**: German with emotional, direct themes
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 1,437 monatliche Hörer bei 6,655+ Plays (realistisch für Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 1,437 monthly listeners with 6,655+ plays (realistic for indie artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Extrem hohe Kollaborations-Dichte mit hqwilli
-- **Genre-Cluster**: Deutschrap/Hyperpop mit emotionalen Themen
-- **Verbindungs-Stärke**: Stark verbunden mit Matse, jeremyy, qfat (Fans also like)
-- **Influence-Patterns**: Teil des deutschen Hyperpop-Netzwerks
+## Network Analysis
+- **Collaboration Density**: Extremely high collaboration density with hqwilli
+- **Genre Cluster**: German Rap/Hyperpop with emotional themes
+- **Connection Strength**: Strongly connected with Matse, jeremyy, qfat (Fans also like)
+- **Influence Patterns**: Part of German hyperpop network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Hyperpop mit emotionalen Elementen
-- **Ansatz**: Emotional, minimalistisch (":/")
-- **Themen**: Fotografie, Wahnsinn, Körperlichkeit, Entfernung
-- **Community**: Starke Kollaborations-Präsenz mit hqwilli
+## Artist Philosophy
+- **Music Style**: German Rap/Hyperpop with emotional elements
+- **Approach**: Emotional, minimalist (":/")
+- **Themes**: Photography, madness, physicality, distance
+- **Community**: Strong collaboration presence with hqwilli
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

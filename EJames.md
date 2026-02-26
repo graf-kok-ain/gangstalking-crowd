@@ -1,36 +1,36 @@
 # EJames
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 7HgytjkAZ2Qo43hrJfYZ0y
 - **Spotify Link**: https://open.spotify.com/artist/7HgytjkAZ2Qo43hrJfYZ0y
 - **Original Spotify-Link**: https://open.spotify.com/artist/7HgytjkAZ2Qo43hrJfYZ0y?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 44 (erfasst: 26.02.2026 02:16)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 44 (captured: 26.02.2026 02:16)
+- **Followers**: Not available
 - **Genre**: Pop/Indie/Shoegaze/Rock
-- **Popularität**: Niedrig (44 monatliche Hörer)
+- **Popularity**: Low (44 monthly listeners)
 
-## Biografie
+## Biography
 "EJames is a 17 year old Philly-based artist blending pop, indie, shoegaze & rock into raw, emotional music. Singer, songwriter, producer. No gimmicks—just real sound."
 
-## Persönliche Informationen
-- **Alter**: 17 Jahre
-- **Standort**: Philadelphia (Philly)
-- **Rolle**: Singer, songwriter, producer
-- **Philosophie**: "No gimmicks—just real sound"
+## Personal Information
+- **Age**: 17 years
+- **Location**: Philadelphia (Philly)
+- **Role**: Singer, songwriter, producer
+- **Philosophy**: "No gimmicks—just real sound"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 02:16
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 02:16
 
-## Diskographie
-### Alben
+## Discography
+### Albums
 - EXPERIMENTAL - Album
 
 ### Singles
@@ -44,7 +44,7 @@
 4. How Far Can I Go? (feat. LJ VALLEY) (Explicit)
 5. Get That :/ (Explicit)
 
-## Kollaborationen
+## Collaborations
 - LJ VALLEY
 - Favi0 Lanez
 - EqualPain
@@ -56,29 +56,29 @@
 ## Discovered On
 - INDIE POP ROCK (Pop, Rock and more...)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: Präfix "E" + "James" - klassischer Name mit moderner Note
-- **Themen**: Emotionale Themen ("Half Dead", "Nobody's Home"), Adoleszenz ("16")
-- **Sprachmuster**: Englisch mit emotionalen, introspektiven Texten
-- **Zahlenmystik**: Alter "17" prominent, Track "16" (Alter-Referenz)
+## Patterns & Anomalies
+- **Name Conventions**: Prefix "E" + "James" - classic name with modern note
+- **Themes**: Emotional themes ("Half Dead", "Nobody's Home"), adolescence ("16")
+- **Language Patterns**: English with emotional, introspective lyrics
+- **Number Mysticism**: Age "17" prominent, track "16" (age reference)
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 44 monatliche Hörer ist realistisch für 17-jährigen Indie-Künstler
-- **Aktivitäts-Muster**: Regelmäßige Releases, authentische Entwicklung
-- **Bot-Indikatoren**: Keine Anzeichen für Bot-Aktivität
-- **Künstliche Popularität**: Echte organische Entwicklung mit authentischer Biografie
+## Manipulation Indicators
+- **Listener Count Anomalies**: 44 monthly listeners is realistic for 17-year-old indie artist
+- **Activity Patterns**: Regular releases, authentic development
+- **Bot Indicators**: No signs of bot activity
+- **Artificial Popularity**: Genuine organic development with authentic biography
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Indie-Künstlern
-- **Genre-Cluster**: Pop/Indie/Rock mit emotionalen Themen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber authentische Community
-- **Influence-Patterns**: Authentischer Einfluss in der Indie-Szene, keine Manipulation
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar indie artists
+- **Genre Cluster**: Pop/Indie/Rock with emotional themes
+- **Connection Strength**: Weak connections, but authentic community
+- **Influence Patterns**: Authentic influence in indie scene, no manipulation
 
-## Künstler-Philosophie
-- **Musikstil**: Pop, Indie, Shoegaze & Rock
-- **Ansatz**: Raw, emotional music
-- **Werte**: No gimmicks—just real sound
-- **Standort**: Philadelphia-basiert
+## Artist Philosophy
+- **Music Style**: Pop, Indie, Shoegaze & Rock
+- **Approach**: Raw, emotional music
+- **Values**: No gimmicks—just real sound
+- **Location**: Philadelphia-based
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

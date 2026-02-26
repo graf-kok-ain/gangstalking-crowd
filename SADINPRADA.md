@@ -1,34 +1,34 @@
 # SADINPRADA
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 2lBl3u2oeZvx1J6na3Yh3e
 - **Spotify Link**: https://open.spotify.com/artist/2lBl3u2oeZvx1J6na3Yh3e
 - **Original Spotify-Link**: https://open.spotify.com/artist/2lBl3u2oeZvx1J6na3Yh3e?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 637 (erfasst: 26.02.2026 04:04)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Moderat (637 monatliche Hörer)
+- **Monthly Listeners**: 637 (captured: 26.02.2026 04:04)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Moderate (637 monthly listeners)
 
-## Biografie
+## Biography
 "Insta: sadinprada"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
 - **Instagram**: sadinprada
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 04:04
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 04:04
 
-## Diskographie
-### Alben
+## Discography
+### Albums
 - FAITH NO MORE (2023) - Album
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - LOOSE CONTROL (Latest Release) - Single
@@ -42,7 +42,7 @@
 4. AUFWACHEN - V2 (feat. changed) - 2,805 Plays
 5. LOOSE CONTROL - 1,680 Plays
 
-## Kollaborationen
+## Collaborations
 - EliaZz (H3LL0 K1TTY)
 - changed (AUFWACHEN - V2)
 - nightfvry (SADINPRADA Radio)
@@ -51,29 +51,29 @@
 - CHROME (Fans also like)
 - vaay (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "SADINPRADA" - Marken-Kombination, Luxus-Referenz
-- **Themen**: Technologie (H3LL0 K1TTY, CGI), Zahlen (42 FREESTYLE), Emotionen (LOOSE CONTROL), Wachsein (AUFWACHEN)
-- **Sprachmuster**: Deutsch mit englischen/technischen Elementen, Leetspeak (H3LL0 K1TTY)
-- **Zahlenmystik**: "42" als direkte Zahlen-Referenz
+## Patterns & Anomalies
+- **Name Conventions**: "SADINPRADA" - brand combination, luxury reference
+- **Themes**: Technology (H3LL0 K1TTY, CGI), numbers (42 FREESTYLE), emotions (LOOSE CONTROL), awakening (AUFWACHEN)
+- **Language Patterns**: German with English/technical elements, leetspeak (H3LL0 K1TTY)
+- **Number Mysticism**: "42" as direct number reference
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 637 monatliche Hörer bei 8,667+ Plays (realistisch für Trap-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 637 monthly listeners with 8,667+ plays (realistic for trap artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Trap-Künstlern
-- **Genre-Cluster**: Deutschrap/Trap mit technologischen Themen
-- **Verbindungs-Stärke**: Verbunden mit ongoat, CHROME, vaay (Fans also like)
-- **Influence-Patterns**: Teil des Trap/Underground Netzwerks
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar trap artists
+- **Genre Cluster**: German Rap/Trap with technological themes
+- **Connection Strength**: Connected with ongoat, CHROME, vaay (Fans also like)
+- **Influence Patterns**: Part of Trap/Underground network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap mit technologischen Elementen
-- **Ansatz**: Modern, technologie-fokussiert (Leetspeak, CGI)
-- **Themen**: Technologie, Emotionen, Wachsein, Luxus-Referenzen
-- **Community**: Instagram-Präsenz, technologische Ästhetik
+## Artist Philosophy
+- **Music Style**: German Rap/Trap with technological elements
+- **Approach**: Modern, technology-focused (leetspeak, CGI)
+- **Themes**: Technology, emotions, awakening, luxury references
+- **Community**: Instagram presence, technological aesthetic
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

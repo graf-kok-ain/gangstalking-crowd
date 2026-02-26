@@ -1,34 +1,34 @@
 # HXDEX
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 4arQqWNOsuPj2N69De6qgA
 - **Spotify Link**: https://open.spotify.com/artist/4arQqWNOsuPj2N69De6qgA
 - **Original Spotify-Link**: https://open.spotify.com/artist/4arQqWNOsuPj2N69De6qgA?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 320 (erfasst: 26.02.2026 04:50)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Sehr niedrig (320 monatliche Hörer)
+- **Monthly Listeners**: 320 (captured: 26.02.2026 04:50)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Very low (320 monthly listeners)
 
-## Biografie
+## Biography
 "Amo aller Amos"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 04:50
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 04:50
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - 1L in shots (Latest Release) - Single
@@ -41,7 +41,7 @@
 4. wochen ohne schlaf (Explicit)
 5. bloom (feat. JShiny, EIAS) (Explicit)
 
-## Kollaborationen
+## Collaborations
 - JShiny (valley, bloom)
 - CXDEX (valley, SINNE TAUB)
 - KlaaNuddn (SINNE TAUB)
@@ -52,29 +52,29 @@
 - vaay (Fans also like)
 - JShiny (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "HXDEX" - technologischer, kreativer Name
-- **Themen**: Geografie (valley), Wahrnehmung (SINNE TAUB), Emotionen (irgendwas & heartbreak), Zeit (wochen ohne schlaf), Wachstum (bloom)
-- **Sprachmuster**: Deutsch mit experimentellen, emotionalen Themen
-- **Zahlenmystik**: "1L" als Mengen-Referenz
+## Patterns & Anomalies
+- **Name Conventions**: "HXDEX" - technological, creative name
+- **Themes**: Geography (valley), perception (SINNE TAUB), emotions (irgendwas & heartbreak), time (wochen ohne schlaf), growth (bloom)
+- **Language Patterns**: German with experimental, emotional themes
+- **Number Mysticism**: "1L" as quantity reference
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 320 monatliche Hörer (realistisch für Underground-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 320 monthly listeners (realistic for underground artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Extrem hohe Kollaborations-Dichte mit JShiny, CXDEX
-- **Genre-Cluster**: Deutschrap/Trap mit experimentellen Themen
-- **Verbindungs-Stärke**: Stark verbunden mit vaay, JShiny (Fans also like)
-- **Influence-Patterns**: Teil des Experimental-Trap Netzwerks
+## Network Analysis
+- **Collaboration Density**: Extremely high collaboration density with JShiny, CXDEX
+- **Genre Cluster**: German Rap/Trap with experimental themes
+- **Connection Strength**: Strongly connected with vaay, JShiny (Fans also like)
+- **Influence Patterns**: Part of experimental trap network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap mit experimentellen Elementen
-- **Ansatz**: Selbstironisch ("Amo aller Amos")
-- **Themen**: Geografie, Wahrnehmung, Emotionen, Zeit, Wachstum
-- **Community**: Starke Kollaborations-Präsenz mit JShiny, CXDEX
+## Artist Philosophy
+- **Music Style**: German Rap/Trap with experimental elements
+- **Approach**: Self-ironic ("Amo aller Amos")
+- **Themes**: Geography, perception, emotions, time, growth
+- **Community**: Strong collaboration presence with JShiny, CXDEX
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

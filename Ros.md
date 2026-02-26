@@ -1,34 +1,34 @@
 # Ros
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 1SkFUUTQaIqAgzLcEcmLY2
 - **Spotify Link**: https://open.spotify.com/artist/1SkFUUTQaIqAgzLcEcmLY2
 - **Original Spotify-Link**: https://open.spotify.com/artist/1SkFUUTQaIqAgzLcEcmLY2?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 3 (erfasst: 26.02.2026 02:54)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 3 (captured: 26.02.2026 02:54)
+- **Followers**: Not available
 - **Genre**: Emo Rap/Alternative
-- **Popularität**: Extrem niedrig (3 monatliche Hörer)
+- **Popularity**: Extremely low (3 monthly listeners)
 
-## Biografie
+## Biography
 "@SLITBITCHCUTWRISTS"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
 - **Instagram**: @SLITBITCHCUTWRISTS
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 02:54
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 02:54
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - Endless Nightmare (2021) - Single
@@ -36,41 +36,41 @@
 ### Popular Tracks (Top 1)
 1. Endless Nightmare (Explicit)
 
-## Kollaborationen
+## Collaborations
 - Mykel
 - Brix Noire
 - Lil Ash
 - imsorryimtrying
 - plainblaine
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Ros" - kurzer, einfacher Name
-- **Themen**: Dunkle Themen ("Endless Nightmare")
-- **Sprachmuster**: Englisch mit düsteren, emotionalen Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Ros" - short, simple name
+- **Themes**: Dark themes ("Endless Nightmare")
+- **Language Patterns**: English with dark, emotional lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Social Media Präsenz
-- **Instagram**: @SLITBITCHCUTWRISTS (kontroverser Handle)
-- **Handle-Stil**: Provokant und rebellisch
-- **Community**: Instagram für Updates
+## Social Media Presence
+- **Instagram**: @SLITBITCHCUTWRISTS (controversial handle)
+- **Handle Style**: Provocative and rebellious
+- **Community**: Instagram for updates
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 3 monatliche Hörer bei minimaler Reichweite (realistisch für extrem underground)
-- **Aktivitäts-Muster**: Single bei minimaler Reichweite
-- **Bot-Indikatoren**: Keine Anzeichen für Bot-Aktivität
-- **Künstliche Popularität**: Echte underground Entwicklung
+## Manipulation Indicators
+- **Listener Count Anomalies**: 3 monthly listeners with minimal reach (realistic for extremely underground)
+- **Activity Patterns**: Single with minimal reach
+- **Bot Indicators**: No signs of bot activity
+- **Artificial Popularity**: Genuine underground development
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Low-Count-Künstlern
-- **Genre-Cluster**: Emo Rap mit düsteren Themen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Minimaler Einfluss, aber authentische underground Community
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar low-count artists
+- **Genre Cluster**: Emo Rap with dark themes
+- **Connection Strength**: Weak connections, but part of "Fans also like" cluster
+- **Influence Patterns**: Minimal influence, but authentic underground community
 
-## Künstler-Philosophie
-- **Musikstil**: Emo Rap mit düsteren Themen
-- **Ansatz**: Provokante Social-Media-Präsenz
-- **Themen**: Dunkle, emotionale Verarbeitung
-- **Community**: Instagram für Verbindung
+## Artist Philosophy
+- **Music Style**: Emo Rap with dark themes
+- **Approach**: Provocative social media presence
+- **Themes**: Dark, emotional processing
+- **Community**: Instagram for connection
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

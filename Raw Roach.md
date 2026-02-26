@@ -1,31 +1,31 @@
 # Raw Roach
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 0Llrb8XNvht8ngUzFF4XZp
 - **Spotify Link**: https://open.spotify.com/artist/0Llrb8XNvht8ngUzFF4XZp
 - **Original Spotify-Link**: https://open.spotify.com/artist/0Llrb8XNvht8ngUzFF4XZp?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 6 (erfasst: 26.02.2026 02:34)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 6 (captured: 26.02.2026 02:34)
+- **Followers**: Not available
 - **Genre**: Rap/Trap
-- **Popularität**: Extrem niedrig (6 monatliche Hörer)
+- **Popularity**: Extremely low (6 monthly listeners)
 
-## Biografie
-Keine Biografie verfügbar
+## Biography
+No biography available
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 02:34
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 02:34
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### Singles
 - Exit Life (2019) - Single
@@ -38,7 +38,7 @@ Keine Biografie verfügbar
 4. Feelings (Explicit)
 5. GoodBye (feat. TakeOff Thomas) (Explicit)
 
-## Kollaborationen
+## Collaborations
 - BigLizard
 - JayyFromUptown
 - TakeOff Thomas
@@ -48,23 +48,23 @@ Keine Biografie verfügbar
 - danielkuamusic
 - Izeck
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Raw Roach" - roher, ungeschliffener Stil
-- **Themen**: Emotionale Themen ("Feelings"), existenzielle Themen ("Exit Life"), kontroverse Themen ("Fuck Being Sober")
-- **Sprachmuster**: Englisch mit emotionalen, kontroversen Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Raw Roach" - raw, unpolished style
+- **Themes**: Emotional themes ("Feelings"), existential themes ("Exit Life"), controversial themes ("Fuck Being Sober")
+- **Language Patterns**: English with emotional, controversial lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 6 monatliche Hörer bei regelmäßigen Releases (verdächtig)
-- **Aktivitäts-Muster**: Regelmäßige Releases seit 2019 bei minimaler Reichweite
-- **Bot-Indikatoren**: Minimaler Content bei fast nicht existenten Hörern
-- **Künstliche Popularität**: Verdächtige Aktivität bei extrem niedriger Reichweite
+## Manipulation Indicators
+- **Listener Count Anomalies**: 6 monthly listeners with regular releases (suspicious)
+- **Activity Patterns**: Regular releases since 2019 with minimal reach
+- **Bot Indicators**: Minimal content with almost non-existent listeners
+- **Artificial Popularity**: Suspicious activity with extremely low reach
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Low-Count-Künstlern
-- **Genre-Cluster**: Rap/Trap mit emotionalen Themen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Minimaler Einfluss, aber potenzielle Bot-Cluster-Bildung
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar low-count artists
+- **Genre Cluster**: Rap/Trap with emotional themes
+- **Connection Strength**: Weak connections, but part of "Fans also like" cluster
+- **Influence Patterns**: Minimal influence, but potential bot cluster formation
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

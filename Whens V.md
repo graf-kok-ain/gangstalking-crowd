@@ -1,31 +1,31 @@
 # Whens V
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 2Vm3U5eOo7xShJLLtbczX7
 - **Spotify Link**: https://open.spotify.com/artist/2Vm3U5eOo7xShJLLtbczX7
 - **Original Spotify-Link**: https://open.spotify.com/artist/2Vm3U5eOo7xShJLLtbczX7?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 16 (erfasst: 26.02.2026 02:18)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 16 (captured: 26.02.2026 02:18)
+- **Followers**: Not available
 - **Genre**: Emo Rap/Alternative
-- **Popularität**: Extrem niedrig (16 monatliche Hörer)
+- **Popularity**: Extremely low (16 monthly listeners)
 
-## Biografie
+## Biography
 "versions"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 02:18
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 02:18
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### Singles
 - 21 (2023) - Single
@@ -39,7 +39,7 @@
 4. toxic (Explicit) - 1,639 Plays
 5. time to breathe (Explicit) - 1,209 Plays
 
-## Kollaborationen
+## Collaborations
 - F3V3R
 - Hallow Notes
 - Yahir C
@@ -47,23 +47,23 @@
 - FYO
 - Ken Xysti
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Whens V" - ungewöhnliche Namensstruktur mit "V"
-- **Themen**: Emotionale Themen ("yesterday was a lie", "toxic"), existenzielle Fragen ("whatever", "i am told")
-- **Sprachmuster**: Englisch mit emotionalen, introspektiven Texten
-- **Zahlenmystik**: "21" in Titel, "V" als Buchstabe
+## Patterns & Anomalies
+- **Name Conventions**: "Whens V" - unusual name structure with "V"
+- **Themes**: Emotional themes ("yesterday was a lie", "toxic"), existential questions ("whatever", "i am told")
+- **Language Patterns**: English with emotional, introspective lyrics
+- **Number Mysticism**: "21" in title, "V" as letter
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 16 monatliche Hörer bei 5,405 Plays (extrem verdächtig)
-- **Aktivitäts-Muster**: Regelmäßige Releases bei minimaler Reichweite
-- **Bot-Indikatoren**: Hohe Play-Zahlen bei fast nicht existenten Hörern deutet stark auf Bot-Aktivität hin
-- **Künstliche Popularität**: Extrem verdächtiges Verhältnis zwischen Plays und Hörern
+## Manipulation Indicators
+- **Listener Count Anomalies**: 16 monthly listeners with 5,405 plays (extremely suspicious)
+- **Activity Patterns**: Regular releases with minimal reach
+- **Bot Indicators**: High play counts with almost non-existent listeners strongly indicates bot activity
+- **Artificial Popularity**: Extremely suspicious ratio between plays and listeners
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Low-Count-Künstlern
-- **Genre-Cluster**: Emo Rap mit emotionalen Themen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Minimaler Einfluss, aber potenzielle Bot-Cluster-Bildung
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar low-count artists
+- **Genre Cluster**: Emo Rap with emotional themes
+- **Connection Strength**: Weak connections, but part of "Fans also like" cluster
+- **Influence Patterns**: Minimal influence, but potential bot cluster formation
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

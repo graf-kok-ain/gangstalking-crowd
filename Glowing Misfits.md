@@ -1,34 +1,34 @@
 # Glowing Misfits
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 0UgkkWzK7E48N2NZ1kue5s
 - **Spotify Link**: https://open.spotify.com/artist/0UgkkWzK7E48N2NZ1kue5s
 - **Original Spotify-Link**: https://open.spotify.com/artist/0UgkkWzK7E48N2NZ1kue5s?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 1,216 (erfasst: 26.02.2026 03:58)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Moderat (1,216 monatliche Hörer)
+- **Monthly Listeners**: 1,216 (captured: 26.02.2026 03:58)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Moderate (1,216 monthly listeners)
 
-## Biografie
+## Biography
 "ARTISTKOLLEKTIV AUS HL"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:58
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:58
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - supernova (Latest Release) - Single
@@ -40,35 +40,35 @@
 2. supernova (feat. 2dizzy, hella vince) (Explicit) - 1,214 Plays
 3. icy (feat. 2dizzy) - 1,688 Plays
 
-## Kollaborationen
+## Collaborations
 - hella vince (Stadtaffe, supernova)
 - 2dizzy (supernova, icy)
 - Jzs (Glowing Misfits Radio)
 - Jaam (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Glowing Misfits" - englischer Name, Kollektiv-Identität
-- **Themen**: Urban (Stadtaffe), Wissenschaft (supernova), Atmosphäre (icy)
-- **Sprachmuster**: Deutsch mit Trap-Elementen und urbanen Themen
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Glowing Misfits" - English name, collective identity
+- **Themes**: Urban (Stadtaffe), science (supernova), atmosphere (icy)
+- **Language Patterns**: German with trap elements and urban themes
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 1,216 monatliche Hörer bei 2,139+ Plays (realistisch für Trap-Kollektiv)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 1,216 monthly listeners with 2,139+ plays (realistic for trap collective)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Extrem hohe Kollaborations-Dichte (zentrales Trap-Kollektiv)
-- **Genre-Cluster**: Deutschrap/Trap mit urbanen Themen
-- **Verbindungs-Stärke**: Zentraler Trap-Knotenpunkt mit 2dizzy, hella vince
-- **Influence-Patterns**: Teil des Hard Trap/Underground Netzwerks
+## Network Analysis
+- **Collaboration Density**: Extremely high collaboration density (central trap collective)
+- **Genre Cluster**: German Rap/Trap with urban themes
+- **Connection Strength**: Central trap hub with 2dizzy, hella vince
+- **Influence Patterns**: Part of Hard Trap/Underground network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Trap als Kollektiv
-- **Ansatz**: Kollektiv-Identität ("ARTISTKOLLEKTIV AUS HL")
-- **Themen**: Urbanes Leben, Wissenschaft, Atmosphäre
-- **Community**: Kollektiv-Struktur mit starken Kollaborationen
+## Artist Philosophy
+- **Music Style**: German Rap/Trap as collective
+- **Approach**: Collective identity ("ARTISTKOLLEKTIV AUS HL")
+- **Themes**: Urban life, science, atmosphere
+- **Community**: Collective structure with strong collaborations
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

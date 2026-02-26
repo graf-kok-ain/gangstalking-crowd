@@ -1,34 +1,34 @@
 # Luzz
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 4AnSC1HK2PyDGzBF5miLkX
 - **Spotify Link**: https://open.spotify.com/artist/4AnSC1HK2PyDGzBF5miLkX
 - **Original Spotify-Link**: https://open.spotify.com/artist/4AnSC1HK2PyDGzBF5miLkX?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 651 (erfasst: 26.02.2026 03:46)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Hyperpop
-- **Popularität**: Moderat (651 monatliche Hörer)
+- **Monthly Listeners**: 651 (captured: 26.02.2026 03:46)
+- **Followers**: Not available
+- **Genre**: German Rap/Hyperpop
+- **Popularity**: Moderate (651 monthly listeners)
 
-## Biografie
+## Biography
 "im just here having some fun"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:46
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:46
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - arrogant freestyle (Latest Release) - Single
@@ -41,7 +41,7 @@
 4. einfach (Explicit)
 5. FEHLERHAFT (feat. Elijah249, ISAYAH) (Explicit)
 
-## Kollaborationen
+## Collaborations
 - Elijah249 (Gift - Remix, Asylum, FEHLERHAFT)
 - PURP (Asylum)
 - ISAYAH (FEHLERHAFT)
@@ -50,29 +50,29 @@
 - albedo (Fans also like)
 - RAKIMON (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Luzz" - kurzer, einfacher Name
-- **Themen**: Selbstbewusstsein (arrogant freestyle), psychologische Themen (Asylum), Fehler (FEHLERHAFT)
-- **Sprachmuster**: Deutsch mit aggressiven, selbstbewussten Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Luzz" - short, simple name
+- **Themes**: Self-confidence (arrogant freestyle), psychological themes (Asylum), mistakes (FEHLERHAFT)
+- **Language Patterns**: German with aggressive, confident lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 651 monatliche Hörer (realistisch für Indie-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 651 monthly listeners (realistic for indie artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Starke Kollaborationen mit Elijah249 (mehrere Tracks)
-- **Genre-Cluster**: Deutschrap/Hyperpop mit aggressiven Themen
-- **Verbindungs-Stärke**: Stark verbunden mit albedo, RAKIMON (Fans also like)
-- **Influence-Patterns**: Teil des GERMAN SCENECORE/HYPERPOP Netzwerks
+## Network Analysis
+- **Collaboration Density**: Strong collaborations with Elijah249 (multiple tracks)
+- **Genre Cluster**: German Rap/Hyperpop with aggressive themes
+- **Connection Strength**: Strongly connected with albedo, RAKIMON (Fans also like)
+- **Influence Patterns**: Part of GERMAN SCENECORE/HYPERPOP network
 
-## Künstler-Philosophie
-- **Musikstil**: Deutschrap/Hyperpop mit aggressiven Themen
-- **Ansatz**: Locker, selbstbewusst ("im just here having some fun")
-- **Themen**: Selbstbewusstsein, psychologische Zustände, Fehler
-- **Community**: Starke Kollaborations-Präsenz mit Elijah249
+## Artist Philosophy
+- **Music Style**: German Rap/Hyperpop with aggressive themes
+- **Approach**: Relaxed, confident ("im just here having some fun")
+- **Themes**: Self-confidence, psychological states, mistakes
+- **Community**: Strong collaboration presence with Elijah249
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

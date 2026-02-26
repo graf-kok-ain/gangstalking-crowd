@@ -1,31 +1,31 @@
 # TOCKAA
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 0wOQyFqNZY4HIHzsmD07Dn
 - **Spotify Link**: https://open.spotify.com/artist/0wOQyFqNZY4HIHzsmD07Dn
 - **Original Spotify-Link**: https://open.spotify.com/artist/0wOQyFqNZY4HIHzsmD07Dn?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 26 (erfasst: 26.02.2026 01:58)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap/Trap
-- **Popularität**: Niedrig (26 monatliche Hörer)
+- **Monthly Listeners**: 26 (captured: 26.02.2026 01:58)
+- **Followers**: Not available
+- **Genre**: German Rap/Trap
+- **Popularity**: Low (26 monthly listeners)
 
-## Biografie
+## Biography
 "John 14:6 "I am the way and the truth and the life. No one comes to the Father except through me.""
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 01:58
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 01:58
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### Singles
 - CALL NICHT. (Remix) (2023) - Single
@@ -38,7 +38,7 @@
 4. NACHT. (Explicit)
 5. BLUMEN. (Explicit)
 
-## Kollaborationen
+## Collaborations
 - Hydrant Clique
 - Hallow Notes
 - utpv
@@ -48,28 +48,28 @@
 - HYDRANT DISCORD TAPE (2025) - Album
 - COLORS (2023) - Album
 
-## Künstler-Philosophie
-- **Religiöse Referenz**: Johannes 14:6 Bibelvers
-- **Musikstil**: Deutschrap mit religiösen Untertönen
-- **Track-Namen**: Konzeptuelle Titel mit Punkten
+## Artist Philosophy
+- **Religious Reference**: John 14:6 Bible verse
+- **Music Style**: German Rap with religious undertones
+- **Track Names**: Conceptual titles with periods
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: Alle Caps "TOCKAA" - aggressive Präsenz
-- **Themen**: Religiöse/Christliche Motive (Johannes 14:6), emotionale Zustände
-- **Sprachmuster**: Deutsch mit religiösen englischen Zitaten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: All caps "TOCKAA" - aggressive presence
+- **Themes**: Religious/Christian motifs (John 14:6), emotional states
+- **Language Patterns**: German with religious English quotes
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 26 monatliche Hörer ist niedrig für religiöse Nische
-- **Aktivitäts-Muster**: Sporadische Releases, keine regelmäßige Aktivität
-- **Bot-Indikatoren**: Minimaler Content könnte auf Bot hindeuten
-- **Künstliche Popularität**: Religiöse Thematik könnte künstliche Engagement-Strategie sein
+## Manipulation Indicators
+- **Listener Count Anomalies**: 26 monthly listeners is low for religious niche
+- **Activity Patterns**: Sporadic releases, no regular activity
+- **Bot Indicators**: Minimal content could indicate bot
+- **Artificial Popularity**: Religious theme could be artificial engagement strategy
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Begrenzte Kollaborationen (Hydrant Clique)
-- **Genre-Cluster**: Religiöser Deutschrap mit spezifischer Zielgruppe
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber thematische Cluster-Bildung
-- **Influence-Patterns**: Begrenzte Reichweite, aber starker thematischer Fokus
+## Network Analysis
+- **Collaboration Density**: Limited collaborations (Hydrant Clique)
+- **Genre Cluster**: Religious German Rap with specific target audience
+- **Connection Strength**: Weak connections, but thematic cluster formation
+- **Influence Patterns**: Limited reach, but strong thematic focus

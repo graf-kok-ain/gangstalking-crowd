@@ -1,47 +1,47 @@
 # GAZI
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 5Uvm5KaahtUXqbTatIYolJ
 - **Spotify Link**: https://open.spotify.com/artist/5Uvm5KaahtUXqbTatIYolJ
 - **Original Spotify-Link**: https://open.spotify.com/artist/5Uvm5KaahtUXqbTatIYolJ?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 5 (erfasst: 26.02.2026 02:38)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 5 (captured: 26.02.2026 02:38)
+- **Followers**: Not available
 - **Genre**: Rap/Trap
-- **Popularität**: Extrem niedrig (5 monatliche Hörer)
+- **Popularity**: Extremely low (5 monthly listeners)
 
-## Biografie
-Keine Biografie verfügbar
+## Biography
+No biography available
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 02:38
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 02:38
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
 - 16 Part.1 (2021) - EP
 - Burn to alone (2021) - EP
 
 ### Singles
-- Keine Singles verfügbar
+- No singles available
 
 ### Popular Tracks (Top 5)
 1. Blackheart (feat. Holmy, lil raf) (Explicit)
 2. Blackheart, Pt. 2 (feat. Holmy, lil raf) (Explicit)
 3. 520 - Remix
 4. 520
-5. 心动女孩 (chinesisch: "Herbeat Girl")
+5. 心动女孩 (chinese: "Herbeat Girl")
 
-## Kollaborationen
+## Collaborations
 - Holmy
 - lil raf
 - XRAEDED
@@ -50,28 +50,28 @@ Keine Biografie verfügbar
 - Yungbro
 - Benzo Bailey
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "GAZI" - kurzer, prägnanter Name
-- **Themen**: Emotionale Themen ("Blackheart"), romantische Themen ("心动女孩"), numerische Themen ("520")
-- **Sprachmuster**: Englisch mit chinesischen Titeln
-- **Zahlenmystik**: "520" (chinesische Liebeszahl), "16" in EP-Titel
+## Patterns & Anomalies
+- **Name Conventions**: "GAZI" - short, concise name
+- **Themes**: Emotional themes ("Blackheart"), romantic themes ("心动女孩"), numerical themes ("520")
+- **Language Patterns**: English with Chinese titles
+- **Number Mysticism**: "520" (Chinese love number), "16" in EP title
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 5 monatliche Hörer bei EPs und regelmäßigen Releases (verdächtig)
-- **Aktivitäts-Muster**: EPs und Singles bei minimaler Reichweite
-- **Bot-Indikatoren**: Minimaler Content bei fast nicht existenten Hörern
-- **Künstliche Popularität**: Verdächtige Aktivität bei extrem niedriger Reichweite
+## Manipulation Indicators
+- **Listener Count Anomalies**: 5 monthly listeners with EPs and regular releases (suspicious)
+- **Activity Patterns**: EPs and singles with minimal reach
+- **Bot Indicators**: Minimal content with almost non-existent listeners
+- **Artificial Popularity**: Suspicious activity with extremely low reach
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Low-Count-Künstlern
-- **Genre-Cluster**: Rap/Trap mit emotionalen Themen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber Teil des "Fans also like" Clusters mit Yungbro
-- **Influence-Patterns**: Minimaler Einfluss, aber potenzielle Bot-Cluster-Bildung
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar low-count artists
+- **Genre Cluster**: Rap/Trap with emotional themes
+- **Connection Strength**: Weak connections, but part of "Fans also like" cluster with Yungbro
+- **Influence Patterns**: Minimal influence, but potential bot cluster formation
 
-## Kulturelle Besonderheiten
-- **Chinesische Titel**: "心动女孩" (Herbeat Girl) zeigt chinesische Einflüsse
-- **Zahlen-Symbolik**: "520" ist chinesische Liebeszahl
-- **EP-Struktur**: Konzeptionelle EPs ("16 Part.1", "Burn to alone")
+## Cultural Characteristics
+- **Chinese Titles**: "心动女孩" (Herbeat Girl) shows Chinese influences
+- **Number Symbolism**: "520" is Chinese love number
+- **EP Structure**: Conceptual EPs ("16 Part.1", "Burn to alone")
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

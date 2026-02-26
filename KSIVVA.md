@@ -1,34 +1,34 @@
 # KSIVVA
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 3m25jciU3x3criaTP0N5D2
 - **Spotify Link**: https://open.spotify.com/artist/3m25jciU3x3criaTP0N5D2
 - **Original Spotify-Link**: https://open.spotify.com/artist/3m25jciU3x3criaTP0N5D2?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 572 (erfasst: 26.02.2026 03:50)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 572 (captured: 26.02.2026 03:50)
+- **Followers**: Not available
 - **Genre**: Experimental/Hyperpop
-- **Popularität**: Moderat (572 monatliche Hörer)
+- **Popularity**: Moderate (572 monthly listeners)
 
-## Biografie
-Keine Biografie verfügbar
+## Biography
+No biography available
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:50
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:50
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - грустный (2024) - Single
@@ -40,7 +40,7 @@ Keine Biografie verfügbar
 3. грустный (feat. Punk Christ) (Explicit)
 4. Bktherula Anthem (feat. Punk Christ) (Explicit)
 
-## Kollaborationen
+## Collaborations
 - Laer Xirtam (HEALING, DESTRUCTION)
 - Punk Christ (грустный, Bktherula Anthem)
 - Dropped here (KSIVVA Radio)
@@ -49,29 +49,29 @@ Keine Biografie verfügbar
 - ALeiz (Fans also like)
 - Saddex (Fans also like)
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "KSIVVA" - ungewöhnliche Großschreibung, kryptischer Name
-- **Themen**: Heilung/Zerstörung (HEALING/DESTRUCTION), Emotionen (грустный = traurig), Popkultur-Referenzen (Bktherula Anthem)
-- **Sprachmuster**: Deutsch mit russischen Elementen (грустный), experimentelle Texte
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "KSIVVA" - unusual capitalization, cryptic name
+- **Themes**: Healing/Destruction (HEALING/DESTRUCTION), emotions (грустный = sad), pop culture references (Bktherula Anthem)
+- **Language Patterns**: German with Russian elements (грустный), experimental lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 572 monatliche Hörer (realistisch für Experimental-Künstler)
-- **Aktivitäts-Muster**: Regelmäßige Veröffentlichungen, organische Entwicklung
-- **Bot-Indikatoren**: Keine offensichtlichen Bot-Indikatoren
-- **Künstliche Popularität**: Eher organisch als manipuliert
+## Manipulation Indicators
+- **Listener Count Anomalies**: 572 monthly listeners (realistic for experimental artist)
+- **Activity Patterns**: Regular releases, organic development
+- **Bot Indicators**: No obvious bot indicators
+- **Artificial Popularity**: Rather organic than manipulated
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Starke Kollaborationen mit Laer Xirtam und Punk Christ
-- **Genre-Cluster**: Experimental/Hyperpop mit russischen Elementen
-- **Verbindungs-Stärke**: Stark verbunden mit ALeiz, Saddex (Fans also like)
-- **Influence-Patterns**: Teil des Experimental-Hyperpop Netzwerks
+## Network Analysis
+- **Collaboration Density**: Strong collaborations with Laer Xirtam and Punk Christ
+- **Genre Cluster**: Experimental/Hyperpop with Russian elements
+- **Connection Strength**: Strongly connected with ALeiz, Saddex (Fans also like)
+- **Influence Patterns**: Part of experimental hyperpop network
 
-## Künstler-Philosophie
-- **Musikstil**: Experimental/Hyperpop mit russischen Elementen
-- **Ansatz**: Experimentell, grenzüberschreitend (russische Titel)
-- **Themen**: Dualität (Heilung/Zerstörung), Emotionen, Popkultur
-- **Community**: Starke Kollaborations-Präsenz mit experimentellen Künstlern
+## Artist Philosophy
+- **Music Style**: Experimental/Hyperpop with Russian elements
+- **Approach**: Experimental, boundary-crossing (Russian titles)
+- **Themes**: Duality (healing/destruction), emotions, pop culture
+- **Community**: Strong collaboration presence with experimental artists
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

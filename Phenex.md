@@ -1,34 +1,34 @@
 # Phenex
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 4WLD4Til41CT8CZjvrRqeA
 - **Spotify Link**: https://open.spotify.com/artist/4WLD4Til41CT8CZjvrRqeA
 - **Original Spotify-Link**: https://open.spotify.com/artist/4WLD4Til41CT8CZjvrRqeA?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 22 (erfasst: 26.02.2026 03:26)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 22 (captured: 26.02.2026 03:26)
+- **Followers**: Not available
 - **Genre**: Emo Rap/Alternative
-- **Popularität**: Niedrig (22 monatliche Hörer)
+- **Popularity**: Low (22 monthly listeners)
 
-## Biografie
+## Biography
 "pop melodies & catchy hooks mixed with a new wave trap style"
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:26
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:26
 
-## Diskographie
-### Alben
+## Discography
+### Albums
 - I Know You're Still Healing and I'm Sorry (2020) - Album
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - No Love (2020) - Single
@@ -41,7 +41,7 @@
 4. Bad for Me (feat. Lil Sabb) (Explicit) - 8,041 Plays
 5. Life's Got Me Sick (feat. Lil Sabb) (Explicit) - 6,122 Plays
 
-## Kollaborationen
+## Collaborations
 - Lil Sabb
 - Corvus
 - Mykel
@@ -49,35 +49,35 @@
 - altr
 - trustohm
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "Phenex" - mythologischer Name (Phönix)
-- **Themen**: Emotionale Themen ("I Know You're Still Healing and I'm Sorry"), existenzielle Themen ("Can't Get What I Need"), kontroversielle Themen ("Bad for Me")
-- **Sprachmuster**: Englisch mit emotionalen, introspektiven Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "Phenex" - mythological name (Phoenix)
+- **Themes**: Emotional themes ("I Know You're Still Healing and I'm Sorry"), existential themes ("Can't Get What I Need"), controversial themes ("Bad for Me")
+- **Language Patterns**: English with emotional, introspective lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 22 monatliche Hörer bei extrem hohen Play-Zahlen (12,599 Plays) (extrem verdächtig)
-- **Aktivitäts-Muster**: Album und Singles bei minimaler Reichweite
-- **Bot-Indikatoren**: EXTREM hohe Play-Zahlen bei fast nicht existenten Hörern deutet stark auf Bot-Aktivität hin
-- **Künstliche Popularität**: Extrem verdächtiges Verhältnis zwischen Plays und Hörern
+## Manipulation Indicators
+- **Listener Count Anomalies**: 22 monthly listeners with extremely high play counts (12,599 plays) (extremely suspicious)
+- **Activity Patterns**: Album and singles with minimal reach
+- **Bot Indicators**: EXTREMELY high play counts with almost non-existent listeners strongly indicates bot activity
+- **Artificial Popularity**: Extremely suspicious ratio between plays and listeners
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Low-Count-Künstlern
-- **Genre-Cluster**: Emo Rap mit emotionalen Themen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Minimaler Einfluss, aber potenzielle Bot-Cluster-Bildung
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar low-count artists
+- **Genre Cluster**: Emo Rap with emotional themes
+- **Connection Strength**: Weak connections, but part of "Fans also like" cluster
+- **Influence Patterns**: Minimal influence, but potential bot cluster formation
 
-## Künstler-Philosophie
-- **Musikstil**: Emo Rap mit emotionalen Themen
-- **Ansatz**: Pop-Melodies mit catchy hooks und new wave trap style
-- **Themen**: Emotionale Verarbeitung, existenzielle Fragen
-- **Community**: Verbindung durch emotionale Inhalte
+## Artist Philosophy
+- **Music Style**: Emo Rap with emotional themes
+- **Approach**: Pop melodies with catchy hooks and new wave trap style
+- **Themes**: Emotional processing, existential questions
+- **Community**: Connection through emotional content
 
-## Kulturelle Besonderheiten
-- **Namensstil**: "Phenex" - mythologischer Name (Phönix)
-- **Musik-Stil**: Pop-Melodies mit new wave trap style
-- **Bio-Stil**: Beschreibung des musikalischen Ansatzes
-- **Community-Ansatz**: Verbindung durch catchy hooks und emotionale Inhalte
+## Cultural Characteristics
+- **Name Style**: "Phenex" - mythological name (Phoenix)
+- **Music Style**: Pop melodies with new wave trap style
+- **Bio Style**: Description of musical approach
+- **Community Approach**: Connection through catchy hooks and emotional content
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)
