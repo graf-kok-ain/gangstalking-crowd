@@ -32,8 +32,8 @@
 - buntetränen (2022) - Single
 
 ### Popular Tracks (Top 5)
-1. mind communication "" ! + # --/// :: - 95,653 Plays
-2. buntetränen - 93,303 Plays
+1. buntetränen - 93,303 Plays
+2. mind communication "" ! + # --/// :: - 95,653 Plays
 3. keiner von uns left behind ::<>>+ - 66,596 Plays
 4. lieber sterbe ich so als das nicht mehr zu fühlen //_ ==//- (Explicit) - 28,329 Plays
 5. Alles (feat. Artisblind) - 12,083 Plays
@@ -53,9 +53,9 @@
 - **Zahlenmystik**: "v2.0" als Versionskonzept
 
 ## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 1,556 monatliche Hörer bei 95K+ Plays (verdächtig)
+- **Hörerzahlen-Anomalien**: 1,556 monatliche Hörer bei 95,653+ Plays (extrem verdächtig, 1:61 Ratio)
 - **Aktivitäts-Muster**: Self-produced, regelmäßige Veröffentlichungen
-- **Bot-Indikatoren**: Verdächtig durch hohe Plays bei geringen Hörern
+- **Bot-Indikatoren**: Extrem verdächtig durch hohe Plays bei geringen Hörern
 - **Künstliche Popularität**: Eher manipuliert als organisch
 
 ## Netzwerk-Analyse
