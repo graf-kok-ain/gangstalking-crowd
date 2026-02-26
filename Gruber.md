@@ -10,7 +10,7 @@
 - **Popularity**: Low-Medium (152 monthly listeners)
 
 ## Biography
-"nur für mich🔒 tw"
+"just for me🔒 tw"
 
 ## Online Presence
 - **Official Website**: Not found
@@ -28,18 +28,18 @@
 - No albums available
 
 ### EPs
-- Ich war allein (imoka) (2022) - EP
+- I was alone (imoka) (2022) - EP
 
 ### Singles
-- Mein Nachbar (Latest Release) - Single
-- Atem (2023) - Single
+- My Neighbor (Latest Release) - Single
+- Breath (2023) - Single
 
 ### Popular Tracks (Top 5)
-1. Atem (feat. joni, alinafabienne) - 7,963 Plays
+1. Breath (feat. joni, alinafabienne) - 7,963 Plays
 2. Akira (feat. SLEEP, alinafabienne) (Explicit) - 7,946 Plays
-3. Wie die Pille die du schluckst (feat. joni) (Explicit) - 2,741 Plays
-4. Mein Nachbar (feat. CANEVA333, Traum Waers) (Explicit) - 2,162 Plays
-5. Wenn ich meine Farben misch (feat. joni) - 1,858 Plays
+3. Like the pill you swallow (feat. joni) (Explicit) - 2,741 Plays
+4. My Neighbor (feat. CANEVA333, Traum Waers) (Explicit) - 2,162 Plays
+5. When I mix my colors (feat. joni) - 1,858 Plays
 
 ## Collaborations
 - joni (strong connection)
@@ -50,12 +50,12 @@
 - strehlo
 
 ## Artist Playlists
-- Traum Waers Compilation ("alles unserer 6 freunde auf 1 blick")
+- Traum Waers Compilation ("all our 6 friends at a glance")
 - gruber's raum (by renrewyy)
 
 ## Patterns & Anomalies
 - **Name Conventions**: Simple German surname "Gruber"
-- **Themes**: Private, personal themes ("nur für mich"), neighborhood, drug references
+- **Themes**: Private, personal themes ("just for me"), neighborhood, drug references
 - **Language Patterns**: German with emotional, introspective lyrics
 - **Number Mysticism**: No obvious number patterns
 

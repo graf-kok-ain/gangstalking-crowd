@@ -10,7 +10,7 @@
 - **Popularity**: Moderate (1,165 monthly listeners)
 
 ## Biography
-"Ich bin zu müde um zu schlafen."
+"I'm too tired to sleep."
 
 ## Online Presence
 - **Official Website**: Not found

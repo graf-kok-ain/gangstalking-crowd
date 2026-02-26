@@ -32,7 +32,7 @@
 - icy (2026) - Single
 
 ### Popular Tracks (Top 5)
-1. ihre augen rot (feat. Glowing Misfits) (Explicit) - 9,772 Plays
+1. their eyes red (feat. Glowing Misfits) (Explicit) - 9,772 Plays
 2. icy (feat. Glowing Misfits) - 1,688 Plays
 3. supernova (feat. hella vince, Glowing Misfits) (Explicit) - 1,214 Plays
 4. Love At First Bite (feat. Glowing Misfits) (Explicit) - 1,187 Plays
@@ -48,7 +48,7 @@
 
 ## Patterns & Anomalies
 - **Name Conventions**: "2dizzy" - number-based name with "dizzy"
-- **Themes**: Scientific concepts (supernova), atmospheric themes (icy), emotional themes (ihre augen rot), gothic references (Love At First Bite)
+- **Themes**: Scientific concepts (supernova), atmospheric themes (icy), emotional themes (their eyes red), gothic references (Love At First Bite)
 - **Language Patterns**: German with trap elements and emotional lyrics
 - **Number Mysticism**: "2dizzy" - numbers as name concept
 
@@ -67,7 +67,7 @@
 ## Artist Philosophy
 - **Music Style**: German Rap/Trap with atmospheric elements
 - **Approach**: Trapstar image with emotional depth
-- **Themes**: Science (supernova), atmosphere (icy), emotions (ihre augen rot), gothic (Love At First Bite)
+- **Themes**: Science (supernova), atmosphere (icy), emotions (their eyes red), gothic (Love At First Bite)
 - **Community**: Strong collaboration presence with Glowing Misfits
 
 ## Status

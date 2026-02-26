@@ -10,7 +10,7 @@
 - **Popularity**: Medium (1.6K monthly listeners)
 
 ## Biography
-"[self.produced] - wenn ein song etwas in dir auslöst, erzähl mir gerne davon (insta:: @aleizonme) 💕💕💕💕💕 ________________________ &&&&&// u can't k!ll me ;;,,, i survived self-destruction/////(()) --<< <> ///////::///// \"\"\"\" ##>>>>$!!´´ ____ ÷÷÷/ __________________________ __________ ___________ ___________________________________________ BTHA ANTIPODE"
+"[self.produced] - if a song triggers something in you, feel free to tell me about it (insta:: @aleizonme) 💕💕💕💕💕 ________________________ &&&&&// u can't k!ll me ;;,,, i survived self-destruction/////(()) --<< <> ///////::///// \"\"\"\" ##>>>>$!!´´ ____ ÷÷÷/ __________________________ __________ ___________ ___________________________________________ BTHA ANTIPODE"
 
 ## Online Presence
 - **Official Website**: Not found

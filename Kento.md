@@ -36,7 +36,7 @@
 ### Popular Tracks (Top 5)
 1. fly! 2-c-b (feat. Punk Christ) (Explicit)
 2. she ain't comin back (feat. pulsi, Kinaro) (Explicit)
-3. Eiskalte Soda (Explicit)
+3. Ice Cold Soda (Explicit)
 
 ## Collaborations
 - Punk Christ (fly! 2-c-b)
@@ -49,7 +49,7 @@
 
 ## Patterns & Anomalies
 - **Name Conventions**: "Kento" - Japanese name
-- **Themes**: Drugs (fly! 2-c-b), relationships (she ain't comin back), beverages (Eiskalte Soda), violence (THRILL KILLER)
+- **Themes**: Drugs (fly! 2-c-b), relationships (she ain't comin back), beverages (Ice Cold Soda), violence (THRILL KILLER)
 - **Language Patterns**: German with English elements, aggressive lyrics
 - **Number Mysticism**: "2-c-b" as drug reference
 

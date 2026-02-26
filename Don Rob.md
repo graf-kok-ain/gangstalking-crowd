@@ -31,21 +31,21 @@ No biography available
 - No EPs available
 
 ### Singles
-- Kommst du mit (Latest Release) - Single
-- 2 Welten (2026) - Single
+- Are you coming with (Latest Release) - Single
+- 2 Worlds (2026) - Single
 
 ### Popular Tracks (Top 5)
-1. 2 Welten (feat. SHLR)
-2. Kommst du mit (feat. ddon, Len X, SHLR)
-3. Kalte Stadt (feat. Len X, ddon, SHLR)
+1. 2 Worlds (feat. SHLR)
+2. Are you coming with (feat. ddon, Len X, SHLR)
+3. Cold City (feat. Len X, ddon, SHLR)
 4. Madeline (feat. SHLR, Len X)
-5. Paniniheft (feat. SHLR, least)
+5. Panini Booklet (feat. SHLR, least)
 
 ## Collaborations
-- SHLR (2 Welten, Kommst du mit, Kalte Stadt, Madeline, Paniniheft)
-- ddon (Kommst du mit, Kalte Stadt)
-- Len X (Kommst du mit, Kalte Stadt, Madeline)
-- least (Paniniheft)
+- SHLR (2 Worlds, Are you coming with, Cold City, Madeline, Panini Booklet)
+- ddon (Are you coming with, Cold City)
+- Len X (Are you coming with, Cold City, Madeline)
+- least (Panini Booklet)
 - nightfvry (Don Rob Radio)
 - va1e (Don Rob Radio)
 - JONZ (Don Rob Radio)
@@ -54,9 +54,9 @@ No biography available
 
 ## Patterns & Anomalies
 - **Name Conventions**: "Don Rob" - classic rap name
-- **Themes**: Duality (2 Welten), community (Kommst du mit), environment (Kalte Stadt), personal names (Madeline, Paniniheft)
+- **Themes**: Duality (2 Worlds), community (Are you coming with), environment (Cold City), personal names (Madeline, Panini Booklet)
 - **Language Patterns**: German with direct, personal themes
-- **Number Mysticism**: "2" in 2 Welten
+- **Number Mysticism**: "2" in 2 Worlds
 
 ## Manipulation Indicators
 - **Listener Count Anomalies**: 1,800 monthly listeners (realistic for established indie artist)

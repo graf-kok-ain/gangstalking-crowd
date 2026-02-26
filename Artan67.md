@@ -10,7 +10,7 @@
 - **Popularity**: Extremely low (14 monthly listeners)
 
 ## Biography
-Artan67 ist in einer Kleinstadt aufgewachsen und hat bereits in jungen Jahren erkannt, dass sein Weg anders sein wird als der von den meisten. Er brach sein begonnenes Studium ab, verließ sein altes Leben und zog in die Hauptstadt, um von Null an zu beginnen und mit 100% Einsatz an sich und seinen Zielen zu arbeiten. In seiner Kunst verarbeitet er den täglichen Weg, den er alleine gehen muss, umgeben von Liebe, Ängsten, Trauer, Sucht und Glauben. Sein einzigartiger Stil zeigt seine authentische Persönlichkeit und seine tiefe Verbindung zu den Emotionen, die er in seinen Werken ausdrückt.
+Artan67 grew up in a small town and realized at a young age that his path would be different from most others. He dropped out of his started studies, left his old life, and moved to the capital to start from scratch and work with 100% dedication on himself and his goals. In his art, he processes the daily path he must walk alone, surrounded by love, fears, grief, addiction, and faith. His unique style shows his authentic personality and his deep connection to the emotions he expresses in his works.
 
 ## Online Presence
 - **Official Website**: Not found
@@ -31,11 +31,11 @@ Artan67 ist in einer Kleinstadt aufgewachsen und hat bereits in jungen Jahren er
 - No EPs available
 
 ### Singles
-- Mir geht es dreckig weil ich kiffe... (2023) - Single
+- I feel shitty because I smoke weed... (2023) - Single
 - Pepcier (2021) - Single
 
 ### Popular Tracks (Top 5)
-1. Mir geht es dreckig weil ich kiffe... (feat. einfachnureddy, Bre.beats) (Explicit) - 2:45
+1. I feel shitty because I smoke weed... (feat. einfachnureddy, Bre.beats) (Explicit) - 2:45
 2. Ready2Die (feat. Yung Lieblich, Jueengling) - 2:41
 3. Pepcier (feat. Justslit, Jueengling) (Explicit) - 1:53
 
@@ -56,7 +56,7 @@ Artan67 ist in einer Kleinstadt aufgewachsen und hat bereits in jungen Jahren er
 
 ## Patterns & Anomalies
 - **Name Conventions**: "Artan67" - Albanian name with number
-- **Themes**: Drug themes ("Mir geht es dreckig weil ich kiffe..."), existential themes ("Ready2Die"), emotional themes ("Pepcier")
+- **Themes**: Drug themes ("I feel shitty because I smoke weed..."), existential themes ("Ready2Die"), emotional themes ("Pepcier")
 - **Language Patterns**: German with emotional, introspective lyrics
 - **Number Mysticism**: "67" in name, "100%" in biography
 
@@ -74,7 +74,7 @@ Artan67 ist in einer Kleinstadt aufgewachsen und hat bereits in jungen Jahren er
 
 ## Artist Philosophy
 - **Music Style**: Alternative/Indie with emotional themes
-- **Approach**: "100% Einsatz an sich und seinen Zielen" - complete dedication
+- **Approach**: "100% dedication to himself and his goals" - complete dedication
 - **Themes**: Drug themes, existential questions, emotional processing
 - **Community**: Connection through authentic emotional content
 
@@ -88,4 +88,4 @@ Artan67 ist in einer Kleinstadt aufgewachsen und hat bereits in jungen Jahren er
 ✅ 100% fully captured (Archive.ph to be completed manually)
 
 ## 🎭 SPECIAL FEATURES
-**VERY DETAILED BIOGRAPHY**: Artan67 has one of the most detailed biographies of all captured artists, describing his life decisions and artistic development in detail. The music explicitly addresses drug themes ("Mir geht es dreckig weil ich kiffe...") and personal struggles.
+**VERY DETAILED BIOGRAPHY**: Artan67 has one of the most detailed biographies of all captured artists, describing his life decisions and artistic development in detail. The music explicitly addresses drug themes ("I feel shitty because I smoke weed...") and personal struggles.

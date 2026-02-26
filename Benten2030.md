@@ -10,7 +10,7 @@
 - **Popularity**: Low (107 monthly listeners)
 
 ## Biography
-Der Künstler Benten2030 (*Bürgerlich Ben-Luca Schreiber) ist ein Berliner Junge, aus einer urbanen Gegend. Mit 15 Jahren fing er an mit Freestyle-Sessions im Park, in der Hood Texte zu schreiben und diese letztendlich zu recorden. Mitte des Jahres 2022 wurde bekannt, dass Benten2030 beim jungen Label Future is now gesingt wurde. Mit seiner einzigartigen Art, der unverwechselbaren Stimme und Anspruch auf Qualität verbindet der Künstler Stile aus dem Hiphop und dem neu zeitigen Pop. Das macht Benten2030 jetzt schon zu einem vollwertigen Künstler dieser Generation. Die Zahl 2030 repräsentiert seine Herkunft und spielt eine wesentliche Rolle in seinem Dasein. Wichtiger Teil seiner Musik ist es einem textlichen Anspruch gerecht zu werden, der von guter Qualität ist.
+The artist Benten2030 (*civil name Ben-Luca Schreiber) is a Berlin boy from an urban area. At 15 years old, he started with freestyle sessions in the park, writing lyrics in the hood and eventually recording them. In mid-2022, it became known that Benten2030 was signed to the young label Future is now. With his unique style, unmistakable voice, and claim to quality, the artist combines styles from hip hop and contemporary pop. This makes Benten2030 already a full-fledged artist of this generation. The number 2030 represents his origin and plays an essential role in his existence. An important part of his music is meeting a lyrical claim that is of good quality.
 
 ## Online Presence
 - **Official Website**: Not found

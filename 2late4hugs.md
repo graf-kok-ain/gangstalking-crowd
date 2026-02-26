@@ -10,7 +10,7 @@
 - **Popularity**: Medium (27.4K monthly listeners)
 
 ## Biography
-"27,384 monthly listeners wir holen uns das was wir verdien'"
+"27,384 monthly listeners we'll get what we deserve"
 
 ## Online Presence
 - **Official Website**: Not found
@@ -28,19 +28,19 @@
 - No albums available
 
 ### Singles
-- Nicht Einfach (Latest Release) - Single
+- Not Easy (Latest Release) - Single
 - Borderline 2 (2024) - Single
 
 ### Popular Tracks (Top 5)
 1. BORDERLINE (feat. toly808) - 863,759 Plays
 2. Borderline 2 - 552,891 Plays
-3. Erhofft (feat. mczy808) - 219,788 Plays
+3. Hoped (feat. mczy808) - 219,788 Plays
 4. Suicide - 204,471 Plays
-5. Nicht Einfach (Latest Release)
+5. Not Easy (Latest Release)
 
 ## Collaborations
 - toly808 (BORDERLINE)
-- mczy808 (Erhofft)
+- mczy808 (Hoped)
 - 2late (linked artist)
 - Eaven (2late4hugs Radio)
 - YASSINE (2late4hugs Radio)
@@ -66,7 +66,7 @@
 
 ## Artist Philosophy
 - **Music Style**: German Rap/Emo Rap with dark themes
-- **Approach**: Emotional, authentic ("wir holen uns das was wir verdien'")
+- **Approach**: Emotional, authentic ("we'll get what we deserve")
 - **Themes**: Depression, suicidal thoughts, emotional boundaries (BORDERLINE)
 - **Community**: Supportive messages for people with mental health issues
 

@@ -10,7 +10,7 @@
 - **Popularity**: Medium (1.1K monthly listeners)
 
 ## Biography
-"shiny is das sternenbild"
+"shiny is the constellation"
 
 ## Online Presence
 - **Official Website**: Not found

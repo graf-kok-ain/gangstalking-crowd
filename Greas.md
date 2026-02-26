@@ -10,7 +10,7 @@
 - **Popularity**: Medium-High (2.1K monthly listeners)
 
 ## Biography
-"Fokus, Isolation, innere Konflikte, Hustle, Wien, 20y, experimentel, trap, @babygreas"
+"Focus, Isolation, inner conflicts, Hustle, Vienna, 20y, experimental, trap, @babygreas"
 
 ## Online Presence
 - **Official Website**: Not found
@@ -68,7 +68,7 @@
 
 ## Artist Philosophy
 - **Music Style**: German Rap/Trap with experimental elements
-- **Approach**: Focused, isolated ("Fokus, Isolation, innere Konflikte")
+- **Approach**: Focused, isolated ("Focus, Isolation, inner conflicts")
 - **Themes**: Energy, atmosphere, luxury, surprise, action
 - **Community**: Instagram presence, experimental aesthetic
 

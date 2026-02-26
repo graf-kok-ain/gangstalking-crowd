@@ -10,7 +10,7 @@
 - **Popularity**: Low (491 monthly listeners)
 
 ## Biography
-"Danke, dass du meine Musik hörst🫶🏻 IG: felo_x6"
+"Thank you for listening to my music 🫶🏻 IG: felo_x6"
 
 ## Online Presence
 - **Official Website**: Not found
@@ -25,7 +25,7 @@
 
 ## Discography
 ### Albums
-- winterschmerzen (2026) - Album
+- winter pain (2026) - Album
 
 ### EPs
 - No EPs available
@@ -35,10 +35,10 @@
 
 ### Popular Tracks (Top 5)
 1. Memos (feat. adry) (Explicit)
-2. bitte.rette.mich (Explicit)
+2. please.save.me (Explicit)
 3. sinister (feat. adry) (Explicit)
-4. AUSREDEN (Explicit)
-5. BLÖDMANN:( (Explicit)
+4. EXCUSES (Explicit)
+5. STUPID.GUY:( (Explicit)
 
 ## Collaborations
 - adry (Memos, sinister)
@@ -49,7 +49,7 @@
 
 ## Patterns & Anomalies
 - **Name Conventions**: "Felo" - short, simple name
-- **Themes**: Communication (Memos), rescue (bitte.rette.mich), darkness (sinister), justification (AUSREDEN), self-criticism (BLÖDMANN:()
+- **Themes**: Communication (Memos), rescue (please.save.me), darkness (sinister), justification (EXCUSES), self-criticism (STUPID.GUY:()
 - **Language Patterns**: German with emotional, direct themes
 - **Number Mysticism**: No obvious number patterns
 
@@ -67,7 +67,7 @@
 
 ## Artist Philosophy
 - **Music Style**: German Rap/Trap with emotional elements
-- **Approach**: Grateful, personal ("Danke, dass du meine Musik hörst🫶🏻")
+- **Approach**: Grateful, personal ("Thank you for listening to my music")
 - **Themes**: Communication, rescue, darkness, justification, self-criticism
 - **Community**: Instagram presence, personal connection
 

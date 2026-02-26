@@ -10,7 +10,7 @@
 - **Popularity**: Very low (307 monthly listeners)
 
 ## Biography
-"EtN ist ein Artist aus Sachsen. 2023 hat er angefangen selbst Songs zu produzieren, aufzunehmen zu mixen und zu mastern. Mit seinen vielfältigen Genres spricht er ein breites Publikum seiner Hörer an und entwickelt so seinen eigenen Stil. Egal ob emotionale Love Songs, entspannte Abend Songs oder absolute Party Banger...hier ist für jeden Hörer etwas dabei. Seid gespannt auf alles was noch kommt!🔥"
+"EtN is an artist from Saxony. In 2023, he started producing, recording, mixing, and mastering his own songs. With his diverse genres, he reaches a broad audience of listeners and thus develops his own style. Whether emotional love songs, relaxed evening songs, or absolute party bangers...there's something here for every listener. Stay tuned for everything that's still to come!🔥"
 
 ## Online Presence
 - **Official Website**: Not found
@@ -31,12 +31,12 @@
 - No EPs available
 
 ### Singles
-- ALLEIN (Latest Release) - Single
+- ALONE (Latest Release) - Single
 - LIPSTICK (2026) - Single
 
 ### Popular Tracks (Top 5)
 1. LIPSTICK
-2. ALLEIN
+2. ALONE
 3. Need your Love
 4. Deeptalks
 5. Summer Vibes
@@ -50,7 +50,7 @@
 
 ## Patterns & Anomalies
 - **Name Conventions**: "EtN" - short, technical name
-- **Themes**: Beauty (LIPSTICK), loneliness (ALLEIN), love (Need your Love), depth (Deeptalks), atmosphere (Summer Vibes)
+- **Themes**: Beauty (LIPSTICK), loneliness (ALONE), love (Need your Love), depth (Deeptalks), atmosphere (Summer Vibes)
 - **Language Patterns**: German with emotional, atmospheric themes
 - **Number Mysticism**: No obvious number patterns
 
@@ -68,7 +68,7 @@
 
 ## Artist Philosophy
 - **Music Style**: Diverse genres from Love Songs to Party Bangers
-- **Approach**: Self-produced, diverse ("selbst Songs zu produzieren, aufzunehmen zu mixen und zu mastern")
+- **Approach**: Self-produced, diverse ("to produce, record, mix and master songs himself")
 - **Themes**: Beauty, loneliness, love, depth, atmosphere
 - **Community**: Broad target audience, optimistic orientation
 

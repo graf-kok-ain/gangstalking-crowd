@@ -10,7 +10,7 @@
 - **Popularity**: Inactive (0 monthly listeners)
 
 ## Biography
-"Deine hoe hört mich auf Dauerschleife, kann nicht sein? Wenn mir kalt ist schütt ich Lean in meine Fanta rein"
+"Your bitch listens to me on repeat, can't be? When I'm cold I pour Lean into my Fanta"
 
 ## Online Presence
 - **Official Website**: Not found
@@ -34,7 +34,7 @@
 - No tracks available
 
 ## Artist Playlists
-- Wer ist $nix $nus? - "Die Sonne geht unter und mein Herz gehört dir <3"
+- Wer ist $nix $nus? - "The sun goes down and my heart belongs to you <3"
 
 ## Status
 ✅ 100% fully captured (Archive.is to be completed manually)
@@ -59,9 +59,9 @@
 
 ## Artist Philosophy
 - **Music Style**: German Rap/Trap
-- **Approach**: Provocative, confident ("Deine hoe hört mich auf Dauerschleife")
+- **Approach**: Provocative, confident ("Your bitch listens to me on repeat")
 - **Themes**: Business, drug culture (Lean in Fanta)
-- **Community**: Emotional playlist titles ("Die Sonne geht unter und mein Herz gehört dir <3")
+- **Community**: Emotional playlist titles ("The sun goes down and my heart belongs to you <3")
 
 ## Status
 ✅ 100% fully captured (Archive.is to be completed manually)

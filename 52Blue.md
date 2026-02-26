@@ -10,7 +10,7 @@
 - **Popularity**: Medium-High (24.8K monthly listeners)
 
 ## Biography
-"24,756 monthly listeners ig: @52b.lue🐋 - der junge aus der tiefsee"
+"24,756 monthly listeners ig: @52b.lue🐋 - the young one from the deep sea"
 
 ## Online Presence
 - **Official Website**: Not found
@@ -33,14 +33,14 @@
 
 ### Popular Tracks (Top 5)
 1. Two Pieces (Explicit) - 599,700 Plays
-2. Blick über die Stadt (Explicit) - 541,305 Plays
+2. View over the city (Explicit) - 541,305 Plays
 3. 5 Monster Energy (feat. Hello Hannes) - 8,752 Plays
 4. h1ghsc0re (feat. Hello Hannes) (Explicit)
-5. Tote Rosen (feat. Dropped here) (Explicit)
+5. Dead Roses (feat. Dropped here) (Explicit)
 
 ## Collaborations
 - Hello Hannes (5 Monster Energy, h1ghsc0re)
-- Dropped here (Tote Rosen)
+- Dropped here (Dead Roses)
 - Eaven (52Blue Radio)
 - Lostboy Luka (52Blue Radio)
 - deadboyboo (52Blue Radio)

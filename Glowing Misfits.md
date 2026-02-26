@@ -10,7 +10,7 @@
 - **Popularity**: Moderate (1,216 monthly listeners)
 
 ## Biography
-"ARTISTKOLLEKTIV AUS HL"
+"ARTIST COLLECTIVE FROM HL"
 
 ## Online Presence
 - **Official Website**: Not found

@@ -10,7 +10,7 @@
 - **Popularity**: Extremely low (60 monthly listeners)
 
 ## Biography
-"ich hab' felicia dabei."
+"I have Felicia with me."
 
 ## Online Presence
 - **Official Website**: Not found

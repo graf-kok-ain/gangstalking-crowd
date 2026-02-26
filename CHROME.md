@@ -10,7 +10,7 @@
 - **Popularity**: Medium (1.0K monthly listeners)
 
 ## Biography
-"CHROME IST DER GOAT!"
+"CHROME IS THE GOAT!"
 
 ## Online Presence
 - **Official Website**: Not found

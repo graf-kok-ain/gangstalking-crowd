@@ -10,7 +10,7 @@
 - **Popularity**: Very high (24,953 monthly listeners)
 
 ## Biography
-"suche mein one piece und das hella fun ngl"
+"looking for my one piece and that's hella fun ngl"
 
 ## Online Presence
 - **Official Website**: Not found

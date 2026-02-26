@@ -1,34 +1,34 @@
 # 0nlinefrndz Archieve
 
-## Basisinformationen
+## Basic Information
 - **Spotify ID**: 1s3aO7vkWGbMQaZvYf9kN1
 - **Spotify Link**: https://open.spotify.com/artist/1s3aO7vkWGbMQaZvYf9kN1
 - **Original Spotify-Link**: https://open.spotify.com/artist/1s3aO7vkWGbMQaZvYf9kN1?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 5 (erfasst: 26.02.2026 03:02)
-- **Followers**: Nicht verfügbar
+- **Monthly Listeners**: 5 (captured: 26.02.2026 03:02)
+- **Followers**: Not available
 - **Genre**: Emo Rap/Alternative
-- **Popularität**: Extrem niedrig (5 monatliche Hörer)
+- **Popularity**: Extremely low (5 monthly listeners)
 
-## Biografie
-Keine Biografie verfügbar
+## Biography
+No biography available
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
-- **Instagram**: Nicht gefunden
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
+## Online Presence
+- **Official Website**: Not found
+- **Wikipedia**: No article available
+- **Instagram**: Not found
+- **Twitter**: Not found
+- **Other Social Media**: Not found
 
 ## Archive.is
-- **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung
-- **Archiv-Datum**: 26.02.2026 03:02
+- **Archive Link**: CAPTCHA blocker requires manual capture
+- **Archive Date**: 26.02.2026 03:02
 
-## Diskographie
-### Alben
-- Keine Alben verfügbar
+## Discography
+### Albums
+- No albums available
 
 ### EPs
-- Keine EPs verfügbar
+- No EPs available
 
 ### Singles
 - save you (2024) - Single
@@ -40,42 +40,42 @@ Keine Biografie verfügbar
 3. save you
 4. january (Explicit)
 
-## Kollaborationen
+## Collaborations
 - Mykel
 - toe
 - RTT
 - Pandora's Vox
 - Benzo Bailey
 
-## Muster & Auffälligkeiten
-- **Namenskonventionen**: "0nlinefrndz Archieve" - Null am Anfang, "online friends archive" Konzept
-- **Themen**: Emotionale Themen ("save you", "desperate attempt at solace"), existenzielle Themen ("castles"), zeitliche Themen ("january")
-- **Sprachmuster**: Englisch mit emotionalen, introspektiven Texten
-- **Zahlenmystik**: Keine offensichtlichen Zahlenmuster
+## Patterns & Anomalies
+- **Name Conventions**: "0nlinefrndz Archieve" - Zero at beginning, "online friends archive" concept
+- **Themes**: Emotional themes ("save you", "desperate attempt at solace"), existential themes ("castles"), temporal themes ("january")
+- **Language Patterns**: English with emotional, introspective lyrics
+- **Number Mysticism**: No obvious number patterns
 
-## Manipulations-Indikatoren
-- **Hörerzahlen-Anomalien**: 5 monatliche Hörer bei authentischer Entwicklung (realistisch)
-- **Aktivitäts-Muster**: Regelmäßige Singles bei minimaler Reichweite
-- **Bot-Indikatoren**: Keine Anzeichen für Bot-Aktivität
-- **Künstliche Popularität**: Echte organische Entwicklung
+## Manipulation Indicators
+- **Listener Count Anomalies**: 5 monthly listeners with authentic development (realistic)
+- **Activity Patterns**: Regular singles with minimal reach
+- **Bot Indicators**: No signs of bot activity
+- **Artificial Popularity**: Genuine organic development
 
-## Netzwerk-Analyse
-- **Kollaborations-Dichte**: Moderate Kollaborationen mit ähnlichen Low-Count-Künstlern
-- **Genre-Cluster**: Emo Rap mit emotionalen Themen
-- **Verbindungs-Stärke**: Schwache Verbindungen, aber Teil des "Fans also like" Clusters
-- **Influence-Patterns**: Minimaler Einfluss, aber authentische Community
+## Network Analysis
+- **Collaboration Density**: Moderate collaborations with similar low-count artists
+- **Genre Cluster**: Emo Rap with emotional themes
+- **Connection Strength**: Weak connections, but part of "Fans also like" cluster
+- **Influence Patterns**: Minimal influence, but authentic community
 
-## Künstler-Philosophie
-- **Musikstil**: Emo Rap mit emotionalen Themen
-- **Ansatz**: Online-Freundschafts-Archiv Konzept
-- **Themen**: Emotionale Verarbeitung, existenzielle Fragen
-- **Community**: Verbindung durch geteilte Emotionen
+## Artist Philosophy
+- **Music Style**: Emo Rap with emotional themes
+- **Approach**: Online friendship archive concept
+- **Themes**: Emotional processing, existential questions
+- **Community**: Connection through shared emotions
 
-## Kulturelle Besonderheiten
-- **Namenskonzept**: "0nlinefrndz Archieve" - Null als stilistisches Element
-- **Archiv-Idee**: Konzept der Online-Freundschafts-Archivierung
-- **Themen-Fokus**: Emotionale Verarbeitung und Verbindung
-- **Community-Ansatz**: Geteilte emotionale Erfahrungen
+## Cultural Characteristics
+- **Name Concept**: "0nlinefrndz Archieve" - Zero as stylistic element
+- **Archive Idea**: Concept of online friendship archiving
+- **Theme Focus**: Emotional processing and connection
+- **Community Approach**: Shared emotional experiences
 
 ## Status
-✅ 100% vollständig erfasst (Archive.is manuell nachzuholen)
+✅ 100% fully captured (Archive.is to be completed manually)

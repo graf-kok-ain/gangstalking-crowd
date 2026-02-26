@@ -10,7 +10,7 @@
 - **Popularity**: Very low (320 monthly listeners)
 
 ## Biography
-"Amo aller Amos"
+"Love of all Amos"
 
 ## Online Presence
 - **Official Website**: Not found

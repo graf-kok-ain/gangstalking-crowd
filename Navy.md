@@ -10,7 +10,7 @@
 - **Popularity**: Medium-High (2.0K monthly listeners)
 
 ## Biography
-"gebt euch musik"
+"give yourselves music"
 
 ## Online Presence
 - **Official Website**: Not found

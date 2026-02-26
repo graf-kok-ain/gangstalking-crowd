@@ -10,7 +10,7 @@
 - **Popularity**: Very low (248 monthly listeners)
 
 ## Biography
-"✨Insta: yungnorfas Ab jetzt gehts nurnoch nach oben!"
+"✨Insta: yungnorfas From now on it's only going upwards!"
 
 ## Online Presence
 - **Official Website**: Not found
@@ -31,18 +31,18 @@
 - No EPs available
 
 ### Singles
-- Nie Wieder (Latest Release) - Single
-- FALSCH/RICHTIG (2025) - Single
+- Never Again (Latest Release) - Single
+- WRONG/RIGHT (2025) - Single
 
 ### Popular Tracks (Top 5)
-1. FALSCH/RICHTIG (Explicit)
-2. Alles ändert sich (feat. MaRa, Icy) (Explicit)
+1. WRONG/RIGHT (Explicit)
+2. Everything changes (feat. MaRa, Icy) (Explicit)
 3. Blister (feat. Dynon, Icy) (Explicit)
 4. CRASHOUT! (feat. Yung OS) (Explicit)
 
 ## Collaborations
-- MaRa (Alles ändert sich)
-- Icy (Alles ändert sich, Blister)
+- MaRa (Everything changes)
+- Icy (Everything changes, Blister)
 - Dynon (Blister)
 - Yung OS (CRASHOUT!)
 - nightfvry (Yungnorfas Radio)
@@ -52,7 +52,7 @@
 
 ## Patterns & Anomalies
 - **Name Conventions**: "Yungnorfas" - classic Yung name with creative extension
-- **Themes**: Truth (FALSCH/RICHTIG), change (Alles ändert sich), injuries (Blister), breakdown (CRASHOUT!)
+- **Themes**: Truth (WRONG/RIGHT), change (Everything changes), injuries (Blister), breakdown (CRASHOUT!)
 - **Language Patterns**: German with English elements, direct themes
 - **Number Mysticism**: No obvious number patterns
 
@@ -70,7 +70,7 @@
 
 ## Artist Philosophy
 - **Music Style**: German Rap/Trap with direct elements
-- **Approach**: Optimistic, aspiring ("Ab jetzt gehts nurnoch nach oben!")
+- **Approach**: Optimistic, aspiring ("From now on it's only going upwards!")
 - **Themes**: Truth, change, injuries, breakdown
 - **Community**: Instagram presence, optimistic attitude
 

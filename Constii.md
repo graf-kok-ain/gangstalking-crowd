@@ -51,7 +51,7 @@
 
 ## Patterns & Anomalies
 - **Name Conventions**: "Constii" - creative, technical name
-- **Themes**: Perception (Blicke), relationships (DU)
+- **Themes**: Perception (Glances), relationships (YOU)
 - **Language Patterns**: German with direct, visual themes
 - **Number Mysticism**: "17y" as age reference
 

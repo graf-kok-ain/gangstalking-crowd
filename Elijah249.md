@@ -31,14 +31,14 @@
 - No EPs available
 
 ### Singles
-- therapie (Latest Release) - Single
-- Liebe im Detail. (2025) - Single
+- therapy (Latest Release) - Single
+- Love in detail. (2025) - Single
 
 ### Popular Tracks (Top 5)
-1. therapie (feat. luutwo, n3vio) (Explicit)
-2. Liebe im Detail. (Explicit)
-3. Gift (Explicit)
-4. HERBST (Explicit)
+1. therapy (feat. luutwo, n3vio) (Explicit)
+2. Love in detail. (Explicit)
+3. Poison (Explicit)
+4. AUTUMN (Explicit)
 
 ## Collaborations
 - luutwo (therapie)
@@ -53,7 +53,7 @@
 
 ## Patterns & Anomalies
 - **Name Conventions**: "Elijah249" - biblical name with number
-- **Themes**: Psychology (therapie), love (Liebe im Detail, Gift), seasons (HERBST), death (Grabsteinemoji)
+- **Themes**: Psychology (therapy), love (Love in detail, Poison), seasons (AUTUMN), death (Grabsteinemoji)
 - **Language Patterns**: German with emotional, psychological lyrics
 - **Number Mysticism**: "249" as name component
 
@@ -71,7 +71,7 @@
 
 ## Artist Philosophy
 - **Music Style**: German Rap/Hyperpop with psychological themes
-- **Approach**: Emotional, psychological ("Mit den geistern die ich rief")
+- **Approach**: Emotional, psychological ("With the spirits I called")
 - **Themes**: Therapy, love, death, seasons
 - **Community**: Strong Instagram presence, central network figure
 
