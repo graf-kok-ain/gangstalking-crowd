@@ -31,15 +31,15 @@
 - Insomnia & Heartbreaks (2023) - EP
 
 ### Singles
-- Keine Love (2023) - Single
-- Lass Mich Brennen (2023) - Single
+- No Love (2023) - Single
+- Let Me Burn (2023) - Single
 
 ### Popular Tracks (Top 5)
-1. Lass Mich Brennen (feat. Kid Grizz, Raphyy) - 13,085 Plays
-2. Keine Love (feat. Kid Grizz, Chrome.) - 7,118 Plays
-3. Insonmia & Heartbreaks (feat. Kid Grizz) - 2,348 Plays
+1. Let Me Burn (feat. Kid Grizz, Raphyy) - 13,085 Plays
+2. No Love (feat. Kid Grizz, Chrome.) - 7,118 Plays
+3. Insomnia & Heartbreaks (feat. Kid Grizz) - 2,348 Plays
 4. Sender (feat. Kid Grizz) - No plays shown
-5. Lass Mich Brennen - 2:28
+5. Let Me Burn - 2:28
 
 ## Collaborations
 - Kid Grizz
@@ -55,7 +55,7 @@
 
 ## Patterns & Anomalies
 - **Name Conventions**: "Arrow" - English term, symbolic
-- **Themes**: Emotional themes ("Lass Mich Brennen", "Keine Love"), existential themes ("Insonmia & Heartbreaks")
+- **Themes**: Emotional themes ("Let Me Burn", "No Love"), existential themes ("Insomnia & Heartbreaks")
 - **Language Patterns**: German with emotional, introspective lyrics
 - **Number Mysticism**: No obvious number patterns
 
