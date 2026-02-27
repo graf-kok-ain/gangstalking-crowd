@@ -31,15 +31,15 @@ Since her childhood, Aliena. knew that music was her destiny. Already in kinderg
 - No EPs available
 
 ### Singles
-- Raum und Zeit (Latest Release) - Single
-- Weniger von mir (2025) - Single
+- Space and Time (Latest Release) - Single
+- Less from me (2025) - Single
 
 ### Popular Tracks (Top 5)
-1. OHNE DICH (feat. Laer Xirtam) - 12,161 Plays
-2. Weniger von mir - 11,908 Plays
-3. Raum und Zeit - 1,060 Plays
+1. NO ME HERE (feat. Laer Xirtam) - 12,161 Plays
+2. Less from me - 11,908 Plays
+3. Space and Time - 1,060 Plays
 4. BLACKOUT
-5. KALT BEI DIR (feat. NYAR)
+5. COLD WHEN DIR (feat. NYAR)
 
 ## Collaborations
 - Laer Xirtam (OHNE DICH)
@@ -53,7 +53,7 @@ Since her childhood, Aliena. knew that music was her destiny. Already in kinderg
 
 ## Patterns & Anomalies
 - **Name Conventions**: "Aliena." - period at the end, female name
-- **Themes**: Emotional themes (Raum und Zeit, Weniger von mir), existential themes (OHNE DICH, BLACKOUT), personal themes (KALT BEI DIR)
+- **Themes**: Emotional themes (Space and Time, Less from me), existential themes (NO ME HERE, BLACKOUT), personal themes (COLD WHEN DIR)
 - **Language Patterns**: German with emotional, deep lyrics
 - **Number Mysticism**: No obvious number patterns
 

@@ -32,15 +32,15 @@ The artist Benten2030 (*civil name Ben-Luca Schreiber) is a Berlin boy from an u
 
 ### Singles
 - Croissant (2025) - Single
-- 1000 Fehler (Extended Version) (2024) - Single
-- Blätter fallen (2024) - Single
+- 1000 Mistakes (Extended Version) (2024) - Single
+- Leaves falling (2024) - Single
 
 ### Popular Tracks (Top 5)
-1. Blätter fallen (feat. OM, motybeats) - 13,576 Plays
-2. 1000 Fehler - Extended Version (feat. Loki23) - 1,775 Plays
-3. Jibbi & Eis - 5,816 Plays
+1. Leaves falling (feat. OM, motybeats) - 13,576 Plays
+2. 1000 Mistakes - Extended Version (feat. Loki23) - 1,775 Plays
+3. Jibbi & Ice - 5,816 Plays
 4. Lemon ICE (feat. Loki23) (Explicit) - 2,727 Plays
-5. DUMM GEHEN (feat. FLYY, MFG) (Explicit) - 1,255 Plays
+5. DUMB GOING (feat. FLYY, MFG) (Explicit) - 1,255 Plays
 
 ## Collaborations
 - OM
@@ -63,9 +63,9 @@ The artist Benten2030 (*civil name Ben-Luca Schreiber) is a Berlin boy from an u
 
 ## Patterns & Anomalies
 - **Name Conventions**: "Benten2030" - Japanese god with number
-- **Themes**: Emotional themes ("Blätter fallen"), existential themes ("1000 Fehler"), personal themes ("Jibbi & Eis")
+- **Themes**: Emotional themes ("Leaves falling"), existential themes ("1000 Mistakes"), personal themes ("Jibbi & Ice")
 - **Language Patterns**: German with emotional, introspective lyrics
-- **Number Mysticism**: "2030" represents origin, "1000 Fehler"
+- **Number Mysticism**: "2030" represents origin, "1000 Mistakes"
 
 ## Manipulation Indicators
 - **Listener Count Anomalies**: 107 monthly listeners with 13,576 plays for top track (ratio 1:127)
@@ -81,7 +81,7 @@ The artist Benten2030 (*civil name Ben-Luca Schreiber) is a Berlin boy from an u
 
 ## Artist Philosophy
 - **Music Style**: Hip Hop/Pop with emotional themes
-- **Approach**: "Anspruch auf Qualität" and "textlicher Anspruch" - high-quality approach
+- **Approach**: "Claim to quality" and "lyrical claim that is of good quality" - high-quality approach
 - **Themes**: Emotional processing, existential questions, personal struggles
 - **Community**: Connection through authentic emotional content
 

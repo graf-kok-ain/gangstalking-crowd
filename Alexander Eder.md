@@ -26,13 +26,13 @@ No biography available
 ## Discography
 ### Albums
 - Unplugged (Live) (Latest Release) - Album
-- Ganz normal (2023) - Album
+- Completely normal (2023) - Album
 - Quer durch die Bank (2025) - Album
 
 ### Popular Tracks (Top 5)
-1. Für diesen Moment - 25,971,571 Plays
-2. Ganz normal gestört (Explicit) - 22,801,666 Plays
-3. Therapie (feat. Harris & Ford) - 16,138,821 Plays
+1. For this moment - 25,971,571 Plays
+2. Completely normal heard (Explicit) - 22,801,666 Plays
+3. Therapy (feat. Harris & Ford) - 16,138,821 Plays
 
 ## Tour 2026
 ### Current Tour Dates (37+ concerts)
@@ -49,7 +49,7 @@ No biography available
 
 ## Patterns & Anomalies
 - **Name Conventions**: Full German name "Alexander Eder"
-- **Themes**: Psychological concepts (Therapie), normality (Ganz normal), moments (Für diesen Moment)
+- **Themes**: Psychological concepts (Therapy), normality (Completely normal), moments (For this moment)
 - **Language Patterns**: German with psychological and everyday themes
 - **Number Mysticism**: No obvious number patterns
 
@@ -67,7 +67,7 @@ No biography available
 
 ## Artist Philosophy
 - **Music Style**: German Rock/Pop-Rock with psychological elements
-- **Approach**: Therapeutic, everyday relatable ("Ganz normal gestört")
+- **Approach**: Therapeutic, everyday relatable ("Completely normal heard")
 - **Themes**: Psychology, normality, moments, self-reflection
 - **Community**: Extensive tour presence, motivating playlists
 

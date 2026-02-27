@@ -28,17 +28,17 @@
 - No albums available
 
 ### EPs
-- Deine Schuld (2024) - EP
+- Your Guilt (2024) - EP
 
 ### Singles
 - Drunk (2024) - Single
 
 ### Popular Tracks (Top 5)
 1. Drunk (feat. Revvnecc) (Explicit) - 2:54
-2. Draht zu dir (feat. Icy) (Explicit) - 1:56
-3. Gewissen (feat. Icy) (Explicit) - 3:05
-4. Deine Schuld (feat. prod.jobe) - 2:32
-5. In Zwei (feat. lin) - 3:12
+2. Wire to you (feat. Icy) (Explicit) - 1:56
+3. Knowledge (feat. Icy) (Explicit) - 3:05
+4. Your Guilt (feat. prod.jobe) - 2:32
+5. In Two (feat. lin) - 3:12
 
 ## Collaborations
 - Revvnecc
@@ -60,7 +60,7 @@
 
 ## Patterns & Anomalies
 - **Name Conventions**: "Beneath040" - English term with number
-- **Themes**: Emotional themes ("Drunk", "Deine Schuld"), existential themes ("Gewissen", "In Zwei"), personal themes ("Draht zu dir")
+- **Themes**: Emotional themes ("Drunk", "Your Guilt"), existential themes ("Knowledge", "In Two"), personal themes ("Wire to you")
 - **Language Patterns**: German with emotional, introspective lyrics
 - **Number Mysticism**: "040" in name (possibly area code)
 
@@ -78,7 +78,7 @@
 
 ## Artist Philosophy
 - **Music Style**: Alternative/Indie with emotional themes
-- **Approach**: "Ich bin zu müde um zu schlafen" - minimalist, exhausted approach
+- **Approach**: "I'm too tired to sleep" - minimalist, exhausted approach
 - **Themes**: Emotional processing, existential questions, personal struggles
 - **Community**: Connection through emotional content
 
