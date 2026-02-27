@@ -87,7 +87,7 @@
 
 ## Artist Philosophy
 - **Music Style**: German Rap/Dark R&B with emotional themes
-- **Approach**: "suche mein one piece und das hella fun ngl" - humorous, pop culture-referenced approach
+- **Approach**: "looking for my one piece and that's hella fun ngl" - humorous, pop culture-referenced approach
 - **Themes**: Pop culture references, existential questions, emotional processing
 - **Community**: Connection through pop culture references and emotional content
 
