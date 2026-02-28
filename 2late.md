@@ -1,16 +1,50 @@
 # 2late
 
 ## Basic Information
+- **Artist Name**: 2late
 - **Spotify ID**: 7DxRkRrRlHwxzbsypyrqR0
-- **Spotify Link**: https://open.spotify.com/artist/7DxRkRrRlHwxzbsypyrqR0
-- **Original Spotify-Link**: https://open.spotify.com/artist/7DxRkRrRlHwxzbsypyrqR0?si=f6523f81492b4cdc
-- **Monthly Listeners**: 42 (captured: 26.02.2026 01:32)
+- **Spotify URL**: https://open.spotify.com/artist/7DxRkRrRlHwxzbsypyrqR0
+- **Collection Timestamp**: 28.02.2026 18:45 (MCP Browser Tool - LATEST)
+- **Monthly Listeners**: 43 (Live data capture - updated from 42)
 - **Followers**: Not available
 - **Genre**: Alternative/Indie
-- **Popularity**: Low (42 monthly listeners)
+- **Popularity**: Low (43 monthly listeners)
 
 ## Biography
-"42 monthly listeners 2late4hugs Archiv"
+"43 monthly listeners 2late4hugs Archiv" - Alternative/Indie artist with consistent release activity and collaboration network.
+
+## Discography Analysis
+### Singles
+- **DISNEY** (Latest Release) - Single
+- **GRIND** (2025) - Single
+- **HEAD LOW** (2025) - Single
+- **REGRET** (2025) - Single
+
+### Popular Tracks (Top 5)
+1. **WHO CARES?** - 3,982 plays - 1:59 (with DAYDREAMCHASER, 2late4hugs)
+2. **REGRET** - 2,870 plays - 2:13 (with isolated)
+3. **HEAD LOW** - 2,764 plays - 2:43 (with Shellinski)
+4. **ME, MYSELF&I** - 2,130 plays - 2:31 (with DAYDREAMCHASER, 2late4hugs)
+5. **DISNEY** - plays not shown - 1:47
+
+## Collaborations & Network Analysis
+### Direct Collaborations
+- **Shellinski**: Featured on "HEAD LOW"
+- **DAYDREAMCHASER**: Featured on "ME, MYSELF&I" and "WHO CARES?"
+- **2late4hugs**: Featured on "ME, MYSELF&I" and "WHO CARES?"
+- **isolated**: Featured on "REGRET"
+
+### Radio Connections
+- **2late Radio**: With Lucidity, utpv, SpaceMan Zack and more
+
+### Fans Also Like
+- **Yite**: Related artist
+- **Trinve**: Related artist
+- **Steyzz**: Related artist
+- **casey.trip**: Related artist
+
+### Artist Pick
+- **DISNEY**: Featured single by artist
 
 ## Online Presence
 - **Official Website**: Not found

@@ -4,14 +4,59 @@
 - **Artist Name**: absent
 - **Spotify ID**: 5jdx9iK9rdclHYrd80tPna
 - **Spotify URL**: https://open.spotify.com/artist/5jdx9iK9rdclHYrd80tPna
-- **Collection Timestamp**: 28.02.2026 02:00 (MCP Browser Tool - LATEST)
-- **Monthly Listeners**: 169,142 (Live data capture - UPDATED)
+- **Collection Timestamp**: 28.02.2026 19:05 (MCP Browser Tool - LATEST)
+- **Monthly Listeners**: 169,142 (Live data capture - confirmed)
 - **Followers**: Not available
 - **Genre**: German Rap/Trap
 - **Popularity**: High-profile artist (169K monthly listeners)
 
 ## Biography & Background
-"IG @absent.mp3" - Professional Instagram presence with management structure. Artist maintains active social media engagement through dedicated account.
+"169,142 monthly listeners IG @absent.mp3" - High-profile German Rap/Trap artist with significant following and professional management structure.
+
+## Discography Analysis
+### Albums
+- **SORGENKIND** (2025) - Album
+- **2K NOSTALGIA** (2024) - Album
+
+### Singles
+- **selbe energie** (Latest Release) - Single
+- **200kmh** (2026) - Single
+
+### Popular Tracks (Top 5)
+1. **HERZURÜCK** - 3,895,577 plays - 1:53 (Explicit)
+2. **katharsis** - 762,410 plays - 2:34 (Explicit) (with consent2k)
+3. **rockstar selfish** - 690,003 plays - 1:53 (Explicit)
+4. **benjamins** - 593,219 plays - 2:10 (Explicit)
+5. **200kmh** - 464,959 plays - 2:02 (Explicit)
+
+## Collaborations & Network Analysis
+### Direct Collaborations
+- **consent2k**: Featured on "katharsis"
+
+### Radio Connections
+- **absent Radio**: With Alex Connor, Saint Purple, lilmido and more
+- **This Is absent**: Essential tracks playlist
+
+### Fans Also Like
+- **consent2k**: Related artist
+- **Edo Saiya**: Related artist
+- **Saint Purple**: Related artist
+- **dusy**: Related artist
+
+### Appears On
+- **lieder vom leben** (2024) - Album appearance
+- **DIENSTAG** (2025) - Single appearance
+- **Delinquent** (2022) - Album appearance
+- **Perfect Blue** (2024) - Album appearance
+
+### Artist Pick
+- **selbe energie**: Featured latest single
+
+### Discovered On
+- **This Is absent**: Essential tracks playlist
+- **absent - alle Songs**: Managed by @lucasxfkl
+- **absent setlist katharsis**: timo playlist
+- **absent katharsis 2026 setlist**: Moritz playlist
 
 ## Online Presence
 - **Official Website**: Not found

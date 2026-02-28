@@ -4,14 +4,63 @@
 - **Artist Name**: 7ventus
 - **Spotify ID**: 1aoaq3TFnfSlKCBSsE0OqW
 - **Spotify URL**: https://open.spotify.com/artist/1aoaq3TFnfSlKCBSsE0OqW
-- **Collection Timestamp**: 28.02.2026 01:50 (MCP Browser Tool - LATEST)
-- **Monthly Listeners**: 4,325 (Live data capture - UPDATED)
+- **Collection Timestamp**: 28.02.2026 19:00 (MCP Browser Tool - LATEST)
+- **Monthly Listeners**: 4,325 (Live data capture - confirmed)
 - **Followers**: Not available
 - **Genre**: German Rap/Hyperpop
 - **Popularity**: Emerging artist (4.3K monthly listeners)
 
 ## Biography & Background
-"Zzzzzzz….." - Minimal biographical information provided. Artist appears to maintain low-profile online presence.
+"4,325 monthly listeners Zzzzzzz….." - German Rap/Hyperpop artist with consistent collaboration activity and low-profile online presence.
+
+## Discography Analysis
+### EPs
+- **SPÄTSOMMER 074** - EP
+- **SOMMER 074** (2023) - EP
+
+### Singles
+- **GASLIGHT STATION** (Latest Release) - Single
+- **BAR** (2026) - Single
+- **ambient lights** (2025) - Single
+
+### Popular Tracks (Top 5)
+1. **grease** - 388,495 plays - 1:47 (with Frry)
+2. **oldskoolvans** - 53,963 plays - 2:36 (Explicit) (with Frry)
+3. **ambient lights** - 6,359 plays - 2:29 (Explicit) (with Frry, stfumaxx)
+4. **BAR** - 1,417 plays - 1:48 (Explicit) (with Frry)
+5. **GASLIGHT STATION** - 1,205 plays - 2:15 (Explicit) (with Frry)
+
+## Collaborations & Network Analysis
+### Direct Collaborations
+- **Frry**: Primary collaborator on all major tracks
+- **stfumaxx**: Featured on "ambient lights"
+
+### Radio Connections
+- **7ventus Radio**: With Frry, Skepsiz, RYLO and more
+
+### Fans Also Like
+- **Frry**: Related artist
+- **Ciez**: Related artist
+- **iroos**: Related artist
+- **nIEMAND**: Related artist
+
+### Appears On
+- **FRRYTALES** (2024) - Album appearance
+- **Rauch in die Luft** (2023) - Single appearance
+- **THE VOICE OF ERAY** (2023) - Album appearance
+- **Skate Fast Smoke Thrax** (2022) - Album appearance
+
+### Artist Pick
+- **SPÄTSOMMER 074**: Featured EP
+
+### Discovered On
+- **cubbie core**: DUNKEL 2026 playlist
+- **partyanfang**: robin.witte03 playlist
+- **arschtäsche**: German playlist
+- **painless awareness therapy❤️‍🩹**: y444 playlist
+
+### Artist Playlists
+- **prod ventus**: Created by 777ventus
 
 ## Online Presence
 - **Official Website**: Not found

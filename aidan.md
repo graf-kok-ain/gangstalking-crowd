@@ -4,14 +4,63 @@
 - **Artist Name**: aidan
 - **Spotify ID**: 6pHMcpzOQOAOYpV6asNyMN
 - **Spotify URL**: https://open.spotify.com/artist/6pHMcpzOQOAOYpV6asNyMN
-- **Collection Timestamp**: 28.02.2026 02:15 (MCP Browser Tool - LATEST)
-- **Monthly Listeners**: 4,003 (Live data capture - UPDATED)
+- **Collection Timestamp**: 28.02.2026 19:10 (MCP Browser Tool - LATEST)
+- **Monthly Listeners**: 4,003 (Live data capture - confirmed)
 - **Followers**: Not available
-- **Genre**: German Hyperpop/Cloud Rap
-- **Popularity**: Emerging artist (4.0K monthly listeners)
+- **Genre**: German Alternative/Indie
+- **Popularity**: Emerging artist (4,003 monthly listeners)
 
 ## Biography & Background
-"fensterweit." - Minimal biographical information with focus on album title. Artist maintains enigmatic, atmospheric presence with poetic minimalism.
+"4,003 monthly listeners fensterweit." - German Alternative/Indie artist with consistent release activity and growing following.
+
+## Discography Analysis
+### Albums
+- **fensterweit** (2025) - Album
+
+### EPs
+- **weißes rauschen** (2024) - EP
+
+### Singles
+- **traum** (Latest Release) - Single
+- **wolkenleer** (2024) - Single
+
+### Popular Tracks (Top 5)
+1. **wolkenleer** - 69,367 plays - 2:06
+2. **vergessen** - 47,609 plays - 2:19
+3. **augen zu / augen auf** - 27,284 plays - 2:14 (with Cubbie)
+4. **bitter** - 9,974 plays - 1:56
+5. **traum** - 8,679 plays - 2:08
+
+## Collaborations & Network Analysis
+### Direct Collaborations
+- **Cubbie**: Featured on "augen zu / augen auf"
+
+### Radio Connections
+- **aidan Radio**: With Blender, Mobezzy, nightfvry and more
+
+### Fans Also Like
+- **daviid**: Related artist
+- **JONII**: Related artist
+- **Niko Jug**: Related artist
+- **changed**: Related artist
+
+### Appears On
+- **ELIA** (2025) - Album appearance
+- **Wachsende Stille** (2024) - Album appearance
+- **hoffnungsloser fall** (2024) - Album appearance
+- **DER GRUND WARUM ICH MÜDE BIN** (2025) - Album appearance
+
+### Artist Pick
+- **traum**: Featured latest single
+
+### Discovered On
+- **painless awareness therapy❤️‍🩹**: y444 playlist
+- **cubbie core**: DUNKEL 2026 playlist
+- **Deep Songs German**: 27.03.2025 playlist
+- **This Is Cubbie**: Essential tracks playlist
+
+### Artist Playlists
+- **aidan.com**: Created by jos
 
 ## Online Presence
 - **Official Website**: Not found

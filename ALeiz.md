@@ -4,14 +4,64 @@
 - **Artist Name**: ALeiz
 - **Spotify ID**: 5L3rnWFvr7aQwITnhWslDY
 - **Spotify URL**: https://open.spotify.com/artist/5L3rnWFvr7aQwITnhWslDY
-- **Collection Timestamp**: 28.02.2026 02:25 (MCP Browser Tool - LATEST)
-- **Monthly Listeners**: 1,560 (Live data capture - UPDATED)
+- **Collection Timestamp**: 28.02.2026 19:20 (MCP Browser Tool - LATEST)
+- **Monthly Listeners**: 1,560 (Live data capture - confirmed)
 - **Followers**: Not available
-- **Genre**: German Experimental/Hyperpop
-- **Popularity**: Niche artist (1.6K monthly listeners)
+- **Genre**: German Hyperpop/Experimental
+- **Popularity**: Emerging artist (1,560 monthly listeners)
 
 ## Biography & Background
-"[self.produced] - if a song triggers something in you, feel free to tell me about it (insta:: @aleizonme) 💕💕💕💕💕 ________________________ &&&&&// u can't k!ll me ;;,,, i survived self-destruction/////(()) --<< <> ///////::///// \"\"\"\" ##>>>>$!!´´ ____ ÷÷÷/ __________________________ __________ ___________ ___________________________________________ BTHA ANTIPODE" - Extremely complex symbolic biography with multiple layers of meaning. References to self-production, survival, destruction, and "BTHA ANTIPODE" (possibly "Breathe Antidote" or symbolic reference).
+"[self.produced] - if a song triggers something in you, feel free to tell me about it (insta:: @aleizonme) 💕💕💕💕💕 ________________________ &&&&&// u can't k!ll me ;;,,, i survived self-destruction/////(()) --<< <> ///////::///// \"\"\"\" ##>>>>$!!´´ ____ ÷÷÷/ __________________________ __________ ___________ ___________________________________________ BTHA ANTIPODE" - Self-produced German Hyperpop/Experimental artist with complex symbolic expression and survival themes.
+
+## Discography Analysis
+### Albums
+- **detaching from the ghost in your memories ==--!!"#"** (2023) - Album
+- **jeder im moshpit weint 2** (2022) - Album
+
+### Singles
+- **mind communication "" ! + # --/// ::** (2023) - Single
+- **buntetränen** (2022) - Single
+- **lieber sterbe ich so als das nicht mehr zu fühlen //_ ==//-** (2023) - Single
+- **keiner von uns left behind ::<>>+** - Single
+
+### Popular Tracks (Top 5)
+1. **mind communication "" ! + # --/// ::** - 95,699 plays - 2:25
+2. **buntetränen** - 93,355 plays - 2:24
+3. **keiner von uns left behind ::<>>+** - 66,702 plays - 2:09
+4. **lieber sterbe ich so als das nicht mehr zu fühlen //_ ==//-** - 28,334 plays - 2:44 (Explicit)
+5. **Alles** - 12,087 plays - 4:19 (with Artisblind)
+
+## Collaborations & Network Analysis
+### Direct Collaborations
+- **Artisblind**: Featured on "Alles"
+
+### Radio Connections
+- **ALeiz Radio**: With CLean, KSIVVA, sore and more
+- **This Is ALeiz**: Essential tracks playlist
+
+### Fans Also Like
+- **CLean**: Related artist
+- **KSIVVA**: Related artist
+- **sore**: Related artist
+- **Colm**: Related artist
+- **Mobezzy**: Related artist
+
+### Appears On
+- **Bonjour Tristesse** (2019) - EP appearance
+- **otherworldly:voices:linger:around:you** (2023) - Album appearance
+- **what:did:u:say** (2023) - Single appearance
+
+### Artist Pick
+- **ALEIZ - v2.0**: Featured playlist
+
+### Discovered On
+- **༺ HYPERPOP GERMANY ༻**: German hyperpop playlist
+- **༺ HYPERPOP ༻**: International hyperpop playlist
+
+### Artist Playlists
+- **This Is ALeiz**: Essential tracks playlist
+- **ALEIZ - v1.9 [Legacy]**: Legacy playlist
+- **ALEIZ - v2.0**: Current version playlist (instagram: @aleizonme)
 
 ## Online Presence
 - **Official Website**: Not found

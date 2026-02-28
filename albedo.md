@@ -4,14 +4,61 @@
 - **Artist Name**: albedo
 - **Spotify ID**: 7obQbBgZmMSmC2vOETYgfk
 - **Spotify URL**: https://open.spotify.com/artist/7obQbBgZmMSmC2vOETYgfk
-- **Collection Timestamp**: 28.02.2026 02:20 (MCP Browser Tool - LATEST)
-- **Monthly Listeners**: 409 (Live data capture - UPDATED)
+- **Collection Timestamp**: 28.02.2026 19:15 (MCP Browser Tool - LATEST)
+- **Monthly Listeners**: 409 (Live data capture - confirmed)
 - **Followers**: Not available
-- **Genre**: German Rap/Cloud Rap
-- **Popularity**: Niche artist (409 monthly listeners)
+- **Genre**: German Alternative/Indie
+- **Popularity**: Emerging artist (409 monthly listeners)
 
 ## Biography & Background
-"addie und außerdem der größte g" - Incomplete biography suggesting "addie" as artist name/handle and "größte g" (greatest g) possibly referring to "greatest gangster" or similar. Artist maintains enigmatic, underground presence with scientific/anime references.
+"409 monthly listeners albedo: ist ein Maß für das Rückstrahlvermögen von diffus reflektierenden, also nicht selbst leuchtenden Oberflächen, eine Anime Baddie und außerdem der größte g" - German Alternative/Indie artist with scientific/philosophical approach and anime cultural references.
+
+## Discography Analysis
+### Albums
+- **intentional contradiction** (2021) - Album
+
+### Singles
+- **pokedex** (Latest Release) - Single
+- **Narbe nach Narbe** (2024) - Single
+- **Echte Love (Remix)** (2025) - Single
+- **flaws** - Single
+
+### Popular Tracks (Top 5)
+1. **vino & pall mall** - 6,227 plays - 3:11 (Explicit)
+2. **Narbe nach Narbe** - 4,666 plays - 2:40 (Explicit) (with dxstin)
+3. **vermisst** - 4,582 plays - 1:39 (Explicit)
+4. **Echte Love - Remix** - 4,034 plays - 2:35 (with l4eiche)
+5. **wenn ich nur wüsste** - 2,379 plays - 3:49 (Explicit)
+
+## Collaborations & Network Analysis
+### Direct Collaborations
+- **dxstin**: Featured on "Narbe nach Narbe"
+- **l4eiche**: Featured on "Echte Love - Remix"
+
+### Radio Connections
+- **albedo Radio**: With dxstin, Nyntex, nightfvry and more
+- **This Is albedo**: Essential tracks playlist
+
+### Fans Also Like
+- **Luzz**: Related artist
+- **2dizzy**: Related artist
+- **PURP ARCHIVE**: Related artist
+- **KunayOG**: Related artist
+
+### Appears On
+- **PRINCE OF BROKEN HEARTS** (2022) - Album appearance
+- **Diary Of An Inner Hell** (2023) - Album appearance
+- **Junkie - Diary** (2024) - Album appearance
+- **lost myself between dimensions** (2024) - Album appearance
+
+### Artist Pick
+- **flaws**: Featured single
+
+### Discovered On
+- **late night gym sesh**: Jojomusic playlist
+
+### Artist Playlists
+- **best of albedo**: Created by albedo
 
 ## Online Presence
 - **Official Website**: Not found

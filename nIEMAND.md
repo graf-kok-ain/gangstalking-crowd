@@ -1,23 +1,52 @@
-# nIEMAND
+# nIEMAND - Comprehensive Artist Analysis
 
-## Basisinformationen
+## Basic Information
+- **Artist Name**: nIEMAND
 - **Spotify ID**: 4yGvSqqutkUl21IRS8MCkw
-- **Spotify Link**: https://open.spotify.com/artist/4yGvSqqutkUl21IRS8MCkw
-- **Original Spotify-Link**: https://open.spotify.com/artist/4yGvSqqutkUl21IRS8MCkw?si=f6523f81492b4cdc
-- **Monatliche Hörer**: 601 (erfasst: 26.02.2026 01:56)
-- **Followers**: Nicht verfügbar
-- **Genre**: Deutschrap
-- **Popularität**: Mittel (601 monatliche Hörer)
+- **Spotify URL**: https://open.spotify.com/artist/4yGvSqqutkUl21IRS8MCkw
+- **Collection Timestamp**: 28.02.2026 19:40 (MCP Browser Tool - LATEST)
+- **Monthly Listeners**: 614 (Live data capture - updated from 601)
+- **Followers**: Not available
+- **Genre**: German Rap
+- **Popularity**: Emerging artist (614 monthly listeners)
 
-## Biografie
-"Nicht mal nIEMAND ist Perfekt. Insta : nIEMAND"
+## Biography & Background
+"614 monthly listeners Nicht mal nIEMAND ist Perfekt. Insta : nIEMAND" - German Rap artist with philosophical approach and social media presence.
 
-## Online-Präsenz
-- **Offizielle Website**: Nicht gefunden
-- **Wikipedia**: Kein Artikel verfügbar
+## Discography Analysis
+### EPs
+- **Don't Panic (Extended)** (2023) - EP
+
+### Singles
+- **Checklist** (Latest Release) - Single
+- **Sterne Schauen** (2024) - Single
+- **Blendet** (2025) - Single
+
+### Popular Tracks (Top 5)
+1. **Sterne Schauen** - 31,150 plays - 2:31
+2. **Lifetime** - 13,457 plays - 2:30 (with Lkc)
+3. **Logisch** - 5,534 plays - 2:09
+4. **Checklist** - 2,948 plays - 2:23
+5. **Blendet** - 1,355 plays - 2:28 (Explicit)
+
+## Collaborations & Network Analysis
+### Direct Collaborations
+- **Lkc**: Featured on "Lifetime"
+
+### Radio Connections
+- **nIEMAND Radio**: With Lkc, VVoodoo, Blender and more
+
+### Fans Also Like
+- **joni**: Related artist
+- **Gruber**: Related artist
+- **leo jakob**: Related artist
+- **Ciez**: Related artist
+
+### Artist Pick
+- **Sterne Schauen**: Featured single
+
+### Online Presence
 - **Instagram**: nIEMAND
-- **Twitter**: Nicht gefunden
-- **Andere Social Media**: Nicht gefunden
 
 ## Archive.is
 - **Archiv-Link**: CAPTCHA-Blocker erfordert manuelle Erfassung

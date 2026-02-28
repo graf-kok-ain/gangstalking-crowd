@@ -1,16 +1,62 @@
 # 2late4hugs
 
 ## Basic Information
+- **Artist Name**: 2late4hugs
 - **Spotify ID**: 3moGHNhXc2gtN5J4LSuT9h
-- **Spotify Link**: https://open.spotify.com/artist/3moGHNhXc2gtN5J4LSuT9h
-- **Original Spotify-Link**: https://open.spotify.com/artist/3moGHNhXc2gtN5J4LSuT9h?si=f6523f81492b4cdc
-- **Monthly Listeners**: 27,384 (captured: 26.02.2026 01:38)
+- **Spotify URL**: https://open.spotify.com/artist/3moGHNhXc2gtN5J4LSuT9h
+- **Collection Timestamp**: 28.02.2026 18:50 (MCP Browser Tool - LATEST)
+- **Monthly Listeners**: 27,816 (Live data capture - updated from 27,384)
 - **Followers**: Not available
 - **Genre**: German Rap/Emo Rap
-- **Popularity**: Medium (27.4K monthly listeners)
+- **Popularity**: Medium (27,816 monthly listeners)
 
 ## Biography
-"27,384 monthly listeners we'll get what we deserve"
+"27,816 monthly listeners we'll get what we deserve" - German Rap/Emo Rap artist with significant following and consistent release activity.
+
+## Discography Analysis
+### Albums
+- **Daydream Chronicles** (2023) - Album
+
+### Singles
+- **Nicht Einfach** (Latest Release) - Single
+- **Borderline 2** (2024) - Single
+- **BORDERLINE** (2024) - Single
+- **Suicide** (2024) - Single
+
+### Popular Tracks (Top 5)
+1. **BORDERLINE** - 865,868 plays - 2:01 (with toly808)
+2. **Borderline 2** - 554,931 plays - 2:24
+3. **Mädchen Aus Der Kleinstadt** - 358,818 plays - 1:35
+4. **Erhofft** - 220,449 plays - 2:45 (with mczy808)
+5. **Suicide** - 205,767 plays - 2:34
+
+## Collaborations & Network Analysis
+### Direct Collaborations
+- **toly808**: Featured on "BORDERLINE"
+- **mczy808**: Featured on "Erhofft"
+- **2late**: Collaboration network (appears in artist name)
+- **DAYDREAMCHASER**: Collaborative projects
+
+### Radio Connections
+- **2late4hugs Radio**: With Eaven, lenny, Luca Schwarzwälder and more
+- **This Is 2late4hugs**: Essential tracks playlist
+
+### Fans Also Like
+- **Eaven**: Related artist
+- **mczy808**: Related artist
+- **El Rafo**: Related artist
+- **52Blue**: Related artist
+- **Bxgdan**: Related artist
+
+### Appears On
+- **AURORA AGONY** (2025) - Album appearance
+- **FRIENDS I'D LIKE TO DIE WITH♰** (2025) - Album appearance
+- **hoffnungsloser fall** (2024) - Album appearance
+- **Poison** (2025) - Album appearance
+- **Shattered Heart** (2025) - Album appearance
+
+### Artist Pick
+- **Nicht Einfach**: Featured latest single
 
 ## Online Presence
 - **Official Website**: Not found

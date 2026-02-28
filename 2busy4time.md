@@ -1,10 +1,11 @@
 # 2busy4time
 
 ## Basic Information
+- **Artist Name**: 2busy4time
 - **Spotify ID**: 62K3jMLOEzCzT1RBACwKCc
-- **Spotify Link**: https://open.spotify.com/artist/62K3jMLOEzCzT1RBACwKCc
-- **Original Spotify-Link**: https://open.spotify.com/artist/62K3jMLOEzCzT1RBACwKCc?si=f6523f81492b4cdc
-- **Monthly Listeners**: 0 (captured: 26.02.2026 01:30)
+- **Spotify URL**: https://open.spotify.com/artist/62K3jMLOEzCzT1RBACwKCc
+- **Collection Timestamp**: 28.02.2026 18:40 (MCP Browser Tool - LATEST)
+- **Monthly Listeners**: 0 (Live data capture - confirmed inactive)
 - **Followers**: Not available
 - **Genre**: German Rap/Trap
 - **Popularity**: Inactive (0 monthly listeners)

@@ -1,13 +1,14 @@
 # 249icey
 
 ## Basic Information
+- **Artist Name**: 249icey
 - **Spotify ID**: 74UvzVON0Iztu0ZUeYHrPi
-- **Spotify Link**: https://open.spotify.com/artist/74UvzVON0Iztu0ZUeYHrPi
-- **Original Spotify-Link**: https://open.spotify.com/artist/74UvzVON0Iztu0ZUeYHrPi?si=f6523f81492b4cdc
-- **Monthly Listeners**: 96 (captured: 26.02.2026 01:28)
+- **Spotify URL**: https://open.spotify.com/artist/74UvzVON0Iztu0ZUeYHrPi
+- **Collection Timestamp**: 28.02.2026 18:35 (MCP Browser Tool - LATEST)
+- **Monthly Listeners**: 98 (Live data capture - updated from 96)
 - **Followers**: Not available
 - **Genre**: Phonk/Electronic
-- **Popularity**: Low (96 monthly listeners)
+- **Popularity**: Low (98 monthly listeners)
 
 ## Biography
 "Yo i'm icey and i love making music lol follow on insta: https://instagram.com/young_icey249?igshid=YTQwZjQ0NmI0OA=="

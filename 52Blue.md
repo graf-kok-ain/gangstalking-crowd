@@ -1,16 +1,63 @@
 # 52Blue
 
 ## Basic Information
+- **Artist Name**: 52Blue
 - **Spotify ID**: 3Kq1Y1DLYCLgARBE3UnJJR
-- **Spotify Link**: https://open.spotify.com/artist/3Kq1Y1DLYCLgARBE3UnJJR
-- **Original Spotify-Link**: https://open.spotify.com/artist/3Kq1Y1DLYCLgARBE3UnJJR?si=f6523f81492b4cdc
-- **Monthly Listeners**: 24,756 (captured: 26.02.2026 01:40)
+- **Spotify URL**: https://open.spotify.com/artist/3Kq1Y1DLYCLgARBE3UnJJR
+- **Collection Timestamp**: 28.02.2026 18:55 (MCP Browser Tool - LATEST)
+- **Monthly Listeners**: 24,536 (Live data capture - updated from 24,756)
 - **Followers**: Not available
 - **Genre**: German Rap/Trap
-- **Popularity**: Medium-High (24.8K monthly listeners)
+- **Popularity**: Medium-High (24,536 monthly listeners)
 
 ## Biography
-"24,756 monthly listeners ig: @52b.lue🐋 - the young one from the deep sea"
+"24,536 monthly listeners ig: @52b.lue🐋 - der junge aus der tiefsee" - German Rap/Trap artist with significant following and consistent release activity.
+
+## Discography Analysis
+### Albums
+- **L(i)ebe** (2023) - Album
+
+### Singles
+- **Keine Drogen** (Latest Release) - Single
+- **Two Pieces** (2023) - Single
+- **5 Monster Energy** (2026) - Single
+
+### Popular Tracks (Top 5)
+1. **Two Pieces** - 602,200 plays - 2:57 (Explicit)
+2. **Blick über die Stadt** - 542,325 plays - 2:37 (Explicit)
+3. **Tote Rosen** - 161,967 plays - 2:51 (Explicit) (with Dropped here)
+4. **h1ghsc0re** - 10,512 plays - 2:22 (Explicit) (with Hello Hannes)
+5. **5 Monster Energy** - 9,072 plays - 2:03 (with Hello Hannes)
+
+## Collaborations & Network Analysis
+### Direct Collaborations
+- **Dropped here**: Featured on "Tote Rosen"
+- **Hello Hannes**: Featured on "5 Monster Energy" and "h1ghsc0re"
+
+### Radio Connections
+- **52Blue Radio**: With Eaven, deadboyboo, Mobezzy and more
+- **This Is 52Blue**: Essential tracks playlist
+
+### Fans Also Like
+- **Dropped here**: Related artist
+- **Eaven**: Related artist
+- **2late4hugs**: Related artist
+- **El Rafo**: Related artist
+
+### Appears On
+- **FRIENDS I'D LIKE TO DIE WITH♰** (2025) - Album appearance
+- **NERVENKONSTRUKT** (2024) - Album appearance
+
+### Artist Pick
+- **Keine Drogen**: Featured latest single
+
+### Discovered On
+- **novariot 3**: Nova Riot compilation (14.02.2026 Berlin)
+- **not just a phase**: Cover compilation with arella, REEZA
+- **Verletzt**: Bunny playlist
+
+### Artist Playlists
+- **abtauchen**: All songs from 52Blue
 
 ## Online Presence
 - **Official Website**: Not found
