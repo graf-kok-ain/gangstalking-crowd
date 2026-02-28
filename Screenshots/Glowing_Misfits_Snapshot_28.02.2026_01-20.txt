@@ -1,0 +1,46 @@
+# Glowing Misfits - Spotify Screenshot
+## Timestamp: 28.02.2026 01:20
+## URL: https://open.spotify.com/artist/0UgkkWzK7E48N2NZ1kue5s
+## Page Title: Glowing Misfits | Spotify
+
+## Key Information Extracted:
+- **Artist Name**: Glowing Misfits
+- **Monthly Listeners**: 1,166
+- **Top Tracks**: 
+  1. supernova (feat. 2dizzy, hella vince) - 1,353 plays
+  2. Stadtaffe (feat. hella vince) - 2,209 plays
+  3. icy (feat. 2dizzy) - 1,736 plays
+  4. Paradox (feat. hella vince) - 3,556 plays
+  5. Klarna (feat. hella vince) - 4,818 plays
+- **Latest Release**: supernova (Single, Latest Release)
+- **Popular Albums/Singles**: Stadtaffe (Single, 2026), icy (Single, 2026), Bloody Moshpit (EP, 2025), Denmark Dunes (EP, 2025), Paradox (Single, 2025), Skate 4 (Single, 2025), 1000 Worte (Single, 2025), Klarna (Single, 2025), Massaker (Single, 2025), PASSED OUT (Single, 2023), SPIELER (Single, 2023), Spotlight.wav (Single, 2023), Ein Walk (Single, 2022)
+- **Artist Pick**: Posted By Glowing Misfits with "supernova" single
+- **Collaborations**: 2dizzy, hella vince
+- **Related Artists**: 2dizzy, hella vince, MA:RK, driftø Blues, Black Soil, G.T.N., Missfits, Danzig
+- **Status**: Following (user follows this artist)
+- **Appears On**: Various compilation albums and collaborations
+
+## Navigation Elements:
+- Library with minimal content
+- Now playing: Rasenschach by Filow
+- Artist profile with image and follow button
+- Popular tracks section with collaboration-heavy content
+- Artist pick section with recent single promotion
+- Discography section with EPs and singles from 2022-2026
+- Featuring Glowing Misfits section with radio playlist
+- About section showing small monthly listener count
+- Fans also like section with similar German underground artists
+- Small monthly listener count (1,166) indicating emerging artist
+- German language track titles and content
+- Active release schedule with multiple 2022-2026 releases
+- Mix of solo tracks and collaborations
+- Distinctive artist branding with "Glowing" theme
+- Recent single "supernova" showing continued activity
+- Collaboration-heavy approach with featured artists
+- Professional artist presentation with consistent releases
+- Underground hip-hop/rap genre focus
+- All tracks marked as explicit
+- Strong presence in German underground scene
+- EP releases showing album-length projects
+
+## Status: ✅ Complete screenshot captured and saved

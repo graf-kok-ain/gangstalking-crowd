@@ -1,0 +1,45 @@
+# Fryz! - Spotify Screenshot
+## Timestamp: 28.02.2026 01:05
+## URL: https://open.spotify.com/artist/5scamK1e1arHlpFhnEKWF8
+## Page Title: Fryz! | Spotify
+
+## Key Information Extracted:
+- **Artist Name**: Fryz!
+- **Monthly Listeners**: 685
+- **Top Tracks**: 
+  1. HOP OUT - 2,531 plays
+  2. WIE ICH (feat. Sin Davis) - 5,293 plays
+  3. LV BAG (feat. prod.siyra) - 1,596 plays
+  4. Ohana - 6,173 plays
+  5. BIG RACKZ (feat. Juzzy768, quietl) - 3,050 plays
+- **Latest Release**: NDO TAPE VOL.1 (Album, Latest Release)
+- **Popular Albums/Singles**: HOP OUT (Single, 2026), LV BAG (Single, 2025), WIE ICH (Single, 2025), Ohana (Single, 2024), 2XP (Single, 2025), BIG RACKZ (Single, 2025), Machs Mir Nach (Single, 2025), Passion (Single, 2025), all alone (Single, 2025)
+- **Artist Pick**: RUN IT UPPPPP!! 🏃 with "HOP OUT" single
+- **Collaborations**: Sin Davis, prod.siyra, Juzzy768, quietl
+- **Related Artists**: luvupside, 52Blue, Noah B, quietl, Juzzy768, prod.siyra, Sin Davis, 808 classic, yungsymon, 2busy4time
+- **Status**: Following (user follows this artist)
+- **Radio Playlist**: Fryz! Radio (With luvupside, 52Blue, Noah B and more)
+- **Appears On**: lost lonzo 2 mixtape vol.1 (Album, 2024), Money Kaputt (Single, 2025), Perfekt (Single, 2023)
+
+## Navigation Elements:
+- Library with minimal content
+- Now playing: Rasenschach by Filow
+- Artist profile with image and follow button
+- Popular tracks section with collaboration-heavy content
+- Artist pick section with emoji and single promotion
+- Discography section with albums and singles from 2023-2026
+- Featuring Fryz! section with radio playlist
+- About section showing monthly listener count
+- Fans also like section with similar German underground artists
+- Appears on section showing collaborations on albums and singles
+- Small monthly listener count (685) indicating emerging artist
+- German language track titles and content
+- Active release schedule with multiple 2025-2026 releases
+- All tracks marked as explicit
+- Mix of solo tracks and collaborations
+- Distinctive artist branding with exclamation mark
+- Energetic promotional style with emojis
+- Strong presence in German underground hip-hop scene
+- Recent album release (NDO TAPE VOL.1) showing progression
+
+## Status: ✅ Complete screenshot captured and saved

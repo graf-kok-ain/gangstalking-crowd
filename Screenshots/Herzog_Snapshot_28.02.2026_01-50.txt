@@ -1,0 +1,51 @@
+# Herzog - Spotify Screenshot
+## Timestamp: 28.02.2026 01:50
+## URL: https://open.spotify.com/artist/0MfzqYTUxvM1W0Oeyl99qP
+## Page Title: Herzog | Spotify
+
+## Key Information Extracted:
+- **Artist Name**: Herzog
+- **Monthly Listeners**: 140,853
+- **Top Tracks**: 
+  1. Das hab ich mir erlaubt - 11,202,478 plays
+  2. Keine Nacht ohne Drogen (feat. Dr. Surabi) - 6,076,347 plays
+  3. Planlos 2016 - Bonus Track (feat. Varak, Dr. Surabi) - 1,204,344 plays
+  4. Straff Ryders (feat. Tayler) - 72,028 plays
+  5. Rettungsschirm - 4,490,002 plays
+- **Latest Release**: Alles in die Blättchen (Single, Latest Release)
+- **Popular Albums/Singles**: EHFD (Album, 2015), Vollbluthustler (Deluxe Edition) (Album, 2016), Eine drogenlose Frechheit (Album, 2014), Straff Ryders (Single, 2026), Deutscher Paketdienst (Single, 2026), Durch meine Venen (Album, 2024), Herzi (Album, 2021)
+- **Collaborations**: Dr. Surabi, Tayler, Varak
+- **Status**: Following (user follows this artist)
+- **Radio Playlist**: Herzog Radio (With Dr. Surabi, Tayler, Varak and more)
+- **Appears On**: Various collaborative albums including Ungerächte Welt (2017), Frisch aus dem Ofen III (2024), Gönn dir (2013), Diddy (2020), Typisch Deutsch (2013), Den Umständen widersprechend (2014), Endstation (2018), Horner Corner (2017)
+- **Related Artists**: Dr. Surabi, King Orgasmus One, Said, AchtVier, B-Tight, Favorite, Tayler, TaiMO
+- **About**: "Herzog ist ein deutscher Rapper aus Berlin. Er ist bekannt für seine provokanten Texte und seinen einzigartigen Stil. 💣"
+- **Artist Playlists**: Herzog Alles (By Jan Begen), This Is Herzog
+
+## Navigation Elements:
+- Library with minimal content
+- Artist profile with image and follow button
+- Popular tracks section with substantial streaming numbers (millions of plays)
+- Discography section with albums and singles from 2013-2026
+- Featuring Herzog section with "This Is Herzog" playlist
+- About section showing substantial monthly listener count
+- Large monthly listener count (140,853) indicating established mainstream artist
+- German language track titles and content
+- Active release schedule with multiple 2013-2026 releases
+- Mix of solo tracks and collaborations
+- Professional artist presentation with consistent releases
+- German hip-hop/rap genre focus
+- Strong streaming numbers indicating commercial success
+- Recent single "Alles in die Blättchen" showing continued activity
+- Albums showing progression from early career to established artist
+- Strong presence in German mainstream hip-hop scene
+- Collaboration-heavy approach with German underground artists
+- All tracks marked as explicit
+- Professional artist branding and presentation
+- Strong fan base with substantial monthly listeners
+- Active presence across multiple German hip-hop albums
+- Established career with decade-long discography
+- Provocative and controversial lyrical content
+- Berlin-based artist with strong local scene presence
+
+## Status: ✅ Complete screenshot captured and saved

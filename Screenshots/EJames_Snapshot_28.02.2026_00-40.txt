@@ -1,0 +1,44 @@
+# EJames - Spotify Screenshot
+## Timestamp: 28.02.2026 00:40
+## URL: https://open.spotify.com/artist/7HgytjkAZ2Qo43hrJfYZ0y
+## Page Title: EJames | Spotify
+
+## Key Information Extracted:
+- **Artist Name**: EJames
+- **Monthly Listeners**: 37
+- **Top Tracks**: 
+  1. Half Dead - No play count displayed
+  2. Nobody's Home - Demo - No play count displayed
+  3. Get That :/ - No play count displayed
+  4. Death Is Way Easier (feat. Smyly, LJ VALLEY) - No play count displayed
+  5. 16 - No play count displayed
+- **Latest Release**: Nobody's Home (Demo) (Single, Latest Release)
+- **Popular Albums/Singles**: EXPERIMENTAL (Album, 2025), 16 (Single, 2025), Get Back Twice (Single, 2025), Get That :/ (Single, 2025), Half Dead (Single, 2025), How Far Can I Go? (Single, 2025), antagonist (Single, 2025)
+- **Artist Pick**: Part Time "Lovers" 3/13 with "EXPERIMENTAL" album
+- **Collaborations**: Smyly, LJ VALLEY
+- **Related Artists**: Steyzz, Ahri Slade, MilkGod6000, LMBILLY, Guti, DAFO, Hüntz, dior
+- **Status**: Following (user follows this artist)
+- **Radio Playlists**: EJames Radio (With Favi0 Lanez, Lucidity, EqualPain and more)
+- **Discovered On**: INDIE POP ROCK (Pop, Rock and more... playlist with submission info)
+- **Appears On**: VVS Dreams (Single, 2025), Penthouse Views (Citron Remix) (Single, 2025)
+- **Artist Playlists**: Stream (Underground Artist / DM me to get your song on here), INDIE POP ROCK, EJames: Best of (By Ethan Dorwart)
+
+## Navigation Elements:
+- Library with minimal content
+- Now playing: Rasenschach by Filow
+- Artist profile with image and follow button
+- Popular tracks section with all tracks marked as explicit
+- Artist pick section promoting latest album
+- Discography section with albums and singles from 2025
+- Featuring EJames section with radio playlist
+- Discovered on section showing indie playlist placement
+- Artist playlists section with self-curated playlists
+- Fans also like section with similar underground artists
+- Appears on section showing collaborations
+- Very small monthly listener count (37) indicating emerging artist
+- All tracks marked as explicit
+- Active release schedule with multiple 2025 releases
+- Mix of experimental and indie rock sound
+- Demo releases indicating early career stage
+
+## Status: ✅ Complete screenshot captured and saved

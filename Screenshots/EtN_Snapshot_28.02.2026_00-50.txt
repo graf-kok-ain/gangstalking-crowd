@@ -1,0 +1,45 @@
+# EtN - Spotify Screenshot
+## Timestamp: 28.02.2026 00:50
+## URL: https://open.spotify.com/artist/2VH5Z3AKm8Wgw9UB1L5oYP
+## Page Title: EtN | Spotify
+
+## Key Information Extracted:
+- **Artist Name**: EtN
+- **Monthly Listeners**: 284
+- **Top Tracks**: 
+  1. LIPSTICK - 2,095 plays
+  2. ALLEIN - No play count displayed
+  3. Summer Vibes - 8,187 plays
+  4. Need your Love - 1,738 plays
+  5. Deeptalks - 3,556 plays
+- **Latest Release**: ALLEIN (Single, Latest Release)
+- **Popular Singles**: LIPSTICK (2026), Deeptalks (2025), Erinnerungen (2025), Late Night Calls (2025), Mische mit Sprite (2025), Need your Love (2025), S1 (2025)
+- **Artist Pick**: jetzt streamen🔥 with "ALLEIN" single
+- **About**: EtN ist ein Artist aus Sachsen. 2023 hat er angefangen selbst Songs zu produzieren, aufzunehmen zu mixen und zu mastern. Mit seinen vielfältigen Genres spricht er ein breites Publikum seiner Hörer an und entwickelt so seinen eigenen Stil. Egal ob emotionale Love Songs, entspannte Abend Songs oder absolute Party Banger...hier ist für jeden Hörer etwas dabei. Seid gespannt auf alles was noch kommt!🔥
+- **Related Artists**: Manic, lued, Brinder, Cerejaa, CryX, SCENIC, Ainzz, ELJO
+- **Status**: Following (user follows this artist)
+- **Radio Playlist**: EtN Radio (With EYEN22, nightfvry, Snowz and more)
+- **Discovered On**: Escape (By René)
+- **Artist Playlists**: EtN Vibes (By Etienne)
+
+## Navigation Elements:
+- Library with minimal content
+- Now playing: Rasenschach by Filow
+- Artist profile with image and follow button
+- Popular tracks section with mix of German and English titles
+- Artist pick section promoting latest single
+- Discography section with recent singles from 2025-2026
+- Featuring EtN section with radio playlist
+- About section with detailed German biography
+- Discovered on section showing playlist placement
+- Artist playlists section with self-curated playlist
+- Fans also like section with similar German underground artists
+- Small monthly listener count (284) indicating emerging artist
+- Mix of German and English language content
+- Active release schedule with multiple 2025-2026 releases
+- Detailed artist bio in German describing musical versatility
+- German regional artist from Saxony
+- Started producing in 2023
+- Versatile genre range from emotional love songs to party tracks
+
+## Status: ✅ Complete screenshot captured and saved

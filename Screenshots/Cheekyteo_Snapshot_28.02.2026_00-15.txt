@@ -1,0 +1,38 @@
+# Cheekyteo - Spotify Screenshot
+## Timestamp: 28.02.2026 00:15
+## URL: https://open.spotify.com/artist/5kdWOfdWyCUwGD6MftVKmX
+## Page Title: Cheekyteo | Spotify
+
+## Key Information Extracted:
+- **Artist Name**: Cheekyteo
+- **Monthly Listeners**: 1,858
+- **Top Tracks**: 
+  1. TRÄNEN - 3,563 plays
+  2. on my mind (feat. Bennyniall) (Explicit) - 1,388 plays
+  3. order (Explicit) - 2,107 plays
+  4. komma (feat. Bennyniall) (Explicit) - 4,125 plays
+  5. BLUT RAUSCH (feat. Yung Vision, basi) (Explicit) - 9,200 plays
+- **Latest Release**: Sag's mir.mp3 (Single, Latest Release)
+- **Popular Albums/EPs**: INSULIN (Album, 2025), Sturdy EP (2026)
+- **Popular Singles**: on my mind (2026), TRÄNEN (2024), order (2026), komma (2025), BLUT RAUSCH (2025)
+- **Artist Pick**: 🩸⛓️‍💥 with "Sag's mir.mp3" single
+- **Collaborations**: Bennyniall, Yung Vision, basi
+- **Related Artists**: saimuzz, STEYNO, 808 classic, croown, YANG JAY, Bennyniall
+- **Status**: Following (user follows this artist)
+- **Albums**: INSULIN (2025)
+- **EPs**: Sturdy EP (2026)
+- **Singles**: Sag's mir.mp3 (2026), on my mind (2026), TRÄNEN (2024), order (2026), komma (2025), BLUT RAUSCH (2025), 4thepeeps (Remix) (2025), KOMA RAUSCH (2026), kippe (2026), CRASHOUT (2026)
+
+## Navigation Elements:
+- Library with minimal content
+- Now playing: Rasenschach by Filow
+- Full discography section with popular releases, albums, and singles
+- Artist profile with image and follow button
+- Related artists section with German underground/hip-hop artists
+- Artist pick with emoji combination 🩸⛓️‍💥
+- Mix of singles, EPs, and albums from 2024-2026
+- Most tracks marked as explicit
+- German language track titles and content
+- Active release schedule with multiple 2026 releases
+
+## Status: ✅ Complete screenshot captured and saved

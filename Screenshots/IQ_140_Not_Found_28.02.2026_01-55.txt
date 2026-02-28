@@ -1,0 +1,29 @@
+# IQ_140 - Spotify Search Results
+## Timestamp: 28.02.2026 01:55
+## URL: https://open.spotify.com/search/IQ_140
+## Page Title: Spotify – Search
+
+## Search Analysis:
+- **Artist Name**: IQ_140
+- **Search Query**: IQ_140
+- **Results Found**: No exact artist match found
+- **Top Result**: Podcast episode "Sadista s IQ 140 bojoval sám se sebou. Nakonec vraždil, přiznal se na místě činu" from "HLASY ZLOČINU"
+- **Related Artists Found**: 140 Productions, isq, c152, 1320, Colo030
+- **Songs Found**: Various tracks from different artists (Taiko, Casiiwool, Muroki, MICH, CORTES, INNERGATED)
+- **Albums Found**: Various albums with "140" in title from different artists
+- **Profiles Found**: Various user profiles with "140" in username
+
+## Navigation Elements:
+- Library with minimal content
+- Now playing: Rasenschach by Filow
+- Search results showing no direct artist match
+- Mixed results including podcasts, songs, and similar artist names
+- No dedicated artist page found for "IQ_140"
+- Search results dominated by unrelated content with "140" in titles
+- No German hip-hop/rap artists matching the exact name
+- Search algorithm returning generic numeric matches
+- No evidence of artist with this specific name on Spotify
+- Results suggest this artist may not exist on Spotify or uses a different name
+
+## Status: ❌ Artist not found on Spotify
+## Note: The search for "IQ_140" did not return any matching artist. Closest matches were artists with similar numeric names but not the exact artist being searched for.

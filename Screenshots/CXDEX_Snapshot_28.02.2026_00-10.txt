@@ -1,0 +1,37 @@
+# CXDEX - Spotify Screenshot
+## Timestamp: 28.02.2026 00:10
+## URL: https://open.spotify.com/artist/3JBVAX9nmfb5SeFNOfcokp
+## Page Title: CXDEX | Spotify
+
+## Key Information Extracted:
+- **Artist Name**: CXDEX
+- **Monthly Listeners**: 1,198
+- **Top Tracks**: 
+  1. Keys (feat. JShiny, Lkc) (Explicit) - 1,488 plays
+  2. Honest. (feat. THRE$H, Melay) - 10,000 plays
+  3. TT (feat. 2shiny, JShiny) (Explicit) - 2,286 plays
+  4. SINNE TAUB (feat. HXDEX, KlaaNuddn) (Explicit) - 12,386 plays
+  5. valley (feat. JShiny, HXDEX) (Explicit) - 5,491 plays
+- **Latest Release**: Keys (Single, Latest Release)
+- **Popular Albums/Singles**: Red Lights (Album, 2025), TT (Single, 2025), valley (Single, 2025), 1L in shots (Single, 2025), 7kV (Single, 2025)
+- **Artist Pick**: "Wer hat schonmal Schlüssel verloren" with "Keys" single
+- **Collaborations**: JShiny, Lkc, THRE$H, Melay, HXDEX, KlaaNuddn, 2shiny
+- **Related Artists**: HXDEX, JShiny, 2shiny, Lkc, KlaaNuddn, THRE$H, Melay, Yatsu, ALeiz
+- **Status**: Following (user follows this artist)
+- **Albums**: Red Lights (2025), 951 (2024, with HXDEX)
+- **Singles**: Keys (2025), TT (2025), valley (2025), 1L in shots (2025), 7kV (2025), SINNE TAUB (2023), Honest. (2025, with THRE$H, Melay)
+- **Radio Playlist**: Cxdexanti Radio (By Spotify)
+
+## Navigation Elements:
+- Library with minimal content
+- Now playing: Rasenschach by Filow
+- Full discography section with popular releases and singles
+- Artist profile with image and follow button
+- Related artists section with German underground/hip-hop artists
+- Radio playlist available
+- Mix of singles and albums from 2023-2025
+- Most tracks marked as explicit
+- German language track titles and content
+- Artist pick with German text about lost keys
+
+## Status: ✅ Complete screenshot captured and saved

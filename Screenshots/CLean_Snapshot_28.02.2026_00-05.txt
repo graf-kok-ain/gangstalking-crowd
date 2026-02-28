@@ -1,0 +1,34 @@
+# CLean - Spotify Screenshot
+## Timestamp: 28.02.2026 00:05
+## URL: https://open.spotify.com/artist/3DBm5RY0GZVqGBWKxUXFps
+## Page Title: CLean | Spotify
+
+## Key Information Extracted:
+- **Artist Name**: CLean
+- **Monthly Listeners**: 2,331
+- **Top Tracks**: 
+  1. ON THE ROAD (feat. t-low) (Explicit) - 297,209 plays
+  2. KISS ME ON COKE (feat. Hello Hannes) (Explicit) - 142,601 plays
+  3. IMMER WIEDER (feat. stepgod) - 102,327 plays
+  4. MEINE MUTTER FINDET`S GARNICHT GUT (feat. Hello Hannes) (Explicit) - 39,991 plays
+  5. renn weg (feat. Rexide) - 3,707 plays
+- **Latest Release**: renn weg (Remix) (Single, Latest Release)
+- **Popular Singles**: ON THE ROAD (2019), IMMER WIEDER (2023), MEINE MUTTER FINDET`S GARNICHT GUT (2023), KISS ME ON COKE (2022), renn weg (2025)
+- **Collaborations**: t-low, Hello Hannes, stepgod, Rexide
+- **Related Artists**: ALeiz, Mobezzy, Beneath040, Colm, racedontpanic, wilson100k, Keigo, Whack K, swagboipi, Slatty
+- **Artist Pick**: ⬇️ emoji with "renn weg (Remix)" single
+- **Appears On**: No Anxiety Zone (Album, 2020), HOURS UNTIL MIDNIGHT (Album, 2022)
+- **Status**: Following (user follows this artist)
+
+## Navigation Elements:
+- Library with minimal content
+- Now playing: Rasenschach by Filow
+- Full discography section with popular releases and singles
+- Artist profile with image and follow button
+- Related artists section with German underground/hip-hop artists
+- Appears on section showing collaborations
+- Mix of singles from 2019-2025
+- Most tracks marked as explicit
+- German language track titles and content
+
+## Status: ✅ Complete screenshot captured and saved

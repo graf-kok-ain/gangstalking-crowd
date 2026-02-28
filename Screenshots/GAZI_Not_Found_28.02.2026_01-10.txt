@@ -1,0 +1,20 @@
+# GAZI - Spotify Search Result
+## Timestamp: 28.02.2026 01:10
+## Search Query: GAZI
+## Page Title: Spotify – Search
+
+## Search Results Analysis:
+- **Artist "GAZI"**: Not found on Spotify
+- **Closest Matches**: 
+  - "Ghazi47" (Artist ID: 3RJAKa2JE55JN9iyfND7ns) - Listed as top result
+  - "Gzuz" (Artist ID: 5eioJDe26lOqkAMbuhzZYs) - German underground artist
+  - "GAZIROVKA" (Artist ID: 0PkPqQe8TU96Z8VVXCrZ71) - Electronic artist
+  - "Gazapizm" (Artist ID: 2boacFGRX1WIo7NFS8B0F2) - Turkish artist
+  - "Gazo" (Artist ID: 5gqmbbfjcikQBzPB5Hv13I) - French rapper
+- **Songs Found**: Various tracks with "Gazi" references by different artists
+- **Albums Found**: Multiple albums from similar-named artists
+
+## Conclusion:
+The artist "GAZI" does not exist on Spotify. The closest match is "Ghazi47" which appears as the top search result, but this appears to be a different artist. Other similar artists include "Gzuz" (German underground), "GAZIROVKA" (electronic), and "Gazo" (French rapper).
+
+## Status: ❌ Artist not found on Spotify
