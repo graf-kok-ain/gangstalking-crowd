@@ -4,21 +4,26 @@
 - **Artist Name**: MoZzhet
 - **Spotify ID**: 5FxHa4ylIAjDF415IjetfL
 - **Spotify URL**: https://open.spotify.com/artist/5FxHa4ylIAjDF415IjetfL
-- **Collection Timestamp**: 28.02.2026 08:15 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 10:05 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 6 (Live data capture)
 
 ## Biography & Background
 "6 monthly listeners" - Minimalist bio with listener count only.
 
 ## Discography Analysis
+### Albums
+- **VIVERE** (2023) - Album
+
 ### EPs
 - **Bete nicht zu Gott** (2023) - EP
+- **Nights before Daylight** (2022) - EP
 
 ### Singles
 - **Gestern** (2024, Explicit) - Single
-- **Ich vermiss den Winter nicht** (2024) - Single
+- **Ich vermiss den Winter nicht** (2024, Explicit) - Single
 - **Nie mehr wie es war** (2024, Explicit) - Single
 - **Kein_Schlaf** (2023, Explicit) - Single
+- **Auf das was war** (2022, Explicit) - Single
 
 ### Popular Tracks (Top 5)
 1. **Auf das was war** (feat. Pastor, Explicit) - 3,511 plays - 2:15
