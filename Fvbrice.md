@@ -4,7 +4,7 @@
 - **Artist Name**: Fvbrice
 - **Spotify ID**: 4Rvr5Ic4yEQ3cN7NLsOgPA
 - **Spotify URL**: https://open.spotify.com/artist/4Rvr5Ic4yEQ3cN7NLsOgPA
-- **Collection Timestamp**: 28.02.2026 08:50 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 13:40 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 17 (Live data capture)
 
 ## Biography & Background
@@ -31,6 +31,7 @@
 - **Vitchy** - Related artist
 - **Parix** - Related artist
 - **Maas** - Related artist
+- **Tmaurice** - Related artist
 
 ## Stream Numbers & Financial Analysis (2023-2026 Spotify Averages)
 

@@ -4,18 +4,19 @@
 - **Artist Name**: RØN
 - **Spotify ID**: 2484kMTVaw9re55MPdoVa4
 - **Spotify URL**: https://open.spotify.com/artist/2484kMTVaw9re55MPdoVa4
-- **Collection Timestamp**: 28.02.2026 06:40 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 11:25 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 15 (Live data capture)
 
 ## Biography & Background
-"15 monthly listeners insta: @ronmsc" - Minimalist bio with listener count and Instagram reference.
+"15 monthly listeners insta: @ronmsc" - Minimalist bio with listener count and Instagram.
 
 ## Discography Analysis
 ### Singles
-- **Lovetape** (Latest Release, Explicit) - Single
+- **Lovetape** (Latest Release) - Single
 - **Zeit** (2025) - Single
 - **Besser wenn ich geh** (2024, Explicit) - Single
 - **Forever** (2024) - Single
+- **Nur wir zwei** (2024) - Single
 
 ### Popular Tracks (Top 5)
 1. **Lovetape** (Explicit) - plays - 2:35
@@ -25,7 +26,7 @@
 5. **Forever** - plays - 2:30
 
 ### Artist Pick
-- **Lovetape** - 🚀 🎧
+- **Lovetape** - Current featured single with 🚀 🎧 emojis
 
 ## Collaborations & Network Analysis
 ### Radio Connections
@@ -39,6 +40,7 @@
 - **cosi** - Related artist
 - **jaceyy** - Related artist
 - **empty.wav** - Related artist
+- **Julain** - Related artist
 
 ## Stream Numbers & Financial Analysis (2023-2026 Spotify Averages)
 

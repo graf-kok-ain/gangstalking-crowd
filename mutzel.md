@@ -4,7 +4,7 @@
 - **Artist Name**: mutzel
 - **Spotify ID**: 2xsnLlLqGzgiEF03l6Oy1m
 - **Spotify URL**: https://open.spotify.com/artist/2xsnLlLqGzgiEF03l6Oy1m
-- **Collection Timestamp**: 28.02.2026 09:35 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 15:00 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 13 (Live data capture)
 
 ## Biography & Background

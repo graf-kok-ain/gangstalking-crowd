@@ -4,7 +4,7 @@
 - **Artist Name**: empty.wav
 - **Spotify ID**: 2EI0bw9HLlJSp6GuiULOj1
 - **Spotify URL**: https://open.spotify.com/artist/2EI0bw9HLlJSp6GuiULOj1
-- **Collection Timestamp**: 28.02.2026 07:15 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 11:35 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 30 (Live data capture)
 
 ## Biography & Background
@@ -19,9 +19,9 @@
 
 ### Popular Tracks (Top 5)
 1. **Kopfschrott** (feat. HelpShutdown, Explicit) - 13,261 plays - 2:02
-2. **Für dich keine Zeit** (Explicit) - 1,527 plays - 2:21
-3. **Renne** (Explicit) - 2,213 plays - 2:26
-4. **Atmosphäre** (feat. HelpShutdown, SLIMG, Explicit) - 1,406 plays - 3:09
+2. **Atmosphäre** (feat. HelpShutdown, SLIMG, Explicit) - 1,406 plays - 3:09
+3. **Für dich keine Zeit** (Explicit) - 1,527 plays - 2:21
+4. **Renne** (feat. HelpShutdown, Explicit) - 2,213 plays - 2:26
 5. **Das was ich brauch** (Explicit) - 2,307 plays - 2:19
 
 ## Collaborations & Network Analysis
@@ -37,7 +37,6 @@
 - **RØN** - Related artist
 - **CNFSD** - Related artist
 - **cosi** - Related artist
-- **The Gringo Lab** - Related artist
 
 ## Stream Numbers & Financial Analysis (2023-2026 Spotify Averages)
 

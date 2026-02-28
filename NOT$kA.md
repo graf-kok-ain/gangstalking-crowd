@@ -4,11 +4,11 @@
 - **Artist Name**: NOT$kA
 - **Spotify ID**: 398lQGUTbbvI5Zrl9VYN03
 - **Spotify URL**: https://open.spotify.com/artist/398lQGUTbbvI5Zrl9VYN03
-- **Collection Timestamp**: 28.02.2026 07:25 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 11:55 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 12 (Live data capture)
 
 ## Biography & Background
-"12 monthly listeners kunst oder so, du entscheidest" - Minimalist bio with listener count and artistic statement.
+"12 monthly listeners kunst oder so, du entscheidest" - Detailed bio with listener count and artistic statement.
 
 ## Discography Analysis
 ### Albums
@@ -18,7 +18,6 @@
 - **shootinstars** (2024) - Single
 - **2kippen** (2023) - Single
 - **COLD HEART** (2023) - Single
-- **distorted feelings** (2023, Explicit) - Single
 
 ### Popular Tracks (Top 5)
 1. **wie lang** (feat. The Gringo Lab, Explicit) - 1,331 plays - 2:10
@@ -35,7 +34,7 @@
 - **NOT$kA Radio**: With D4VID777, nightfvry, Snowz and more
 
 ### Artist Playlists
-- **This is NOT$kA**: die komplette dröhnung
+- **This is NOT$kA die komplette dröhnung** - Self-curated playlist
 
 ### Fans Also Like
 - **The Gringo Lab** - Related artist

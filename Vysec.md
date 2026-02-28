@@ -4,7 +4,7 @@
 - **Artist Name**: Vysec
 - **Spotify ID**: 7xaDpcSwh4Hf5pynKEYtlO
 - **Spotify URL**: https://open.spotify.com/artist/7xaDpcSwh4Hf5pynKEYtlO
-- **Collection Timestamp**: 28.02.2026 10:00 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 14:40 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 18 (Live data capture)
 
 ## Biography & Background

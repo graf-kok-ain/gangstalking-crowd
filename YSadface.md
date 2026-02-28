@@ -4,29 +4,31 @@
 - **Artist Name**: YSadface
 - **Spotify ID**: 6IGBlivMdYIj0JxI6UBPnR
 - **Spotify URL**: https://open.spotify.com/artist/6IGBlivMdYIj0JxI6UBPnR
-- **Collection Timestamp**: 28.02.2026 06:35 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 11:00 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 34 (Live data capture)
 
 ## Biography & Background
-"34 monthly listeners lost her" - Minimalist bio with listener count and emotional reference.
+"34 monthly listeners lost her" - Detailed bio with listener count and emotional context.
 
 ## Discography Analysis
+### Albums
+- **MemoriesInZiplocs** (2023) - Album
+
 ### Singles
 - **sag mir wo du bist** (Latest Release, Explicit) - Single
 - **sonnenuntergang** (2025, Explicit) - Single
-- **2017** (2024) - Single
-- **6 AM** (2024) - Single
-- **Keine Papes** (2024) - Single
-
-### Popular Tracks (Top 5)
-1. **sag mir wo du bist** (Explicit) - plays - 2:15
-2. **sonnenuntergang** (Explicit) - plays - 2:24
-3. **nothing left** (Explicit) - 2,366 plays - 1:55
-4. **Hopeless** (Explicit) - 5,351 plays - 2:55
-5. **Fucked up** (Explicit) - 4,512 plays - 2:44
+- **2017** (2024, Explicit) - Single
+- **6 AM** (2024, Explicit) - Single
 
 ### Artist Pick
-- **was bedeutet love** - Posted by YSadface
+- **was bedeutet love** - Current featured single
+
+### Popular Tracks (Top 5)
+1. **Hopeless** (Explicit) - 5,351 plays - 2:55
+2. **Fucked up** (Explicit) - 4,512 plays - 2:44
+3. **nothing left** (Explicit) - 2,366 plays - 1:55
+4. **sonnenuntergang** (Explicit) - plays - 2:24
+5. **sag mir wo du bist** (Explicit) - plays - 2:15
 
 ## Collaborations & Network Analysis
 ### Radio Connections
@@ -37,7 +39,6 @@
 - **nuke** - Related artist
 - **Joel.03** - Related artist
 - **PuRpLeB0y** - Related artist
-- **PmZ040** - Related artist
 
 ### Appears On
 - **MemoriesInZiplocs** (2023) - Album

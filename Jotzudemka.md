@@ -4,7 +4,7 @@
 - **Artist Name**: Jotzudemka
 - **Spotify ID**: 1xonZhMWYqh3OaUf1Lk6kR
 - **Spotify URL**: https://open.spotify.com/artist/1xonZhMWYqh3OaUf1Lk6kR
-- **Collection Timestamp**: 28.02.2026 07:40 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 12:50 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 5 (Live data capture)
 
 ## Biography & Background
@@ -18,7 +18,6 @@
 - **what if** (2022) - Single
 - **wish that we never dated** (2022) - Single
 - **Augen von Luzifer** (2020, Explicit) - Single
-- **Teenager Forever** (2020, Explicit) - Single
 
 ### Popular Tracks (Top 5)
 1. **Augen von Luzifer** (Explicit) - 2,020 plays - 2:26
@@ -32,14 +31,13 @@
 - **Jotzudemka Radio**: With D4VID777, nightfvry, EYEN22 and more
 
 ### Artist Playlists
-- **This Is Jotzudemka**: By Jotzudemka
+- **This Is Jotzudemka By Jotzudemka** - Self-curated playlist
 
 ### Fans Also Like
 - **Guilty** - Related artist
 - **Lurey** - Related artist
 - **ttias** - Related artist
 - **The Gringo Lab** - Related artist
-- **Caoz** - Related artist
 
 ### Appears On
 - **FUNPARK** (2020) - Album

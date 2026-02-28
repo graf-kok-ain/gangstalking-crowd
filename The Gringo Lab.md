@@ -4,7 +4,7 @@
 - **Artist Name**: The Gringo Lab
 - **Spotify ID**: 5QBywxqcWycHs5OOg9EW2o
 - **Spotify URL**: https://open.spotify.com/artist/5QBywxqcWycHs5OOg9EW2o
-- **Collection Timestamp**: 28.02.2026 07:20 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 12:40 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 17 (Live data capture)
 
 ## Biography & Background
@@ -16,7 +16,7 @@
 
 ### Singles
 - **Ocean Lights** (2025) - Single
-- **dream$.** (2024) - Single
+- **dream$** (2024) - Single
 
 ### Popular Tracks (Top 5)
 1. **wie lang** (feat. NOT$kA, Explicit) - 1,331 plays - 2:10
@@ -37,6 +37,7 @@
 - **Moki** - Related artist
 - **ttias** - Related artist
 - **Jotzudemka** - Related artist
+- **Lurey** - Related artist
 
 ### Appears On
 - **ereigniskarte** (2023) - Album

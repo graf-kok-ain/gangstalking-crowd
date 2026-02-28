@@ -4,11 +4,11 @@
 - **Artist Name**: Moki
 - **Spotify ID**: 5qqCBrrJJTR7WxQHI0bQgt
 - **Spotify URL**: https://open.spotify.com/artist/5qqCBrrJJTR7WxQHI0bQgt
-- **Collection Timestamp**: 28.02.2026 07:30 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 12:45 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 16 (Live data capture)
 
 ## Biography & Background
-"16 monthly listeners Hi. Ich mach coole Musik. Bitte hören, danke :) Instagram: @mokimachtmusik | YouTube: Bermuda Records | Anfragen an: business@bermuda-records.com" - Detailed bio with personal message and contact information.
+"16 monthly listeners Hi. Ich mach coole Musik. Bitte hören, danke :) Instagram: @mokimachtmusik | YouTube: Bermuda Records | Anfragen an: business@bermuda-records.com" - Detailed bio with listener count, personal message, and contact information.
 
 ## Discography Analysis
 ### EPs
@@ -18,7 +18,6 @@
 - **Wahnsinn** (2024) - Single
 - **Betäubt** (2023, Explicit) - Single
 - **Cup Leer** (2023, Explicit) - Single
-- **Cup Leer 2** (2023) - Single
 
 ### Popular Tracks (Top 5)
 1. **Cup Leer** (feat. Laz218, Explicit) - plays - 3:00
@@ -40,7 +39,6 @@
 - **The Gringo Lab** - Related artist
 - **NOT$kA** - Related artist
 - **rydon_XIII** - Related artist
-- **Soni** - Related artist
 
 ### Appears On
 - **Winston Black (Remix)** (2023) - EP

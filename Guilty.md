@@ -4,16 +4,13 @@
 - **Artist Name**: Guilty
 - **Spotify ID**: 6tcr8Urgc8BxMLkg4nMvGv
 - **Spotify URL**: https://open.spotify.com/artist/6tcr8Urgc8BxMLkg4nMvGv
-- **Collection Timestamp**: 28.02.2026 10:15 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 13:00 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 5 (Live data capture)
 
 ## Biography & Background
-"5 monthly listeners very loud" - Minimalist bio with listener count and volume reference.
+"5 monthly listeners very loud" - Minimalist bio with listener count and description.
 
 ## Discography Analysis
-### Albums
-- **The City Is Too Loud** (2021) - Album
-
 ### Singles
 - **Homesick** (2021, Explicit) - Single
 
@@ -23,6 +20,9 @@
 ## Collaborations & Network Analysis
 ### Radio Connections
 - **Guilty Radio**: With D4VID777, Snowz, nightfvry and more
+
+### Appears On
+- **The City Is Too Loud** (2021) - Album
 
 ### Fans Also Like
 - **Jotzudemka** - Related artist

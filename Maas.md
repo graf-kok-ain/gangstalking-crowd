@@ -4,7 +4,7 @@
 - **Artist Name**: Maas
 - **Spotify ID**: 7spi9tz0OgFZPf02cZyeTu
 - **Spotify URL**: https://open.spotify.com/artist/7spi9tz0OgFZPf02cZyeTu
-- **Collection Timestamp**: 28.02.2026 08:20 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 14:15 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 15 (Live data capture)
 
 ## Biography & Background
@@ -30,6 +30,7 @@
 ## Collaborations & Network Analysis
 ### Direct Collaborations
 - **matas** - Featured on multiple tracks
+- **101Kollektiv** - Featured on 101
 
 ### Radio Connections
 - **Maas Radio**: With matas, D4VID777, Snowz and more
@@ -52,9 +53,9 @@
 - **Total Estimated Streams**: 4,870+ streams
 
 ### Financial Revenue Estimate (Spotify Averages €0.003-€0.007 per stream)
-- **Monthly Revenue**: €25-€60
-- **Annual Revenue**: €292-€702
-- **Total Revenue (2023-2026)**: €876-€2,106
+- **Monthly Revenue**: €24-€58
+- **Annual Revenue**: €292-€700
+- **Total Revenue (2023-2026)**: €876-€2,100
 
 ## Patterns & Analysis
 ### Content Themes

@@ -33,7 +33,6 @@
 - **KidKaze** - Related artist
 - **blondey** - Related artist
 - **Zeiro** - Related artist
-- **Guilty** - Related artist
 
 ## Stream Numbers & Financial Analysis (2023-2026 Spotify Averages)
 

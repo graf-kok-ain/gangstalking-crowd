@@ -1,61 +1,66 @@
-# cosi - Comprehensive Artist Analysis
+# Rafiki - Comprehensive Artist Analysis
 
 ## Basic Information
-- **Artist Name**: cosi
-- **Spotify ID**: 0fwNNlpa2CmAqIlGENNOtM
-- **Spotify URL**: https://open.spotify.com/artist/0fwNNlpa2CmAqIlGENNOtM
-- **Collection Timestamp**: 28.02.2026 14:45 (MCP Browser Tool - LATEST)
-- **Monthly Listeners**: 23 (Live data capture)
+- **Artist Name**: Rafiki
+- **Spotify ID**: 1LSFOX4QMU2yM5Z9zOYHbw
+- **Spotify URL**: https://open.spotify.com/artist/1LSFOX4QMU2yM5Z9zOYHbw
+- **Collection Timestamp**: 28.02.2026 11:50 (MCP Browser Tool - LATEST)
+- **Monthly Listeners**: 10 (Live data capture)
 
 ## Biography & Background
-"23 monthly listeners hella' kunst @cosi.wav ig <3" - Minimalist bio with listener count, artistic identity, and social media.
+"10 monthly listeners Young Trap-Artist from southwestgermany ©sleepless2002" - Detailed bio with listener count, genre, location, and copyright.
 
 ## Discography Analysis
 ### Singles
-- **Mondlicht** (2023, Explicit) - Single
-- **Sleepless** (2023, Explicit) - Single
+- **One day** (Latest Release) - Single
+- **Vorbei** (2023) - Single
+- **Wave** (2023) - Single
+- **lost lately** (2023, Explicit) - Single
 
 ### Popular Tracks (Top 5)
-1. **Mondlicht** (feat. noblesse, Explicit) - 2,629 plays - 2:28
-2. **Sleepless** (Explicit) - plays - 2:55
+1. **Keine Kraft mehr** - plays - 2:20
+2. **Spielplatz** (feat. IBY, Explicit) - 3,789 plays - 2:29
+3. **One day** - plays - 2:35
+4. **lost lately** (feat. Cani24, Explicit) - plays - 3:05
+5. **Vorbei** - plays - 2:47
 
 ## Collaborations & Network Analysis
 ### Direct Collaborations
-- **noblesse** - Featured on Mondlicht
+- **IBY** - Featured on Spielplatz
+- **Can i24** - Featured on lost lately
 
 ### Radio Connections
-- **cosi Radio**: With nightfvry, D4VID777, Yung OS and more
+- **Rafiki Radio**: With nightfvry, Yung OS, va1e and more
 
 ### Fans Also Like
-- **Moki** - Related artist
+- **cosi** - Related artist
 - **Soni** - Related artist
-- **Rafiki** - Related artist
-- **CNFSD** - Related artist
-- **DennXs** - Related artist
+- **Sano59** - Related artist
+- **Le8wis** - Related artist
 
 ## Stream Numbers & Financial Analysis (2023-2026 Spotify Averages)
 
 ### Total Stream Count (2023-2026 Period)
-- **Mondlicht**: 2,629 streams
-- **Sleepless**: plays (data not available)
-- **Total Estimated Streams**: 2,629+ streams
+- **Spielplatz**: 3,789 streams
+- **Total Estimated Streams**: 3,789+ streams
 
 ### Financial Revenue Estimate (Spotify Averages €0.003-€0.007 per stream)
-- **Monthly Revenue**: €13-€32
-- **Annual Revenue**: €158-€378
-- **Total Revenue (2023-2026)**: €474-€1,134
+- **Monthly Revenue**: €19-€46
+- **Annual Revenue**: €228-€546
+- **Total Revenue (2023-2026)**: €684-€1,638
 
 ## Patterns & Analysis
 ### Content Themes
 - **German Language**: All track titles in German
-- **Night/Sleep Themes**: Mondlicht (moonlight), Sleepless
-- **Artistic Identity**: "hella' kunst" (hell of an art) suggests artistic confidence
-- **Social Media Presence**: Instagram and .wav references
+- **Life/Time**: One day, lost lately, Vorbei (over/past)
+- **Location/Childhood**: Spielplatz (playground)
+- **Physical State**: Keine Kraft mehr (no more strength)
+- **Geographic Identity**: Southwest Germany reference
 
 ### Audience Engagement
-- **Minimal Following**: 23 monthly listeners with limited track engagement
+- **Minimal Following**: 10 monthly listeners with limited track engagement
 - **Emerging Status**: Early career stage with 2023 releases
-- **Artistic Branding**: Clear artistic identity in bio
+- **Regional Identity**: Clear geographic and genre branding
 
 ## Security Assessment - Evidence-Based Analysis
 ### Threat Level Assessment
@@ -68,8 +73,8 @@
 
 ### KI-Muster Analyse (Evidence-Based)
 - **Content Construction**: German themes appear authentic, not constructed
-- **Naming Strategy**: "cosi" suggests unique personal identity
-- **Night Themes**: Authentic German nighttime/sleep expression
+- **Naming Strategy**: "Rafiki" suggests unique personal identity
+- **Regional Expression**: Authentic German geographic/trap content
 - **Release Strategy**: Consistent singles, organic development
 
 ## Archive & Evidence Preservation

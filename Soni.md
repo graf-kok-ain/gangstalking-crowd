@@ -4,11 +4,11 @@
 - **Artist Name**: Soni
 - **Spotify ID**: 5kMCHogmCAKCELnjo3u0Uf
 - **Spotify URL**: https://open.spotify.com/artist/5kMCHogmCAKCELnjo3u0Uf
-- **Collection Timestamp**: 28.02.2026 07:55 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 11:15 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 22 (Live data capture)
 
 ## Biography & Background
-"22 monthly listeners Contact: Ricardo.Maass@gmx.de Instagram: @sonijunge Danke an alle, die supporten <3" - Detailed bio with contact information and gratitude message.
+"22 monthly listeners Contact: Ricardo.Maass@gmx.de Instagram: @sonijunge Danke an alle, die supporten <3" - Detailed bio with listener count, contact info, Instagram, and gratitude message.
 
 ## Discography Analysis
 ### EPs
@@ -18,7 +18,6 @@
 - **Nur Erinnerung** (2023) - Single
 - **Esso** (2021) - Single
 - **Kickoff // In der Nacht** (2021, Explicit) - Single
-- **Pankow** (2021) - Single
 
 ### Popular Tracks (Top 5)
 1. **Mein Bruder Will Sich Umbringen** - 1,934 plays - 2:43
@@ -42,7 +41,6 @@
 - **cosi** - Related artist
 - **RØN** - Related artist
 - **Young Kanis** - Related artist
-- **Moki** - Related artist
 
 ### Appears On
 - **Next of Kin** (2004) - Album

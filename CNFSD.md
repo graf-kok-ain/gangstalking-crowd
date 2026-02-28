@@ -4,11 +4,11 @@
 - **Artist Name**: CNFSD
 - **Spotify ID**: 1exaWDPqqLx2LbnrzZDdyC
 - **Spotify URL**: https://open.spotify.com/artist/1exaWDPqqLx2LbnrzZDdyC
-- **Collection Timestamp**: 28.02.2026 06:50 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 11:10 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 57 (Live data capture)
 
 ## Biography & Background
-"57 monthly listeners CNFSD (pronounced "confused") is a German music producer and artist dedicated to exploring a wide spectrum of genres and crafting captivating melodies. With roots in piano and over five years of music production experience, CNFSD is passionate about pushing creative boundaries and collaborating with vocalists worldwide. His work blends experimentation with a drive to create tracks that resonate long after first listen. @verycnfsd"
+"57 monthly listeners CNFSD (pronounced "confused") is a German music producer and artist dedicated to exploring a wide spectrum of genres and crafting captivating melodies. With roots in piano and over five years of music production experience, CNFSD is passionate about pushing creative boundaries and collaborating with vocalists worldwide. His work blends experimentation with a drive to create tracks that resonate long after the first listen. @verycnfsd" - Comprehensive bio with listener count, pronunciation, musical background, and social media.
 
 ## Discography Analysis
 ### Singles
@@ -26,7 +26,7 @@
 5. **Alles vorbei** (feat. isolated) - 1,896 plays - 2:50
 
 ### Artist Pick
-- **Horizon's Calling** - 🫶🏻
+- **Horizon's Calling** - Current featured single with 🫶🏻 emoji
 
 ## Collaborations & Network Analysis
 ### Direct Collaborations
