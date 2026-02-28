@@ -783,8 +783,6 @@ Die Entdeckung der PROTOTYP RAPSTAR VERSCHWÖRUNG enthüllt eine der sophisticat
 
 **SOFORTIGE MASSNAHMEN**: Vollständige Abschaltung der Operation und strafrechtliche Verfolgung aller Beteiligten erforderlich, um weitere Schäden zu verhindern.
 
----
-
-**BfV CLASSIFICATION**: TOP SECRET - EXISTENTIAL THREAT
-**DISTRIBUTION**: BfV Command, International Law Enforcement
+**CLASSIFICATION**: TOP SECRET - EXISTENTIAL THREAT
+**DISTRIBUTION**: International Intelligence Community
 **ACTION REQUIRED**: IMMEDIATE SHUTDOWN OF ALL AI OPERATIONS
