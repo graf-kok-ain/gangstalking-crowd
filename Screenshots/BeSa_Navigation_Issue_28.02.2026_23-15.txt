@@ -1,0 +1,20 @@
+# BeSa - Navigation Issue Documentation
+## Timestamp: 28.02.2026 23:15
+## Search Query: BeSa
+
+## Navigation Issue:
+- **Initial URL Attempted**: https://open.spotify.com/artist/BeSa.md
+- **Result**: Loading screen, no artist page found
+- **Search Attempted**: https://open.spotify.com/search/BeSa
+- **Result**: Search results loaded but no artist named "BeSa" found in Artists section
+- **Multiple Attempts**: Search page shows songs related to "Besa" but no artist specifically named "BeSa"
+
+## Search Results Found:
+- Songs related to "Besa Besë" by Ilir Shaqiri and Shyhrete Behluli
+- Multiple user profiles with "besa" name variations
+- No artist profile specifically named "BeSa"
+
+## Status: ❌ Artist not found on Spotify
+## Action: Continuing with next artist in list
+
+## Note: This artist may not exist on Spotify or may have a different name format

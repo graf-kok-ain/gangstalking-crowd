@@ -1,0 +1,418 @@
+# Benten2030 - Spotify Screenshot
+## Timestamp: 28.02.2026 23:20
+## URL: https://open.spotify.com/artist/23wvySMZMLEt6Ibx0J2Uxv
+## Page Title: Benten2030 | Spotify
+
+## Complete Page Content:
+```yaml
+- document [ref=s1e2]:
+  - document [ref=s1e6]
+  - link "Skip to main content" [ref=s1e16]:
+    - /url: "#main-view"
+  - link "Spotify" [ref=s1e19]:
+    - /url: /
+    - img "Spotify" [ref=s1e20]
+  - button "Home" [ref=s1e24]
+  - search [ref=s1e26]:
+    - button "Search" [ref=s1e28]
+    - combobox "What do you want to play?" [ref=s1e30]
+    - button "Browse" [ref=s1e34]
+  - button "Upgrade to Premium" [ref=s1e37]: Explore Premium
+  - link "Install App" [ref=s1e39]:
+    - /url: /download
+  - button "What's New" [ref=s1e42]
+  - button "Friend Activity" [ref=s1e43]
+  - button "Toni Be" [ref=s1e44]:
+    - figure "Toni Be" [ref=s1e45]:
+      - img "Toni Be" [ref=s1e47]
+  - navigation "Main" [ref=s1e49]:
+    - button "Open Your Library" [ref=s1e57]:
+      - heading "Your Library" [level=1] [ref=s1e61]
+    - button "Create" [ref=s1e63]
+    - grid "Your Library" [ref=s1e69]:
+      - row [ref=s1e73]
+      - row "Liked Songs Pinned Playlist • 22 songs" [ref=s1e76]:
+        - gridcell "Liked Songs Pinned Playlist • 22 songs" [ref=s1e77]:
+          - group "Liked Songs" [ref=s1e78]:
+            - button "Liked Songs Pinned Playlist • 22 songs" [ref=s1e79]
+          - paragraph [ref=s1e87]: Liked Songs
+          - paragraph [ref=s1e90]:
+            - img "Pinned" [ref=s1e92]
+            - text: Playlist • 22 songs
+      - row "Laer Xirtam Artist" [ref=s1e95]:
+        - gridcell "Laer Xirtam Artist" [ref=s1e96]:
+          - group "Laer Xirtam" [ref=s1e97]:
+            - button "Laer Xirtam Artist" [ref=s1e98]
+          - paragraph [ref=s1e106]: Laer Xirtam
+          - paragraph [ref=s1e109]: Artist
+      - row "Endstation Album • Krijo Stalka" [ref=s1e112]:
+        - gridcell "Endstation Album • Krijo Stalka" [ref=s1e113]:
+          - group "Endstation" [ref=s1e114]:
+            - button "Endstation Album • Krijo Stalka" [ref=s1e115]
+          - paragraph [ref=s1e123]: Endstation
+          - paragraph [ref=s1e126]: Album • Krijo Stalka
+      - row "Trust No 1 Album • Krijo Stalka" [ref=s1e129]:
+        - gridcell "Trust No 1 Album • Krijo Stalka" [ref=s1e130]:
+          - group "Trust No 1" [ref=s1e131]:
+            - button "Trust No 1 Album • Krijo Stalka" [ref=s1e132]
+          - paragraph [ref=s1e140]: Trust No 1
+          - paragraph [ref=s1e143]: Album • Krijo Stalka
+      - row "ArniTheSavage Artist" [ref=s1e146]:
+        - gridcell "ArniTheSavage Artist" [ref=s1e147]:
+          - group "ArniTheSavage" [ref=s1e148]:
+            - button "ArniTheSavage Artist" [ref=s1e149]
+          - paragraph [ref=s1e157]: ArniTheSavage
+          - paragraph [ref=s1e160]: Artist
+      - row "Goitzsche Front Artist" [ref=s1e163]:
+        - gridcell "Goitzsche Front Artist" [ref=s1e164]:
+          - group "Goitzsche Front" [ref=s1e165]:
+            - button "Goitzsche Front Artist" [ref=s1e166]
+          - paragraph [ref=s1e174]: Goitzsche Front
+          - paragraph [ref=s1e177]: Artist
+      - row "Nimo Artist" [ref=s1e180]:
+        - gridcell "Nimo Artist" [ref=s1e181]:
+          - group "Nimo" [ref=s1e182]:
+            - button "Nimo Artist" [ref=s1e183]
+          - paragraph [ref=s1e191]: Nimo
+          - paragraph [ref=s1e194]: Artist
+      - row "Acaz Artist" [ref=s1e197]:
+        - gridcell "Acaz Artist" [ref=s1e198]:
+          - group "Acaz" [ref=s1e199]:
+            - button "Acaz Artist" [ref=s1e200]
+          - paragraph [ref=s1e208]: Acaz
+          - paragraph [ref=s1e211]: Artist
+      - row "Herzog Artist" [ref=s1e214]:
+        - gridcell "Herzog Artist" [ref=s1e215]:
+          - group "Herzog" [ref=s1e216]:
+            - button "Herzog Artist" [ref=s1e217]
+          - paragraph [ref=s1e225]: Herzog
+          - paragraph [ref=s1e228]: Artist
+      - row "Bushido Artist" [ref=s1e231]:
+        - gridcell "Bushido Artist" [ref=s1e232]:
+          - group "Bushido" [ref=s1e233]:
+            - button "Bushido Artist" [ref=s1e234]
+          - paragraph [ref=s1e242]: Bushido
+          - paragraph [ref=s1e245]: Artist
+      - row "Hanybal Artist" [ref=s1e248]:
+        - gridcell "Hanybal Artist" [ref=s1e249]:
+          - group "Hanybal" [ref=s1e250]:
+            - button "Hanybal Artist" [ref=s1e251]
+          - paragraph [ref=s1e259]: Hanybal
+          - paragraph [ref=s1e262]: Artist
+      - row "Olexesh Artist" [ref=s1e265]:
+        - gridcell "Olexesh Artist" [ref=s1e266]:
+          - group "Olexesh" [ref=s1e267]:
+            - button "Olexesh Artist" [ref=s1e268]
+          - paragraph [ref=s1e276]: Olexesh
+          - paragraph [ref=s1e279]: Artist
+      - row [ref=s1e284]
+  - text: Resize main navigation
+  - slider "Resize main navigation" [ref=s1e288]: "72"
+  - complementary "Now playing bar" [ref=s1e290]:
+    - 'region "Now playing: Rasenschach by Filow" [ref=s1e293]':
+      - button "Now playing view" [ref=s1e296]
+      - link "Rasenschach" [ref=s1e305]:
+        - /url: /album/0eyNmAznsO2cBF9hM17niE
+      - link "Filow" [ref=s1e313]:
+        - /url: /artist/0BRUlYcw8Rr4MGHe8kRgTv
+      - button "Add to Liked Songs" [ref=s1e315]
+    - button "Enable Shuffle for Rasenschach" [ref=s1e320]
+    - button "Previous" [ref=s1e321]
+    - button "Play" [ref=s1e322]
+    - button "Next" [ref=s1e325]
+    - checkbox "Enable repeat" [ref=s1e326]
+    - text: 0:02 Change progress
+    - slider "Change progress" [ref=s1e332]: "0"
+    - text: 2:24
+    - button "Lyrics" [ref=s1e342]
+    - button "Queue" [ref=s1e344]
+    - button "Connect to a device" [ref=s1e346]
+    - button "Mute" [ref=s1e348]
+    - text: Change volume
+    - slider "Change volume" [ref=s1e352]: "1"
+    - button "Open Miniplayer" [ref=s1e359]
+    - button "Enter Full screen" [ref=s1e360]
+  - banner "Top bar and user menu" [ref=s1e362]
+  - main "Benten2030 | Spotify" [ref=s1e375]:
+    - text: Benten2030 104 monthly listeners
+    - button "Play" [ref=s1e393]
+    - button "Explore Benten2030" [ref=s1e395]:
+      - img [ref=s1e398]
+      - img [ref=s1e410]
+    - button "Enable Shuffle for Benten2030" [ref=s1e412]
+    - button "Follow" [ref=s1e413]
+    - button "More options for Benten2030" [ref=s1e414]
+    - heading "Popular" [level=2] [ref=s1e419]
+    - grid "popular tracks" [ref=s1e421]:
+      - row "1 Play Blätter fallen by Benten2030, OM, motybeats Blätter fallen 13,593 Add to Liked Songs 3:52 More options for Blätter fallen by Benten2030, OM, motybeats" [ref=s1e431]:
+        - gridcell "1 Play Blätter fallen by Benten2030, OM, motybeats" [ref=s1e433]:
+          - text: "1"
+          - button "Play Blätter fallen by Benten2030, OM, motybeats" [ref=s1e436]
+        - gridcell "Blätter fallen" [ref=s1e437]:
+          - img [ref=s1e438]
+          - link "Blätter fallen" [ref=s1e440]:
+            - /url: /track/4QqdU5mqQ9GCHVJgyRPj1m
+        - gridcell "13,593" [ref=s1e442]
+        - gridcell "Add to Liked Songs 3:52 More options for Blätter fallen by Benten2030, OM, motybeats" [ref=s1e444]:
+          - button "Add to Liked Songs" [ref=s1e445]
+          - text: 3:52
+          - button "More options for Blätter fallen by Benten2030, OM, motybeats" [ref=s1e447]
+      - row "2 Play 1000 Fehler - Extended Version by Loki23, Benten2030 1000 Fehler - Extended Version 1,776 Add to Liked Songs 3:06 More options for 1000 Fehler - Extended Version by Loki23, Benten2030" [ref=s1e448]:
+        - gridcell "2 Play 1000 Fehler - Extended Version by Loki23, Benten2030" [ref=s1e450]:
+          - text: "2"
+          - button "Play 1000 Fehler - Extended Version by Loki23, Benten2030" [ref=s1e453]
+        - gridcell "1000 Fehler - Extended Version" [ref=s1e454]:
+          - img [ref=s1e455]
+          - link "1000 Fehler - Extended Version" [ref=s1e457]:
+            - /url: /track/7tg05fRDfP4CRzg7tF7zcy
+        - gridcell "1,776" [ref=s1e459]
+        - gridcell "Add to Liked Songs 3:06 More options for 1000 Fehler - Extended Version by Loki23, Benten2030" [ref=s1e461]:
+          - button "Add to Liked Songs" [ref=s1e462]
+          - text: 3:06
+          - button "More options for 1000 Fehler - Extended Version by Loki23, Benten2030" [ref=s1e464]
+      - row "3 Play Jibbi & Eis by Benten2030 Jibbi & Eis 5,818 Add to Liked Songs 2:15 More options for Jibbi & Eis by Benten2030" [ref=s1e465]:
+        - gridcell "3 Play Jibbi & Eis by Benten2030" [ref=s1e467]:
+          - text: "3"
+          - button "Play Jibbi & Eis by Benten2030" [ref=s1e470]
+        - gridcell "Jibbi & Eis" [ref=s1e471]:
+          - img [ref=s1e472]
+          - link "Jibbi & Eis" [ref=s1e474]:
+            - /url: /track/6PjubNWUx3dRcY2umwSP98
+        - gridcell "5,818" [ref=s1e476]
+        - gridcell "Add to Liked Songs 2:15 More options for Jibbi & Eis by Benten2030" [ref=s1e478]:
+          - button "Add to Liked Songs" [ref=s1e479]
+          - text: 2:15
+          - button "More options for Jibbi & Eis by Benten2030" [ref=s1e481]
+      - row "4 Play DUMM GEHEN by FLYY, MFG, Benten2030 DUMM GEHEN Explicit 1,255 Add to Liked Songs 2:22 More options for DUMM GEHEN by FLYY, MFG, Benten2030" [ref=s1e482]:
+        - gridcell "4 Play DUMM GEHEN by FLYY, MFG, Benten2030" [ref=s1e484]:
+          - text: "4"
+          - button "Play DUMM GEHEN by FLYY, MFG, Benten2030" [ref=s1e487]
+        - gridcell "DUMM GEHEN Explicit" [ref=s1e488]:
+          - img [ref=s1e489]
+          - link "DUMM GEHEN" [ref=s1e491]:
+            - /url: /track/2mRLqn7g4AIB6zfyzJybuS
+        - gridcell "1,255" [ref=s1e496]
+        - gridcell "Add to Liked Songs 2:22 More options for DUMM GEHEN by FLYY, MFG, Benten2030" [ref=s1e498]:
+          - button "Add to Liked Songs" [ref=s1e499]
+          - text: 2:22
+          - button "More options for DUMM GEHEN by FLYY, MFG, Benten2030" [ref=s1e501]
+      - row "5 Play Lemon ICE by Loki23, Benten2030 Lemon ICE Explicit 2,727 Add to Liked Songs 2:19 More options for Lemon ICE by Loki23, Benten2030" [ref=s1e502]:
+        - gridcell "5 Play Lemon ICE by Loki23, Benten2030" [ref=s1e504]:
+          - text: "5"
+          - button "Play Lemon ICE by Loki23, Benten2030" [ref=s1e507]
+        - gridcell "Lemon ICE Explicit" [ref=s1e508]:
+          - img [ref=s1e509]
+          - link "Lemon ICE" [ref=s1e511]:
+            - /url: /track/5Xl6J2pWz5JfZCq8sHq9l
+        - gridcell "2,727" [ref=s1e513]
+        - gridcell "Add to Liked Songs 2:19 More options for Lemon ICE by Loki23, Benten2030" [ref=s1e514]:
+          - button "Add to Liked Songs" [ref=s1e515]
+          - text: 2:19
+          - button "More options for Lemon ICE by Loki23, Benten2030" [ref=s1e516]
+    - region "Discography" [ref=s1e518]:
+      - group [ref=s1e520]:
+        - heading "Discography" [level=2] [ref=s1e523]:
+          - link "Discography" [ref=s1e525]:
+            - /url: /artist/23wvySMZMLEt6Ibx0J2Uxv/discography/all
+        - link "Show all" [ref=s1e527]:
+          - /url: /artist/23wvySMZMLEt6Ibx0J2Uxv/discography/all
+      - checkbox "Popular releases" [checked] [ref=s1e531]
+      - checkbox "Singles and EPs" [ref=s1e533]
+      - button "Blätter fallen 2024 • Single" [ref=s1e537]
+      - img [ref=s1e541]
+      - button "Play Blätter fallen" [ref=s1e544]
+      - link "Blätter fallen" [ref=s1e548]:
+        - /url: /album/4QqdU5mqQ9GCHVJgyRPj1m
+        - paragraph [ref=s1e549]: Blätter fallen
+      - time [ref=s1e555]: 2024 •
+      - text: Single
+      - button "Jibbi & Eis 2024 • Single" [ref=s1e558]
+      - img [ref=s1e562]
+      - button "Play Jibbi & Eis" [ref=s1e565]
+      - link "Jibbi & Eis" [ref=s1e569]:
+        - /url: /album/6PjubNWUx3dRcY2umwSP98
+        - paragraph [ref=s1e570]: Jibbi & Eis
+      - time [ref=s1e576]: 2024 •
+      - text: Single
+      - button "1000 Fehler - Extended Version 2023 • Single" [ref=s1e579]
+      - img [ref=s1e583]
+      - button "Play 1000 Fehler - Extended Version" [ref=s1e586]
+      - link "1000 Fehler - Extended Version" [ref=s1e590]:
+        - /url: /album/7tg05fRDfP4CRzg7tF7zcy
+        - paragraph [ref=s1e591]: 1000 Fehler - Extended Version
+      - time [ref=s1e597]: 2023 •
+      - text: Single
+    - region "Featuring Benten2030" [ref=s1e599]:
+      - group [ref=s1e601]:
+        - heading "Featuring Benten2030" [level=2] [ref=s1e604]:
+          - link "Featuring Benten2030" [ref=s1e606]:
+            - /url: /artist/23wvySMZMLEt6Ibx0J2Uxv/featuring
+      - button "Benten2030 Radio With OM, motybeats, Loki23 and more" [ref=s1e609]
+      - img [ref=s1e613]
+      - button "Play Benten2030 Radio" [ref=s1e616]
+      - link "Benten2030 Radio" [ref=s1e620]:
+        - /url: /playlist/37i9dQZF1E4j2v4GnGg7p5
+        - paragraph [ref=s1e621]: Benten2030 Radio
+      - text: With OM, motybeats, Loki23 and more
+    - heading "About" [level=2] [ref=s1e631]
+    - button "Benten2030" [ref=s1e633]:
+      - figure "Benten2030" [ref=s1e635]:
+        - img "Benten2030" [ref=s1e637]
+      - text: 104 monthly listeners
+    - region "Fans also like" [ref=s1e639]:
+      - group [ref=s1e641]:
+        - heading "Fans also like" [level=2] [ref=s1e644]:
+          - link "Fans also like" [ref=s1e646]:
+            - /url: /artist/23wvySMZMLEt6Ibx0J2Uxv/related
+        - link "Show all" [ref=s1e648]:
+          - /url: /artist/23wvySMZMLEt6Ibx0J2Uxv/related
+      - button "Loki23 Artist" [ref=s1e652]
+      - img [ref=s1e656]
+      - button "Play Loki23" [ref=s1e659]
+      - link "Loki23" [ref=s1e663]:
+        - /url: /artist/4UzwDCkWTuJUGdrWLModyG
+        - paragraph [ref=s1e664]: Loki23
+      - text: Artist
+      - button "OM Artist" [ref=s1e672]
+      - img [ref=s1e676]
+      - button "Play OM" [ref=s1e679]
+      - link "OM" [ref=s1e683]:
+        - /url: /artist/1GfljzDq7f90bVQizSz07P
+        - paragraph [ref=s1e684]: OM
+      - text: Artist
+      - button "motybeats Artist" [ref=s1e692]
+      - img [ref=s1e696]
+      - button "Play motybeats" [ref=s1e699]
+      - link "motybeats" [ref=s1e703]:
+        - /url: /artist/6DIfPX0Lgmod6u4s8jBSrP
+        - paragraph [ref=s1e704]: motybeats
+      - text: Artist
+      - button "79Vincenzo Artist" [ref=s1e712]
+      - img [ref=s1e716]
+      - button "Play 79Vincenzo" [ref=s1e719]
+      - link "79Vincenzo" [ref=s1e722]:
+        - /url: /artist/49hZ5jks2L2wQgiIViS0ac
+        - paragraph [ref=s1e723]: 79Vincenzo
+      - text: Artist
+      - button "AREA367 Artist" [ref=s1e731]
+      - img [ref=s1e735]
+      - button "Play AREA367" [ref=s1e738]
+      - link "AREA367" [ref=s1e742]:
+        - /url: /artist/4UzwDCkWTuJUGdrWLModyG
+        - paragraph [ref=s1e743]: AREA367
+      - text: Artist
+      - button "p.kleyy Artist" [ref=s1e751]
+      - img [ref=s1e755]
+      - button "Play p.kleyy" [ref=s1e758]
+      - link "p.kleyy" [ref=s1e762]:
+        - /url: /artist/4G12R6UBZ7bwaN50qV523B
+        - paragraph [ref=s1e763]: p.kleyy
+      - text: Artist
+      - button "Nania Artist" [ref=s1e771]
+      - img [ref=s1e775]
+      - button "Play Nania" [ref=s1e778]
+      - link "Nania" [ref=s1e782]:
+        - /url: /artist/3MUHX5OqHyZli0fVWZfVrf
+        - paragraph [ref=s1e783]: Nania
+      - text: Artist
+      - button "Office Artist" [ref=s1e791]
+      - img [ref=s1e795]
+      - button "Play Office" [ref=s1e798]
+      - link "Office" [ref=s1e802]:
+        - /url: /artist/7ggoT5wkhUQrLPc7pDy2Nw
+        - paragraph [ref=s1e803]: Office
+      - text: Artist
+    - separator [ref=s1e961]
+    - navigation [ref=s1e963]:
+      - list [ref=s1e967]:
+        - paragraph [ref=s1e968]: Company
+        - link "Impressum / Transparenzinformation" [ref=s1e969]:
+          - /url: https://www.spotify.com/de/about-us/impressum/
+        - link "About" [ref=s1e971]:
+          - /url: https://www.spotify.com/de/about-us/contact/
+        - link "Jobs" [ref=s1e973]:
+          - /url: https://www.lifeatspotify.com/
+        - link "For the Record" [ref=s1e975]:
+          - /url: https://newsroom.spotify.com/
+      - list [ref=s1e978]:
+        - paragraph [ref=s1e979]: Communities
+        - link "For Artists" [ref=s1e980]:
+          - /url: https://artists.spotify.com/
+        - link "Developers" [ref=s1e982]:
+          - /url: https://developer.spotify.com/
+        - link "Advertising" [ref=s1e984]:
+          - /url: https://ads.spotify.com/
+        - link "Investors" [ref=s1e986]:
+          - /url: https://investors.spotify.com/
+        - link "Vendors" [ref=s1e988]:
+          - /url: https://spotifyforvendors.com/
+      - list [ref=s1e991]:
+        - paragraph [ref=s1e992]: Useful links
+        - link "Support" [ref=s1e993]:
+          - /url: https://support.spotify.com/
+        - link "Free Mobile App" [ref=s1e995]:
+          - /url: https://www.spotify.com/de/download/
+        - link "Verträge hier kündigen" [ref=s1e997]:
+          - /url: https://www.spotify.com/de/account/cancel/
+        - link "Popular by Country" [ref=s1e999]:
+          - /url: /popular-in/de
+        - link "Import your music" [ref=s1e1001]:
+          - /url: https://www.spotify.com/de/import-music/
+      - list [ref=s1e1004]:
+        - paragraph [ref=s1e1005]: Spotify Plans
+        - link "Premium Individual" [ref=s1e1006]:
+          - /url: https://www.spotify.com/de/premium/#ref=spotifycom_footer_premium_individual
+        - link "Premium Duo" [ref=s1e1008]:
+          - /url: https://www.spotify.com/de/duo/#ref=spotifycom_footer_premium_duo
+        - link "Premium Family" [ref=s1e1010]:
+          - /url: https://www.spotify.com/de/family/#ref=spotifycom_footer_premium_family
+        - link "Premium Student" [ref=s1e1012]:
+          - /url: https://www.spotify.com/de/student/#ref=spotifycom_footer_premium_student
+        - link "Spotify Free" [ref=s1e1014]:
+          - /url: https://www.spotify.com/de/free/#ref=spotifycom_footer_premium_free
+      - link "Instagram" [ref=s1e1018]:
+        - /url: https://instagram.com/spotify
+      - link "Twitter" [ref=s1e1020]:
+        - /url: https://twitter.com/spotify
+      - link "Facebook" [ref=s1e1022]:
+        - /url: https://www.facebook.com/Spotify
+      - separator [ref=s1e1023]
+      - link "Legal" [ref=s1e1028]:
+        - /url: https://www.spotify.com/de/legal/
+      - link "Safety & Privacy Center" [ref=s1e1031]:
+        - /url: https://www.spotify.com/de/safetyandprivacy/
+      - link "Privacy Policy" [ref=s1e1034]:
+        - /url: https://www.spotify.com/de/legal/privacy-policy/
+      - button "Cookie Settings" [ref=s1e1037]
+      - link "About Ads" [ref=s1e1040]:
+        - /url: https://www.spotify.com/de/legal/privacy-policy/#s3
+      - link "Accessibility" [ref=s1e1043]:
+        - /url: https://www.spotify.com/de/accessibility/
+      - paragraph [ref=s1e1047]: © 2026 Spotify AB
+```
+
+## Key Information Extracted:
+- **Artist Name**: Benten2030
+- **Monthly Listeners**: 104
+- **Top Tracks**: 
+  1. Blätter fallen (feat. OM, motybeats) - 13,593 plays
+  2. 1000 Fehler - Extended Version (feat. Loki23) - 1,776 plays
+  3. Jibbi & Eis - 5,818 plays
+  4. DUMM GEHEN (feat. FLYY, MFG) - 1,255 plays
+  5. Lemon ICE (feat. Loki23) - 2,727 plays
+- **Latest Release**: Blätter fallen - Single
+- **Collaborations**: OM, motybeats, Loki23, FLYY, MFG
+- **Related Artists**: Loki23, OM, motybeats, 79Vincenzo, AREA367, p.kleyy, Nania, Office
+- **Singles**: Blätter fallen (2024), Jibbi & Eis (2024), 1000 Fehler - Extended Version (2023)
+- **Radio Playlist**: Benten2030 Radio (With OM, motybeats, Loki23 and more)
+
+## Navigation Elements:
+- Library with minimal content
+- Multiple related artists visible
+- Now playing: Rasenschach by Filow
+- Full discography and popular tracks section
+- Artist profile with image and follow button
+- Radio playlist available
+- Limited discography with singles only
+
+## Status: ✅ Complete screenshot captured and saved
