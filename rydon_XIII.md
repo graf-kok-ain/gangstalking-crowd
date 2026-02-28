@@ -4,11 +4,11 @@
 - **Artist Name**: rydon_XIII
 - **Spotify ID**: 1eC7DMOMSVFZE9vG5rzXk7
 - **Spotify URL**: https://open.spotify.com/artist/1eC7DMOMSVFZE9vG5rzXk7
-- **Collection Timestamp**: 28.02.2026 07:10 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 10:45 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 14 (Live data capture)
 
 ## Biography & Background
-"14 monthly listeners "I've been having these weird thoughts lately... like is any of this for real, or not?" insta: rydon_xiii" - Detailed bio with existential questioning and social media reference.
+"14 monthly listeners \"I've been having these weird thoughts lately... like is any of this for real, or not?\" insta: rydon_xiii" - Detailed bio with listener count, philosophical quote, and Instagram reference.
 
 ## Discography Analysis
 ### Singles
@@ -16,7 +16,6 @@
 - **Herz auf Eis** (2023, Explicit) - Single
 - **Lurkin' Lucifer** (2023, Explicit) - Single
 - **Ocean Eyes** (2023, Explicit) - Single
-- **toxxic** (2023, Explicit) - Single
 
 ### Popular Tracks (Top 5)
 1. **toxxic** (Explicit) - 3,382 plays - 1:53
