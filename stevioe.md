@@ -4,7 +4,7 @@
 - **Artist Name**: stevioe
 - **Spotify ID**: 5nQtjj4umWoIJEFdlo7dAf
 - **Spotify URL**: https://open.spotify.com/artist/5nQtjj4umWoIJEFdlo7dAf
-- **Collection Timestamp**: 28.02.2026 14:00 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 15:25 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 30 (Live data capture)
 
 ## Biography & Background

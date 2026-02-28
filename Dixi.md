@@ -4,7 +4,7 @@
 - **Artist Name**: Dixi
 - **Spotify ID**: 1Vxap7h21BDwMYj6kIScMs
 - **Spotify URL**: https://open.spotify.com/artist/1Vxap7h21BDwMYj6kIScMs
-- **Collection Timestamp**: 28.02.2026 13:50 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 15:35 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 24 (Live data capture)
 
 ## Biography & Background
@@ -43,8 +43,8 @@
 - **Sans soucis** (2022) - Single
 - **Füreinander** (2022) - Single
 - **Schatten** (2022) - Single
+- **Wo Bisch** (2022) - Single
 - **Inkasso** (2020) - Single
-- **Wo Bisch** (2020) - Single
 
 ### Fans Also Like
 - **beatge** - Related artist

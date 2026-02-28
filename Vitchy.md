@@ -4,7 +4,7 @@
 - **Artist Name**: Vitchy
 - **Spotify ID**: 1FFYo6agAmELEjOlef3XjD
 - **Spotify URL**: https://open.spotify.com/artist/1FFYo6agAmELEjOlef3XjD
-- **Collection Timestamp**: 28.02.2026 14:05 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 15:30 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 14 (Live data capture)
 
 ## Biography & Background
