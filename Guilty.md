@@ -4,7 +4,7 @@
 - **Artist Name**: Guilty
 - **Spotify ID**: 6tcr8Urgc8BxMLkg4nMvGv
 - **Spotify URL**: https://open.spotify.com/artist/6tcr8Urgc8BxMLkg4nMvGv
-- **Collection Timestamp**: 28.02.2026 07:45 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 10:15 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 5 (Live data capture)
 
 ## Biography & Background
