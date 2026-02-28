@@ -4,7 +4,7 @@
 - **Artist Name**: nuke
 - **Spotify ID**: 4PzWFJwNqY5snyrQptj5kG
 - **Spotify URL**: https://open.spotify.com/artist/4PzWFJwNqY5snyrQptj5kG
-- **Collection Timestamp**: 28.02.2026 05:50 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 10:30 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 64 (Live data capture)
 
 ## Biography & Background
@@ -24,11 +24,11 @@
 - **Heftig** (2023) - Single
 
 ### Popular Tracks (Top 5)
-1. **100000 Menschen** (feat. Youngxan, Pissi, Explicit) - 4,878 plays - 2:56
-2. **Outer Space** (Explicit) - 15,931 plays - 2:43
-3. **FLOWSTATE** (feat. SADINPRADA) - 1,106 plays - 2:08
-4. **Ocean Eyes** (feat. Chrischan) - 4,926 plays - 2:12
-5. **Ain't No Surprise** - 3,254 plays - 2:36
+1. **Outer Space** (Explicit) - 15,931 plays - 2:43
+2. **100000 Menschen** (feat. Youngxan, Pissi, Explicit) - 4,878 plays - 2:56
+3. **Ocean Eyes** (feat. Chrischan, Explicit) - 4,926 plays - 2:12
+4. **Ain't No Surprise** (Explicit) - 3,254 plays - 2:36
+5. **FLOWSTATE** (feat. SADINPRADA, Explicit) - 1,106 plays - 2:08
 
 ## Collaborations & Network Analysis
 ### Direct Collaborations
@@ -41,7 +41,7 @@
 - **nuke Radio**: With Youngxan, nightfvry, Chrischan and more
 
 ### Artist Playlists
-- **sad german ☁️-Rap**: weekly updated - feel's vibe!
+- **sad german ☁️-Rap** - weekly updated - feel → vibe!
 
 ### Fans Also Like
 - **DNELBEATZ** - Related artist

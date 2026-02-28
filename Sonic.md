@@ -4,23 +4,24 @@
 - **Artist Name**: Sonic
 - **Spotify ID**: 3qTuK84QYog2rgH1FaGkBR
 - **Spotify URL**: https://open.spotify.com/artist/3qTuK84QYog2rgH1FaGkBR
-- **Collection Timestamp**: 28.02.2026 06:55 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 10:25 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 22 (Live data capture)
 
 ## Biography & Background
-"22 monthly listeners https://www.pinterest.de/pin/678214025129181101/ Insta: @sonicsomeone" - Minimalist bio with listener count and social media references.
+"22 monthly listeners https://www.pinterest.de/pin/678214025129181101/ Insta: @sonicsomeone" - Detailed bio with listener count, Pinterest link, and Instagram reference.
 
 ## Discography Analysis
 ### EPs
 - **O2** (2022) - EP
 
 ### Singles
-- **Nicht so numb** (2024) - Single
-- **Just imagine** (2023) - Single
-- **Träume** (2023) - Single
+- **Nicht so numb** (2024, Explicit) - Single
+- **Just imagine** (2023, Explicit) - Single
+- **Träume** (2023, Explicit) - Single
+- **teardrops** (2022, Explicit) - Single
 
 ### Popular Tracks (Top 5)
-1. **Damit ok** (feat. Maarian, zweitausend, Explicit) - 8,136 plays - 2:15
+1. **Damit ok** (feat. Maarian, zweitausenddrei, Explicit) - 8,136 plays - 2:15
 2. **teardrops** (Explicit) - 4,935 plays - 2:40
 3. **O2** (Explicit) - 1,801 plays - 2:05
 4. **Träume** (feat. Maarian) - 1,607 plays - 3:01
@@ -29,7 +30,7 @@
 ## Collaborations & Network Analysis
 ### Direct Collaborations
 - **Maarian** - Featured on Damit ok and Träume
-- **zweitausend** - Featured on Damit ok
+- **zweitausenddrei** - Featured on Damit ok
 
 ### Radio Connections
 - **Sonic Radio**: With D4VID777, nightfvry, Nosim and more
@@ -42,6 +43,7 @@
 - **nuke** - Related artist
 - **zweitausenddrei** - Related artist
 - **BXN** - Related artist
+- **ttias** - Related artist
 
 ## Stream Numbers & Financial Analysis (2023-2026 Spotify Averages)
 

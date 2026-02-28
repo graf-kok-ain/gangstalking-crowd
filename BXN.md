@@ -4,7 +4,7 @@
 - **Artist Name**: BXN
 - **Spotify ID**: 6gZPeuWOjeMpl6p9wNrsiJ
 - **Spotify URL**: https://open.spotify.com/artist/6gZPeuWOjeMpl6p9wNrsiJ
-- **Collection Timestamp**: 28.02.2026 04:05 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 10:35 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 9 (Live data capture)
 
 ## Biography & Background
@@ -32,6 +32,7 @@
 - **Parix** - Related artist
 - **Guilty** - Related artist
 - **Jotzudemka** - Related artist
+- **zweitausenddrei** - Related artist
 
 ## Stream Numbers & Financial Analysis (2023-2026 Spotify Averages)
 
