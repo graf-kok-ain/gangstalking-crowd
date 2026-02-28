@@ -1,0 +1,51 @@
+# JShiny - Spotify Screenshot
+## Timestamp: 28.02.2026 02:05
+## URL: https://open.spotify.com/artist/4bt1udVIcCcduEJ4CgoGiy
+## Page Title: JShiny | Spotify
+
+## Key Information Extracted:
+- **Artist Name**: JShiny
+- **Monthly Listeners**: 1,212
+- **Top Tracks**: 
+  1. Keys (feat. CXDEX, Lkc) - 1,488 plays
+  2. TT (feat. 2shiny, CXDEX) - 2,286 plays
+  3. valley (feat. CXDEX, HXDEX) - 5,491 plays
+  4. issues (feat. EIAS) - 3,895 plays
+  5. hrtless (feat. CXDEX) - plays
+- **Latest Release**: Keys (Single, Latest Release)
+- **Popular Albums/Singles**: L4NY (Album, 2024), TT (Single, 2025), issues / bloom (Single, 2025), valley (Single, 2025), Outro. (Single, 2025), RLWR (Single, 2025), TALBliCK (EP, 2025)
+- **Collaborations**: CXDEX, Lkc, 2shiny, HXDEX, EIAS
+- **Artist Pick**: "king und queen wer hört 🗝️👑" with Keys single
+- **Status**: Following (user follows this artist)
+- **Radio Playlist**: JShiny Radio (With CXDEX, D4VID777, nightfvry and more)
+- **Appears On**: Various collaborative albums including on my way (2023), BLOODY VALENTINE (2022), 20y of trying (2024), Disconnected (2022)
+
+## Navigation Elements:
+- Library with minimal content
+- Artist profile with image and follow button
+- Popular tracks section with moderate streaming numbers (thousands of plays)
+- Discography section with singles, EPs, and albums from 2022-2025
+- Artist pick section with personal message and single promotion
+- About section showing small monthly listener count
+- Small monthly listener count (1,212) indicating emerging artist
+- German language track titles and content
+- Active release schedule with multiple 2022-2025 releases
+- Mix of solo tracks and collaborations
+- Distinctive artist branding with "JShiny" name
+- Recent single "Keys" showing continued activity
+- EP "TALBliCK" showing progression to longer releases
+- Strong collaboration network with German underground artists
+- All tracks marked as explicit
+- Professional artist presentation with consistent releases
+- German underground hip-hop/rap genre focus
+- Moderate streaming numbers indicating growing popularity
+- Recent album "L4NY" showing album-length projects
+- Active presence in German underground scene
+- Collaboration-heavy approach with featured artists
+- Emotional and introspective German track titles
+- Strong streaming numbers for collaborative tracks
+- Consistent release pattern over years
+- Personal artist pick with emoji usage
+- Professional artist branding despite small following
+
+## Status: ✅ Complete screenshot captured and saved
