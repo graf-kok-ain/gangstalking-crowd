@@ -36,7 +36,6 @@
 - **The Gringo Lab** - Related artist
 - **NOT$kA** - Related artist
 - **Jotzudemka** - Related artist
-- **Moki** - Related artist
 
 ## Stream Numbers & Financial Analysis (2023-2026 Spotify Averages)
 
