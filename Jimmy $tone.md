@@ -4,7 +4,7 @@
 - **Artist Name**: Jimmy $tone
 - **Spotify ID**: 3JSxKCraADlfCEV8VxTYZv
 - **Spotify URL**: https://open.spotify.com/artist/3JSxKCraADlfCEV8VxTYZv
-- **Collection Timestamp**: 28.02.2026 13:55 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 15:40 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 22 (Live data capture)
 
 ## Biography & Background
