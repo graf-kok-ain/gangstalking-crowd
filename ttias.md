@@ -4,7 +4,7 @@
 - **Artist Name**: ttias
 - **Spotify ID**: 2a6GB7lvbQCBnb973Gg0Le
 - **Spotify URL**: https://open.spotify.com/artist/2a6GB7lvbQCBnb973Gg0Le
-- **Collection Timestamp**: 28.02.2026 07:35 (MCP Browser Tool - LATEST)
+- **Collection Timestamp**: 28.02.2026 10:40 (MCP Browser Tool - LATEST)
 - **Monthly Listeners**: 31 (Live data capture)
 
 ## Biography & Background
@@ -12,15 +12,15 @@
 
 ## Discography Analysis
 ### Singles
-- **964** (2025) - Single
+- **964** (2025, Explicit) - Single
 - **Ein Wort** (2025, Explicit) - Single
 - **Sommer** (2025, Explicit) - Single
-- **Welle** (2025) - Single
+- **Welle** (2025, Explicit) - Single
 
 ### Popular Tracks (Top 5)
 1. **Sommer** (feat. ghanajones, Explicit) - 1,189 plays - 2:34
 2. **Evisu** - plays - 2:48
-3. **leere Bars** - plays - 3:50
+3. **leere Bars** (Explicit) - plays - 3:50
 4. **wdjg** - plays - 2:28
 5. **Ein Wort** (Explicit) - plays - 2:44
 
