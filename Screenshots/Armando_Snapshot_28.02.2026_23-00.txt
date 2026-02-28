@@ -1,0 +1,290 @@
+# Armando - Spotify Screenshot
+## Timestamp: 28.02.2026 23:00
+## URL: https://open.spotify.com/artist/1ZRrBpu4cw7ouSDOkgZMJ3
+## Page Title: Armando | Spotify
+
+## Complete Page Content:
+```yaml
+- document [ref=s1e2]:
+  - document [ref=s1e6]
+  - link "Skip to main content" [ref=s1e16]:
+    - /url: "#main-view"
+  - link "Spotify" [ref=s1e19]:
+    - /url: /
+    - img "Spotify" [ref=s1e20]
+  - button "Home" [ref=s1e24]
+  - search [ref=s1e26]:
+    - button "Search" [ref=s1e28]
+    - combobox "What do you want to play?" [ref=s1e30]
+    - button "Browse" [ref=s1e34]
+  - button "Upgrade to Premium" [ref=s1e37]: Explore Premium
+  - link "Install App" [ref=s1e39]:
+    - /url: /download
+  - button "What's New" [ref=s1e42]
+  - button "Friend Activity" [ref=s1e43]
+  - button "Toni Be" [ref=s1e44]:
+    - figure "Toni Be" [ref=s1e45]:
+      - img "Toni Be" [ref=s1e47]
+  - navigation "Main" [ref=s1e49]:
+    - button "Open Your Library" [ref=s1e57]:
+      - heading "Your Library" [level=1] [ref=s1e61]
+    - button "Create" [ref=s1e63]
+    - grid "Your Library" [ref=s1e69]:
+      - row [ref=s1e73]
+      - row [ref=s1e78]
+  - text: Resize main navigation
+  - slider "Resize main navigation" [ref=s1e82]: "72"
+  - complementary "Now playing bar" [ref=s1e84]:
+    - 'region "Now playing: Rasenschach by Filow" [ref=s1e87]':
+      - button "Now playing view" [ref=s1e90]
+      - link "Rasenschach" [ref=s1e99]:
+        - /url: /album/0eyNmAznsO2cBF9hM17niE
+      - link "Filow" [ref=s1e107]:
+        - /url: /artist/0BRUlYcw8Rr4MGHe8kRgTv
+      - button "Add to Liked Songs" [ref=s1e109]
+    - button "Enable Shuffle for Rasenschach" [ref=s1e114]
+    - button "Previous" [ref=s1e115]
+    - button "Play" [ref=s1e116]
+    - button "Next" [ref=s1e119]
+    - checkbox "Enable repeat" [ref=s1e120]
+    - text: 0:02 Change progress
+    - slider "Change progress" [ref=s1e126]: "0"
+    - text: 2:24
+    - button "Lyrics" [ref=s1e136]
+    - button "Queue" [ref=s1e138]
+    - button "Connect to a device" [ref=s1e140]
+    - button "Mute" [ref=s1e142]
+    - text: Change volume
+    - slider "Change volume" [ref=s1e146]: "1"
+    - button "Open Miniplayer" [ref=s1e153]
+    - button "Enter Full screen" [ref=s1e154]
+  - banner "Top bar and user menu" [ref=s1e156]
+  - main "Armando | Spotify" [ref=s1e167]:
+    - img [ref=s1e178]
+    - text: Armando 141 monthly listeners
+    - button "Play" [ref=s1e190]
+    - button "Explore Armando" [ref=s1e192]:
+      - img [ref=s1e194]
+    - button "Enable Shuffle for Armando" [ref=s1e196]
+    - button "Follow" [ref=s1e197]
+    - button "More options for Armando" [ref=s1e198]
+    - heading "Popular" [level=2] [ref=s1e203]
+    - grid "popular tracks" [ref=s1e205]:
+      - row "1 Play S04E13 (Armando) by Stu Sesh, Armando S04E13 (Armando) Explicit 25,638 Add to Liked Songs 2:38 More options for S04E13 (Armando) by Stu Sesh, Armando" [ref=s1e215]:
+        - gridcell "1 Play S04E13 (Armando) by Stu Sesh, Armando" [ref=s1e217]:
+          - text: "1"
+          - button "Play S04E13 (Armando) by Stu Sesh, Armando" [ref=s1e220]
+        - gridcell "S04E13 (Armando) Explicit" [ref=s1e221]:
+          - img [ref=s1e222]
+          - link "S04E13 (Armando)" [ref=s1e224]:
+            - /url: /track/09wF8TqJ3lE4ZqsDPRXgti
+          - text: E
+        - gridcell "25,638" [ref=s1e229]
+        - gridcell "Add to Liked Songs 2:38 More options for S04E13 (Armando) by Stu Sesh, Armando" [ref=s1e231]:
+          - button "Add to Liked Songs" [ref=s1e232]
+          - text: 2:38
+          - button "More options for S04E13 (Armando) by Stu Sesh, Armando" [ref=s1e234]
+    - region "Discography" [ref=s1e242]:
+      - group [ref=s1e244]:
+        - heading "Discography" [level=2] [ref=s1e247]:
+          - link "Discography" [ref=s1e249]:
+            - /url: /artist/1ZRrBpu4cw7ouSDOkgZMJ3/discography/all
+        - link "Show all" [ref=s1e251]:
+          - /url: /artist/1ZRrBpu4cw7ouSDOkgZMJ3/discography/all
+      - checkbox "Popular releases" [checked] [ref=s1e255]
+      - checkbox "Singles and EPs" [ref=s1e257]
+      - button "S04E13 (Armando) 2024 • Single" [ref=s1e261]
+      - img [ref=s1e265]
+      - button "Play S04E13 (Armando)" [ref=s1e268]
+      - link "S04E13 (Armando)" [ref=s1e272]:
+        - /url: /album/0Xdg6egJxL5E8kHQ9gY2Vo
+        - paragraph [ref=s1e273]: S04E13 (Armando)
+      - time [ref=s1e279]: 2024 •
+      - text: Single
+    - region "Featuring Armando" [ref=s1e281]:
+      - group [ref=s1e283]:
+        - heading "Featuring Armando" [level=2] [ref=s1e286]:
+          - link "Featuring Armando" [ref=s1e288]:
+            - /url: /artist/1ZRrBpu4cw7ouSDOkgZMJ3/featuring
+      - button "Armando Radio With Stu Sesh, BRATEE, Mauvaisboy and more" [ref=s1e291]
+      - img [ref=s1e295]
+      - button "Play Armando Radio" [ref=s1e298]
+      - link "Armando Radio" [ref=s1e302]:
+        - /url: /playlist/37i9dQZF1E4zAiB48RrP4I
+        - paragraph [ref=s1e303]: Armando Radio
+      - text: With Stu Sesh, BRATEE, Mauvaisboy and more
+    - heading "About" [level=2] [ref=s1e313]
+    - button "Armando" [ref=s1e315]:
+      - figure "Armando" [ref=s1e317]:
+        - img "Armando" [ref=s1e319]
+      - text: 141 monthly listeners
+    - region "Fans also like" [ref=s1e321]:
+      - group [ref=s1e323]:
+        - heading "Fans also like" [level=2] [ref=s1e326]:
+          - link "Fans also like" [ref=s1e328]:
+            - /url: /artist/1ZRrBpu4cw7ouSDOkgZMJ3/related
+        - link "Show all" [ref=s1e330]:
+          - /url: /artist/1ZRrBpu4cw7ouSDOkgZMJ3/related
+      - button "OGB47 Artist" [ref=s1e334]
+      - img [ref=s1e338]
+      - button "Play OGB47" [ref=s1e341]
+      - link "OGB47" [ref=s1e345]:
+        - /url: /artist/641ChUQGdmvgvW5VOPw1Kh
+        - paragraph [ref=s1e346]: OGB47
+      - text: Artist
+      - button "DENZO62 Artist" [ref=s1e354]
+      - img [ref=s1e358]
+      - button "Play DENZO62" [ref=s1e361]
+      - link "DENZO62" [ref=s1e365]:
+        - /url: /artist/3DNK6iBI1muQ2CiXHGKz1v
+        - paragraph [ref=s1e366]: DENZO62
+      - text: Artist
+      - button "oskarshoota44 Artist" [ref=s1e374]
+      - img [ref=s1e378]
+      - button "Play oskarshoota44" [ref=s1e381]
+      - link "oskarshoota44" [ref=s1e385]:
+        - /url: /artist/7rIi6bkDzEIYNhllgMHszY
+        - paragraph [ref=s1e386]: oskarshoota44
+      - text: Artist
+      - button "LA Artist" [ref=s1e394]
+      - img [ref=s1e398]
+      - button "Play LA" [ref=s1e401]
+      - link "LA" [ref=s1e405]:
+        - /url: /artist/2EAfluEE6bOJVtfFumcV0U
+        - paragraph [ref=s1e406]: LA
+      - text: Artist
+      - button "FreezCyd Artist" [ref=s1e414]
+      - img [ref=s1e418]
+      - button "Play FreezCyd" [ref=s1e421]
+      - link "FreezCyd" [ref=s1e425]:
+        - /url: /artist/3ds2qOSY934We8btyjd7h9
+        - paragraph [ref=s1e426]: FreezCyd
+      - text: Artist
+      - button "CHAZAL.212 Artist" [ref=s1e434]
+      - img [ref=s1e438]
+      - button "Play CHAZAL.212" [ref=s1e441]
+      - link "CHAZAL.212" [ref=s1e445]:
+        - /url: /artist/47fCbfyenKKlvVxjSjx0h7
+        - paragraph [ref=s1e446]: CHAZAL.212
+      - text: Artist
+      - button "R-3 Artist" [ref=s1e454]
+      - img [ref=s1e458]
+      - button "Play R-3" [ref=s1e461]
+      - link "R-3" [ref=s1e465]:
+        - /url: /artist/1C5qi68u65Ez0VqKfSdR3x
+        - paragraph [ref=s1e466]: R-3
+      - text: Artist
+      - button "Ale Valegcy Artist" [ref=s1e474]
+      - img [ref=s1e478]
+      - button "Play Ale Valegcy" [ref=s1e481]
+      - link "Ale Valegcy" [ref=s1e485]:
+        - /url: /artist/5lwrImFjuFLnx90Kv7AjfA
+        - paragraph [ref=s1e486]: Ale Valegcy
+      - text: Artist
+      - button "LOSSA YS Artist" [ref=s1e494]
+      - img [ref=s1e498]
+      - button "Play LOSSA YS" [ref=s1e501]
+      - link "LOSSA YS" [ref=s1e505]:
+        - /url: /artist/0VaRXo9wzEBevdmWraltXI
+        - paragraph [ref=s1e506]: LOSSA YS
+      - text: Artist
+      - button "ACHII Artist" [ref=s1e514]
+      - img [ref=s1e518]
+      - button "Play ACHII" [ref=s1e521]
+      - link "ACHII" [ref=s1e525]:
+        - /url: /artist/6JUqqCsmjPYfbTA5HXwwro
+        - paragraph [ref=s1e526]: ACHII
+      - text: Artist
+    - separator [ref=s1e534]
+    - navigation [ref=s1e536]:
+      - list [ref=s1e540]:
+        - paragraph [ref=s1e541]: Company
+        - link "Impressum / Transparenzinformation" [ref=s1e542]:
+          - /url: https://www.spotify.com/de/about-us/impressum/
+        - link "About" [ref=s1e544]:
+          - /url: https://www.spotify.com/de/about-us/contact/
+        - link "Jobs" [ref=s1e546]:
+          - /url: https://www.lifeatspotify.com/
+        - link "For the Record" [ref=s1e548]:
+          - /url: https://newsroom.spotify.com/
+      - list [ref=s1e551]:
+        - paragraph [ref=s1e552]: Communities
+        - link "For Artists" [ref=s1e553]:
+          - /url: https://artists.spotify.com/
+        - link "Developers" [ref=s1e555]:
+          - /url: https://developer.spotify.com/
+        - link "Advertising" [ref=s1e557]:
+          - /url: https://ads.spotify.com/
+        - link "Investors" [ref=s1e559]:
+          - /url: https://investors.spotify.com/
+        - link "Vendors" [ref=s1e561]:
+          - /url: https://spotifyforvendors.com/
+      - list [ref=s1e564]:
+        - paragraph [ref=s1e565]: Useful links
+        - link "Support" [ref=s1e566]:
+          - /url: https://support.spotify.com/
+        - link "Free Mobile App" [ref=s1e568]:
+          - /url: https://www.spotify.com/de/download/
+        - link "Verträge hier kündigen" [ref=s1e570]:
+          - /url: https://www.spotify.com/de/account/cancel/
+        - link "Popular by Country" [ref=s1e572]:
+          - /url: /popular-in/de
+        - link "Import your music" [ref=s1e574]:
+          - /url: https://www.spotify.com/de/import-music/
+      - list [ref=s1e577]:
+        - paragraph [ref=s1e578]: Spotify Plans
+        - link "Premium Individual" [ref=s1e579]:
+          - /url: https://www.spotify.com/de/premium/#ref=spotifycom_footer_premium_individual
+        - link "Premium Duo" [ref=s1e581]:
+          - /url: https://www.spotify.com/de/duo/#ref=spotifycom_footer_premium_duo
+        - link "Premium Family" [ref=s1e583]:
+          - /url: https://www.spotify.com/de/family/#ref=spotifycom_footer_premium_family
+        - link "Premium Student" [ref=s1e585]:
+          - /url: https://www.spotify.com/de/student/#ref=spotifycom_footer_premium_student
+        - link "Spotify Free" [ref=s1e587]:
+          - /url: https://www.spotify.com/de/free/#ref=spotifycom_footer_premium_free
+      - link "Instagram" [ref=s1e591]:
+        - /url: https://instagram.com/spotify
+      - link "Twitter" [ref=s1e593]:
+        - /url: https://twitter.com/spotify
+      - link "Facebook" [ref=s1e595]:
+        - /url: https://www.facebook.com/Spotify
+      - separator [ref=s1e596]
+      - link "Legal" [ref=s1e601]:
+        - /url: https://www.spotify.com/de/legal/
+      - link "Safety & Privacy Center" [ref=s1e604]:
+        - /url: https://www.spotify.com/de/safetyandprivacy/
+      - link "Privacy Policy" [ref=s1e607]:
+        - /url: https://www.spotify.com/de/legal/privacy-policy/
+      - button "Cookie Settings" [ref=s1e610]
+      - link "About Ads" [ref=s1e613]:
+        - /url: https://www.spotify.com/de/legal/privacy-policy/#s3
+      - link "Accessibility" [ref=s1e616]:
+        - /url: https://www.spotify.com/de/accessibility/
+      - paragraph [ref=s1e620]: © 2026 Spotify AB
+  - text: Resize main navigation
+  - slider "Resize main navigation" [ref=s1e629]: "420"
+  - status [ref=s1e636]: "Now playing: Rasenschach by Filow"
+```
+
+## Key Information Extracted:
+- **Artist Name**: Armando
+- **Monthly Listeners**: 141
+- **Top Tracks**: 
+  1. S04E13 (Armando) (feat. Stu Sesh) - 25,638 plays
+- **Latest Release**: S04E13 (Armando) - Single
+- **Collaborations**: Stu Sesh
+- **Related Artists**: OGB47, DENZO62, oskarshoota44, LA, FreezCyd, CHAZAL.212, R-3, Ale Valegcy, LOSSA YS, ACHII
+- **Singles**: S04E13 (Armando) (2024)
+- **Radio Playlist**: Armando Radio (With Stu Sesh, BRATEE, Mauvaisboy and more)
+
+## Navigation Elements:
+- Library with minimal content
+- Multiple related artists visible
+- Now playing: Rasenschach by Filow
+- Full discography and popular tracks section
+- Artist profile with image and follow button
+- Radio playlist available
+- Limited discography with only one single visible
+
+## Status: ✅ Complete screenshot captured and saved
