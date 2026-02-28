@@ -2,6 +2,8 @@
 
 **IMPORTANT AI DISCLAIMER**: This analysis was conducted using multiple AI systems (agents) with human curation and targeting. Due to AI system usage, some false positives must be expected, particularly regarding musicians who are human and well-known (e.g., Bushido, Herzog, Xavier Naidoo should be excluded from consideration). The analysis focuses specifically on AI-generated entities and their operational networks, not on established human artists.
 
+**DISTINCTION CLARIFICATION**: This analysis explicitly distinguishes between AI-generated entities and real people. The investigation focuses on artificial intelligence systems, their operators, and coordinated networks, while excluding genuine human artists, authentic media personalities, legitimate journalists, actual state security services, and real youth activists. Only AI-controlled entities and their human operators are subjects of this analysis.
+
 ---
 
 ## Executive Summary
