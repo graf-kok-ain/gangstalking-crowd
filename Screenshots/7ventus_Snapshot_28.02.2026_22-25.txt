@@ -1,0 +1,534 @@
+# 7ventus - Spotify Screenshot
+## Timestamp: 28.02.2026 22:25
+## URL: https://open.spotify.com/artist/1aoaq3TFnfSlKCBSsE0OqW
+## Page Title: 7ventus | Spotify
+
+## Complete Page Content:
+```yaml
+- document [ref=s1e2]:
+  - document [ref=s1e6]
+  - link "Skip to main content" [ref=s1e16]:
+    - /url: "#main-view"
+  - link "Spotify" [ref=s1e19]:
+    - /url: /
+    - img "Spotify" [ref=s1e20]
+  - button "Home" [ref=s1e24]
+  - search [ref=s1e26]:
+    - button "Search" [ref=s1e28]
+    - combobox "What do you want to play?" [ref=s1e30]
+    - button "Browse" [ref=s1e34]
+  - button "Upgrade to Premium" [ref=s1e37]: Explore Premium
+  - link "Install App" [ref=s1e39]:
+    - /url: /download
+  - button "What's New" [ref=s1e42]
+  - button "Friend Activity" [ref=s1e43]
+  - button "Toni Be" [ref=s1e44]:
+    - figure "Toni Be" [ref=s1e45]:
+      - img "Toni Be" [ref=s1e47]
+  - navigation "Main" [ref=s1e49]:
+    - button "Open Your Library" [ref=s1e57]:
+      - heading "Your Library" [level=1] [ref=s1e61]
+    - button "Create" [ref=s1e63]
+    - grid "Your Library" [ref=s1e69]:
+      - row [ref=s1e73]
+      - row [ref=s1e78]
+  - text: Resize main navigation
+  - slider "Resize main navigation" [ref=s1e82]: "72"
+  - complementary "Now playing bar" [ref=s1e84]:
+    - 'region "Now playing: Rasenschach by Filow" [ref=s1e87]':
+      - button "Now playing view" [ref=s1e90]
+      - link "Rasenschach" [ref=s1e99]:
+        - /url: /album/0eyNmAznsO2cBF9hM17niE
+      - link "Filow" [ref=s1e107]:
+        - /url: /artist/0BRUlYcw8Rr4MGHe8kRgTv
+      - button "Add to Liked Songs" [ref=s1e109]
+    - button "Enable Shuffle for Rasenschach" [ref=s1e114]
+    - button "Previous" [ref=s1e115]
+    - button "Play" [ref=s1e116]
+    - button "Next" [ref=s1e119]
+    - checkbox "Enable repeat" [ref=s1e120]
+    - text: 0:02 Change progress
+    - slider "Change progress" [ref=s1e126]: "5000"
+    - text: 2:24
+    - button "Lyrics" [ref=s1e136]
+    - button "Queue" [ref=s1e138]
+    - button "Connect to a device" [ref=s1e140]
+    - button "Mute" [ref=s1e142]
+    - text: Change volume
+    - slider "Change volume" [ref=s1e146]: "1"
+    - button "Open Miniplayer" [ref=s1e153]
+    - button "Enter Full screen" [ref=s1e154]
+  - banner "Top bar and user menu" [ref=s1e156]
+  - main "7ventus | Spotify" [ref=s1e167]:
+    - img [ref=s1e178]
+    - text: 7ventus 4,325 monthly listeners
+    - button "Play" [ref=s1e190]
+    - button "Explore 7ventus" [ref=s1e192]:
+      - img [ref=s1e194]
+    - button "Shuffle" [ref=s1e196]
+    - button "Follow" [ref=s1e197]
+    - button "More options for 7ventus" [ref=s1e198]
+    - heading "Popular" [level=2] [ref=s1e203]
+    - grid "popular tracks" [ref=s1e205]:
+      - row "1 Play grease by Frry, 7ventus grease 388,495 Add to Liked Songs 1:47 More options for grease by Frry, 7ventus" [ref=s1e215]:
+        - gridcell "1 Play grease by Frry, 7ventus" [ref=s1e217]:
+          - text: "1"
+          - button "Play grease by Frry, 7ventus" [ref=s1e220]
+        - gridcell "grease" [ref=s1e221]:
+          - img [ref=s1e222]
+          - link "grease" [ref=s1e224]:
+            - /url: /track/7bM0b0wPJlZytlik4aW4xk
+          - gridcell "388,495" [ref=s1e226]
+        - gridcell "Add to Liked Songs 1:47 More options for grease by Frry, 7ventus" [ref=s1e228]:
+          - button "Add to Liked Songs" [ref=s1e229]
+          - text: 1:47
+          - button "More options for grease by Frry, 7ventus" [ref=s1e231]
+      - row "2 Play oldskoolvans by Frry, 7ventus oldskoolvans Explicit 53,963 Add to Liked Songs 2:36 More options for oldskoolvans by Frry, 7ventus" [ref=s1e232]:
+        - gridcell "2 Play oldskoolvans by Frry, 7ventus" [ref=s1e234]:
+          - text: "2"
+          - button "Play oldskoolvans by Frry, 7ventus" [ref=s1e237]
+        - gridcell "oldskoolvans Explicit" [ref=s1e238]:
+          - img [ref=s1e239]
+          - link "oldskoolvans" [ref=s1e241]:
+            - /url: /track/6SDUwFKJVufbsk5xDusXoJ
+          - text: E
+          - gridcell "53,963" [ref=s1e246]
+        - gridcell "Add to Liked Songs 2:36 More options for oldskoolvans by Frry, 7ventus" [ref=s1e248]:
+          - button "Add to Liked Songs" [ref=s1e249]
+          - text: 2:36
+          - button "More options for oldskoolvans by Frry, 7ventus" [ref=s1e251]
+      - row "3 Play GASLIGHT STATION by Frry, 7ventus GASLIGHT STATION Explicit 1,205 Add to Liked Songs 2:15 More options for GASLIGHT STATION by Frry, 7ventus" [ref=s1e252]:
+        - gridcell "3 Play GASLIGHT STATION by Frry, 7ventus" [ref=s1e254]:
+          - text: "3"
+          - button "Play GASLIGHT STATION by Frry, 7ventus" [ref=s1e257]
+        - gridcell "GASLIGHT STATION Explicit" [ref=s1e258]:
+          - img [ref=s1e259]
+          - link "GASLIGHT STATION" [ref=s1e261]:
+            - /url: /track/5UuIonFtvtTH1HQ818nVs3
+          - text: E
+          - gridcell "1,205" [ref=s1e266]
+        - gridcell "Add to Liked Songs 2:15 More options for GASLIGHT STATION by Frry, 7ventus" [ref=s1e268]:
+          - button "Add to Liked Songs" [ref=s1e269]
+          - text: 2:15
+          - button "More options for GASLIGHT STATION by Frry, 7ventus" [ref=s1e271]
+      - row "4 Play ambient lights by Frry, stfumaxx, 7ventus ambient lights Explicit 6,359 Add to Liked Songs 2:29 More options for ambient lights by Frry, stfumaxx, 7ventus" [ref=s1e272]:
+        - gridcell "4 Play ambient lights by Frry, stfumaxx, 7ventus" [ref=s1e274]:
+          - text: "4"
+          - button "Play ambient lights by Frry, stfumaxx, 7ventus" [ref=s1e277]
+        - gridcell "ambient lights Explicit" [ref=s1e278]:
+          - img [ref=s1e279]
+          - link "ambient lights" [ref=s1e281]:
+            - /url: /track/0rytMpxZq1YaTTNvnZj6gY
+          - text: E
+          - gridcell "6,359" [ref=s1e286]
+        - gridcell "Add to Liked Songs 2:29 More options for ambient lights by Frry, stfumaxx, 7ventus" [ref=s1e288]:
+          - button "Add to Liked Songs" [ref=s1e289]
+          - text: 2:29
+          - button "More options for ambient lights by Frry, stfumaxx, 7ventus" [ref=s1e291]
+      - row "5 Play BAR by Frry, 7ventus BAR Explicit 1,417 Add to Liked Songs 1:48 More options for BAR by Frry, 7ventus" [ref=s1e292]:
+        - gridcell "5 Play BAR by Frry, 7ventus" [ref=s1e294]:
+          - text: "5"
+          - button "Play BAR by Frry, 7ventus" [ref=s1e297]
+        - gridcell "BAR Explicit" [ref=s1e298]:
+          - img [ref=s1e299]
+          - link "BAR" [ref=s1e301]:
+            - /url: /track/5kWQze7u4FNXZZGvyQl8my
+          - text: E
+          - gridcell "1,417" [ref=s1e306]
+        - gridcell "Add to Liked Songs 1:48 More options for BAR by Frry, 7ventus" [ref=s1e308]:
+          - button "Add to Liked Songs" [ref=s1e309]
+          - text: 1:48
+          - button "More options for BAR by Frry, 7ventus" [ref=s1e311]
+    - button "See more" [ref=s1e319]
+    - heading "Artist pick" [level=2] [ref=s1e323]
+    - img [ref=s1e326]
+    - figure "7ventus" [ref=s1e329]:
+      - img "7ventus" [ref=s1e331]
+    - text: Posted By 7ventus
+    - link "SPÄTSOMMER 074" [ref=s1e334]:
+      - /url: /album/3QdmpjHiokD014JFy43PIq
+    - text: EP
+    - region "Discography" [ref=s1e336]:
+      - group [ref=s1e338]:
+        - heading "Discography" [level=2] [ref=s1e341]:
+          - link "Discography" [ref=s1e343]:
+            - /url: /artist/1aoaq3TFnfSlKCBSsE0OqW/discography/all
+        - link "Show all" [ref=s1e345]:
+          - /url: /artist/1aoaq3TFnfSlKCBSsE0OqW/discography/all
+      - checkbox "Popular releases" [checked] [ref=s1e349]
+      - checkbox "Singles and EPs" [ref=s1e351]
+      - button "GASLIGHT STATION Latest Release • Single" [ref=s1e355]
+      - img [ref=s1e359]
+      - button "Play GASLIGHT STATION" [ref=s1e362]
+      - link "GASLIGHT STATION" [ref=s1e366]:
+        - /url: /album/5c02OfJAYyPsOJCrABd7nf
+        - paragraph [ref=s1e367]: GASLIGHT STATION
+      - time [ref=s1e373]: Latest Release •
+      - text: Single
+      - button "SOMMER 074 2023 • EP" [ref=s1e376]
+      - img [ref=s1e380]
+      - button "Play SOMMER 074" [ref=s1e383]
+      - link "SOMMER 074" [ref=s1e387]:
+        - /url: /album/6PJEu3RgaHKuWIxU25EhRO
+        - paragraph [ref=s1e388]: SOMMER 074
+      - time [ref=s1e394]: 2023 •
+      - text: EP
+      - button "BAR 2026 • Single" [ref=s1e397]
+      - img [ref=s1e401]
+      - button "Play BAR" [ref=s1e404]
+      - link "BAR" [ref=s1e408]:
+        - /url: /album/5USteLreIrgDRLojBSYccK
+        - paragraph [ref=s1e409]: BAR
+      - time [ref=s1e415]: 2026 •
+      - text: Single
+      - button "ambient lights 2025 • Single" [ref=s1e418]
+      - img [ref=s1e422]
+      - button "Play ambient lights" [ref=s1e425]
+      - link "ambient lights" [ref=s1e429]:
+        - /url: /album/2iM4A6zHo3DyfAwMfTCf03
+        - paragraph [ref=s1e430]: ambient lights
+      - time [ref=s1e436]: 2025 •
+      - text: Single
+      - button "SPÄTSOMMER 074 2025 • EP" [ref=s1e439]
+      - img [ref=s1e443]
+      - button "Play SPÄTSOMMER 074" [ref=s1e446]
+      - link "SPÄTSOMMER 074" [ref=s1e450]:
+        - /url: /album/3QdmpjHiokD014JFy43PIq
+        - paragraph [ref=s1e451]: SPÄTSOMMER 074
+      - time [ref=s1e457]: 2025 •
+      - text: EP
+      - button "solang du atmest 2024 • Single" [ref=s1e460]
+      - img [ref=s1e464]
+      - button "Play solang du atmest" [ref=s1e467]
+      - link "solang du atmest" [ref=s1e471]:
+        - /url: /album/7rLzTlxoPGKOQZ7rzQSIM4
+        - paragraph [ref=s1e472]: solang du atmest
+      - time [ref=s1e478]: 2024 •
+      - text: Single
+      - button "Backrooms 2025 • Single" [ref=s1e481]
+      - img [ref=s1e485]
+      - button "Play Backrooms" [ref=s1e488]
+      - link "Backrooms" [ref=s1e492]:
+        - /url: /album/4e2TyEAktiz9Znw5HoRLrR
+        - paragraph [ref=s1e493]: Backrooms
+      - time [ref=s1e499]: 2025 •
+      - text: Single
+      - button "Dunkelheit 2025 • Single" [ref=s1e502]
+      - img [ref=s1e506]
+      - button "Play Dunkelheit" [ref=s1e509]
+      - link "Dunkelheit" [ref=s1e513]:
+        - /url: /album/5Em1swJFoV1bcBeU6IPTsE
+        - paragraph [ref=s1e514]: Dunkelheit
+      - time [ref=s1e520]: 2025 •
+      - text: Single
+    - region "Featuring 7ventus" [ref=s1e522]:
+      - group [ref=s1e524]:
+        - heading "Featuring 7ventus" [level=2] [ref=s1e527]:
+          - link "Featuring 7ventus" [ref=s1e529]:
+            - /url: /artist/1aoaq3TFnfSlKCBSsE0OqW/featuring
+      - button "7ventus Radio With Frry, Skepsiz, RYLO and more" [ref=s1e532]
+      - img [ref=s1e536]
+      - button "Play 7ventus Radio" [ref=s1e539]
+      - link "7ventus Radio" [ref=s1e543]:
+        - /url: /playlist/37i9dQZF1E4vTX4k98RnVK
+        - paragraph [ref=s1e544]: 7ventus Radio
+      - text: With Frry, Skepsiz, RYLO and more
+    - heading "About" [level=2] [ref=s1e554]
+    - button "7ventus" [ref=s1e556]:
+      - figure "7ventus" [ref=s1e558]:
+        - img "7ventus" [ref=s1e560]
+      - text: 4,325 monthly listeners Zzzzzzz…..
+    - region "Discovered on" [ref=s1e563]:
+      - group [ref=s1e565]:
+        - heading "Discovered on" [level=2] [ref=s1e568]:
+          - link "Discovered on" [ref=s1e570]:
+            - /url: /artist/1aoaq3TFnfSlKCBSsE0OqW/discovered-on
+      - button "cubbie core DUNKEL 2026" [ref=s1e573]
+      - img [ref=s1e577]
+      - button "Play cubbie core" [ref=s1e580]
+      - link "cubbie core" [ref=s1e584]:
+        - /url: /playlist/58MNR34NTRClB5xUxyPZfn
+        - paragraph [ref=s1e585]: cubbie core
+      - text: DUNKEL 2026
+      - button "partyanfang By robin.witte03" [ref=s1e594]
+      - img [ref=s1e598]
+      - button "Play partyanfang" [ref=s1e601]
+      - link "partyanfang" [ref=s1e605]:
+        - /url: /playlist/0eOec9sRBP4onjDhScNUxs
+        - paragraph [ref=s1e606]: partyanfang
+      - text: By robin.witte03
+      - button "arschtäsche loot ih dr arschtäsche trinke rosé us dr glasfläsche." [ref=s1e616]
+      - img [ref=s1e620]
+      - button "Play arschtäsche" [ref=s1e623]
+      - link "arschtäsche" [ref=s1e627]:
+        - /url: /playlist/1aQq8AKU5rnLlAcSJNMtjM
+        - paragraph [ref=s1e628]: arschtäsche
+      - text: loot ih dr arschtäsche trinke rosé us dr glasfläsche.
+      - button "painless awareness therapy❤️‍🩹 By y444" [ref=s1e637]
+      - img [ref=s1e641]
+      - button "Play painless awareness therapy❤️‍🩹" [ref=s1e644]
+      - link "painless awareness therapy❤️‍🩹" [ref=s1e648]:
+        - /url: /playlist/5oKiSCH10JaY1h46EjUREj
+        - paragraph [ref=s1e649]: painless awareness therapy❤️‍🩹
+      - text: By y444
+      - 'button "NEW NEW WAVE JuicyUndergrounds New Wave & neue neue Deutsche Welle Playlist | Cover: Die Sauna | Instagram: JuicyUnderground" [ref=s1e659]'
+      - img [ref=s1e663]
+      - button "Play NEW NEW WAVE" [ref=s1e666]
+      - link "NEW NEW WAVE" [ref=s1e670]:
+        - /url: /playlist/6JMZfOAvKuNGcGAl6nQ4dt
+        - paragraph [ref=s1e671]: NEW NEW WAVE
+      - text: "JuicyUndergrounds New Wave & neue neue Deutsche Welle Playlist | Cover: Die Sauna | Instagram:"
+      - link "JuicyUnderground" [ref=s1e678]:
+        - /url: https://www.instagram.com/juicyunderground/
+      - button "dude, chill chill dude" [ref=s1e681]
+      - img [ref=s1e685]
+      - button "Play dude, chill" [ref=s1e688]
+      - link "dude, chill" [ref=s1e692]:
+        - /url: /playlist/6w7Ma8EjlYuUtFnsafIxZ3
+        - paragraph [ref=s1e693]: dude, chill
+      - text: chill dude
+    - region "Artist Playlists" [ref=s1e701]:
+      - group [ref=s1e703]:
+        - heading "Artist Playlists" [level=2] [ref=s1e706]:
+          - link "Artist Playlists" [ref=s1e708]:
+            - /url: /artist/1aoaq3TFnfSlKCBSsE0OqW/playlists
+      - button "prod ventus By 777ventus" [ref=s1e711]
+      - img [ref=s1e715]
+      - button "Play prod ventus" [ref=s1e718]
+      - link "prod ventus" [ref=s1e722]:
+        - /url: /playlist/47036ui4ScIuI6tSTLzhhb
+        - paragraph [ref=s1e723]: prod ventus
+      - text: By 777ventus
+    - region "Fans also like" [ref=s1e732]:
+      - group [ref=s1e734]:
+        - heading "Fans also like" [level=2] [ref=s1e737]:
+          - link "Fans also like" [ref=s1e739]:
+            - /url: /artist/1aoaq3TFnfSlKCBSsE0OqW/related
+        - link "Show all" [ref=s1e741]:
+          - /url: /artist/1aoaq3TFnfSlKCBSsE0OqW/related
+      - button "Frry Artist" [ref=s1e745]
+      - img [ref=s1e749]
+      - button "Play Frry" [ref=s1e752]
+      - link "Frry" [ref=s1e756]:
+        - /url: /artist/5CflVnxujVfEIN7K4rz2Px
+        - paragraph [ref=s1e757]: Frry
+      - text: Artist
+      - button "Ciez Artist" [ref=s1e765]
+      - img [ref=s1e769]
+      - button "Play Ciez" [ref=s1e772]
+      - link "Ciez" [ref=s1e776]:
+        - /url: /artist/48I6qjtHvzsFxhWZhKUXq6
+        - paragraph [ref=s1e777]: Ciez
+      - text: Artist
+      - button "iroos Artist" [ref=s1e785]
+      - img [ref=s1e789]
+      - button "Play iroos" [ref=s1e792]
+      - link "iroos" [ref=s1e796]:
+        - /url: /artist/3VnZU5ytaQoK5P4LCGxF0G
+        - paragraph [ref=s1e797]: iroos
+      - text: Artist
+      - button "nIEMAND Artist" [ref=s1e805]
+      - img [ref=s1e809]
+      - button "Play nIEMAND" [ref=s1e812]
+      - link "nIEMAND" [ref=s1e816]:
+        - /url: /artist/4yGvSqqutkUl21IRS8MCkw
+        - paragraph [ref=s1e817]: nIEMAND
+      - text: Artist
+      - button "Gruber Artist" [ref=s1e825]
+      - img [ref=s1e829]
+      - button "Play Gruber" [ref=s1e832]
+      - link "Gruber" [ref=s1e836]:
+        - /url: /artist/0O5cX36i2H4H8hwghvQ1pO
+        - paragraph [ref=s1e837]: Gruber
+      - text: Artist
+      - button "VHM Artist" [ref=s1e845]
+      - img [ref=s1e849]
+      - button "Play VHM" [ref=s1e852]
+      - link "VHM" [ref=s1e856]:
+        - /url: /artist/6XgMTdVwW6aHT1aAb2eKWH
+        - paragraph [ref=s1e857]: VHM
+      - text: Artist
+      - button "Tom Blanc Artist" [ref=s1e865]
+      - img [ref=s1e869]
+      - button "Play Tom Blanc" [ref=s1e872]
+      - link "Tom Blanc" [ref=s1e876]:
+        - /url: /artist/1ZGjNQCPK5Rl7D5u1kbXc3
+        - paragraph [ref=s1e877]: Tom Blanc
+      - text: Artist
+      - button "Mo-Pheen Artist" [ref=s1e885]
+      - img [ref=s1e889]
+      - button "Play Mo-Pheen" [ref=s1e892]
+      - link "Mo-Pheen" [ref=s1e896]:
+        - /url: /artist/49ynYGbtCbMGTkcXL2TnIU
+        - paragraph [ref=s1e897]: Mo-Pheen
+      - text: Artist
+    - region "Appears On" [ref=s1e904]:
+      - group [ref=s1e906]:
+        - heading "Appears On" [level=2] [ref=s1e909]:
+          - link "Appears On" [ref=s1e911]:
+            - /url: /artist/1aoaq3TFnfSlKCBSsE0OqW/appears-on
+        - link "Show all" [ref=s1e913]:
+          - /url: /artist/1aoaq3TFnfSlKCBSsE0OqW/appears-on
+      - button "FRRYTALES 2024 • Album" [ref=s1e917]
+      - img [ref=s1e921]
+      - button "Play FRRYTALES" [ref=s1e924]
+      - link "FRRYTALES" [ref=s1e928]:
+        - /url: /album/1NcqCfKK2U9hcQiiXwPwfk
+        - paragraph [ref=s1e929]: FRRYTALES
+      - time [ref=s1e935]: 2024 •
+      - text: Album
+      - button "Rauch in die Luft 2023 • Single" [ref=s1e938]
+      - img [ref=s1e942]
+      - button "Play Rauch in die Luft" [ref=s1e945]
+      - link "Rauch in die Luft" [ref=s1e949]:
+        - /url: /album/3ispi15oXFVPFqzvfuAo9q
+        - paragraph [ref=s1e950]: Rauch in die Luft
+      - time [ref=s1e956]: 2023 •
+      - text: Single
+      - button "THE VOICE OF ERAY 2023 • Album" [ref=s1e959]
+      - img [ref=s1e963]
+      - button "Play THE VOICE OF ERAY" [ref=s1e966]
+      - link "THE VOICE OF ERAY" [ref=s1e970]:
+        - /url: /album/6mSA28etyBBXQ1R2KTwwKK
+        - paragraph [ref=s1e971]: THE VOICE OF ERAY
+      - time [ref=s1e977]: 2023 •
+      - text: Album
+      - button "Skate Fast Smoke Thrax 2022 • Album" [ref=s1e980]
+      - img [ref=s1e984]
+      - button "Play Skate Fast Smoke Thrax" [ref=s1e987]
+      - link "Skate Fast Smoke Thrax" [ref=s1e991]:
+        - /url: /album/35z8QB0KkMUNVxqz07PvLZ
+        - paragraph [ref=s1e992]: Skate Fast Smoke Thrax
+      - time [ref=s1e998]: 2022 •
+      - text: Album
+      - button "alles vergeht mit der zeit 2023 • Album" [ref=s1e1001]
+      - img [ref=s1e1005]
+      - button "Play alles vergeht mit der zeit" [ref=s1e1008]
+      - link "alles vergeht mit der zeit" [ref=s1e1012]:
+        - /url: /album/5NUiiIRsKUIgt0U1BEsOjN
+        - paragraph [ref=s1e1013]: alles vergeht mit der zeit
+      - time [ref=s1e1019]: 2023 •
+      - text: Album
+      - button "memories 2023 • EP" [ref=s1e1022]
+      - img [ref=s1e1026]
+      - button "Play memories" [ref=s1e1029]
+      - link "memories" [ref=s1e1033]:
+        - /url: /album/7arwk4ENq4aJwVlvHSrQUC
+        - paragraph [ref=s1e1034]: memories
+      - time [ref=s1e1040]: 2023 •
+      - text: EP
+      - button "gone 2021 • Single" [ref=s1e1043]
+      - img [ref=s1e1047]
+      - button "Play gone" [ref=s1e1050]
+      - link "gone" [ref=s1e1054]:
+        - /url: /album/1OZb6oE3mayrzndnXFpHDQ
+        - paragraph [ref=s1e1055]: gone
+      - time [ref=s1e1061]: 2021 •
+      - text: Single
+      - button "Zeitpunkt 2022 • Single" [ref=s1e1064]
+      - img [ref=s1e1068]
+      - button "Play Zeitpunkt" [ref=s1e1071]
+      - link "Zeitpunkt" [ref=s1e1075]:
+        - /url: /album/2VAHaxuXJCOnKhbMbJb0JD
+        - paragraph [ref=s1e1076]: Zeitpunkt
+      - time [ref=s1e1082]: 2022 •
+      - text: Single
+    - separator [ref=s1e1085]
+    - navigation [ref=s1e1087]:
+      - list [ref=s1e1091]:
+        - paragraph [ref=s1e1092]: Company
+        - link "Impressum / Transparenzinformation" [ref=s1e1093]:
+          - /url: https://www.spotify.com/de/about-us/impressum/
+        - link "About" [ref=s1e1095]:
+          - /url: https://www.spotify.com/de/about-us/contact/
+        - link "Jobs" [ref=s1e1097]:
+          - /url: https://www.lifeatspotify.com/
+        - link "For the Record" [ref=s1e1099]:
+          - /url: https://newsroom.spotify.com/
+      - list [ref=s1e1102]:
+        - paragraph [ref=s1e1103]: Communities
+        - link "For Artists" [ref=s1e1105]:
+          - /url: https://artists.spotify.com/
+        - link "Developers" [ref=s1e1107]:
+          - /url: https://developer.spotify.com/
+        - link "Advertising" [ref=s1e1109]:
+          - /url: https://ads.spotify.com/
+        - link "Investors" [ref=s1e1111]:
+          - /url: https://investors.spotify.com/
+        - link "Vendors" [ref=s1e1113]:
+          - /url: https://spotifyforvendors.com/
+      - list [ref=s1e1116]:
+        - paragraph [ref=s1e1117]: Useful links
+        - link "Support" [ref=s1e1119]:
+          - /url: https://support.spotify.com/
+        - link "Free Mobile App" [ref=s1e1121]:
+          - /url: https://www.spotify.com/de/download/
+        - link "Verträge hier kündigen" [ref=s1e1123]:
+          - /url: https://www.spotify.com/de/account/cancel/
+        - link "Popular by Country" [ref=s1e1125]:
+          - /url: /popular-in/de
+        - link "Import your music" [ref=s1e1127]:
+          - /url: https://www.spotify.com/de/import-music/
+      - list [ref=s1e1130]:
+        - paragraph [ref=s1e1131]: Spotify Plans
+        - link "Premium Individual" [ref=s1e1132]:
+          - /url: https://www.spotify.com/de/premium/#ref=spotifycom_footer_premium_individual
+        - link "Premium Duo" [ref=s1e1134]:
+          - /url: https://www.spotify.com/de/duo/#ref=spotifycom_footer_premium_duo
+        - link "Premium Family" [ref=s1e1136]:
+          - /url: https://www.spotify.com/de/family/#ref=spotifycom_footer_premium_family
+        - link "Premium Student" [ref=s1e1138]:
+          - /url: https://www.spotify.com/de/student/#ref=spotifycom_footer_premium_student
+        - link "Spotify Free" [ref=s1e1140]:
+          - /url: https://www.spotify.com/de/free/#ref=spotifycom_footer_premium_free
+      - link "Instagram" [ref=s1e1142]:
+        - /url: https://instagram.com/spotify
+      - link "Twitter" [ref=s1e1144]:
+        - /url: https://twitter.com/spotify
+      - link "Facebook" [ref=s1e1146]:
+        - /url: https://www.facebook.com/Spotify
+      - separator [ref=s1e1147]
+      - link "Legal" [ref=s1e1152]:
+        - /url: https://www.spotify.com/de/legal/
+      - link "Safety & Privacy Center" [ref=s1e1155]:
+        - /url: https://www.spotify.com/de/safetyandprivacy/
+      - link "Privacy Policy" [ref=s1e1158]:
+        - /url: https://www.spotify.com/de/legal/privacy-policy/
+      - button "Cookie Settings" [ref=s1e1161]
+      - link "About Ads" [ref=s1e1164]:
+        - /url: https://www.spotify.com/de/legal/privacy-policy/#s3
+      - link "Accessibility" [ref=s1e1167]:
+        - /url: https://www.spotify.com/de/accessibility/
+      - paragraph [ref=s1e1171]: © 2026 Spotify AB
+  - text: Resize main navigation
+  - slider "Resize main navigation" [ref=s1e1095]: "420"
+  - status [ref=s1e1102]: "Now playing: Rasenschach by Filow"
+```
+
+## Key Information Extracted:
+- **Artist Name**: 7ventus
+- **Monthly Listeners**: 4,325
+- **Top Tracks**: 
+  1. grease (feat. Frry) - 388,495 plays
+  2. oldskoolvans (feat. Frry) - 53,963 plays
+  3. GASLIGHT STATION (feat. Frry) - 1,205 plays
+  4. ambient lights (feat. Frry, stfumaxx) - 6,359 plays
+  5. BAR (feat. Frry) - 1,417 plays
+- **Latest Release**: GASLIGHT STATION - Single
+- **Artist pick**: Posted By 7ventus - SPÄTSOMMER 074 EP promotion
+- **Collaborations**: Frry, stfumaxx
+- **Related Artists**: Frry, Ciez, iroos, nIEMAND, Gruber, VHM, Tom Blanc, Mo-Pheen
+- **EPs**: SOMMER 074 (2023), SPÄTSOMMER 074 (2025), memories (2023)
+- **Singles**: GASLIGHT STATION (2026), BAR (2026), ambient lights (2025), solang du atmest (2024), Backrooms (2025), Dunkelheit (2025), gone (2021), Zeitpunkt (2022)
+
+## Navigation Elements:
+- Library with minimal content
+- Multiple related artists visible
+- Now playing: Rasenschach by Filow
+- Full discography and popular tracks section
+- Artist profile with image and follow button
+- Radio playlist available
+- Discovered on playlists visible
+- Artist playlists section
+
+## Status: ✅ Complete screenshot captured and saved

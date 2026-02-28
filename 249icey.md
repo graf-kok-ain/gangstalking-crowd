@@ -5,6 +5,7 @@
 - **Spotify ID**: 74UvzVON0Iztu0ZUeYHrPi
 - **Spotify URL**: https://open.spotify.com/artist/74UvzVON0Iztu0ZUeYHrPi
 - **Collection Timestamp**: 28.02.2026 18:35 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 18:45 (Complete Discography Collection via MCP Browser)
 - **Monthly Listeners**: 98 (Live data capture - updated from 96)
 - **Followers**: Not available
 - **Genre**: Phonk/Electronic
@@ -25,19 +26,41 @@
 - **Archive Date**: 26.02.2026 01:28
 
 ## Discography
-### Albums
-- Bass boosted compilation (Bass Boosted Versions) (2024) - Album
+### Complete Discography (Evidence-Based Collection - 28.02.2026 18:45)
 
-### Singles
-- Orkan (2025) - Single
-- Killa (Freestyle) (2024) - Single
+#### Albums
+- **POKEMON RAP BATTLES** (2023) - Album • 4 tracks
+  - 1. REGiGiGAS (2:09) - 1,401 plays
+  - 2. RESHiRAM (2:54)
+  - 3. PALKiA (2:40)
+  - 4. RAYQUAZA (2:19) - 2,675 plays
+  - 5. alcohol & haunted feelings (4:57)
 
-### Popular Tracks (Top 5)
-1. REGiGiGAS - 1,398 Plays
-2. Orkan (feat. lylyth) (Explicit) - 3:00
-3. RESHiRAM - 2:54
-4. RAYQUAZA - 2:19
-5. Killa (Freestyle)
+#### Singles (Chronological Order)
+- **Orkan** (2025) - Single • 1 track • Explicit
+  - 1. Orkan (3:00) - feat. lylyth
+- **WTF** (2024) - Single • 1 track • Explicit
+  - 1. WTF (3:41)
+- **Killa (Freestyle)** (2024) - Single • 1 track • Explicit
+  - 1. Killa - Freestyle (1:48) - feat. Tani ReD
+- **Bass boosted compilation** (2024) - Album (Bass Boosted Versions)
+
+### Popular Tracks (Top 5 by Play Count)
+1. **RAYQUAZA** - 2,675 plays • 2:19
+2. **REGiGiGAS** - 1,401 plays • 2:09
+3. **Orkan** (feat. lylyth) - Explicit • 3:00
+4. **RESHiRAM** - 2:54
+5. **PALKiA** - 2:40
+
+### Complete Track Listing (All Releases)
+- REGiGiGAS (2:09) - 1,401 plays
+- Orkan (3:00) - feat. lylyth - Explicit
+- RESHiRAM (2:54)
+- PALKiA (2:40)
+- RAYQUAZA (2:19) - 2,675 plays
+- WTF (3:41) - Explicit
+- Killa - Freestyle (1:48) - feat. Tani ReD - Explicit
+- alcohol & haunted feelings (4:57)
 
 ## Collaborations
 - lylyth (Orkan)

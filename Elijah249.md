@@ -4,6 +4,8 @@
 - **Spotify ID**: 34Th65ryjd4BEZZjoy5X8y
 - **Spotify Link**: https://open.spotify.com/artist/34Th65ryjd4BEZZjoy5X8y
 - **Original Spotify-Link**: https://open.spotify.com/artist/34Th65ryjd4BEZZjoy5X8y?si=f6523f81492b4cdc
+- **Collection Timestamp**: 26.02.2026 03:56 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 21:20 (Page Loading Issues Confirmed via MCP Browser)
 - **Monthly Listeners**: 1,764 (captured: 26.02.2026 03:56)
 - **Followers**: Not available
 - **Genre**: German Rap/Hyperpop

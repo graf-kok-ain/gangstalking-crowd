@@ -4,6 +4,8 @@
 - **Spotify ID**: 23wvySMZMLEt6Ibx0J2Uxv
 - **Spotify Link**: https://open.spotify.com/artist/23wvySMZMLEt6Ibx0J2Uxv
 - **Original Spotify-Link**: https://open.spotify.com/artist/23wvySMZMLEt6Ibx0J2Uxv?si=f6523f81492b4cdc
+- **Collection Timestamp**: 26.02.2026 03:56 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 20:00 (Page Loading Issues Confirmed via MCP Browser)
 - **Monthly Listeners**: 107 (captured: 26.02.2026 03:56)
 - **Followers**: Not available
 - **Genre**: Hip Hop/Pop

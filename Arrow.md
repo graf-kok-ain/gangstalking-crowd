@@ -5,6 +5,8 @@
 - **Spotify ID**: 4QkVryzHbHUTodfa1dNZYh
 - **Spotify Link**: https://open.spotify.com/artist/4QkVryzHbHUTodfa1dNZYh
 - **Original Spotify-Link**: https://open.spotify.com/artist/4QkVryzHbHUTodfa1dNZYh?si=f6523f81492b4cdc
+- **Collection Timestamp**: 28.02.2026 02:55 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 19:45 (Page Loading Issues Confirmed via MCP Browser)
 - **Monthly Listeners**: 75 (LATEST: 28.02.2026 02:55 - MCP Browser Tool) | PREVIOUS: 75 (26.02.2026 03:48)
 - **Followers**: Not available
 - **Genre**: Alternative/Indie

@@ -5,6 +5,7 @@
 - **Spotify ID**: 3moGHNhXc2gtN5J4LSuT9h
 - **Spotify URL**: https://open.spotify.com/artist/3moGHNhXc2gtN5J4LSuT9h
 - **Collection Timestamp**: 28.02.2026 18:50 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 19:00 (Complete Discography Collection via MCP Browser)
 - **Monthly Listeners**: 27,816 (Live data capture - updated from 27,384)
 - **Followers**: Not available
 - **Genre**: German Rap/Emo Rap
@@ -13,22 +14,40 @@
 ## Biography
 "27,816 monthly listeners we'll get what we deserve" - German Rap/Emo Rap artist with significant following and consistent release activity.
 
-## Discography Analysis
-### Albums
+## Complete Discography (Evidence-Based Collection - 28.02.2026 19:00)
+
+### Albums (Chronological Order)
 - **Daydream Chronicles** (2023) - Album
+- **ECHO CHAMBER** (2025) - Album
+- **2024** (2025) - Album
+- **DIE GUTEN STERBEN JUNG★** (2024) - Album
 
-### Singles
-- **Nicht Einfach** (Latest Release) - Single
+### Singles (Chronological Order)
+- **Prada Shades** (2023) - Single
 - **Borderline 2** (2024) - Single
-- **BORDERLINE** (2024) - Single
-- **Suicide** (2024) - Single
+- **BORDERLINE** (2024) - Single • 2:01 - feat. toly808
+- **Suicide** (2024) - Single • 2:34
+- **1000 Nächte** (2026) - Single
+- **Angst** (2025) - Single
+- **Nicht Einfach** (Latest Release) - Single
 
-### Popular Tracks (Top 5)
-1. **BORDERLINE** - 865,868 plays - 2:01 (with toly808)
-2. **Borderline 2** - 554,931 plays - 2:24
-3. **Mädchen Aus Der Kleinstadt** - 358,818 plays - 1:35
-4. **Erhofft** - 220,449 plays - 2:45 (with mczy808)
-5. **Suicide** - 205,767 plays - 2:34
+### Popular Tracks (Top 5 by Play Count)
+1. **BORDERLINE** - 865,868 plays • 2:01 - feat. toly808
+2. **Borderline 2** - 554,931 plays • 2:24
+3. **Suicide** - 205,767 plays • 2:34
+4. **Erhofft** - 220,449 plays • 2:45 - feat. mczy808
+5. **Mädchen Aus Der Kleinstadt** - 358,818 plays • 1:35
+
+### Complete Track Listing (Major Releases)
+- BORDERLINE (2:01) - 865,868 plays - feat. toly808
+- Borderline 2 (2:24) - 554,931 plays
+- Suicide (2:34) - 205,767 plays
+- Erhofft (2:45) - 220,449 plays - feat. mczy808
+- Mädchen Aus Der Kleinstadt (1:35) - 358,818 plays
+- Nicht Einfach (Latest Release)
+- 1000 Nächte (2026)
+- Angst (2025)
+- Prada Shades (2023)
 
 ## Collaborations & Network Analysis
 ### Direct Collaborations

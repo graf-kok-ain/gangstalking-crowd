@@ -4,6 +4,8 @@
 - **Spotify ID**: 2h92MCTfpJpA2XSdLE6ZXB
 - **Spotify Link**: https://open.spotify.com/artist/2h92MCTfpJpA2XSdLE6ZXB
 - **Original Spotify-Link**: https://open.spotify.com/artist/2h92MCTfpJpA2XSdLE6ZXB?si=f6523f81492b4cdc
+- **Collection Timestamp**: 26.02.2026 02:42 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 20:05 (Page Loading Issues Confirmed via MCP Browser)
 - **Monthly Listeners**: 9 (captured: 26.02.2026 02:42)
 - **Followers**: Not available
 - **Genre**: Alternative/Hip-Hop

@@ -4,6 +4,8 @@
 - **Spotify ID**: 2VH5Z3AKm8Wgw9UB1L5oYP
 - **Spotify Link**: https://open.spotify.com/artist/2VH5Z3AKm8Wgw9UB1L5oYP
 - **Original Spotify-Link**: https://open.spotify.com/artist/2VH5Z3AKm8Wgw9UB1L5oYP?si=f6523f81492b4cdc
+- **Collection Timestamp**: 26.02.2026 05:16 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 21:25 (Page Loading Issues Confirmed via MCP Browser)
 - **Monthly Listeners**: 307 (captured: 26.02.2026 05:16)
 - **Followers**: Not available
 - **Genre**: Diverse Genres (Love Songs, Evening Songs, Party Bangers)

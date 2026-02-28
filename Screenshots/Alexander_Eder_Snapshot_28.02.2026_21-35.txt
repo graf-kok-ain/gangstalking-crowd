@@ -1,0 +1,223 @@
+# Alexander Eder - Spotify Screenshot
+## Timestamp: 28.02.2026 21:35
+## URL: https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE
+## Page Title: Alexander Eder | Spotify
+
+## Complete Page Content:
+```yaml
+- document [ref=s2e2]:
+  - document [ref=s2e6]
+  - link "Skip to main content" [ref=s2e16]:
+    - /url: "#main-view"
+  - link "Spotify" [ref=s2e19]:
+    - /url: /
+    - img "Spotify" [ref=s2e20]
+  - button "Home" [ref=s2e24]
+  - search [ref=s2e26]:
+    - button "Search" [ref=s2e28]
+    - combobox "What do you want to play?" [ref=s2e30]
+    - button "Browse" [ref=s2e34]
+  - button "Upgrade to Premium" [ref=s2e37]: Explore Premium
+  - link "Install App" [ref=s2e39]:
+    - /url: /download
+  - button "What's New" [ref=s2e42]
+  - button "Friend Activity" [ref=s2e43]
+  - button "Toni Be" [ref=s2e44]:
+    - figure "Toni Be" [ref=s2e45]:
+      - img "Toni Be" [ref=s2e47]
+  - navigation "Main" [ref=s2e49]:
+    - button "Open Your Library" [ref=s2e57]:
+      - heading "Your Library" [level=1] [ref=s2e61]
+    - button "Create" [ref=s2e63]
+    - grid "Your Library" [ref=s2e69]:
+      - row [ref=s2e73]
+      - row "Liked Songs Pinned Playlist • 22 songs" [ref=s2e76]:
+        - gridcell "Liked Songs Pinned Playlist • 22 songs" [ref=s2e77]:
+          - group "Liked Songs" [ref=s2e78]:
+            - button "Liked Songs Pinned Playlist • 22 songs" [ref=s2e79]
+          - paragraph [ref=s2e87]: Liked Songs
+          - paragraph [ref=s2e90]:
+            - img "Pinned" [ref=s2e92]
+            - text: Playlist • 22 songs
+      - row "Laer Xirtam Artist" [ref=s2e95]:
+        - gridcell "Laer Xirtam Artist" [ref=s2e96]:
+          - group "Laer Xirtam" [ref=s2e97]:
+            - button "Laer Xirtam Artist" [ref=s2e98]
+          - paragraph [ref=s2e106]: Laer Xirtam
+          - paragraph [ref=s2e109]: Artist
+      - row "Endstation Album • Krijo Stalka" [ref=s2e112]:
+        - gridcell "Endstation Album • Krijo Stalka" [ref=s2e113]:
+          - group "Endstation" [ref=s2e114]:
+            - button "Endstation Album • Krijo Stalka" [ref=s2e115]
+          - paragraph [ref=s2e123]: Endstation
+          - paragraph [ref=s2e126]: Album • Krijo Stalka
+      - row "Trust No 1 Album • Krijo Stalka" [ref=s2e129]:
+        - gridcell "Trust No 1 Album • Krijo Stalka" [ref=s2e130]:
+          - group "Trust No 1" [ref=s2e131]:
+            - button "Trust No 1 Album • Krijo Stalka" [ref=s2e132]
+          - paragraph [ref=s2e140]: Trust No 1
+          - paragraph [ref=s2e143]: Album • Krijo Stalka
+      - row "ArniTheSavage Artist" [ref=s2e146]:
+        - gridcell "ArniTheSavage Artist" [ref=s2e147]:
+          - group "ArniTheSavage" [ref=s2e148]:
+            - button "ArniTheSavage Artist" [ref=s2e149]
+          - paragraph [ref=s2e157]: ArniTheSavage
+          - paragraph [ref=s2e160]: Artist
+      - row "Goitzsche Front Artist" [ref=s2e163]:
+        - gridcell "Goitzsche Front Artist" [ref=s2e164]:
+          - group "Goitzsche Front" [ref=s2e165]:
+            - button "Goitzsche Front Artist" [ref=s2e166]
+          - paragraph [ref=s2e174]: Goitzsche Front
+          - paragraph [ref=s2e177]: Artist
+      - row "Nimo Artist" [ref=s2e180]:
+        - gridcell "Nimo Artist" [ref=s2e181]:
+          - group "Nimo" [ref=s2e182]:
+            - button "Nimo Artist" [ref=s2e183]
+          - paragraph [ref=s2e191]: Nimo
+          - paragraph [ref=s2e194]: Artist
+      - row "Acaz Artist" [ref=s2e197]:
+        - gridcell "Acaz Artist" [ref=s2e198]:
+          - group "Acaz" [ref=s2e199]:
+            - button "Acaz Artist" [ref=s2e200]
+          - paragraph [ref=s2e208]: Acaz
+          - paragraph [ref=s2e211]: Artist
+      - row "Herzog Artist" [ref=s2e214]:
+        - gridcell "Herzog Artist" [ref=s2e215]:
+          - group "Herzog" [ref=s2e216]:
+            - button "Herzog Artist" [ref=s2e217]
+          - paragraph [ref=s2e225]: Herzog
+          - paragraph [ref=s2e228]: Artist
+      - row "Bushido Artist" [ref=s2e231]:
+        - gridcell "Bushido Artist" [ref=s2e232]:
+          - group "Bushido" [ref=s2e233]:
+            - button "Bushido Artist" [ref=s2e234]
+          - paragraph [ref=s2e242]: Bushido
+          - paragraph [ref=s2e245]: Artist
+      - row "Hanybal Artist" [ref=s2e248]:
+        - gridcell "Hanybal Artist" [ref=s2e249]:
+          - group "Hanybal" [ref=s2e250]:
+            - button "Hanybal Artist" [ref=s2e251]
+          - paragraph [ref=s2e259]: Hanybal
+          - paragraph [ref=s2e262]: Artist
+      - row "Olexesh Artist" [ref=s2e265]:
+        - gridcell "Olexesh Artist" [ref=s2e266]:
+          - group "Olexesh" [ref=s2e267]:
+            - button "Olexesh Artist" [ref=s2e268]
+          - paragraph [ref=s2e276]: Olexesh
+          - paragraph [ref=s2e279]: Artist
+      - row [ref=s2e284]
+  - text: Resize main navigation
+  - slider "Resize main navigation" [ref=s2e288]: "72"
+  - complementary "Now playing bar" [ref=s2e290]:
+    - 'region "Now playing: Rasenschach by Filow" [ref=s2e293]':
+      - button "Now playing view" [ref=s2e296]
+      - link "Rasenschach" [ref=s2e305]:
+        - /url: /album/0eyNmAznsO2cBF9hM17niE
+      - link "Filow" [ref=s2e313]:
+        - /url: /artist/0BRUlYcw8Rr4MGHe8kRgTv
+      - button "Add to Liked Songs" [ref=s2e315]
+    - button "Enable Shuffle for Rasenschach" [ref=s2e320]
+    - button "Previous" [ref=s2e321]
+    - button "Play" [ref=s2e322]
+    - button "Next" [ref=s2e325]
+    - checkbox "Enable repeat" [ref=s2e326]
+    - text: 0:02 Change progress
+    - slider "Change progress" [ref=s2e332]: "0"
+    - text: 2:24
+    - button "Lyrics" [ref=s2e342]
+    - button "Queue" [ref=s2e344]
+    - button "Connect to a device" [ref=s2e346]
+    - button "Mute" [ref=s2e348]
+    - text: Change volume
+    - slider "Change volume" [ref=s2e352]: "1"
+    - button "Open Miniplayer" [ref=s2e359]
+    - button "Enter Full screen" [ref=s2e360]
+  - banner "Top bar and user menu" [ref=s2e362]
+  - main "Alexander Eder | Spotify" [ref=s2e375]:
+    - text: Alexander Eder 753,945 monthly listeners
+    - button "Play" [ref=s2e393]
+    - button "Explore Alexander Eder" [ref=s2e395]:
+      - img [ref=s2e398]
+      - img [ref=s2e410]
+    - button "Enable Shuffle for Alexander Eder" [ref=s2e412]
+    - button "Follow" [ref=s2e413]
+    - button "More options for Alexander Eder" [ref=s2e414]
+    - heading "Popular" [level=2] [ref=s2e419]
+    - grid "popular tracks" [ref=s2e421]:
+      - row "1 Play Therapie by Harris & Ford, Alexander Eder Therapie 16,176,583 Add to Liked Songs 2:49 More options for Therapie by Harris & Ford, Alexander Eder" [ref=s2e431]:
+        - gridcell "1 Play Therapie by Harris & Ford, Alexander Eder" [ref=s2e433]:
+          - text: "1"
+          - button "Play Therapie by Harris & Ford, Alexander Eder" [ref=s2e436]
+        - gridcell "Therapie" [ref=s2e437]:
+          - img [ref=s2e438]
+          - link "Therapie" [ref=s2e440]:
+            - /url: /track/4MaV0HAsyKTXl8nLvXEgct
+        - gridcell "16,176,583" [ref=s2e442]
+        - gridcell "Add to Liked Songs 2:49 More options for Therapie by Harris & Ford, Alexander Eder" [ref=s2e444]:
+          - button "Add to Liked Songs" [ref=s2e445]
+          - text: 2:49
+          - button "More options for Therapie by Harris & Ford, Alexander Eder" [ref=s2e447]
+      - row "2 Play Für diesen Moment by Alexander Eder Für diesen Moment 25,999,779 Add to Liked Songs 3:15 More options für diesen Moment by Alexander Eder" [ref=s2e448]:
+        - gridcell "2 Play Für diesen Moment by Alexander Eder" [ref=s2e450]:
+          - text: "2"
+          - button "Play Für diesen Moment by Alexander Eder" [ref=s2e453]
+        - gridcell "Für diesen Moment" [ref=s2e454]:
+          - img [ref=s2e455]
+          - link "Für diesen Moment" [ref=s2e457]:
+            - /url: /track/1ux5QlrTYTFRxw6bABEEFu
+        - gridcell "25,999,779" [ref=s2e459]
+        - gridcell "Add to Liked Songs 3:15 More options für diesen Moment by Alexander Eder" [ref=s2e461]:
+          - button "Add to Liked Songs" [ref=s2e462]
+          - text: 3:15
+          - button "More options für diesen Moment by Alexander Eder" [ref=s2e464]
+      - row "3 Play Ganz normal gestört by Alexander Eder Ganz normal gestört Explicit 22,826,282 Add to Liked Songs 2:37 More options for Ganz normal gestört by Alexander Eder" [ref=s2e465]:
+        - gridcell "3 Play Ganz normal gestört by Alexander Eder" [ref=s2e467]:
+          - text: "3"
+          - button "Play Ganz normal gestört by Alexander Eder" [ref=s2e470]
+        - gridcell "Ganz normal gestört Explicit" [ref=s2e471]:
+          - img [ref=s2e472]
+          - link "Ganz normal gestört" [ref=s2e474]:
+            - /url: /track/3DW7QLSgCGDwydAAimGwB5
+          - text: E
+        - gridcell "22,826,282" [ref=s2e479]
+        - gridcell "Add to Liked Songs 2:37 More options for Ganz normal gestört by Alexander Eder" [ref=s2e481]:
+          - button "Add to Liked Songs" [ref=s2e482]
+          - text: 2:37
+          - button "More options for Ganz normal gestört by Alexander Eder" [ref=s2e484]
+      - row "4 Play 7 Stunden by Alexander Eder 7 Stunden 38,632,951 Add to Liked Songs 2:25 More options for 7 Stunden by Alexander Eder" [ref=s2e485]:
+        - gridcell "4 Play 7 Stunden by Alexander Eder" [ref=s2e487]:
+          - text: "4"
+          - button "Play 7 Stunden by Alexander Eder" [ref=s2e490]
+        - gridcell "7 Stunden" [ref=s2e491]:
+          - img [ref=s2e492]
+          - link "7 Stunden" [ref=s2e494]:
+            - /url: /track/0sykNVuelIJzay0NKSbOdI
+        - gridcell "38,632,951" [ref=s2e496]
+        - gridcell "Add to Liked Songs 2:25 More options for 7 Stunden by Alexander Eder" [ref=s2e498]:
+          - button "Add to Liked Songs" [ref=s2e499]
+          - text: 2:25
+          - button "More options for 7 Stunden by Alexander Eder" [ref=s2e501]
+      - row "5 Play 7 Stunden - Harris & Ford Remix by Alexander Eder, Harris & Ford 7 Stunden - Harris & Ford Remix 21,850,269 Add to Liked Songs 2:22 More options for 7 Stunden - Harris & Ford Remix by Alexander Eder, Harris & Ford" [ref=s2e502]:
+        - gridcell "5 Play 7 Stunden - Harris & Ford Remix by Alexander Eder, Harris & Ford" [ref=s2e504]:
+          - text: "5"
+          - button "Play 7 Stunden - Harris & Ford Remix by Alexander Eder, Harris & Ford" [ref=s2e507]
+        - g
+```
+
+## Key Information Extracted:
+- **Artist Name**: Alexander Eder
+- **Monthly Listeners**: 753,945
+- **Top Tracks**: 
+  1. Therapie (16,176,583 plays)
+  2. Für diesen Moment (25,999,779 plays)
+  3. Ganz normal gestört (22,826,282 plays)
+  4. 7 Stunden (38,632,951 plays)
+  5. 7 Stunden - Harris & Ford Remix (21,850,269 plays)
+
+## Navigation Elements:
+- Library with 22 liked songs
+- Multiple related artists visible
+- Now playing: Rasenschach by Filow
+- Full discography and popular tracks section
+
+## Status: ✅ Complete screenshot captured and saved

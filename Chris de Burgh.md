@@ -4,6 +4,8 @@
 - **Spotify ID**: 2RpHsROrX075xfIwHn6B2U
 - **Spotify Link**: https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U
 - **Original Spotify-Link**: https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U?si=f6523f81492b4cdc
+- **Collection Timestamp**: 26.02.2026 01:35 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 20:55 (Page Loading Issues Confirmed via MCP Browser)
 - **Monthly Listeners**: 4,673,242 (captured: 26.02.2026 01:35)
 - **Followers**: Not available
 - **Genre**: Art Rock, Pop, Soft Rock

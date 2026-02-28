@@ -1,0 +1,564 @@
+# ALeiz - Spotify Screenshot
+## Timestamp: 28.02.2026 22:30
+## URL: https://open.spotify.com/artist/5L3rnWFvr7aQwITnhWslDY
+## Page Title: ALeiz | Spotify
+
+## Complete Page Content:
+```yaml
+- document [ref=s1e2]:
+  - document [ref=s1e6]
+  - link "Skip to main content" [ref=s1e16]:
+    - /url: "#main-view"
+  - link "Spotify" [ref=s1e19]:
+    - /url: /
+    - img "Spotify" [ref=s1e20]
+  - button "Home" [ref=s1e24]
+  - search [ref=s1e26]:
+    - button "Search" [ref=s1e28]
+    - combobox "What do you want to play?" [ref=s1e30]
+    - button "Browse" [ref=s1e34]
+  - button "Upgrade to Premium" [ref=s1e37]: Explore Premium
+  - link "Install App" [ref=s1e39]:
+    - /url: /download
+  - button "What's New" [ref=s1e42]
+  - button "Friend Activity" [ref=s1e43]
+  - button "Toni Be" [ref=s1e44]:
+    - figure "Toni Be" [ref=s1e45]:
+      - img "Toni Be" [ref=s1e47]
+  - navigation "Main" [ref=s1e49]:
+    - button "Open Your Library" [ref=s1e57]:
+      - heading "Your Library" [level=1] [ref=s1e61]
+    - button "Create" [ref=s1e63]
+    - grid "Your Library" [ref=s1e69]:
+      - row [ref=s1e73]
+      - row "Liked Songs Pinned Playlist • 22 songs" [ref=s1e76]:
+        - gridcell "Liked Songs Pinned Playlist • 22 songs" [ref=s1e77]:
+          - group "Liked Songs" [ref=s1e78]:
+            - button "Liked Songs Pinned Playlist • 22 songs" [ref=s1e79]
+          - paragraph [ref=s1e87]: Liked Songs
+          - paragraph [ref=s1e90]:
+            - img "Pinned" [ref=s1e92]
+            - text: Playlist • 22 songs
+      - row "Laer Xirtam Artist" [ref=s1e95]:
+        - gridcell "Laer Xirtam Artist" [ref=s1e96]:
+          - group "Laer Xirtam" [ref=s1e97]:
+            - button "Laer Xirtam Artist" [ref=s1e98]
+          - paragraph [ref=s1e106]: Laer Xirtam
+          - paragraph [ref=s1e109]: Artist
+      - row "Endstation Album • Krijo Stalka" [ref=s1e112]:
+        - gridcell "Endstation Album • Krijo Stalka" [ref=s1e113]:
+          - group "Endstation" [ref=s1e114]:
+            - button "Endstation Album • Krijo Stalka" [ref=s1e115]
+          - paragraph [ref=s1e123]: Endstation
+          - paragraph [ref=s1e126]: Album • Krijo Stalka
+      - row "Trust No 1 Album • Krijo Stalka" [ref=s1e129]:
+        - gridcell "Trust No 1 Album • Krijo Stalka" [ref=s1e130]:
+          - group "Trust No 1" [ref=s1e131]:
+            - button "Trust No 1 Album • Krijo Stalka" [ref=s1e132]
+          - paragraph [ref=s1e140]: Trust No 1
+          - paragraph [ref=s1e143]: Album • Krijo Stalka
+      - row "ArniTheSavage Artist" [ref=s1e146]:
+        - gridcell "ArniTheSavage Artist" [ref=s1e147]:
+          - group "ArniTheSavage" [ref=s1e148]:
+            - button "ArniTheSavage Artist" [ref=s1e149]
+          - paragraph [ref=s1e157]: ArniTheSavage
+          - paragraph [ref=s1e160]: Artist
+      - row "Goitzsche Front Artist" [ref=s1e163]:
+        - gridcell "Goitzsche Front Artist" [ref=s1e164]:
+          - group "Goitzsche Front" [ref=s1e165]:
+            - button "Goitzsche Front Artist" [ref=s1e166]
+          - paragraph [ref=s1e174]: Goitzsche Front
+          - paragraph [ref=s1e177]: Artist
+      - row "Nimo Artist" [ref=s1e180]:
+        - gridcell "Nimo Artist" [ref=s1e181]:
+          - group "Nimo" [ref=s1e182]:
+            - button "Nimo Artist" [ref=s1e183]
+          - paragraph [ref=s1e191]: Nimo
+          - paragraph [ref=s1e194]: Artist
+      - row "Acaz Artist" [ref=s1e197]:
+        - gridcell "Acaz Artist" [ref=s1e198]:
+          - group "Acaz" [ref=s1e199]:
+            - button "Acaz Artist" [ref=s1e200]
+          - paragraph [ref=s1e208]: Acaz
+          - paragraph [ref=s1e211]: Artist
+      - row "Herzog Artist" [ref=s1e214]:
+        - gridcell "Herzog Artist" [ref=s1e215]:
+          - group "Herzog" [ref=s1e216]:
+            - button "Herzog Artist" [ref=s1e217]
+          - paragraph [ref=s1e225]: Herzog
+          - paragraph [ref=s1e228]: Artist
+      - row "Bushido Artist" [ref=s1e231]:
+        - gridcell "Bushido Artist" [ref=s1e232]:
+          - group "Bushido" [ref=s1e233]:
+            - button "Bushido Artist" [ref=s1e234]
+          - paragraph [ref=s1e242]: Bushido
+          - paragraph [ref=s1e245]: Artist
+      - row "Hanybal Artist" [ref=s1e248]:
+        - gridcell "Hanybal Artist" [ref=s1e249]:
+          - group "Hanybal" [ref=s1e250]:
+            - button "Hanybal Artist" [ref=s1e251]
+          - paragraph [ref=s1e259]: Hanybal
+          - paragraph [ref=s1e262]: Artist
+      - row "Olexesh Artist" [ref=s1e265]:
+        - gridcell "Olexesh Artist" [ref=s1e266]:
+          - group "Olexesh" [ref=s1e267]:
+            - button "Olexesh Artist" [ref=s1e268]
+          - paragraph [ref=s1e276]: Olexesh
+          - paragraph [ref=s1e279]: Artist
+      - row [ref=s1e284]
+  - text: Resize main navigation
+  - slider "Resize main navigation" [ref=s1e288]: "72"
+  - complementary "Now playing bar" [ref=s1e290]:
+    - 'region "Now playing: Rasenschach by Filow" [ref=s1e293]':
+      - button "Now playing view" [ref=s1e296]
+      - link "Rasenschach" [ref=s1e305]:
+        - /url: /album/0eyNmAznsO2cBF9hM17niE
+      - link "Filow" [ref=s1e313]:
+        - /url: /artist/0BRUlYcw8Rr4MGHe8kRgTv
+      - button "Add to Liked Songs" [ref=s1e315]
+    - button "Enable Shuffle for Rasenschach" [ref=s1e320]
+    - button "Previous" [ref=s1e321]
+    - button "Play" [ref=s1e322]
+    - button "Next" [ref=s1e325]
+    - checkbox "Enable repeat" [ref=s1e326]
+    - text: 0:02 Change progress
+    - slider "Change progress" [ref=s1e332]: "0"
+    - text: 2:24
+    - button "Lyrics" [ref=s1e342]
+    - button "Queue" [ref=s1e344]
+    - button "Connect to a device" [ref=s1e346]
+    - button "Mute" [ref=s1e348]
+    - text: Change volume
+    - slider "Change volume" [ref=s1e352]: "1"
+    - button "Open Miniplayer" [ref=s1e359]
+    - button "Enter Full screen" [ref=s1e360]
+  - banner "Top bar and user menu" [ref=s1e362]
+  - main "ALeiz | Spotify" [ref=s1e375]:
+    - text: ALeiz 1,560 monthly listeners
+    - button "Play" [ref=s1e393]
+    - button "Explore ALeiz" [ref=s1e395]:
+      - img [ref=s1e398]
+      - img [ref=s1e410]
+    - button "Enable Shuffle for ALeiz" [ref=s1e412]
+    - button "Follow" [ref=s1e413]
+    - button "More options for ALeiz" [ref=s1e414]
+    - heading "Popular" [level=2] [ref=s1e419]
+    - grid "popular tracks" [ref=s1e421]:
+      - row "1 Play keiner von uns left behind ::<>>+ by ALeiz keiner von uns left behind ::<>>+ 66,702 Add to Liked Songs 2:09 More options for keiner von uns left behind ::<>>+ by ALeiz" [ref=s1e431]:
+        - gridcell "1 Play keiner von uns left behind ::<>>+ by ALeiz" [ref=s1e433]:
+          - text: "1"
+          - button "Play keiner von uns left behind ::<>>+ by ALeiz" [ref=s1e436]
+        - gridcell "keiner von uns left behind ::<>>+" [ref=s1e437]:
+          - img [ref=s1e438]
+          - link "keiner von uns left behind ::<>>+" [ref=s1e440]:
+            - /url: /track/6KKh9EVG2BFSFuZWq7L8Vf
+        - gridcell "66,702" [ref=s1e442]
+        - gridcell "Add to Liked Songs 2:09 More options for keiner von uns left behind ::<>>+ by ALeiz" [ref=s1e444]:
+          - button "Add to Liked Songs" [ref=s1e445]
+          - text: 2:09
+          - button "More options for keiner von uns left behind ::<>>+ by ALeiz" [ref=s1e447]
+      - row "2 Play buntetränen by ALeiz buntetränen 93,355 Add to Liked Songs 2:24 More options for buntetränen by ALeiz" [ref=s1e448]:
+        - gridcell "2 Play buntetränen by ALeiz" [ref=s1e450]:
+          - text: "2"
+          - button "Play buntetränen by ALeiz" [ref=s1e453]
+        - gridcell "buntetränen" [ref=s1e454]:
+          - img [ref=s1e455]
+          - link "buntetränen" [ref=s1e457]:
+            - /url: /track/06skzp8jtgf525Zl6l8uSg
+        - gridcell "93,355" [ref=s1e459]
+        - gridcell "Add to Liked Songs 2:24 More options for buntetränen by ALeiz" [ref=s1e461]:
+          - button "Add to Liked Songs" [ref=s1e462]
+          - text: 2:24
+          - button "More options for buntetränen by ALeiz" [ref=s1e464]
+      - 'row "3 Play mind communication \"\" ! + # --/// :: by ALeiz mind communication \"\" ! + # --/// :: 95,699 Add to Liked Songs 2:25 More options for mind communication \"\" ! + # --/// :: by ALeiz" [ref=s1e465]':
+        - 'gridcell "3 Play mind communication \"\" ! + # --/// :: by ALeiz" [ref=s1e467]':
+          - text: "3"
+          - 'button "Play mind communication \"\" ! + # --/// :: by ALeiz" [ref=s1e470]'
+        - 'gridcell "mind communication \"\" ! + # --/// ::" [ref=s1e471]':
+          - img [ref=s1e472]
+          - 'link "mind communication \"\" ! + # --/// ::" [ref=s1e474]':
+            - /url: /track/2OShI8C1Gs19y8GmTpTRWS
+        - gridcell "95,699" [ref=s1e476]
+        - 'gridcell "Add to Liked Songs 2:25 More options for mind communication \"\" ! + # --/// :: by ALeiz" [ref=s1e478]':
+          - button "Add to Liked Songs" [ref=s1e479]
+          - text: 2:25
+          - 'button "More options for mind communication \"\" ! + # --/// :: by ALeiz" [ref=s1e481]'
+      - row "4 Play lieber sterbe ich so als das nicht mehr zu fühlen //_ ==//- by ALeiz lieber sterbe ich so als das nicht mehr zu fühlen //_ ==//- Explicit 28,334 Add to Liked Songs 2:44 More options for lieber sterbe ich so als das nicht mehr zu fühlen //_ ==//- by ALeiz" [ref=s1e482]:
+        - gridcell "4 Play lieber sterbe ich so als das nicht mehr zu fühlen //_ ==//- by ALeiz" [ref=s1e484]:
+          - text: "4"
+          - button "Play lieber sterbe ich so als das nicht mehr zu fühlen //_ ==//- by ALeiz" [ref=s1e487]
+        - gridcell "lieber sterbe ich so als das nicht mehr zu fühlen //_ ==//- Explicit" [ref=s1e488]:
+          - img [ref=s1e489]
+          - link "lieber sterbe ich so als das nicht mehr zu fühlen //_ ==//-" [ref=s1e491]:
+            - /url: /track/4Sdn5H5dWtLpSdTI9Qxd19
+          - text: E
+        - gridcell "28,334" [ref=s1e496]
+        - gridcell "Add to Liked Songs 2:44 More options for lieber sterbe ich so als das nicht mehr zu fühlen //_ ==//- by ALeiz" [ref=s1e498]:
+          - button "Add to Liked Songs" [ref=s1e499]
+          - text: 2:44
+          - button "More options for lieber sterbe ich so als das nicht mehr zu fühlen //_ ==//- by ALeiz" [ref=s1e501]
+      - row "5 Play Alles by Artisblind, ALeiz Alles 12,087 Add to Liked Songs 4:03 More options for Alles by Artisblind, ALeiz" [ref=s1e502]:
+        - gridcell "5 Play Alles by Artisblind, ALeiz" [ref=s1e504]:
+          - text: "5"
+          - button "Play Alles by Artisblind, ALeiz" [ref=s1e507]
+        - gridcell "Alles" [ref=s1e508]:
+          - img [ref=s1e509]
+          - link "Alles" [ref=s1e511]:
+            - /url: /track/2OShI8C1Gs19y8GmTpTRWS
+          - gridcell "12,087" [ref=s1e513]
+        - gridcell "Add to Liked Songs 4:03 More options for Alles by Artisblind, ALeiz" [ref=s1e515]:
+          - button "Add to Liked Songs" [ref=s1e516]
+          - text: 4:03
+          - button "More options for Alles by Artisblind, ALeiz" [ref=s1e517]
+    - button "See more" [ref=s1e519]
+    - heading "Artist pick" [level=2] [ref=s1e523]
+    - img [ref=s1e526]
+    - figure "ALeiz" [ref=s1e529]:
+      - img "ALeiz" [ref=s1e531]
+    - text: Posted By ALeiz
+    - link "otherworldly:voices:linger:around:you" [ref=s1e534]:
+      - /url: /album/6t8QBWhy9m8zpLmaxXTrj6
+    - text: Album
+    - region "Discography" [ref=s1e536]:
+      - group [ref=s1e538]:
+        - heading "Discography" [level=2] [ref=s1e541]:
+          - link "Discography" [ref=s1e543]:
+            - /url: /artist/5L3rnWFvr7aQwITnhWslDY/discography/all
+        - link "Show all" [ref=s1e545]:
+          - /url: /artist/5L3rnWFvr7aQwITnhWslDY/discography/all
+      - checkbox "Popular releases" [checked] [ref=s1e549]
+      - checkbox "Albums" [ref=s1e551]
+      - checkbox "Singles and EPs" [ref=s1e553]
+      - button "what:did:u:say Latest Release • Single" [ref=s1e557]
+      - img [ref=s1e561]
+      - button "Play what:did:u:say" [ref=s1e564]
+      - link "what:did:u:say" [ref=s1e568]:
+        - /url: /album/73sGyUWPU6H7isDxEHBphj
+        - paragraph [ref=s1e569]: what:did:u:say
+      - time [ref=s1e575]: Latest Release •
+      - text: Single
+      - button "otherworldly:voices:linger:around:you 2023 • Album" [ref=s1e578]
+      - img [ref=s1e582]
+      - button "Play otherworldly:voices:linger:around:you" [ref=s1e585]
+      - link "otherworldly:voices:linger:around:you" [ref=s1e589]:
+        - /url: /album/6t8QBWhy9m8zpLmaxXTrj6
+        - paragraph [ref=s1e590]: otherworldly:voices:linger:around:you
+      - time [ref=s1e596]: 2023 •
+      - text: Album
+      - button "Bonjour Tristesse 2019 • EP" [ref=s1e599]
+      - img [ref=s1e603]
+      - button "Play Bonjour Tristesse" [ref=s1e606]
+      - link "Bonjour Tristesse" [ref=s1e610]:
+        - /url: /album/0dro8cujAgXBokrVzfINK7
+        - paragraph [ref=s1e611]: Bonjour Tristesse
+      - time [ref=s1e617]: 2019 •
+      - text: EP
+      - button "what:did:u:say 2023 • Single" [ref=s1e620]
+      - img [ref=s1e624]
+      - button "Play what:did:u:say" [ref=s1e627]
+      - link "what:did:u:say" [ref=s1e631]:
+        - /url: /album/73sGyUWPU6H7isDxEHBphj
+        - paragraph [ref=s1e632]: what:did:u:say
+      - time [ref=s1e638]: 2023 •
+      - text: Single
+    - region "Featuring ALeiz" [ref=s1e644]:
+      - group [ref=s1e646]:
+        - heading "Featuring ALeiz" [level=2] [ref=s1e649]:
+          - link "Featuring ALeiz" [ref=s1e651]:
+            - /url: /artist/5L3rnWFvr7aQwITnhWslDY/featuring
+      - button "ALeiz Radio With Artisblind, Laer Xirtam and more" [ref=s1e654]
+      - img [ref=s1e658]
+      - button "Play ALeiz Radio" [ref=s1e661]
+      - link "ALeiz Radio" [ref=s1e665]:
+        - /url: /playlist/37i9dQZF1DX4sWfpw3I0aZ
+        - paragraph [ref=s1e666]: ALeiz Radio
+      - text: With Artisblind, Laer Xirtam and more
+    - heading "About" [level=2] [ref=s1e676]
+    - button "ALeiz" [ref=s1e678]:
+      - figure "ALeiz" [ref=s1e680]:
+        - img "ALeiz" [ref=s1e682]
+      - text: 1,560 monthly listeners
+    - region "Similar artists" [ref=s1e686]:
+      - group [ref=s1e688]:
+        - heading "Similar artists" [level=2] [ref=s1e691]:
+          - link "Similar artists" [ref=s1e693]:
+            - /url: /artist/5L3rnWFvr7aQwITnhWslDY/similar-artists
+        - link "Show all" [ref=s1e695]:
+          - /url: /artist/5L3rnWFvr7aQwITnhWslDY/similar-artists
+      - button "Artisblind Artist" [ref=s1e699]
+      - img [ref=s1e703]
+      - button "Play Artisblind" [ref=s1e706]
+      - link "Artisblind" [ref=s1e710]:
+        - /url: /artist/1TC5KDxcv3Dv1aZ30BHQed
+        - paragraph [ref=s1e711]: Artisblind
+      - text: Artist
+      - button "Laer Xirtam Artist" [ref=s1e719]
+      - img [ref=s1e723]
+      - button "Play Laer Xirtam" [ref=s1e726]
+      - link "Laer Xirtam" [ref=s1e730]:
+        - /url: /artist/1TC5KDxcv3Dv1aZ30BHQed
+        - paragraph [ref=s1e731]: Laer Xirtam
+      - text: Artist
+      - button "Krijo Stalka Artist" [ref=s1e739]
+      - img [ref=s1e743]
+      - button "Play Krijo Stalka" [ref=s1e746]
+      - link "Krijo Stalka" [ref=s1e750]:
+        - /url: /artist/1TC5KDxcv3Dv1aZ30BHQed
+        - paragraph [ref=s1e751]: Krijo Stalka
+      - text: Artist
+      - button "ArniTheSavage Artist" [ref=s1e759]
+      - img [ref=s1e763]
+      - button "Play ArniTheSavage" [ref=s1e766]
+      - link "ArniTheSavage" [ref=s1e770]:
+        - /url: /artist/1TC5KDxcv3Dv1aZ30BHQed
+        - paragraph [ref=s1e771]: ArniTheSavage
+      - text: Artist
+      - button "Goitzsche Front Artist" [ref=s1e779]
+      - img [ref=s1e783]
+      - button "Play Goitzsche Front" [ref=s1e786]
+      - link "Goitzsche Front" [ref=s1e790]:
+        - /url: /artist/1TC5KDxcv3Dv1aZ30BHQed
+        - paragraph [ref=s1e791]: Goitzsche Front
+      - text: Artist
+      - button "Nimo Artist" [ref=s1e799]
+      - img [ref=s1e803]
+      - button "Play Nimo" [ref=s1e806]
+      - link "Nimo" [ref=s1e809]:
+        - /url: /artist/1TC5KDxcv3Dv1aZ30BHQed
+        - paragraph [ref=s1e810]: Nimo
+      - text: Artist
+      - button "Acaz Artist" [ref=s1e818]
+      - img [ref=s1e822]
+      - button "Play Acaz" [ref=s1e825]
+      - link "Acaz" [ref=s1e829]:
+        - /url: /artist/1TC5KDxcv3Dv1aZ30BHQed
+        - paragraph [ref=s1e830]: Acaz
+      - text: Artist
+      - button "Herzog Artist" [ref=s1e838]
+      - img [ref=s1e842]
+      - button "Play Herzog" [ref=s1e845]
+      - link "Herzog" [ref=s1e849]:
+        - /url: /artist/1TC5KDxcv3Dv1aZ30BHQed
+        - paragraph [ref=s1e850]: Herzog
+      - text: Artist
+      - button "Bushido Artist" [ref=s1e858]
+      - img [ref=s1e862]
+      - button "Play Bushido" [ref=s1e865]
+      - link "Bushido" [ref=s1e869]:
+        - /url: /artist/1TC5KDxcv3Dv1aZ30BHQed
+        - paragraph [ref=s1e870]: Bushido
+      - text: Artist
+      - button "Hanybal Artist" [ref=s1e878]
+      - img [ref=s1e882]
+      - button "Play Hanybal" [ref=s1e885]
+      - link "Hanybal" [ref=s1e889]:
+        - /url: /artist/1TC5KDxcv3Dv1aZ30BHQed
+        - paragraph [ref=s1e890]: Hanybal
+      - text: Artist
+      - button "Olexesh Artist" [ref=s1e898]
+      - img [ref=s1e902]
+      - button "Play Olexesh" [ref=s1e905]
+      - link "Olexesh" [ref=s1e907]:
+        - /url: /artist/1TC5KDxcv3Dv1aZ30BHQed
+        - paragraph [ref=s1e908]: Olexesh
+      - text: Artist
+    - region "Appears On" [ref=s1e916]:
+      - group [ref=s1e918]:
+        - heading "Appears On" [level=2] [ref=s1e921]:
+          - link "Appears On" [ref=s1e923]:
+            - /url: /artist/5L3rnWFvr7aQwITnhWslDY/appears-on
+      - button "Bonjour Tristesse 2019 • EP" [ref=s1e926]
+      - img [ref=s1e930]
+      - button "Play Bonjour Tristesse" [ref=s1e933]
+      - link "Bonjour Tristesse" [ref=s1e937]:
+        - /url: /album/0dro8cujAgXBokrVzfINK7
+        - paragraph [ref=s1e938]: Bonjour Tristesse
+      - time [ref=s1e944]: 2019 •
+      - text: EP
+      - button "otherworldly:voices:linger:around:you 2023 • Album" [ref=s1e947]
+      - img [ref=s1e951]
+      - button "Play otherworldly:voices:linger:around:you" [ref=s1e954]
+      - link "otherworldly:voices:linger:around:you" [ref=s1e958]:
+        - /url: /album/6t8QBWhy9m8zpLmaxXTrj6
+        - paragraph [ref=s1e959]: otherworldly:voices:linger:around:you
+      - time [ref=s1e965]: 2023 •
+      - text: Album
+      - button "what:did:u:say 2023 • Single" [ref=s1e968]
+      - img [ref=s1e972]
+      - button "Play what:did:u:say" [ref=s1e975]
+      - link "what:did:u:say" [ref=s1e979]:
+        - /url: /album/73sGyUWPU6H7isDxEHBphj
+        - paragraph [ref=s1e980]: what:did:u:say
+      - time [ref=s1e986]: 2023 •
+      - text: Single
+    - separator [ref=s1e989]
+    - navigation [ref=s1e991]:
+      - list [ref=s1e995]:
+        - paragraph [ref=s1e996]: Company
+        - link "Impressum / Transparenzinformation" [ref=s1e997]:
+          - /url: https://www.spotify.com/de/about-us/impressum/
+        - link "About" [ref=s1e999]:
+          - /url: https://www.spotify.com/de/about-us/contact/
+        - link "Jobs" [ref=s1e1001]:
+          - /url: https://www.lifeatspotify.com/
+        - link "For the Record" [ref=s1e1003]:
+          - /url: https://newsroom.spotify.com/
+      - list [ref=s1e1006]:
+        - paragraph [ref=s1e1007]: Communities
+        - link "For Artists" [ref=s1e1008]:
+          - /url: https://artists.spotify.com/
+        - link "Developers" [ref=s1e1010]:
+          - /url: https://developer.spotify.com/
+        - link "Advertising" [ref=s1e1012]:
+          - /url: https://ads.spotify.com/
+        - link "Investors" [ref=s1e1014]:
+          - /url: https://investors.spotify.com/
+        - link "Vendors" [ref=s1e1016]:
+          - /url: https://spotifyforvendors.com/
+      - list [ref=s1e1019]:
+        - paragraph [ref=s1e1020]: Useful links
+        - link "Support" [ref=s1e1021]:
+          - /url: https://support.spotify.com/
+        - link "Free Mobile App" [ref=s1e1023]:
+          - /url: https://www.spotify.com/de/download/
+        - link "Verträge hier kündigen" [ref=s1e1025]:
+          - /url: https://www.spotify.com/de/account/cancel/
+        - link "Popular by Country" [ref=s1e1027]:
+          - /url: /popular-in/de
+        - link "Import your music" [ref=s1e1029]:
+          - /url: https://www.spotify.com/de/import-music/
+      - list [ref=s1e1032]:
+        - paragraph [ref=s1e1033]: Spotify Plans
+        - link "Premium Individual" [ref=s1e1034]:
+          - /url: https://www.spotify.com/de/premium/#ref=spotifycom_footer_premium_individual
+        - link "Premium Duo" [ref=s1e1036]:
+          - /url: https://www.spotify.com/de/duo/#ref=spotifycom_footer_premium_duo
+        - link "Premium Family" [ref=s1e1038]:
+          - /url: https://www.spotify.com/de/family/#ref=spotifycom_footer_premium_family
+        - link "Premium Student" [ref=s1e1040]:
+          - /url: https://www.spotify.com/de/student/#ref=spotifycom_footer_premium_student
+        - link "Spotify Free" [ref=s1e1042]:
+          - /url: https://www.spotify.com/de/free/#ref=spotifycom_footer_premium_free
+      - link "Instagram" [ref=s1e1046]:
+        - /url: https://instagram.com/spotify
+      - link "Twitter" [ref=s1e1048]:
+        - /url: https://twitter.com/spotify
+      - link "Facebook" [ref=s1e1050]:
+        - /url: https://www.facebook.com/Spotify
+      - separator [ref=s1e1051]
+      - link "Legal" [ref=s1e1056]:
+        - /url: https://www.spotify.com/de/legal/
+      - link "Safety & Privacy Center" [ref=s1e1059]:
+        - /url: https://www.spotify.com/de/safetyandprivacy/
+      - link "Privacy Policy" [ref=s1e1062]:
+        - /url: https://www.spotify.com/de/legal/privacy-policy/
+      - button "Cookie Settings" [ref=s1e1065]
+      - link "About Ads" [ref=s1e1068]:
+        - /url: https://www.spotify.com/de/legal/privacy-policy/#s3
+      - link "Accessibility" [ref=s1e1071]:
+        - /url: https://www.spotify.com/de/accessibility/
+      - paragraph [ref=s1e1075]: © 2026 Spotify AB
+  - complementary "Now playing view" [ref=s1e1083]:
+    - button "Hide Now Playing view" [ref=s1e1087]
+    - link "Rasenschach" [ref=s1e1089]:
+      - /url: /album/0eyNmAznsO2cBF9hM17niE?uid=614a034332ca07058dd7&uri=spotify:track:7jFcvN0U0ZZIXgfyEDYkcj
+      - heading "Rasenschach" [level=1] [ref=s1e1093]
+    - button "More options for Rasenschach" [ref=s1e1096]
+    - button "Expand Now Playing view" [ref=s1e1097]
+    - 'link "Now playing: Rasenschach by Filow" [ref=s1e1109]':
+      - /url: /album/0eyNmAznsO2cBF9hM17niE?uid=614a034332ca07058dd7&uri=spotify%3Atrack%3A7jFcvN0U0ZZIXgfyEDYkcj
+    - link "Rasenschach" [ref=s1e1118]:
+      - /url: /album/0eyNmAznsO2cBF9hM17niE
+    - link "Filow" [ref=s1e1126]:
+      - /url: /artist/0BRUlYcw8Rr4MGHe8kRgTv
+    - button "Copy link to Song" [ref=s1e1127]
+    - button "Add to Liked Songs" [ref=s1e1129]
+    - heading "Credits" [level=2] [ref=s1e1132]
+    - button "Show all" [ref=s1e1134]
+    - group [ref=s1e1136]:
+      - button "Main Artist" [ref=s1e1137]
+      - link "Filow" [ref=s1e1140]:
+        - /url: /artist/0BRUlYcw8Rr4MGHe8kRgTv
+      - paragraph [ref=s1e1141]: Main Artist
+      - button "Follow" [ref=s1e1145]
+    - group [ref=s1e1146]:
+      - text: Felix Filow
+      - paragraph [ref=s1e1150]: Author
+    - heading "On tour" [level=2] [ref=s1e1155]
+    - button "Show all" [ref=s1e1157]
+    - link "Jun 19 SCHEESSEL Donots, Papa Roach, Pennywise, The Offspring, Billy Talent, Bosse, Alexisonfire, Modeselektor, Skindred, The Ataris, zebrahead, Sondaschule, Natasha Bedingfield, A Day To Remember, All Time Low, Boys Noize, Florence + The Machine, Empire Of The Sun, Kraftklub, Modestep, Basement, Twenty One Pilots, SSIO, Wolf Alice, Nothing But Thieves, SOFT PLAY, YUNGBLUD, The Beaches, grandson, BHZ, Ecca Vandal, Leony, OG Keemo, FiNCH, Roy Bianco & Die Abbrunzati Boys, YONAKA, The Butcher Sisters, Provinz, Drei Meter Feldweg, Betterov, Edwin Rosen, KAFFKIEZ, Esther Graf, Just Mustard, Davina Michelle, Militarie Gun, PA69, Destroy Boys, Ritter Lean, SPRINTS, rosmarin, Anda Morts, Tors, Delilah Bon, Royel Otis, Paula Engels, ROYA, unpeople, Kayla Shyx, Kingfishr, Filow, Vicky, PRESIDENT, Florence Road, Tinlicker Fri 12:00 PM•Eichenring Scheeßel" [ref=s1e1159]:
+      - /url: /concert/55nIEeBQ1QAeHUmwspdH3I
+      - time [ref=s1e1160]:
+        - paragraph [ref=s1e1161]: Jun
+        - paragraph [ref=s1e1162]: "19"
+      - heading "SCHEESSEL" [level=3] [ref=s1e1164]
+      - paragraph [ref=s1e1165]: Donots, Papa Roach, Pennywise, The Offspring, Billy Talent, Bosse, Alexisonfire, Modeselektor, Skindred, The Ataris, zebrahead, Sondaschule, Natasha Bedingfield, A Day To Remember, All Time Low, Boys Noize, Florence + The Machine, Empire Of The Sun, Kraftklub, Modestep, Basement, Twenty One Pilots, SSIO, Wolf Alice, Nothing But Thieves, SOFT PLAY, YUNGBLUD, The Beaches, grandson, BHZ, Ecca Vandal, Leony, OG Keemo, FiNCH, Roy Bianco & Die Abbrunzati Boys, YONAKA, The Butcher Sisters, Provinz, Drei Meter Feldweg, Betterov, Edwin Rosen, KAFFKIEZ, Esther Graf, Just Mustard, Davina Michelle, Militarie Gun, PA69, Destroy Boys, Ritter Lean, SPRINTS, rosmarin, Anda Morts, Tors, Delilah Bon, Royel Otis, Paula Engels, ROYA, unpeople, Kayla Shyx, Kingfishr, Filow, Vicky, PRESIDENT, Florence Road, Tinlicker
+      - time [ref=s1e1167]: Fri 12:00 PM•
+      - text: Eichenring Scheeßel
+    - heading "Merch" [ref=s1e1170]
+    - list [ref=s1e1172]:
+      - listitem [ref=s1e1173]:
+        - img "Tour 2026 - 24.11.2026 - Erlangen" [ref=s1e1175]
+        - link "Tour 2026 - 24.11.2026 - Erlangen" [ref=s1e1177]:
+          - /url: https://shop.spotify.com/en/artist/0BRUlYcw8Rr4MGHe8kRgTv/product/filow-tour-24-11-2026-erlangen?utm_source=spotify&utm_medium=app-nowplayingview&utm_term=00a46602bc1288309ff5773d1d457aee04890a5e72368104922f2e
+        - paragraph [ref=s1e1179]
+      - listitem [ref=s1e1178]:
+        - img "Tour 2026 - 06.12.2026 - Köln" [ref=s1e1180]:
+          - link "Tour 2026 - 06.12.2026 - Köln" [ref=s1e1182]:
+            - /url: https://shop.spotify.com/en/artist/0BRUlYcw8Rr4MGHe8kRgTv/product/filow-tour-06-12-2026-koln?utm_source=spotify&utm_medium=app-nowplayingview&utm_term=00a46602bc1288309ff5773d1d457aee04890a5e72368104922f2e
+        - paragraph [ref=s1e1184]
+      - listitem [ref=s1e1179]:
+        - img "Tour 2026 - 26.11.2026 - Frankfurt" [ref=s1e1186]:
+          - link "Tour 2026 - 26.11.2026 - Frankfurt" [ref=s1e1188]:
+            - /url: https://shop.spotify.com/en/artist/0BRUlYcw8Rr4MGHe8kRgTv/product/filow-tour-26-11-2026-frankfurt?utm_source=spotify&utm_medium=app-nowplayingview&utm_term=00a46602bc1288309ff5773d1d457aee04890a5e72368104922f2e
+        - paragraph [ref=s1e1190]
+    - heading "Next in queue" [ref=s1e1193]
+    - button "Open queue" [ref=s1e1195]
+    - list [ref=s1e1196]:
+      - row "Anders" [expanded] [level=1] [ref=s1e1197]:
+        - group "Anders" [ref=s1e1198]:
+          - button "Anders 01099, Paul, Ski Aggu" [ref=s1e1199]
+          - button "Play Anders by 01099, Paul, Ski Aggu" [ref=s1e1206]
+          - paragraph [ref=s1e1209]: Anders
+          - paragraph [ref=s1e1211]:
+            - link "01099" [ref=s1e1214]:
+              - /url: /artist/3Z3aTg9PwJ37e8xeO0aUC9
+            - text: ","
+            - link "Paul" [ref=s1e1215]:
+              - /url: /artist/2SRd7Kx7xWkZjoaFKgEreg
+            - text: ","
+            - link "Ski Aggu" [ref=s1e1216]:
+              - /url: /artist/6CP5wWvO8oIxedESJNCN4H
+          - button "More options for Anders" [ref=s1e1219]
+  - text: Resize main navigation
+  - slider "Resize main navigation" [ref=s1e1222]: "420"
+  - status [ref=s1e1232]: "Now playing: Rasenschach by Filow"
+```
+
+## Key Information Extracted:
+- **Artist Name**: ALeiz
+- **Monthly Listeners**: 1,560
+- **Top Tracks**: 
+  1. keiner von uns left behind ::<>>+ - 66,702 plays
+  2. buntetränen - 93,355 plays
+  3. mind communication "" ! + # --/// :: - 95,699 plays
+  4. lieber sterbe ich so als das nicht mehr zu fühlen //_ ==//- (Explicit) - 28,334 plays
+  5. Alles (feat. Artisblind) - 12,087 plays
+- **Latest Release**: what:did:u:say - Single
+- **Artist pick**: Posted By ALeiz - otherworldly:voices:linger:around:you album promotion
+- **Collaborations**: Artisblind
+- **Related Artists**: Artisblind, Laer Xirtam, Krijo Stalka, ArniTheSavage, Goitzsche Front, Nimo, Acaz, Herzog, Bushido, Hanybal, Olexesh
+- **Albums**: otherworldly:voices:linger:around:you (2023)
+- **EPs**: Bonjour Tristesse (2019)
+- **Singles**: what:did:u:say (2023)
+
+## Navigation Elements:
+- Library with multiple artists already loaded
+- Multiple related artists visible
+- Now playing: Rasenschach by Filow
+- Full discography and popular tracks section
+- Artist profile with image and follow button
+- Radio playlist available
+- Appears on section with collaborations
+
+## Status: ✅ Complete screenshot captured and saved

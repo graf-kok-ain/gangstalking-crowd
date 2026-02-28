@@ -4,6 +4,8 @@
 - **Spotify ID**: 4wm2BouoqXSVGttUsqzeZC
 - **Spotify Link**: https://open.spotify.com/artist/4wm2BouoqXSVGttUsqzeZC
 - **Original Spotify-Link**: https://open.spotify.com/artist/4wm2BouoqXSVGttUsqzeZC?si=f6523f81492b4cdc
+- **Collection Timestamp**: 26.02.2026 02:30 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 21:30 (Page Loading Issues Confirmed via MCP Browser)
 - **Monthly Listeners**: 23 (captured: 26.02.2026 02:30)
 - **Followers**: Not available
 - **Genre**: Hip-Hop/Rap

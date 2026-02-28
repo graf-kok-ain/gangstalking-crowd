@@ -5,6 +5,7 @@
 - **Spotify ID**: 2OyB3aZA4sxx4LPNEb0546
 - **Spotify URL**: https://open.spotify.com/artist/2OyB3aZA4sxx4LPNEb0546
 - **Collection Timestamp**: 28.02.2026 02:35 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 19:25 (Page Loading Issues Confirmed via MCP Browser)
 - **Monthly Listeners**: 135 (Live data capture - UPDATED from 126)
 
 ## Biography & Background

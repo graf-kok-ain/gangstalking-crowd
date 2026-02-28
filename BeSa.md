@@ -4,6 +4,8 @@
 - **Spotify ID**: 0d3SQ928t9vmG0EYudMmsu
 - **Spotify Link**: https://open.spotify.com/artist/0d3SQ928t9vmG0EYudMmsu
 - **Original Spotify-Link**: https://open.spotify.com/artist/0d3SQ928t9vmG0EYudMmsu?si=f6523f81492b4cdc
+- **Collection Timestamp**: 26.02.2026 05:59 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 19:55 (Page Loading Issues Confirmed via MCP Browser)
 - **Monthly Listeners**: Not available (page loading issues)
 - **Followers**: Not available
 - **Genre**: Not specified (likely German music based on context)

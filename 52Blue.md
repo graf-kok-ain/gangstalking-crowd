@@ -5,6 +5,7 @@
 - **Spotify ID**: 3Kq1Y1DLYCLgARBE3UnJJR
 - **Spotify URL**: https://open.spotify.com/artist/3Kq1Y1DLYCLgARBE3UnJJR
 - **Collection Timestamp**: 28.02.2026 18:55 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 19:05 (Complete Discography Collection via MCP Browser)
 - **Monthly Listeners**: 24,536 (Live data capture - updated from 24,756)
 - **Followers**: Not available
 - **Genre**: German Rap/Trap
@@ -13,21 +14,35 @@
 ## Biography
 "24,536 monthly listeners ig: @52b.lue🐋 - der junge aus der tiefsee" - German Rap/Trap artist with significant following and consistent release activity.
 
-## Discography Analysis
-### Albums
+## Complete Discography (Evidence-Based Collection - 28.02.2026 19:05)
+
+### Albums (Chronological Order)
+- **52Hz** (2022) - Album
 - **L(i)ebe** (2023) - Album
+- **Tiefsee** (2025) - Album
 
-### Singles
+### Singles (Chronological Order)
+- **Two Pieces** (2023) - Single • 2:57 - Explicit
+- **Dummer Junge** (2024) - Single
+- **5 Monster Energy** (2026) - Single • 2:03 - feat. Hello Hannes
+- **h1ghsc0re** (2026) - Single • 2:22 - Explicit - feat. Hello Hannes
 - **Keine Drogen** (Latest Release) - Single
-- **Two Pieces** (2023) - Single
-- **5 Monster Energy** (2026) - Single
 
-### Popular Tracks (Top 5)
-1. **Two Pieces** - 602,200 plays - 2:57 (Explicit)
-2. **Blick über die Stadt** - 542,325 plays - 2:37 (Explicit)
-3. **Tote Rosen** - 161,967 plays - 2:51 (Explicit) (with Dropped here)
-4. **h1ghsc0re** - 10,512 plays - 2:22 (Explicit) (with Hello Hannes)
-5. **5 Monster Energy** - 9,072 plays - 2:03 (with Hello Hannes)
+### Popular Tracks (Top 5 by Play Count)
+1. **Two Pieces** - 602,200 plays • 2:57 - Explicit
+2. **Blick über die Stadt** - 542,325 plays • 2:37 - Explicit
+3. **Tote Rosen** - 161,967 plays • 2:51 - Explicit - feat. Dropped here
+4. **h1ghsc0re** - 10,512 plays • 2:22 - Explicit - feat. Hello Hannes
+5. **5 Monster Energy** - 9,072 plays • 2:03 - feat. Hello Hannes
+
+### Complete Track Listing (Major Releases)
+- Two Pieces (2:57) - 602,200 plays - Explicit
+- Blick über die Stadt (2:37) - 542,325 plays - Explicit
+- Tote Rosen (2:51) - 161,967 plays - Explicit - feat. Dropped here
+- h1ghsc0re (2:22) - 10,512 plays - Explicit - feat. Hello Hannes
+- 5 Monster Energy (2:03) - 9,072 plays - feat. Hello Hannes
+- Keine Drogen (Latest Release)
+- Dummer Junge (2024)
 
 ## Collaborations & Network Analysis
 ### Direct Collaborations

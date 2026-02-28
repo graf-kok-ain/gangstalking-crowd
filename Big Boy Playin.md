@@ -4,6 +4,8 @@
 - **Spotify ID**: 3fFAk1F9XN54HUX9zGd72W
 - **Spotify Link**: https://open.spotify.com/artist/3fFAk1F9XN54HUX9zGd72W
 - **Original Spotify-Link**: https://open.spotify.com/artist/3fFAk1F9XN54HUX9zGd72W?si=f6523f81492b4cdc
+- **Collection Timestamp**: 26.02.2026 02:40 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 20:15 (Page Loading Issues Confirmed via MCP Browser)
 - **Monthly Listeners**: 5 (captured: 26.02.2026 02:40)
 - **Followers**: Not available
 - **Genre**: Rap/Trap

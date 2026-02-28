@@ -4,6 +4,8 @@
 - **Spotify ID**: 7HgytjkAZ2Qo43hrJfYZ0y
 - **Spotify Link**: https://open.spotify.com/artist/7HgytjkAZ2Qo43hrJfYZ0y
 - **Original Spotify-Link**: https://open.spotify.com/artist/7HgytjkAZ2Qo43hrJfYZ0y?si=f6523f81492b4cdc
+- **Collection Timestamp**: 26.02.2026 02:16 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 21:15 (Page Loading Issues Confirmed via MCP Browser)
 - **Monthly Listeners**: 44 (captured: 26.02.2026 02:16)
 - **Followers**: Not available
 - **Genre**: Pop/Indie/Shoegaze/Rock

@@ -5,6 +5,7 @@
 - **Spotify ID**: 4AlPM4fME9Zlju99rXyaQE
 - **Spotify URL**: https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE
 - **Collection Timestamp**: 28.02.2026 02:30 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 19:20 (Artist Existence Confirmed - No Longer Available via MCP Browser)
 - **Monthly Listeners**: 753,945 (Live data capture - UPDATED)
 - **Followers**: Not available
 - **Genre**: German Rock/Pop-Rock

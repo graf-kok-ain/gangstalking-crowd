@@ -5,6 +5,7 @@
 - **Spotify ID**: 1aoaq3TFnfSlKCBSsE0OqW
 - **Spotify URL**: https://open.spotify.com/artist/1aoaq3TFnfSlKCBSsE0OqW
 - **Collection Timestamp**: 28.02.2026 19:00 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 19:10 (Complete Discography Verification via MCP Browser)
 - **Monthly Listeners**: 4,325 (Live data capture - confirmed)
 - **Followers**: Not available
 - **Genre**: German Rap/Hyperpop

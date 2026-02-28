@@ -4,6 +4,8 @@
 - **Spotify ID**: 4GesfwNcRZ8bCDyHdGcbsD
 - **Spotify Link**: https://open.spotify.com/artist/4GesfwNcRZ8bCDyHdGcbsD
 - **Original Spotify-Link**: https://open.spotify.com/artist/4GesfwNcRZ8bCDyHdGcbsD?si=f6523f81492b4cdc
+- **Collection Timestamp**: 26.02.2026 02:12 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 20:20 (Page Loading Issues Confirmed via MCP Browser)
 - **Monthly Listeners**: 4 (captured: 26.02.2026 02:12)
 - **Followers**: Not available
 - **Genre**: Rap/Trap

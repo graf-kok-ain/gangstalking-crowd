@@ -1,0 +1,439 @@
+# AP$ENT - Spotify Screenshot
+## Timestamp: 28.02.2026 22:35
+## URL: https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT
+## Page Title: AP$ENT | Spotify
+
+## Complete Page Content:
+```yaml
+- document [ref=s1e2]:
+  - document [ref=s1e6]
+  - link "Skip to main content" [ref=s1e16]:
+    - /url: "#main-view"
+  - link "Spotify" [ref=s1e19]:
+    - /url: /
+    - img "Spotify" [ref=s1e20]
+  - button "Home" [ref=s1e24]
+  - search [ref=s1e26]:
+    - button "Search" [ref=s1e28]
+    - combobox "What do you want to play?" [ref=s1e30]
+    - button "Browse" [ref=s1e34]
+  - button "Upgrade to Premium" [ref=s1e37]: Explore Premium
+  - link "Install App" [ref=s1e39]:
+    - /url: /download
+  - button "What's New" [ref=s1e42]
+  - button "Friend Activity" [ref=s1e43]
+  - button "Toni Be" [ref=s1e44]:
+    - figure "Toni Be" [ref=s1e45]:
+      - img "Toni Be" [ref=s1e47]
+  - navigation "Main" [ref=s1e49]:
+    - button "Open Your Library" [ref=s1e57]:
+      - heading "Your Library" [level=1] [ref=s1e61]
+    - button "Create" [ref=s1e63]
+    - grid "Your Library" [ref=s1e69]:
+      - row [ref=s1e73]
+      - row [ref=s1e78]
+  - text: Resize main navigation
+  - slider "Resize main navigation" [ref=s1e82]: "72"
+  - complementary "Now playing bar" [ref=s1e84]:
+    - 'region "Now playing: Rasenschach by Filow" [ref=s1e87]':
+      - button "Now playing view" [ref=s1e90]
+      - link "Rasenschach" [ref=s1e99]:
+        - /url: /album/0eyNmAznsO2cBF9hM17niE
+      - link "Filow" [ref=s1e107]:
+        - /url: /artist/0BRUlYcw8Rr4MGHe8kRgTv
+      - button "Add to Liked Songs" [ref=s1e109]
+    - button "Enable Shuffle for Rasenschach" [ref=s1e114]
+    - button "Previous" [ref=s1e115]
+    - button "Play" [ref=s1e116]
+    - button "Next" [ref=s1e119]
+    - checkbox "Enable repeat" [ref=s1e120]
+    - text: 0:02 Change progress
+    - slider "Change progress" [ref=s1e126]: "5000"
+    - text: 2:24
+    - button "Lyrics" [ref=s1e136]
+    - button "Queue" [ref=s1e138]
+    - button "Connect to a device" [ref=s1e140]
+    - button "Mute" [ref=s1e142]
+    - text: Change volume
+    - slider "Change volume" [ref=s1e146]: "1"
+    - button "Open Miniplayer" [ref=s1e153]
+    - button "Enter Full screen" [ref=s1e154]
+  - banner "Top bar and user menu" [ref=s1e156]
+  - main "AP$ENT | Spotify" [ref=s1e169]:
+    - text: AP$ENT 396,511 monthly listeners
+    - button "Play" [ref=s1e187]
+    - button "Explore AP$ENT" [ref=s1e189]:
+      - img [ref=s1e191]
+    - button "Enable Shuffle for AP$ENT" [ref=s1e193]
+    - button "Follow" [ref=s1e194]
+    - button "More options for AP$ENT" [ref=s1e195]
+    - heading "Popular" [level=2] [ref=s1e200]
+    - grid "popular tracks" [ref=s1e202]:
+      - row "1 Play Можно я с тобой by AP$ENT Можно я с тобой 34,261,215 Add to Liked Songs 2:12 More options for Можно я с тобой by AP$ENT" [ref=s1e212]:
+        - gridcell "1 Play Можно я с тобой by AP$ENT" [ref=s1e214]:
+          - text: "1"
+          - button "Play Можно я с тобой by AP$ENT" [ref=s1e217]
+        - gridcell "Можно я с тобой" [ref=s1e218]:
+          - img [ref=s1e219]
+          - link "Можно я с тобой" [ref=s1e221]:
+            - /url: /track/0MRBhe9wjupFpmdKGh3Xhp
+        - gridcell "34,261,215" [ref=s1e223]
+        - gridcell "Add to Liked Songs 2:12 More options for Можно я с тобой by AP$ENT" [ref=s1e225]:
+          - button "Add to Liked Songs" [ref=s1e226]
+          - text: 2:12
+          - button "More options for Можно я с тобой by AP$ENT" [ref=s1e228]
+      - row "2 Play Super Star by AP$ENT Super Star Explicit 4,402,668 Add to Liked Songs 2:33 More options for Super Star by AP$ENT" [ref=s1e229]:
+        - gridcell "2 Play Super Star by AP$ENT" [ref=s1e231]:
+          - text: "2"
+          - button "Play Super Star by AP$ENT" [ref=s1e234]
+        - gridcell "Super Star Explicit" [ref=s1e235]:
+          - img [ref=s1e236]
+          - link "Super Star" [ref=s1e238]:
+            - /url: /track/0N5vSLXnaxupkR1ADkIhXX
+          - text: E
+        - gridcell "4,402,668" [ref=s1e243]
+        - gridcell "Add to Liked Songs 2:33 More options for Super Star by AP$ENT" [ref=s1e245]:
+          - button "Add to Liked Songs" [ref=s1e246]
+          - text: 2:33
+          - button "More options for Super Star by AP$ENT" [ref=s1e248]
+      - row "3 Play Можно я с тобой - Sped Up by AP$ENT Можно я с тобой - Sped Up 1,102,954 Add to Liked Songs 1:53 More options for Можно я с тобой - Sped Up by AP$ENT" [ref=s1e249]:
+        - gridcell "3 Play Можно я с тобой - Sped Up by AP$ENT" [ref=s1e251]:
+          - text: "3"
+          - button "Play Можно я с тобой - Sped Up by AP$ENT" [ref=s1e254]
+        - gridcell "Можно я с тобой - Sped Up" [ref=s1e255]:
+          - img [ref=s1e256]
+          - link "Можно я с тобой - Sped Up" [ref=s1e258]:
+            - /url: /track/1HznaFJIJ6vunYEAb6p8Z3
+        - gridcell "1,102,954" [ref=s1e260]
+        - gridcell "Add to Liked Songs 1:53 More options for Можно я с тобой - Sped Up by AP$ENT" [ref=s1e262]:
+          - button "Add to Liked Songs" [ref=s1e263]
+          - text: 1:53
+          - button "More options for Можно я с тобой - Sped Up by AP$ENT" [ref=s1e265]
+      - row "4 Play Сумны by AP$ENT Сумны 157,278 Add to Liked Songs 2:54 More options for Сумны by AP$ENT" [ref=s1e266]:
+        - gridcell "4 Play Сумны by AP$ENT" [ref=s1e268]:
+          - text: "4"
+          - button "Play Сумны by AP$ENT" [ref=s1e271]
+        - gridcell "Сумны" [ref=s1e272]:
+          - img [ref=s1e273]
+          - link "Сумны" [ref=s1e275]:
+            - /url: /track/4QkqdAZD26nQ7IL2Jx9cqo
+        - gridcell "157,278" [ref=s1e277]
+        - gridcell "Add to Liked Songs 2:54 More options for Сумны by AP$ENT" [ref=s1e279]:
+          - button "Add to Liked Songs" [ref=s1e280]
+          - text: 2:54
+          - button "More options for Сумны by AP$ENT" [ref=s1e282]
+      - row "5 Play Ну что ты такой серьёзный by AP$ENT Ну что ты такой серьёзный 1,844,235 Add to Liked Songs 2:25 More options for Ну что ты такой серьёзный by AP$ENT" [ref=s1e283]:
+        - gridcell "5 Play Ну что ты такой серьёзный by AP$ENT" [ref=s1e285]:
+          - text: "5"
+          - button "Play Ну что ты такой серьёзный by AP$ENT" [ref=s1e288]
+        - gridcell "Ну что ты такой серьёзный" [ref=s1e289]:
+          - img [ref=s1e290]
+          - link "Ну что ты такой серьёзный" [ref=s1e292]:
+            - /url: /track/3RwopUQRgNq2e7BaLcz101
+        - gridcell "1,844,235" [ref=s1e294]
+        - gridcell "Add to Liked Songs 2:25 More options for Ну что ты такой серьёзный by AP$ENT" [ref=s1e296]:
+          - button "Add to Liked Songs" [ref=s1e297]
+          - text: 2:25
+          - button "More options for Ну что ты такой серьёзный by AP$ENT" [ref=s1e299]
+    - button "See more" [ref=s1e307]
+    - region "Discography" [ref=s1e309]:
+      - group [ref=s1e311]:
+        - heading "Discography" [level=2] [ref=s1e314]:
+          - link "Discography" [ref=s1e316]:
+            - /url: /artist/6oiinpr7kwRmyWKVDTZgRT/discography/all
+        - link "Show all" [ref=s1e318]:
+          - /url: /artist/6oiinpr7kwRmyWKVDTZgRT/discography/all
+      - checkbox "Popular releases" [checked] [ref=s1e322]
+      - checkbox "Albums" [ref=s1e324]
+      - checkbox "Singles and EPs" [ref=s1e326]
+      - button "Комментарий Latest Release • Single" [ref=s1e330]
+      - img [ref=s1e334]
+      - button "Play Комментарий" [ref=s1e337]
+      - link "Комментарий" [ref=s1e341]:
+        - /url: /album/4ohgeGlfUfOWzdJOS5WYIR
+        - paragraph [ref=s1e342]: Комментарий
+      - time [ref=s1e348]: Latest Release •
+      - text: Single
+      - button "Можно я с тобой 2022 • Single" [ref=s1e351]
+      - img [ref=s1e355]
+      - button "Play Можно я с тобой" [ref=s1e358]
+      - link "Можно я с тобой" [ref=s1e362]:
+        - /url: /album/1P6jao46qEoaobNco6B0yl
+        - paragraph [ref=s1e363]: Можно я с тобой
+      - time [ref=s1e369]: 2022 •
+      - text: Single
+      - button "Super Star 2021 • Single" [ref=s1e372]
+      - img [ref=s1e376]
+      - button "Play Super Star" [ref=s1e379]
+      - link "Super Star" [ref=s1e383]:
+        - /url: /album/0HZVkywVjB6DZJAWBIs37Z
+        - paragraph [ref=s1e384]: Super Star
+      - time [ref=s1e390]: 2021 •
+      - text: Single
+      - button "Можно я с тобой 2024 • Single" [ref=s1e393]
+      - img [ref=s1e397]
+      - button "Play Можно я с тобой" [ref=s1e400]
+      - link "Можно я с тобой" [ref=s1e404]:
+        - /url: /album/69Tj7oFXmZaYrja5o672mg
+        - paragraph [ref=s1e405]: Можно я с тобой
+      - time [ref=s1e411]: 2024 •
+      - text: Single
+      - button "Сумны 2024 • Single" [ref=s1e414]
+      - img [ref=s1e418]
+      - button "Play Сумны" [ref=s1e421]
+      - link "Сумны" [ref=s1e425]:
+        - /url: /album/5uYUR1gCk5p4Rry9lzEB4J
+        - paragraph [ref=s1e426]: Сумны
+      - time [ref=s1e432]: 2024 •
+      - text: Single
+      - button "Ну что ты такой серьёзный 2021 • Single" [ref=s1e435]
+      - img [ref=s1e439]
+      - button "Play Ну что ты такой серьёзный" [ref=s1e442]
+      - link "Ну что ты такой серьёзный" [ref=s1e446]:
+        - /url: /album/2dROZn21ZjtJXCXJNB8JjN
+        - paragraph [ref=s1e447]: Ну что ты такой серьёзный
+      - time [ref=s1e453]: 2021 •
+      - text: Single
+      - button "Погода 2020 • Single" [ref=s1e456]
+      - img [ref=s1e460]
+      - button "Play Погода" [ref=s1e463]
+      - link "Погода" [ref=s1e467]:
+        - /url: /album/3qJUa9qo1Y4m8f5ndY19qZ
+        - paragraph [ref=s1e468]: Погода
+      - time [ref=s1e474]: 2020 •
+      - text: Single
+    - region "Featuring AP$ENT" [ref=s1e476]:
+      - group [ref=s1e478]:
+        - heading "Featuring AP$ENT" [level=2] [ref=s1e481]:
+          - link "Featuring AP$ENT" [ref=s1e483]:
+            - /url: /artist/6oiinpr7kwRmyWKVDTZgRT/featuring
+      - button "AP$ENT Radio By Spotify" [ref=s1e486]
+      - img [ref=s1e490]
+      - button "Play AP$ENT Radio" [ref=s1e493]
+      - link "AP$ENT Radio" [ref=s1e497]:
+        - /url: /playlist/37i9dQZF1E4rMFKEWeVNY7
+        - paragraph [ref=s1e498]: AP$ENT Radio
+      - text: By Spotify
+    - heading "About" [ref=s1e508]
+    - button "AP$ENT" [ref=s1e510]:
+      - figure "AP$ENT" [ref=s1e512]:
+        - img "AP$ENT" [ref=s1e514]
+      - text: 396,511 monthly listeners
+    - region "Similar artists" [ref=s1e520]:
+      - group [ref=s1e522]:
+        - heading "Similar artists" [level=2] [ref=s1e525]:
+          - link "Similar artists" [ref=s1e527]:
+            - /url: /artist/6oiinpr7kwRmyWKVDTZgRT/similar-artists
+        - link "Show all" [ref=s1e529]:
+          - /url: /artist/6oiinpr7kwRmyWKVDTZgRT/similar-artists
+      - button "MORGENSHTERN Artist" [ref=s1e532]
+      - img [ref=s1e536]
+      - button "Play MORGENSHTERN" [ref=s1e539]
+      - link "MORGENSHTERN" [ref=s1e543]:
+        - /url: /artist/3pjq2pDV9RR6VY55wBjVnp
+        - paragraph [ref=s1e544]: MORGENSHTERN
+      - text: Artist
+      - button "GONE.Fludd Artist" [ref=s1e552]
+      - img [ref=s1e556]
+      - button "Play GONE.Fludd" [ref=s1e559]
+      - link "GONE.Fludd" [ref=s1e563]:
+        - /url: /artist/5uXtYUItw0wL0dwC3leDOX
+        - paragraph [ref=s1e564]: GONE.Fludd
+      - text: Artist
+      - button "Masha i Medvedi Artist" [ref=s1e572]
+      - img [ref=s1e576]
+      - button "Play Masha i Medvedi" [ref=s1e579]
+      - link "Masha i Medvedi" [ref=s1e583]:
+        - /url: /artist/6ejM7SMxg6q4j9zr82OHCl
+        - paragraph [ref=s1e584]: Masha i Medvedi
+      - text: Artist
+      - button "Элли на маковом поле Artist" [ref=s1e592]
+      - img [ref=s1e596]
+      - button "Play Элли на маковом поле" [ref=s1e599]
+      - link "Элли на маковом поле" [ref=s1e603]:
+        - /url: /artist/6mlRoShVf1DHo0SsntzTkr
+        - paragraph [ref=s1e604]: Элли на маковом поле
+      - text: Artist
+    - region "Appears On" [ref=s1e612]:
+      - group [ref=s1e614]:
+        - heading "Appears On" [level=2] [ref=s1e617]:
+          - link "Appears On" [ref=s1e619]:
+            - /url: /artist/6oiinpr7kwRmyWKVDTZgRT/appears-on
+      - button "С нуля (Vol.1) 2024 • Compilation" [ref=s1e622]
+      - img [ref=s1e626]
+      - button "Play С нуля (Vol.1)" [ref=s1e629]
+      - link "С нуля (Vol.1)" [ref=s1e633]:
+        - /url: /album/0bB4gbnQLgmoA1HGYuPNg5
+        - paragraph [ref=s1e634]: С нуля (Vol.1)
+      - time [ref=s1e640]: 2024 •
+      - text: Compilation
+    - separator [ref=s1e643]
+    - navigation [ref=s1e645]:
+      - list [ref=s1e649]:
+        - paragraph [ref=s1e650]: Company
+        - link "Impressum / Transparenzinformation" [ref=s1e651]:
+          - /url: https://www.spotify.com/de/about-us/impressum/
+        - link "About" [ref=s1e653]:
+          - /url: https://www.spotify.com/de/about-us/contact/
+        - link "Jobs" [ref=s1e655]:
+          - /url: https://www.lifeatspotify.com/
+        - link "For the Record" [ref=s1e657]:
+          - /url: https://newsroom.spotify.com/
+      - list [ref=s1e660]:
+        - paragraph [ref=s1e661]: Communities
+        - link "For Artists" [ref=s1e662]:
+          - /url: https://artists.spotify.com/
+        - link "Developers" [ref=s1e664]:
+          - /url: https://developer.spotify.com/
+        - link "Advertising" [ref=s1e666]:
+          - /url: https://ads.spotify.com/
+        - link "Investors" [ref=s1e668]:
+          - /url: https://investors.spotify.com/
+        - link "Vendors" [ref=s1e670]:
+          - /url: https://spotifyforvendors.com/
+      - list [ref=s1e673]:
+        - paragraph [ref=s1e674]: Useful links
+        - link "Support" [ref=s1e675]:
+          - /url: https://support.spotify.com/
+        - link "Free Mobile App" [ref=s1e677]:
+          - /url: https://www.spotify.com/de/download/
+        - link "Verträge hier kündigen" [ref=s1e679]:
+          - /url: https://www.spotify.com/de/account/cancel/
+        - link "Popular by Country" [ref=s1e681]:
+          - /url: /popular-in/de
+        - link "Import your music" [ref=s1e683]:
+          - /url: https://www.spotify.com/de/import-music/
+      - list [ref=s1e686]:
+        - paragraph [ref=s1e687]: Spotify Plans
+        - link "Premium Individual" [ref=s1e688]:
+          - /url: https://www.spotify.com/de/premium/#ref=spotifycom_footer_premium_individual
+        - link "Premium Duo" [ref=s1e690]:
+          - /url: https://www.spotify.com/de/duo/#ref=spotifycom_footer_premium_duo
+        - link "Premium Family" [ref=s1e692]:
+          - /url: https://www.spotify.com/de/family/#ref=spotifycom_footer_premium_family
+        - link "Premium Student" [ref=s1e694]:
+          - /url: https://www.spotify.com/de/student/#ref=spotifycom_footer_premium_student
+        - link "Spotify Free" [ref=s1e696]:
+          - /url: https://www.spotify.com/de/free/#ref=spotifycom_footer_premium_free
+      - link "Instagram" [ref=s1e698]:
+        - /url: https://instagram.com/spotify
+      - link "Twitter" [ref=s1e700]:
+        - /url: https://twitter.com/spotify
+      - link "Facebook" [ref=s1e702]:
+        - /url: https://www.facebook.com/Spotify
+      - separator [ref=s1e703]
+      - link "Legal" [ref=s1e708]:
+        - /url: https://www.spotify.com/de/legal/
+      - link "Safety & Privacy Center" [ref=s1e711]:
+        - /url: https://www.spotify.com/de/safetyandprivacy/
+      - link "Privacy Policy" [ref=s1e714]:
+        - /url: https://www.spotify.com/de/legal/privacy-policy/
+      - button "Cookie Settings" [ref=s1e717]
+      - link "About Ads" [ref=s1e720]:
+        - /url: https://www.spotify.com/de/legal/privacy-policy/#s3
+      - link "Accessibility" [ref=s1e723]:
+        - /url: https://www.spotify.com/de/accessibility/
+      - paragraph [ref=s1e727]: © 2026 Spotify AB
+  - complementary "Now playing view" [ref=s1e735]:
+    - button "Hide Now Playing view" [ref=s1e739]
+    - link "Rasenschach" [ref=s1e741]:
+      - /url: /album/0eyNmAznsO2cBF9hM17niE?uid=614a034332ca07058dd7&uri=spotify:track:7jFcvN0U0ZZIXgfyEDYkcj
+      - heading "Rasenschach" [level=1] [ref=s1e745]
+    - button "More options for Rasenschach" [ref=s1e748]
+    - button "Expand Now Playing view" [ref=s1e749]
+    - 'link "Now playing: Rasenschach by Filow" [ref=s1e761]':
+      - /url: /album/0eyNmAznsO2cBF9hM17niE?uid=614a034332ca07058dd7&uri=spotify%3Atrack%3A7jFcvN0U0ZZIXgfyEDYkcj
+    - link "Rasenschach" [ref=s1e770]:
+      - /url: /album/0eyNmAznsO2cBF9hM17niE
+    - link "Filow" [ref=s1e778]:
+      - /url: /artist/0BRUlYcw8Rr4MGHe8kRgTv
+    - button "Copy link to Song" [ref=s1e779]
+    - button "Add to Liked Songs" [ref=s1e781]
+    - heading "Credits" [level=2] [ref=s1e784]
+    - button "Show all" [ref=s1e786]
+    - group [ref=s1e788]:
+      - button "Main Artist" [ref=s1e789]
+      - link "Filow" [ref=s1e792]:
+        - /url: /artist/0BRUlYcw8Rr4MGHe8kRgTv
+      - paragraph [ref=s1e793]: Main Artist
+      - button "Follow" [ref=s1e797]
+    - group [ref=s1e798]:
+      - text: Felix Filow
+      - paragraph [ref=s1e802]: Author
+    - heading "On tour" [level=2] [ref=s1e807]
+    - button "Show all" [ref=s1e809]
+    - link "Jun 19 SCHEESSEL Donots, Papa Roach, Pennywise, The Offspring, Billy Talent, Bosse, Alexisonfire, Modeselektor, Skindred, The Ataris, zebrahead, Sondaschule, Natasha Bedingfield, A Day To Remember, All Time Low, Boys Noize, Florence + The Machine, Empire Of The Sun, Kraftklub, Modestep, Basement, Twenty One Pilots, SSIO, Wolf Alice, Nothing But Thieves, SOFT PLAY, YUNGBLUD, The Beaches, grandson, BHZ, Ecca Vandal, Leony, OG Keemo, FiNCH, Roy Bianco & Die Abbrunzati Boys, YONAKA, The Butcher Sisters, Provinz, Drei Meter Feldweg, Betterov, Edwin Rosen, KAFFKIEZ, Esther Graf, Just Mustard, Davina Michelle, Militarie Gun, PA69, Destroy Boys, Ritter Lean, SPRINTS, rosmarin, Anda Morts, Tors, Delilah Bon, Royel Otis, Paula Engels, ROYA, unpeople, Kayla Shyx, Kingfishr, Filow, Vicky, PRESIDENT, Florence Road, Tinlicker Fri 12:00 PM•Eichenring Scheeßel" [ref=s1e811]:
+      - /url: /concert/55nIEeBQ1QAeHUmwspdH3I
+      - time [ref=s1e812]:
+        - paragraph [ref=s1e813]: Jun
+        - paragraph [ref=s1e814]: "19"
+      - heading "SCHEESSEL" [level=3] [ref=s1e816]
+      - paragraph [ref=s1e817]: Donots, Papa Roach, Pennywise, The Offspring, Billy Talent, Bosse, Alexisonfire, Modeselektor, Skindred, The Ataris, zebrahead, Sondaschule, Natasha Bedingfield, A Day To Remember, All Time Low, Boys Noize, Florence + The Machine, Empire Of The Sun, Kraftklub, Modestep, Basement, Twenty One Pilots, SSIO, Wolf Alice, Nothing But Thieves, SOFT PLAY, YUNGBLUD, The Beaches, grandson, BHZ, Ecca Vandal, Leony, OG Keemo, FiNCH, Roy Bianco & Die Abbrunzati Boys, YONAKA, The Butcher Sisters, Provinz, Drei Meter Feldweg, Betterov, Edwin Rosen, KAFFKIEZ, Esther Graf, Just Mustard, Davina Michelle, Militarie Gun, PA69, Destroy Boys, Ritter Lean, SPRINTS, rosmarin, Anda Morts, Tors, Delilah Bon, Royel Otis, Paula Engels, ROYA, unpeople, Kayla Shyx, Kingfishr, Filow, Vicky, PRESIDENT, Florence Road, Tinlicker
+      - time [ref=s1e819]: Fri 12:00 PM•
+      - text: Eichenring Scheeßel
+    - heading "Merch" [level=2] [ref=s1e822]
+    - list [ref=s1e824]:
+      - listitem [ref=s1e825]:
+        - img "Tour 2026 - 24.11.2026 - Erlangen" [ref=s1e827]
+        - link "Tour 2026 - 24.11.2026 - Erlangen" [ref=s1e829]:
+          - /url: https://shop.spotify.com/en/artist/0BRUlYcw8Rr4MGHe8kRgTv/product/filow-tour-24-11-2026-erlangen?utm_source=spotify&utm_medium=app-nowplayingview&utm_term=00a46602bc1288309ff5773d1d457aee04890a5e72368104922f2e
+        - paragraph [ref=s1e831]
+      - listitem [ref=s1e832]:
+        - img "Tour 2026 - 06.12.2026 - Köln" [ref=s1e834]:
+        - link "Tour 2026 - 06.12.2026 - Köln" [ref=s1e836]:
+          - /url: https://shop.spotify.com/en/artist/0BRUlYcw8Rr4MGHe8kRgTv/product/filow-tour-06-12-2026-koln?utm_source=spotify&utm_medium=app-nowplayingview&utm_term=00a46602bc1288309ff5773d1d457aee04890a5e72368104922f2e
+        - paragraph [ref=s1e838]
+      - listitem [ref=s1e839]:
+        - img "Tour 2026 - 26.11.2026 - Frankfurt" [ref=s1e841]:
+        - link "Tour 2026 - 26.11.2026 - Frankfurt" [ref=s1e843]:
+          - /url: https://shop.spotify.com/en/artist/0BRUlYcw8Rr4MGHe8kRgTv/product/filow-tour-26-11-2026-frankfurt?utm_source=spotify&utm_medium=app-nowplayingview&utm_term=00a46602bc1288309ff5773d1d457aee04890a5e72368104922f2e
+        - paragraph [ref=s1e845]
+    - heading "Next in queue" [level=2] [ref=s1e848]
+    - button "Open queue" [ref=s1e850]
+    - list [ref=s1e851]:
+      - row "Anders" [expanded] [level=1] [ref=s1e852]:
+        - group "Anders" [ref=s1e853]:
+          - button "Anders 01099, Paul, Ski Aggu" [ref=s1e854]
+          - button "Play Anders by 01099, Paul, Ski Aggu" [ref=s1e861]
+          - paragraph [ref=s1e864]: Anders
+          - paragraph [ref=s1e866]:
+            - link "01099" [ref=s1e869]:
+              - /url: /artist/3Z3aTg9PwJ37e8xeO0aUC9
+            - text: ","
+            - link "Paul" [ref=s1e870]:
+              - /url: /artist/2SRd7Kx7xWkZjoaFKgEreg
+            - text: ","
+            - link "Ski Aggu" [ref=s1e871]:
+              - /url: /artist/6CP5wWvO8oIxedESJNCN4H
+          - button "More options for Anders" [ref=s1e874]
+  - text: Resize main navigation
+  - slider "Resize main navigation" [ref=s1e877]: "420"
+  - status [ref=s1e888]: "Now playing: Rasenschach by Filow"
+```
+
+## Key Information Extracted:
+- **Artist Name**: AP$ENT
+- **Monthly Listeners**: 396,511
+- **Top Tracks**: 
+  1. Можно я с тобой - 34,261,215 plays
+  2. Super Star (Explicit) - 4,402,668 plays
+  3. Можно я с тобой - Sped Up - 1,102,954 plays
+  4. Сумны - 157,278 plays
+  5. Ну что ты такой серьёзный - 1,844,235 plays
+- **Latest Release**: Комментарий - Single
+- **Collaborations**: None explicitly shown in top tracks
+- **Related Artists**: MORGENSHTERN, GONE.Fludd, Masha i Medvedi, Элли на маковом поле
+- **Singles**: Комментарий (2026), Можно я с тобой (2022, 2024), Super Star (2021), Сумны (2024), Ну что ты такой серьёзный (2021), Погода (2020)
+- **Albums**: None shown, primarily singles
+- **Appears On**: С нуля (Vol.1) - Compilation (2024)
+
+## Navigation Elements:
+- Library with minimal content
+- Multiple related artists visible
+- Now playing: Rasenschach by Filow
+- Full discography and popular tracks section
+- Artist profile with image and follow button
+- Radio playlist available
+- Compilation appearances documented
+
+## Status: ✅ Complete screenshot captured and saved

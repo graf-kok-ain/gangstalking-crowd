@@ -1,0 +1,534 @@
+# 2late4hugs - Spotify Screenshot
+## Timestamp: 28.02.2026 22:15
+## URL: https://open.spotify.com/artist/3moGHNhXc2gtN5J4LSuT9h
+## Page Title: 2late4hugs | Spotify
+
+## Complete Page Content:
+```yaml
+- document [ref=s1e2]:
+  - document [ref=s1e6]
+  - link "Skip to main content" [ref=s1e16]:
+    - /url: "#main-view"
+  - link "Spotify" [ref=s1e19]:
+    - /url: /
+    - img "Spotify" [ref=s1e20]
+  - button "Home" [ref=s1e24]
+  - search [ref=s1e26]:
+    - button "Search" [ref=s1e28]
+    - combobox "What do you want to play?" [ref=s1e30]
+    - button "Browse" [ref=s1e34]
+  - button "Upgrade to Premium" [ref=s1e37]: Explore Premium
+  - link "Install App" [ref=s1e39]:
+    - /url: /download
+  - button "What's New" [ref=s1e42]
+  - button "Friend Activity" [ref=s1e43]
+  - button "Toni Be" [ref=s1e44]:
+    - figure "Toni Be" [ref=s1e45]:
+      - img "Toni Be" [ref=s1e47]
+  - navigation "Main" [ref=s1e49]:
+    - button "Open Your Library" [ref=s1e57]:
+      - heading "Your Library" [level=1] [ref=s1e61]
+    - button "Create" [ref=s1e63]
+    - grid "Your Library" [ref=s1e69]:
+      - row [ref=s1e73]
+      - row [ref=s1e78]
+  - text: Resize main navigation
+  - slider "Resize main navigation" [ref=s1e82]: "72"
+  - complementary "Now playing bar" [ref=s1e84]:
+    - 'region "Now playing: Rasenschach by Filow" [ref=s1e87]':
+      - button "Now playing view" [ref=s1e90]
+      - link "Rasenschach" [ref=s1e99]:
+        - /url: /album/0eyNmAznsO2cBF9hM17niE
+      - link "Filow" [ref=s1e107]:
+        - /url: /artist/0BRUlYcw8Rr4MGHe8kRgTv
+      - button "Add to Liked Songs" [ref=s1e109]
+    - button "Enable Shuffle for Rasenschach" [ref=s1e114]
+    - button "Previous" [ref=s1e115]
+    - button "Play" [ref=s1e116]
+    - button "Next" [ref=s1e119]
+    - checkbox "Enable repeat" [ref=s1e120]
+    - text: 0:02 Change progress
+    - slider "Change progress" [ref=s1e126]: "0"
+    - text: 2:24
+    - button "Lyrics" [ref=s1e136]
+    - button "Queue" [ref=s1e138]
+    - button "Connect to a device" [ref=s1e140]
+    - button "Mute" [ref=s1e142]
+    - text: Change volume
+    - slider "Change volume" [ref=s1e146]: "1"
+    - button "Open Miniplayer" [ref=s1e153]
+    - button "Enter Full screen" [ref=s1e154]
+  - banner "Top bar and user menu" [ref=s1e156]
+  - main "2late4hugs | Spotify" [ref=s1e169]:
+    - text: 2late4hugs 27,816 monthly listeners
+    - button "Play" [ref=s1e187]
+    - button "Explore 2late4hugs" [ref=s1e189]:
+      - img [ref=s1e191]
+    - button "Enable Shuffle for 2late4hugs" [ref=s1e193]
+    - button "Follow" [ref=s1e194]
+    - button "More options for 2late4hugs" [ref=s1e195]
+    - heading "Popular" [level=2] [ref=s1e200]
+    - grid "popular tracks" [ref=s1e202]:
+      - row "1 Play Borderline 2 by 2late4hugs Borderline 2 554,931 Add to Liked Songs 2:24 More options for Borderline 2 by 2late4hugs" [ref=s1e212]:
+        - gridcell "1 Play Borderline 2 by 2late4hugs" [ref=s1e214]:
+          - text: "1"
+          - button "Play Borderline 2 by 2late4hugs" [ref=s1e217]
+        - gridcell "Borderline 2" [ref=s1e218]:
+          - img [ref=s1e219]
+          - link "Borderline 2" [ref=s1e221]:
+            - /url: /track/5ib1eutiibJT6gWyvqrI1w
+          - gridcell "554,931" [ref=s1e223]
+        - gridcell "Add to Liked Songs 2:24 More options for Borderline 2 by 2late4hugs" [ref=s1e225]:
+          - button "Add to Liked Songs" [ref=s1e226]
+          - text: 2:24
+          - button "More options for Borderline 2 by 2late4hugs" [ref=s1e228]
+      - row "2 Play BORDERLINE by 2late4hugs, toly808 BORDERLINE 865,868 Add to Liked Songs 2:01 More options for BORDERLINE by 2late4hugs, toly808" [ref=s1e229]:
+        - gridcell "2 Play BORDERLINE by 2late4hugs, toly808" [ref=s1e231]:
+          - text: "2"
+          - button "Play BORDERLINE by 2late4hugs, toly808" [ref=s1e234]
+        - gridcell "BORDERLINE" [ref=s1e235]:
+          - img [ref=s1e236]
+          - link "BORDERLINE" [ref=s1e238]:
+            - /url: /track/5frF11rgcUCLV87yUAxgYQ
+          - gridcell "865,868" [ref=s1e240]
+        - gridcell "Add to Liked Songs 2:01 More options for BORDERLINE by 2late4hugs, toly808" [ref=s1e242]:
+          - button "Add to Liked Songs" [ref=s1e243]
+          - text: 2:01
+          - button "More options for BORDERLINE by 2late4hugs, toly808" [ref=s1e245]
+      - row "3 Play Suicide by 2late4hugs Suicide 205,767 Add to Liked Songs 2:34 More options for Suicide by 2late4hugs" [ref=s1e246]:
+        - gridcell "3 Play Suicide by 2late4hugs" [ref=s1e248]:
+          - text: "3"
+          - button "Play Suicide by 2late4hugs" [ref=s1e251]
+        - gridcell "Suicide" [ref=s1e252]:
+          - img [ref=s1e253]
+          - link "Suicide" [ref=s1e255]:
+            - /url: /track/17KiYrqztvphD1gvmltXEx
+          - gridcell "205,767" [ref=s1e257]
+        - gridcell "Add to Liked Songs 2:34 More options for Suicide by 2late4hugs" [ref=s1e259]:
+          - button "Add to Liked Songs" [ref=s1e260]
+          - text: 2:34
+          - button "More options for Suicide by 2late4hugs" [ref=s1e262]
+      - row "4 Play Erhofft by 2late4hugs, mczy808 Erhofft 220,449 Add to Liked Songs 2:45 More options for Erhofft by 2late4hugs, mczy808" [ref=s1e263]:
+        - gridcell "4 Play Erhofft by 2late4hugs, mczy808" [ref=s1e265]:
+          - text: "4"
+          - button "Play Erhofft by 2late4hugs, mczy808" [ref=s1e268]
+        - gridcell "Erhofft" [ref=s1e269]:
+          - img [ref=s1e270]
+          - link "Erhofft" [ref=s1e272]:
+            - /url: /track/5WoHdeZZDljBQ5sznHmyMP
+          - gridcell "220,449" [ref=s1e274]
+        - gridcell "Add to Liked Songs 2:45 More options for Erhofft by 2late4hugs, mczy808" [ref=s1e276]:
+          - button "Add to Liked Songs" [ref=s1e277]
+          - text: 2:45
+          - button "More options for Erhofft by 2late4hugs, mczy808" [ref=s1e279]
+      - row "5 Play Mädchen Aus Der Kleinstadt by 2late4hugs Mädchen Aus Der Kleinstadt 358,818 Add to Liked Songs 1:35 More options for Mädchen Aus Der Kleinstadt by 2late4hugs" [ref=s1e280]:
+        - gridcell "5 Play Mädchen Aus Der Kleinstadt by 2late4hugs" [ref=s1e282]:
+          - text: "5"
+          - button "Play Mädchen Aus Der Kleinstadt by 2late4hugs" [ref=s1e285]
+        - gridcell "Mädchen Aus Der Kleinstadt" [ref=s1e286]:
+          - img [ref=s1e287]
+          - link "Mädchen Aus Der Kleinstadt" [ref=s1e289]:
+            - /url: /track/7GKQ4ZZuWnk0UlPITY2O0L
+          - gridcell "358,818" [ref=s1e291]
+        - gridcell "Add to Liked Songs 1:35 More options for Mädchen Aus Der Kleinstadt by 2late4hugs" [ref=s1e293]:
+          - button "Add to Liked Songs" [ref=s1e294]
+          - text: 1:35
+          - button "More options for Mädchen Aus Der Kleinstadt by 2late4hugs" [ref=s1e296]
+    - button "See more" [ref=s1e304]
+    - heading "Artist pick" [level=2] [ref=s1e308]
+    - img [ref=s1e311]
+    - figure "2late4hugs" [ref=s1e314]:
+      - img "2late4hugs" [ref=s1e316]
+    - text: Posted By 2late4hugs
+    - link "Nicht Einfach" [ref=s1e319]:
+      - /url: /album/2BLdmpjWxCoVMtF4i7enQY
+    - text: Single
+    - region "Discography" [ref=s1e321]:
+      - group [ref=s1e323]:
+        - heading "Discography" [level=2] [ref=s1e326]:
+          - link "Discography" [ref=s1e328]:
+            - /url: /artist/3moGHNhXc2gtN5J4LSuT9h/discography/all
+        - link "Show all" [ref=s1e330]:
+          - /url: /artist/3moGHNhXc2gtN5J4LSuT9h/discography/all
+      - checkbox "Popular releases" [checked] [ref=s1e334]
+      - checkbox "Albums" [ref=s1e336]
+      - checkbox "Singles and EPs" [ref=s1e338]
+      - button "Nicht Einfach Latest Release • Single" [ref=s1e342]
+      - img [ref=s1e346]
+      - button "Play Nicht Einfach" [ref=s1e349]
+      - link "Nicht Einfach" [ref=s1e353]:
+        - /url: /album/2BLdmpjWxCoVMtF4i7enQY
+        - paragraph [ref=s1e354]: Nicht Einfach
+      - time [ref=s1e360]: Latest Release •
+      - text: Single
+      - button "Borderline 2 2024 • Single" [ref=s1e363]
+      - img [ref=s1e367]
+      - button "Play Borderline 2" [ref=s1e370]
+      - link "Borderline 2" [ref=s1e374]:
+        - /url: /album/7f6NhwrMNBrXNcQW1Ce3LZ
+        - paragraph [ref=s1e375]: Borderline 2
+      - time [ref=s1e381]: 2024 •
+      - text: Single
+      - button "BORDERLINE 2024 • Single" [ref=s1e384]
+      - img [ref=s1e388]
+      - button "Play BORDERLINE" [ref=s1e391]
+      - link "BORDERLINE" [ref=s1e395]:
+        - /url: /album/5lOJX9lRxzbVMV1botMiKn
+        - paragraph [ref=s1e396]: BORDERLINE
+      - time [ref=s1e402]: 2024 •
+      - text: Single
+      - button "Daydream Chronicles 2023 • Album" [ref=s1e405]
+      - img [ref=s1e409]
+      - button "Play Daydream Chronicles" [ref=s1e412]
+      - link "Daydream Chronicles" [ref=s1e416]:
+        - /url: /album/5EETvm0oAuPLPOhN02Xjdk
+        - paragraph [ref=s1e417]: Daydream Chronicles
+      - time [ref=s1e423]: 2023 •
+      - text: Album
+      - button "Suicide 2024 • Single" [ref=s1e426]
+      - img [ref=s1e430]
+      - button "Play Suicide" [ref=s1e433]
+      - link "Suicide" [ref=s1e437]:
+        - /url: /album/09MrA8KlmQergRWGG00PNP
+        - paragraph [ref=s1e438]: Suicide
+      - time [ref=s1e444]: 2024 •
+      - text: Single
+      - button "1000 Nächte 2026 • Single" [ref=s1e447]
+      - img [ref=s1e451]
+      - button "Play 1000 Nächte" [ref=s1e454]
+      - link "1000 Nächte" [ref=s1e458]:
+        - /url: /album/2X0x6UNWzCetziC2TuHevc
+        - paragraph [ref=s1e459]: 1000 Nächte
+      - time [ref=s1e465]: 2026 •
+      - text: Single
+      - button "ECHO CHAMBER 2025 • Album" [ref=s1e468]
+      - img [ref=s1e472]
+      - button "Play ECHO CHAMBER" [ref=s1e475]
+      - link "ECHO CHAMBER" [ref=s1e479]:
+        - /url: /album/7rqLZDrGu3ugfeF6ldSCKc
+        - paragraph [ref=s1e480]: ECHO CHAMBER
+      - time [ref=s1e486]: 2025 •
+      - text: Album
+      - button "Angst 2025 • Single" [ref=s1e489]
+      - img [ref=s1e493]
+      - button "Play Angst" [ref=s1e496]
+      - link "Angst" [ref=s1e500]:
+        - /url: /album/1Lr730wSWA6VJi7okVJvmq
+        - paragraph [ref=s1e501]: Angst
+      - time [ref=s1e507]: 2025 •
+      - text: Single
+    - region "Featuring 2late4hugs" [ref=s1e509]:
+      - group [ref=s1e511]:
+        - heading "Featuring 2late4hugs" [level=2] [ref=s1e514]:
+          - link "Featuring 2late4hugs" [ref=s1e516]:
+            - /url: /artist/3moGHNhXc2gtN5J4LSuT9h/featuring
+      - button "2late4hugs Radio By Spotify" [ref=s1e518]
+      - img [ref=s1e522]
+      - button "Play 2late4hugs Radio" [ref=s1e525]
+      - link "2late4hugs Radio" [ref=s1e529]:
+        - /url: /playlist/37i9dQZF1E4zGKEJRoJazX
+        - paragraph [ref=s1e530]: 2late4hugs Radio
+      - text: By Spotify
+    - heading "About" [level=2] [ref=s1e535]
+    - button "2late4hugs" [ref=s1e537]: 27,816 monthly listeners
+    - region "Similar artists" [ref=s1e543]:
+      - group [ref=s1e545]:
+        - heading "Similar artists" [level=2] [ref=s1e548]:
+          - link "Similar artists" [ref=s1e550]:
+            - /url: /artist/3moGHNhXc2gtN5J4LSuT9h/similar-artists
+      - button "to.ly808 Artist" [ref=s1e553]
+      - img [ref=s1e557]
+      - button "Play to.ly808" [ref=s1e560]
+      - link "to.ly808" [ref=s1e564]:
+        - /url: /artist/02IABF60IVnvaMeWs3oWwK
+        - paragraph [ref=s1e565]: to.ly808
+      - text: Artist
+      - button "mczy808 Artist" [ref=s1e573]
+      - img [ref=s1e577]
+      - button "Play mczy808" [ref=s1e580]
+      - link "mczy808" [ref=s1e584]:
+        - /url: /artist/5FECq3e1DYc0vXzgbz0kll
+        - paragraph [ref=s1e585]: mczy808
+      - text: Artist
+      - button "El Rafo Artist" [ref=s1e593]
+      - img [ref=s1e597]
+      - button "Play El Rafo" [ref=s1e600]
+      - link "El Rafo" [ref=s1e604]:
+        - /url: /artist/7MB1KfCWLsc8ZNvUKQsSXx
+        - paragraph [ref=s1e605]: El Rafo
+      - text: Artist
+      - button "52Blue Artist" [ref=s1e613]
+      - img [ref=s1e617]
+      - button "Play 52Blue" [ref=s1e620]
+      - link "52Blue" [ref=s1e624]:
+        - /url: /artist/3Kq1Y1DLYCLgARBE3UnJJR
+        - paragraph [ref=s1e625]: 52Blue
+      - text: Artist
+      - button "YASSINE Artist" [ref=s1e633]
+      - img [ref=s1e637]
+      - button "Play YASSINE" [ref=s1e640]
+      - link "YASSINE" [ref=s1e644]:
+        - /url: /artist/4OCsXXjPfgZ9leGFuAdaHU
+        - paragraph [ref=s1e645]: YASSINE
+      - text: Artist
+      - button "Bxgdan Artist" [ref=s1e653]
+      - img [ref=s1e657]
+      - button "Play Bxgdan" [ref=s1e660]
+      - link "Bxgdan" [ref=s1e664]:
+        - /url: /artist/5A1a100sBsZVdae2m5TB1f
+        - paragraph [ref=s1e665]: Bxgdan
+      - text: Artist
+      - button "isolated Artist" [ref=s1e673]
+      - img [ref=s1e677]
+      - button "Play isolated" [ref=s1e680]
+      - link "isolated" [ref=s1e684]:
+        - /url: /artist/6TcAvGALRcZfFo06zjzx5l
+        - paragraph [ref=s1e685]: isolated
+      - text: Artist
+      - button "kid kensaii Artist" [ref=s1e693]
+      - img [ref=s1e697]
+      - button "Play kid kensaii" [ref=s1e700]
+      - link "kid kensaii" [ref=s1e704]:
+        - /url: /artist/4x8bvjL7fkkBPYusPslzFK
+        - paragraph [ref=s1e705]: kid kensaii
+      - text: Artist
+    - region "Appears On" [ref=s1e713]:
+      - group [ref=s1e715]:
+        - heading "Appears On" [level=2] [ref=s1e718]:
+          - link "Appears On" [ref=s1e720]:
+            - /url: /artist/3moGHNhXc2gtN5J4LSuT9h/appears-on
+        - link "Show all" [ref=s1e722]:
+          - /url: /artist/3moGHNhXc2gtN5J4LSuT9h/appears-on
+      - button "AURORA AGONY 2025 • Album" [ref=s1e726]
+      - img [ref=s1e730]
+      - button "Play AURORA AGONY" [ref=s1e733]
+      - link "AURORA AGONY" [ref=s1e737]:
+        - /url: /album/3FW1zPQW7pYqbSJtWpPzly
+        - paragraph [ref=s1e738]: AURORA AGONY
+      - time [ref=s1e744]: 2025 •
+      - text: Album
+      - button "FRIENDS I'D LIKE TO DIE WITH♰ 2025 • Album" [ref=s1e747]
+      - img [ref=s1e751]
+      - button "Play FRIENDS I'D LIKE TO DIE WITH♰" [ref=s1e754]
+      - link "FRIENDS I'D LIKE TO DIE WITH♰" [ref=s1e758]:
+        - /url: /album/368lPjnSCtHiEw1DCKTm4Z
+        - paragraph [ref=s1e759]: FRIENDS I'D LIKE TO DIE WITH♰
+      - time [ref=s1e765]: 2025 •
+      - text: Album
+      - button "hoffnungsloser fall 2024 • Album" [ref=s1e768]
+      - img [ref=s1e772]
+      - button "Play hoffnungsloser fall" [ref=s1e775]
+      - link "hoffnungsloser fall" [ref=s1e779]:
+        - /url: /album/1rc5LqNoXomqEVszwUffL2
+        - paragraph [ref=s1e780]: hoffnungsloser fall
+      - time [ref=s1e786]: 2024 •
+      - text: Album
+      - button "Poison 2025 • Album" [ref=s1e789]
+      - img [ref=s1e793]
+      - button "Play Poison" [ref=s1e796]
+      - link "Poison" [ref=s1e800]:
+        - /url: /album/3etrFoAeujI6jvNNP4JFbl
+        - paragraph [ref=s1e801]: Poison
+      - time [ref=s1e807]: 2025 •
+      - text: Album
+      - button "Shattered Heart 2025 • Album" [ref=s1e810]
+      - img [ref=s1e814]
+      - button "Play Shattered Heart" [ref=s1e817]
+      - link "Shattered Heart" [ref=s1e821]:
+        - /url: /album/37isluIqUgnMPrKESoIZ4s
+        - paragraph [ref=s1e822]: Shattered Heart
+      - time [ref=s1e828]: 2025 •
+      - text: Album
+      - button "DIE GUTEN STERBEN JUNG★ 2024 • Album" [ref=s1e831]
+      - img [ref=s1e835]
+      - button "Play DIE GUTEN STERBEN JUNG★" [ref=s1e838]
+      - link "DIE GUTEN STERBEN JUNG★" [ref=s1e842]:
+        - /url: /album/0vwm52yP8ggR1s2QrvGS4G
+        - paragraph [ref=s1e843]: DIE GUTEN STERBEN JUNG★
+      - time [ref=s1e849]: 2024 •
+      - text: Album
+      - button "Prada Shades 2023 • Single" [ref=s1e852]
+      - img [ref=s1e856]
+      - button "Play Prada Shades" [ref=s1e859]
+      - link "Prada Shades" [ref=s1e863]:
+        - /url: /album/4HofLo5I2ZYJoC35idYG53
+        - paragraph [ref=s1e864]: Prada Shades
+      - time [ref=s1e870]: 2023 •
+      - text: Single
+      - button "2024 2025 • Album" [ref=s1e873]
+      - img [ref=s1e877]
+      - button "Play 2024" [ref=s1e880]
+      - link "2024" [ref=s1e884]:
+        - /url: /album/3lOzOD7UOoWc9DnVmVpnjS
+        - paragraph [ref=s1e885]: "2024"
+      - time [ref=s1e891]: 2025 •
+      - text: Album
+    - separator [ref=s1e894]
+    - navigation [ref=s1e896]:
+      - list [ref=s1e900]:
+        - paragraph [ref=s1e901]: Company
+        - link "Impressum / Transparenzinformation" [ref=s1e902]:
+          - /url: https://www.spotify.com/de/about-us/impressum/
+        - link "About" [ref=s1e904]:
+          - /url: https://www.spotify.com/de/about-us/contact/
+        - link "Jobs" [ref=s1e906]:
+          - /url: https://www.lifeatspotify.com/
+        - link "For the Record" [ref=s1e908]:
+          - /url: https://newsroom.spotify.com/
+      - list [ref=s1e911]:
+        - paragraph [ref=s1e912]: Communities
+        - link "For Artists" [ref=s1e913]:
+          - /url: https://artists.spotify.com/
+        - link "Developers" [ref=s1e915]:
+          - /url: https://developer.spotify.com/
+        - link "Advertising" [ref=s1e917]:
+          - /url: https://ads.spotify.com/
+        - link "Investors" [ref=s1e919]:
+          - /url: https://investors.spotify.com/
+        - link "Vendors" [ref=s1e921]:
+          - /url: https://spotifyforvendors.com/
+      - list [ref=s1e924]:
+        - paragraph [ref=s1e925]: Useful links
+        - link "Support" [ref=s1e926]:
+          - /url: https://support.spotify.com/
+        - link "Free Mobile App" [ref=s1e928]:
+          - /url: https://www.spotify.com/de/download/
+        - link "Verträge hier kündigen" [ref=s1e930]:
+          - /url: https://www.spotify.com/de/account/cancel/
+        - link "Popular by Country" [ref=s1e932]:
+          - /url: /popular-in/de
+        - link "Import your music" [ref=s1e934]:
+          - /url: https://www.spotify.com/de/import-music/
+      - list [ref=s1e937]:
+        - paragraph [ref=s1e938]: Spotify Plans
+        - link "Premium Individual" [ref=s1e939]:
+          - /url: https://www.spotify.com/de/premium/#ref=spotifycom_footer_premium_individual
+        - link "Premium Duo" [ref=s1e941]:
+          - /url: https://www.spotify.com/de/duo/#ref=spotifycom_footer_premium_duo
+        - link "Premium Family" [ref=s1e943]:
+          - /url: https://www.spotify.com/de/family/#ref=spotifycom_footer_premium_family
+        - link "Premium Student" [ref=s1e945]:
+          - /url: https://www.spotify.com/de/student/#ref=spotifycom_footer_premium_student
+        - link "Spotify Free" [ref=s1e947]:
+          - /url: https://www.spotify.com/de/free/#ref=spotifycom_footer_premium_free
+      - link "Instagram" [ref=s1e951]:
+        - /url: https://instagram.com/spotify
+      - link "Twitter" [ref=s1e953]:
+        - /url: https://twitter.com/spotify
+      - link "Facebook" [ref=s1e955]:
+        - /url: https://www.facebook.com/Spotify
+      - separator [ref=s1e956]
+      - link "Legal" [ref=s1e961]:
+        - /url: https://www.spotify.com/de/legal/
+      - link "Safety & Privacy Center" [ref=s1e964]:
+        - /url: https://www.spotify.com/de/safetyandprivacy/
+      - link "Privacy Policy" [ref=s1e967]:
+        - /url: https://www.spotify.com/de/legal/privacy-policy/
+      - button "Cookie Settings" [ref=s1e970]
+      - link "About Ads" [ref=s1e973]:
+        - /url: https://www.spotify.com/de/legal/privacy-policy/#s3
+      - link "Accessibility" [ref=s1e976]:
+        - /url: https://www.spotify.com/de/accessibility/
+      - paragraph [ref=s1e980]: © 2026 Spotify AB
+  - complementary "Now playing view" [ref=s1e988]:
+    - button "Hide Now Playing view" [ref=s1e992]
+    - link "Rasenschach" [ref=s1e994]:
+      - /url: /album/0eyNmAznsO2cBF9hM17niE?uid=614a034332ca07058dd7&uri=spotify:track:7jFcvN0U0ZZIXgfyEDYkcj
+      - heading "Rasenschach" [level=1] [ref=s1e998]
+    - button "More options for Rasenschach" [ref=s1e1001]
+    - button "Expand Now Playing view" [ref=s1e1002]
+    - 'link "Now playing: Rasenschach by Filow" [ref=s1e1014]':
+      - /url: /album/0eyNmAznsO2cBF9hM17niE?uid=614a034332ca07058dd7&uri=spotify%3Atrack%3A7jFcvN0U0ZZIXgfyEDYkcj
+    - link "Rasenschach" [ref=s1e1023]:
+      - /url: /album/0eyNmAznsO2cBF9hM17niE
+    - link "Filow" [ref=s1e1031]:
+      - /url: /artist/0BRUlYcw8Rr4MGHe8kRgTv
+    - button "Copy link to Song" [ref=s1e1032]
+    - button "Add to Liked Songs" [ref=s1e1034]
+    - heading "Credits" [level=2] [ref=s1e1037]
+    - button "Show all" [ref=s1e1039]
+    - group [ref=s1e1041]:
+      - button "Main Artist" [ref=s1e1042]
+      - link "Filow" [ref=s1e1045]:
+        - /url: /artist/0BRUlYcw8Rr4MGHe8kRgTv
+      - paragraph [ref=s1e1046]: Main Artist
+      - button "Follow" [ref=s1e1050]
+    - group [ref=s1e1051]:
+      - text: Felix Filow
+      - paragraph [ref=s1e1055]: Author
+    - heading "On tour" [level=2] [ref=s1e1060]
+    - button "Show all" [ref=s1e1062]
+    - link "Jun 19 SCHEESSEL Donots, Papa Roach, Pennywise, The Offspring, Billy Talent, Bosse, Alexisonfire, Modeselektor, Skindred, The Ataris, zebrahead, Sondaschule, Natasha Bedingfield, A Day To Remember, All Time Low, Boys Noize, Florence + The Machine, Empire Of The Sun, Kraftklub, Modestep, Basement, Twenty One Pilots, SSIO, Wolf Alice, Nothing But Thieves, SOFT PLAY, YUNGBLUD, The Beaches, grandson, BHZ, Ecca Vandal, Leony, OG Keemo, FiNCH, Roy Bianco & Die Abbrunzati Boys, YONAKA, The Butcher Sisters, Provinz, Drei Meter Feldweg, Betterov, Edwin Rosen, KAFFKIEZ, Esther Graf, Just Mustard, Davina Michelle, Militarie Gun, PA69, Destroy Boys, Ritter Lean, SPRINTS, rosmarin, Anda Morts, Tors, Delilah Bon, Royel Otis, Paula Engels, ROYA, unpeople, Kayla Shyx, Kingfishr, Filow, Vicky, PRESIDENT, Florence Road, Tinlicker Fri 12:00 PM•Eichenring Scheeßel" [ref=s1e1064]:
+      - /url: /concert/55nIEeBQ1QAeHUmwspdH3I
+      - time [ref=s1e1065]:
+        - paragraph [ref=s1e1066]: Jun
+        - paragraph [ref=s1e1067]: "19"
+      - heading "SCHEESSEL" [level=3] [ref=s1e1069]:
+        - paragraph [ref=s1e1070]: Donots, Papa Roach, Pennywise, The Offspring, Billy Talent, Bosse, Alexisonfire, Modeselektor, Skindred, The Ataris, zebrahead, Sondaschule, Natasha Bedingfield, A Day To Remember, All Time Low, Boys Noize, Florence + The Machine, Empire Of The Sun, Kraftklub, Modestep, Basement, Twenty One Pilots, SSIO, Wolf Alice, Nothing But Thieves, SOFT PLAY, YUNGBLUD, The Beaches, grandson, BHZ, Ecca Vandal, Leony, OG Keemo, FiNCH, Roy Bianco & Die Abbrunzati Boys, YONAKA, The Butcher Sisters, Provinz, Drei Meter Feldweg, Betterov, Edwin Rosen, KAFFKIEZ, Esther Graf, Just Mustard, Davina Michelle, Militarie Gun, PA69, Destroy Boys, Ritter Lean, SPRINTS, rosmarin, Anda Morts, Tors, Delilah Bon, Royel Otis, Paula Engels, ROYA, unpeople, Kayla Shyx, Kingfishr, Filow, Vicky, PRESIDENT, Florence Road, Tinlicker
+      - time [ref=s1e1072]: Fri 12:00 PM•
+      - text: Eichenring Scheeßel
+    - heading "Merch" [level=2] [ref=s1e1075]
+    - list [ref=s1e1077]:
+      - listitem [ref=s1e1078]:
+        - img "Tour 2026 - 24.11.2026 - Erlangen" [ref=s1e1080]
+        - link "Tour 2026 - 24.11.2026 - Erlangen" [ref=s1e1082]:
+          - /url: https://shop.spotify.com/en/artist/0BRUlYcw8Rr4MGHe8kRgTv/product/filow-tour-24-11-2026-erlangen?utm_source=spotify&utm_medium=app-nowplayingview&utm_term=00a46602bc1288309ff5773d1d457aee04890a5e72368104922f2e
+        - paragraph [ref=s1e1084]
+      - listitem [ref=s1e1085]:
+        - img "Tour 2026 - 06.12.2026 - Köln" [ref=s1e1087]
+        - link "Tour 2026 - 06.12.2026 - Köln" [ref=s1e1089]:
+          - /url: https://shop.spotify.com/en/artist/0BRUlYcw8Rr4MGHe8kRgTv/product/filow-tour-06-12-2026-koln?utm_source=spotify&utm_medium=app-nowplayingview&utm_term=00a46602bc1288309ff5773d1d457aee04890a5e72368104922f2e
+        - paragraph [ref=s1e1091]
+      - listitem [ref=s1e1092]:
+        - img "Tour 2026 - 26.11.2026 - Frankfurt" [ref=s1e1094]:
+        - link "Tour 2026 - 26.11.2026 - Frankfurt" [ref=s1e1096]:
+          - /url: https://shop.spotify.com/en/artist/0BRUlYcw8Rr4MGHe8kRgTv/product/filow-tour-26-11-2026-frankfurt?utm_source=spotify&utm_medium=app-nowplayingview&utm_term=00a46602bc1288309ff5773d1d457aee04890a5e72368104922f2e
+        - paragraph [ref=s1e1098]
+    - heading "Next in queue" [level=2] [ref=s1e1101]
+    - button "Open queue" [ref=s1e1103]
+    - list [ref=s1e1104]:
+      - row "Anders" [expanded] [level=1] [ref=s1e1105]:
+        - group "Anders" [ref=s1e1106]:
+          - button "Anders 01099, Paul, Ski Aggu" [ref=s1e1107]
+          - button "Play Anders by 01099, Paul, Ski Aggu" [ref=s1e1114]
+          - paragraph [ref=s1e1117]: Anders
+          - paragraph [ref=s1e1119]:
+            - link "01099" [ref=s1e1122]:
+              - /url: /artist/3Z3aTg9PwJ37e8xeO0aUC9
+            - text: ","
+            - link "Paul" [ref=s1e1123]:
+              - /url: /artist/2SRd7Kx7xWkZjoaFKgEreg
+            - text: ","
+            - link "Ski Aggu" [ref=s1e1124]:
+              - /url: /artist/6CP5wWvO8oIxedESJNCN4H
+          - button "More options for Anders" [ref=s1e1127]
+  - text: Resize main navigation
+  - slider "Resize main navigation" [ref=s1e1130]: "420"
+  - status [ref=s1e1137]: "Now playing: Rasenschach by Filow"
+```
+
+## Key Information Extracted:
+- **Artist Name**: 2late4hugs
+- **Monthly Listeners**: 27,816
+- **Top Tracks**: 
+  1. Borderline 2 - 554,931 plays
+  2. BORDERLINE (feat. toly808) - 865,868 plays
+  3. Suicide - 205,767 plays
+  4. Erhofft (feat. mczy808) - 220,449 plays
+  5. Mädchen Aus Der Kleinstadt - 358,818 plays
+- **Latest Release**: Nicht Einfach - Single
+- **Artist pick**: Posted By 2late4hugs - Nicht Einfach promotion
+- **Collaborations**: toly808, mczy808
+- **Related Artists**: to.ly808, mczy808, El Rafo, 52Blue, YASSINE, Bxgdan, isolated, kid kensaii
+- **Albums**: Daydream Chronicles (2023), ECHO CHAMBER (2025), DIE GUTEN STERBEN JUNG★ (2024), 2024 (2025), Poison (2025), Shattered Heart (2025), FRIENDS I'D LIKE TO DIE WITH♰ (2025), hoffnungsloser fall (2024)
+- **Singles**: Nicht Einfach (2026), Borderline 2 (2024), BORDERLINE (2024), Suicide (2024), 1000 Nächte (2026), Angst (2025), Prada Shades (2023)
+
+## Navigation Elements:
+- Library with minimal content
+- Multiple related artists visible
+- Now playing: Rasenschach by Filow
+- Full discography and popular tracks section
+- Artist profile with image and follow button
+- Radio playlist available
+
+## Status: ✅ Complete screenshot captured and saved

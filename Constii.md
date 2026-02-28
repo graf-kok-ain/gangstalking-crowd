@@ -4,6 +4,8 @@
 - **Spotify ID**: 0dSOiqqAAlN5PUogUHEQKr
 - **Spotify Link**: https://open.spotify.com/artist/0dSOiqqAAlN5PUogUHEQKr
 - **Original Spotify-Link**: https://open.spotify.com/artist/0dSOiqqAAlN5PUogUHEQKr?si=f6523f81492b4cdc
+- **Collection Timestamp**: 26.02.2026 05:12 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 21:00 (Page Loading Issues Confirmed via MCP Browser)
 - **Monthly Listeners**: 1,349 (captured: 26.02.2026 05:12)
 - **Followers**: Not available
 - **Genre**: German Rap/Trap

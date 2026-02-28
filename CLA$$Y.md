@@ -5,6 +5,8 @@
 - **Spotify ID**: 37H8wdEtBCvncCuoTiTPJ7
 - **Spotify Link**: https://open.spotify.com/artist/37H8wdEtBCvncCuoTiTPJ7
 - **Original Spotify-Link**: https://open.spotify.com/artist/37H8wdEtBCvncCuoTiTPJ7?si=f6523f81492b4cdc
+- **Collection Timestamp**: 28.02.2026 05:00 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 20:35 (Page Loading Issues Confirmed via MCP Browser)
 - **Monthly Listeners**: 61 (LATEST: 28.02.2026 05:00 - MCP Browser Tool) | PREVIOUS: 61 (28.02.2026 03:30) | 60 (26.02.2026 05:32)
 - **Followers**: Not available
 - **Genre**: German Rap/Trap

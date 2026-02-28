@@ -5,6 +5,8 @@
 - **Spotify ID**: 4gXdJf2sN84OLRT7vwhh6y
 - **Spotify Link**: https://open.spotify.com/artist/4gXdJf2sN84OLRT7vwhh6y
 - **Original Spotify-Link**: https://open.spotify.com/artist/4gXdJf2sN84OLRT7vwhh6y?si=f6523f81492b4cdc
+- **Collection Timestamp**: 28.02.2026 02:50 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 19:40 (Page Loading Issues Confirmed via MCP Browser)
 - **Monthly Listeners**: 24,970 (LATEST: 28.02.2026 02:50 - MCP Browser Tool) | PREVIOUS: 24,953 (26.02.2026 03:46)
 - **Followers**: Not available
 - **Genre**: German Rap/Dark R&B

@@ -1,0 +1,512 @@
+# 52Blue - Spotify Screenshot
+## Timestamp: 28.02.2026 22:20
+## URL: https://open.spotify.com/artist/3Kq1Y1DLYCLgARBE3UnJJR
+## Page Title: 52Blue | Spotify
+
+## Complete Page Content:
+```yaml
+- document [ref=s1e2]:
+  - document [ref=s1e6]
+  - link "Skip to main content" [ref=s1e16]:
+    - /url: "#main-view"
+  - link "Spotify" [ref=s1e19]:
+    - /url: /
+    - img "Spotify" [ref=s1e20]
+  - button "Home" [ref=s1e24]
+  - search [ref=s1e26]:
+    - button "Search" [ref=s1e28]
+    - combobox "What do you want to play?" [ref=s1e30]
+    - button "Browse" [ref=s1e34]
+  - button "Upgrade to Premium" [ref=s1e37]: Explore Premium
+  - link "Install App" [ref=s1e39]:
+    - /url: /download
+  - button "What's New" [ref=s1e42]
+  - button "Friend Activity" [ref=s1e43]
+  - button "Toni Be" [ref=s1e44]:
+    - figure "Toni Be" [ref=s1e45]:
+      - img "Toni Be" [ref=s1e47]
+  - navigation "Main" [ref=s1e49]:
+    - button "Open Your Library" [ref=s1e57]:
+      - heading "Your Library" [level=1] [ref=s1e61]
+    - button "Create" [ref=s1e63]
+    - grid "Your Library" [ref=s1e69]:
+      - row [ref=s1e73]
+      - row [ref=s1e78]
+  - text: Resize main navigation
+  - slider "Resize main navigation" [ref=s1e82]: "72"
+  - complementary "Now playing bar" [ref=s1e84]:
+    - 'region "Now playing: Rasenschach by Filow" [ref=s1e87]':
+      - button "Now playing view" [ref=s1e90]
+      - link "Rasenschach" [ref=s1e99]:
+        - /url: /album/0eyNmAznsO2cBF9hM17niE
+      - link "Filow" [ref=s1e107]:
+        - /url: /artist/0BRUlYcw8Rr4MGHe8kRgTv
+      - button "Add to Liked Songs" [ref=s1e109]
+    - button "Enable Shuffle for Rasenschach" [ref=s1e114]
+    - button "Previous" [ref=s1e115]
+    - button "Play" [ref=s1e116]
+    - button "Next" [ref=s1e119]
+    - checkbox "Enable repeat" [ref=s1e120]
+    - text: 0:02 Change progress
+    - slider "Change progress" [ref=s1e126]: "0"
+    - text: 2:24
+    - button "Looks like we don't have lyrics for this song." [disabled] [ref=s1e136]
+    - button "Queue" [ref=s1e138]
+    - button "Connect to a device" [ref=s1e140]
+    - button "Mute" [ref=s1e142]
+    - text: Change volume
+    - slider "Change volume" [ref=s1e146]: "1"
+    - button "Open Miniplayer" [ref=s1e153]
+    - button "Enter Full screen" [ref=s1e154]
+  - banner "Top bar and user menu" [ref=s1e156]
+  - main "52Blue | Spotify" [ref=s1e169]:
+    - text: 52Blue 24,536 monthly listeners
+    - button "Play" [ref=s1e187]
+    - button "Explore 52Blue" [ref=s1e189]:
+      - img [ref=s1e191]
+    - button "Enable Shuffle for 52Blue" [ref=s1e193]
+    - button "Follow" [ref=s1e194]
+    - button "More options for 52Blue" [ref=s1e195]
+    - heading "Popular" [level=2] [ref=s1e200]
+    - grid "popular tracks" [ref=s1e202]:
+      - row "1 Play Two Pieces by 52Blue Two Pieces Explicit 602,200 Add to Liked Songs 2:57 More options for Two Pieces by 52Blue" [ref=s1e212]:
+        - gridcell "1 Play Two Pieces by 52Blue" [ref=s1e214]:
+          - text: "1"
+          - button "Play Two Pieces by 52Blue" [ref=s1e217]
+        - gridcell "Two Pieces Explicit" [ref=s1e218]:
+          - img [ref=s1e219]
+          - link "Two Pieces" [ref=s1e221]:
+            - /url: /track/3w1JIrTcCg1pUxmhKJ5vo5
+          - text: E
+        - gridcell "602,200" [ref=s1e226]
+        - gridcell "Add to Liked Songs 2:57 More options for Two Pieces by 52Blue" [ref=s1e228]:
+          - button "Add to Liked Songs" [ref=s1e229]
+          - text: 2:57
+          - button "More options for Two Pieces by 52Blue" [ref=s1e231]
+      - row "2 Play Blick über die Stadt by 52Blue Blick über die Stadt Explicit 542,325 Add to Liked Songs 2:37 More options for Blick über die Stadt by 52Blue" [ref=s1e232]:
+        - gridcell "2 Play Blick über die Stadt by 52Blue" [ref=s1e234]:
+          - text: "2"
+          - button "Play Blick über die Stadt by 52Blue" [ref=s1e237]
+        - gridcell "Blick über die Stadt Explicit" [ref=s1e238]:
+          - img [ref=s1e239]
+          - link "Blick über die Stadt" [ref=s1e241]:
+            - /url: /track/1mhLW4sxzBsKnpZrAD722C
+          - text: E
+        - gridcell "542,325" [ref=s1e246]
+        - gridcell "Add to Liked Songs 2:37 More options for Blick über die Stadt by 52Blue" [ref=s1e248]:
+          - button "Add to Liked Songs" [ref=s1e249]
+          - text: 2:37
+          - button "More options for Blick über die Stadt by 52Blue" [ref=s1e251]
+      - row "3 Play 5 Monster Energy by 52Blue, Hello Hannes 5 Monster Energy 9,072 Add to Liked Songs 2:03 More options for 5 Monster Energy by 52Blue, Hello Hannes" [ref=s1e252]:
+        - gridcell "3 Play 5 Monster Energy by 52Blue, Hello Hannes" [ref=s1e254]:
+          - text: "3"
+          - button "Play 5 Monster Energy by 52Blue, Hello Hannes" [ref=s1e257]
+        - gridcell "5 Monster Energy" [ref=s1e258]:
+          - img [ref=s1e259]
+          - link "5 Monster Energy" [ref=s1e261]:
+            - /url: /track/6Ifuoi1rBkQf72d0XtztjN
+          - gridcell "9,072" [ref=s1e263]
+        - gridcell "Add to Liked Songs 2:03 More options for 5 Monster Energy by 52Blue, Hello Hannes" [ref=s1e265]:
+          - button "Add to Liked Songs" [ref=s1e266]
+          - text: 2:03
+          - button "More options for 5 Monster Energy by 52Blue, Hello Hannes" [ref=s1e268]
+      - row "4 Play h1ghsc0re by 52Blue, Hello Hannes h1ghsc0re Explicit 10,512 Add to Liked Songs 2:22 More options for h1ghsc0re by 52Blue, Hello Hannes" [ref=s1e269]:
+        - gridcell "4 Play h1ghsc0re by 52Blue, Hello Hannes" [ref=s1e271]:
+          - text: "4"
+          - button "Play h1ghsc0re by 52Blue, Hello Hannes" [ref=s1e274]
+        - gridcell "h1ghsc0re Explicit" [ref=s1e275]:
+          - img [ref=s1e276]
+          - link "h1ghsc0re" [ref=s1e278]:
+            - /url: /track/6h2ptucIilVbLk6lYJS71q
+          - text: E
+        - gridcell "10,512" [ref=s1e283]
+        - gridcell "Add to Liked Songs 2:22 More options for h1ghsc0re by 52Blue, Hello Hannes" [ref=s1e285]:
+          - button "Add to Liked Songs" [ref=s1e286]
+          - text: 2:22
+          - button "More options for h1ghsc0re by 52Blue, Hello Hannes" [ref=s1e288]
+      - row "5 Play Tote Rosen by 52Blue, Dropped here Tote Rosen Explicit 161,967 Add to Liked Songs 2:51 More options for Tote Rosen by 52Blue, Dropped here" [ref=s1e289]:
+        - gridcell "5 Play Tote Rosen by 52Blue, Dropped here" [ref=s1e291]:
+          - text: "5"
+          - button "Play Tote Rosen by 52Blue, Dropped here" [ref=s1e294]
+        - gridcell "Tote Rosen Explicit" [ref=s1e295]:
+          - img [ref=s1e296]
+          - link "Tote Rosen" [ref=s1e298]:
+            - /url: /track/2QqrXPyeHpcIZsIpGnTGqC
+          - text: E
+        - gridcell "161,967" [ref=s1e303]
+        - gridcell "Add to Liked Songs 2:51 More options for Tote Rosen by 52Blue, Dropped here" [ref=s1e305]:
+          - button "Add to Liked Songs" [ref=s1e306]
+          - text: 2:51
+          - button "More options for Tote Rosen by 52Blue, Dropped here" [ref=s1e308]
+    - button "See more" [ref=s1e316]
+    - heading "Artist pick" [level=2] [ref=s1e320]
+    - img [ref=s1e323]
+    - figure "52Blue" [ref=s1e326]:
+      - img "52Blue" [ref=s1e328]
+    - text: run it up!!
+    - link "Keine Drogen" [ref=s1e331]:
+      - /url: /album/0ujbRmavSIIJEQpaS2MvVE
+    - text: Single
+    - region "Discography" [ref=s1e333]:
+      - group [ref=s1e335]:
+        - heading "Discography" [level=2] [ref=s1e338]:
+          - link "Discography" [ref=s1e340]:
+            - /url: /artist/3Kq1Y1DLYCLgARBE3UnJJR/discography/all
+        - link "Show all" [ref=s1e342]:
+          - /url: /artist/3Kq1Y1DLYCLgARBE3UnJJR/discography/all
+      - checkbox "Popular releases" [checked] [ref=s1e346]
+      - checkbox "Albums" [ref=s1e348]
+      - checkbox "Singles and EPs" [ref=s1e350]
+      - button "Keine Drogen Latest Release • Single" [ref=s1e354]
+      - img [ref=s1e358]
+      - button "Play Keine Drogen" [ref=s1e361]
+      - link "Keine Drogen" [ref=s1e365]:
+        - /url: /album/0ujbRmavSIIJEQpaS2MvVE
+        - paragraph [ref=s1e366]: Keine Drogen
+      - time [ref=s1e372]: Latest Release •
+      - text: Single
+      - button "Two Pieces 2023 • Single" [ref=s1e375]
+      - img [ref=s1e379]
+      - button "Play Two Pieces" [ref=s1e382]
+      - link "Two Pieces" [ref=s1e386]:
+        - /url: /album/5dPKNjr6gcCPZOihcxnVtj
+        - paragraph [ref=s1e387]: Two Pieces
+      - time [ref=s1e393]: 2023 •
+      - text: Single
+      - button "L(i)ebe 2023 • Album" [ref=s1e396]
+      - img [ref=s1e400]
+      - button "Play L(i)ebe" [ref=s1e403]
+      - link "L(i)ebe" [ref=s1e407]:
+        - /url: /album/0Or785JcIswKq7fpCmgxVz
+        - paragraph [ref=s1e408]: L(i)ebe
+      - time [ref=s1e414]: 2023 •
+      - text: Album
+      - button "5 Monster Energy 2026 • Single" [ref=s1e417]
+      - img [ref=s1e421]
+      - button "Play 5 Monster Energy" [ref=s1e424]
+      - link "5 Monster Energy" [ref=s1e428]:
+        - /url: /album/6a7eekCn1d0Op9ZX0RN4YP
+        - paragraph [ref=s1e429]: 5 Monster Energy
+      - time [ref=s1e435]: 2026 •
+      - text: Single
+      - button "52Hz 2022 • Album" [ref=s1e438]
+      - img [ref=s1e442]
+      - button "Play 52Hz" [ref=s1e445]
+      - link "52Hz" [ref=s1e449]:
+        - /url: /album/4yqzVi5yNzlh7f7KHylVXn
+        - paragraph [ref=s1e450]: 52Hz
+      - time [ref=s1e456]: 2022 •
+      - text: Album
+      - button "Dummer Junge 2024 • Single" [ref=s1e459]
+      - img [ref=s1e463]
+      - button "Play Dummer Junge" [ref=s1e466]
+      - link "Dummer Junge" [ref=s1e470]:
+        - /url: /album/3guIuz3zmaqCMdjZSgfS2m
+        - paragraph [ref=s1e471]: Dummer Junge
+      - time [ref=s1e477]: 2024 •
+      - text: Single
+      - button "h1ghsc0re 2026 • Single" [ref=s1e480]
+      - img [ref=s1e484]
+      - button "Play h1ghsc0re" [ref=s1e487]
+      - link "h1ghsc0re" [ref=s1e491]:
+        - /url: /album/6yEo9ruaRZONcNDbB3c8zp
+        - paragraph [ref=s1e492]: h1ghsc0re
+      - time [ref=s1e498]: 2026 •
+      - text: Single
+      - button "Tiefsee 2025 • Album" [ref=s1e501]
+      - img [ref=s1e505]
+      - button "Play Tiefsee" [ref=s1e508]
+      - link "Tiefsee" [ref=s1e512]:
+        - /url: /album/31wHvJCmhqs6jRazl6gSdw
+        - paragraph [ref=s1e513]: Tiefsee
+      - time [ref=s1e519]: 2025 •
+      - text: Album
+      - button "Tausend Geschichten 2024 • Single" [ref=s1e522]
+      - img [ref=s1e526]
+      - button "Play Tausend Geschichten" [ref=s1e529]
+      - link "Tausend Geschichten" [ref=s1e533]:
+        - /url: /album/6uJvqBZx0cZb6dM6J6fYJ
+        - paragraph [ref=s1e534]: Tausend Geschichten
+      - time [ref=s1e540]: 2024 •
+      - text: Single
+    - region "Featuring 52Blue" [ref=s1e546]:
+      - group [ref=s1e548]:
+        - heading "Featuring 52Blue" [level=2] [ref=s1e551]:
+          - link "Featuring 52Blue" [ref=s1e553]:
+            - /url: /artist/3Kq1Y1DLYCLgARBE3UnJJR/featuring
+      - button "52Blue Radio By Spotify" [ref=s1e555]
+      - img [ref=s1e559]
+      - button "Play 52Blue Radio" [ref=s1e562]
+      - link "52Blue Radio" [ref=s1e566]:
+        - /url: /playlist/37i9dQZF1DX4sWfpw3I0aZ
+        - paragraph [ref=s1e567]: 52Blue Radio
+      - text: By Spotify
+    - heading "About" [level=2] [ref=s1e572]
+    - button "52Blue" [ref=s1e574]: 24,536 monthly listeners
+    - region "Similar artists" [ref=s1e580]:
+      - group [ref=s1e582]:
+        - heading "Similar artists" [level=2] [ref=s1e585]:
+          - link "Similar artists" [ref=s1e587]:
+            - /url: /artist/3Kq1Y1DLYCLgARBE3UnJJR/similar-artists
+      - button "Hello Hannes Artist" [ref=s1e590]
+      - img [ref=s1e594]
+      - button "Play Hello Hannes" [ref=s1e597]
+      - link "Hello Hannes" [ref=s1e601]:
+        - /url: /artist/1cVwVJ7Qh6LQ4f6L6h8pN
+        - paragraph [ref=s1e602]: Hello Hannes
+      - text: Artist
+      - button "2late4hugs Artist" [ref=s1e610]
+      - img [ref=s1e614]
+      - button "Play 2late4hugs" [ref=s1e617]
+      - link "2late4hugs" [ref=s1e621]:
+        - /url: /artist/3moGHNhXc2gtN5J4LSuT9h
+        - paragraph [ref=s1e622]: 2late4hugs
+      - text: Artist
+      - button "Dropped here Artist" [ref=s1e630]
+      - img [ref=s1e634]
+      - button "Play Dropped here" [ref=s1e637]
+      - link "Dropped here" [ref=s1e641]:
+        - /url: /artist/5FECq3e1DYc0vXzgbz0kll
+        - paragraph [ref=s1e642]: Dropped here
+      - text: Artist
+      - button "El Rafo Artist" [ref=s1e650]
+      - img [ref=s1e654]
+      - button "Play El Rafo" [ref=s1e657]
+      - link "El Rafo" [ref=s1e661]:
+        - /url: /artist/7MB1KfCWLsc8ZNvUKQsSXx
+        - paragraph [ref=s1e662]: El Rafo
+      - text: Artist
+      - button "to.ly808 Artist" [ref=s1e670]
+      - img [ref=s1e674]
+      - button "Play to.ly808" [ref=s1e677]
+      - link "to.ly808" [ref=s1e681]:
+        - / /url: /artist/02IABF60IVnvaMeWs3oWwK
+        - paragraph [ref=s1e682]: to.ly808
+      - text: Artist
+      - button "mczy808 Artist" [ref=s1e690]
+      - img [ref=s1e694]
+      - button "Play mczy808" [ref=s1e697]
+      - link "mczy808" [ref=s1e701]:
+        - /url: /artist/5FECq3e1DYc0vXzgbz0kll
+        - paragraph [ref=s1e702]: mczy808
+      - text: Artist
+      - button "YASSINE Artist" [ref=s1e710]
+      - img [ref=s1e714]
+      - button "Play YASSINE" [ref=s1e717]
+      - link "YASSINE" [ref=s1e721]:
+        - /url: /artist/4OCsXXjPfgZ9leGFuAdaHU
+        - paragraph [ref=s1e722]: YASSINE
+      - text: Artist
+      - button "Bxgdan Artist" [ref=s1e730]
+      - img [ref=s1e734]
+      - button "Play Bxgdan" [ref=s1e737]
+      - link "Bxgdan" [ref=s1e741]:
+        - /url: /artist/5A1a100sBsZVdae2m5TB1f
+        - paragraph [ref=s1e742]: Bxgdan
+      - text: Artist
+      - button "isolated Artist" [ref=s1e750]
+      - img [ref=s1e754]
+      - button "Play isolated" [ref=s1e757]
+      - link "isolated" [ref=s1e761]:
+        - /url: /artist/6TcAvGALRcZfFo06zjzx5l
+        - paragraph [ref=s1e762]: isolated
+      - text: Artist
+      - button "kid kensaii Artist" [ref=s1e770]
+      - img [ref=s1e774]
+      - button "Play kid kensaii" [ref=s1e777]
+      - link "kid kensaii" [ref=s1e781]:
+        - /url: /artist/4x8bvjL7fkkBPYusPslzFK
+        - paragraph [ref=s1e782]: kid kensaii
+      - text: Artist
+    - region "Appears On" [ref=s1e790]:
+      - group [ref=s1e792]:
+        - heading "Appears On" [level=2] [ref=s1e795]:
+          - link "Appears On" [ref=s1e797]:
+            - /url: /artist/3Kq1Y1DLYCLgARBE3UnJJR/appears-on
+        - link "Show all" [ref=s1e799]:
+          - /url: /artist/3Kq1Y1DLYCLgARBE3UnJJR/appears-on
+      - button "FRIENDS I'D LIKE TO DIE WITH♰ 2025 • Album" [ref=s1e803]
+      - img [ref=s1e807]
+      - button "Play FRIENDS I'D LIKE TO DIE WITH♰" [ref=s1e810]
+      - link "FRIENDS I'D LIKE TO DIE WITH♰" [ref=s1e814]:
+        - /url: /album/368lPjnSCtHiEw1DCKTm4Z
+        - paragraph [ref=s1e815]: FRIENDS I'D LIKE TO DIE WITH♰
+      - time [ref=s1e821]: 2025 •
+      - text: Album
+      - button "NERVENKONSTRUKT 2024 • Album" [ref=s1e824]
+      - img [ref=s1e828]
+      - button "Play NERVENKONSTRUKT" [ref=s1e831]
+      - link "NERVENKONSTRUKT" [ref=s1e835]:
+        - /url: /album/202PduBgOKL9UtDaQLYfkI
+        - paragraph [ref=s1e836]: NERVENKONSTRUKT
+      - time [ref=s1e842]: 2024 •
+      - text: Album
+    - separator [ref=s1e849]
+    - navigation [ref=s1e851]:
+      - list [ref=s1e855]:
+        - paragraph [ref=s1e856]: Company
+        - link "Impressum / Transparenzinformation" [ref=s1e857]:
+          - /url: https://www.spotify.com/de/about-us/impressum/
+        - link "About" [ref=s1e859]:
+          - /url: https://www.spotify.com/de/about-us/contact/
+        - link "Jobs" [ref=s1e861]:
+          - /url: https://www.lifeatspotify.com/
+        - link "For the Record" [ref=s1e863]:
+          - /url: https://newsroom.spotify.com/
+      - list [ref=s1e866]:
+        - paragraph [ref=s1e867]: Communities
+        - link "For Artists" [ref=s1e868]:
+          - /url: https://artists.spotify.com/
+        - link "Developers" [ref=s1e870]:
+          - /url: https://developer.spotify.com/
+        - link "Advertising" [ref=s1e872]:
+          - /url: https://ads.spotify.com/
+        - link "Investors" [ref=s1e874]:
+          - /url: https://investors.spotify.com/
+        - link "Vendors" [ref=s1e876]:
+          - /url: https://spotifyforvendors.com/
+      - list [ref=s1e879]:
+        - paragraph [ref=s1e880]: Useful links
+        - link "Support" [ref=s1e881]:
+          - /url: https://support.spotify.com/
+        - link "Free Mobile App" [ref=s1e883]:
+          - /url: https://www.spotify.com/de/download/
+        - link "Verträge hier kündigen" [ref=s1e885]:
+          - /url: https://www.spotify.com/de/account/cancel/
+        - link "Popular by Country" [ref=s1e887]:
+          - /url: /popular-in/de
+        - link "Import your music" [ref=s1e889]:
+          - /url: https://www.spotify.com/de/import-music/
+      - list [ref=s1e892]:
+        - paragraph [ref=s1e893]: Spotify Plans
+        - link "Premium Individual" [ref=s1e894]:
+          - /url: https://www.spotify.com/de/premium/#ref=spotifycom_footer_premium_individual
+        - link "Premium Duo" [ref=s1e896]:
+          - /url: https://www.spotify.com/de/duo/#ref=spotifycom_footer_premium_duo
+        - link "Premium Family" [ref=s1e898]:
+          - /url: https://www.spotify.com/de/family/#ref=spotifycom_footer_premium_family
+        - link "Premium Student" [ref=s1e902]:
+          - /url: https://www.spotify.com/de/student/#ref=spotifycom_footer_premium_student
+        - link "Spotify Free" [ref=s1e904]:
+          - /url: https://www.spotify.com/de/free/#ref=spotifycom_footer_premium_free
+      - link "Instagram" [ref=s1e908]:
+        - /url: https://instagram.com/spotify
+      - link "Twitter" [ref=s1e910]:
+        - /url: https://twitter.com/spotify
+      - link "Facebook" [ref=s1e912]:
+        - /url: https://www.facebook.com/Spotify
+      - separator [ref=s1e913]
+      - link "Legal" [ref=s1e918]:
+        - /url: https://www.spotify.com/de/legal/
+      - link "Safety & Privacy Center" [ref=s1e921]:
+        - /url: https://www.spotify.com/de/safetyandprivacy/
+      - link "Privacy Policy" [ref=s1e924]:
+        - /url: https://www.spotify.com/de/legal/privacy-policy/
+      - button "Cookie Settings" [ref=s1e927]
+      - link "About Ads" [ref=s1e930]:
+        - /url: https://www.spotify.com/de/legal/privacy-policy/#s3
+      - link "Accessibility" [ref=s1e934]:
+        - /url: https://www.spotify.com/de/accessibility/
+      - paragraph [ref=s1e938]: © 2026 Spotify AB
+  - complementary "Now playing view" [ref=s1e946]:
+    - button "Hide Now Playing view" [ref=s1e950]
+    - link "Rasenschach" [ref=s1e952]:
+      - /url: /album/0eyNmAznsO2cBF9hM17niE?uid=614a034332ca07058dd7&uri=spotify:track:7jFcvN0U0ZZIXgfyEDYkcj
+      - heading "Rasenschach" [level=1] [ref=s1e956]
+    - button "More options for Rasenschach" [ref=s1e959]
+    - button "Expand Now Playing view" [ref=s1e960]
+    - 'link "Now playing: Rasenschach by Filow" [ref=s1e972]':
+      - /url: /album/0eyNmAznsO2cBF9hM17niE?uid=614a034332ca07058dd7&uri=spotify%3Atrack%3A7jFcvN0U0ZZIXgfyEDYkcj
+    - link "Rasenschach" [ref=s1e981]:
+      - /url: /album/0eyNmAznsO2cBF9hM17niE
+    - link "Filow" [ref=s1e989]:
+      - /url: /artist/0BRUlYcw8Rr4MGHe8kRgTv
+    - button "Copy link to Song" [ref=s1e990]
+    - button "Add to Liked Songs" [ref=s1e992]
+    - heading "Credits" [level=2] [ref=s1e995]
+    - button "Show all" [ref=s1e997]
+    - group [ref=s1e999]:
+      - button "Main Artist" [ref=s1e1000]
+      - link "Filow" [ref=s1e1003]:
+        - /url: /artist/0BRUlYcw8Rr4MGHe8kRgTv
+      - paragraph [ref=s1e1004]: Main Artist
+      - button "Follow" [ref=s1e1008]
+    - group [ref=s1e1009]:
+      - text: Felix Filow
+      - paragraph [ref=s1e1013]: Author
+    - heading "On tour" [level=2] [ref=s1e1018]
+    - button "Show all" [ref=s1e1020]
+    - link "Jun 19 SCHEESSEL Donots, Papa Roach, Pennywise, The Offspring, Billy Talent, Bosse, Alexisonfire, Modeselektor, Skindred, The Ataris, zebrahead, Sondaschule, Natasha Bedingfield, A Day To Remember, All Time Low, Boys Noize, Florence + The Machine, Empire Of The Sun, Kraftklub, Modestep, Basement, Twenty One Pilots, SSIO, Wolf Alice, Nothing But Thieves, SOFT PLAY, YUNGBLUD, The Beaches, grandson, BHZ, Ecca Vandal, Leony, OG Keemo, FiNCH, Roy Bianco & Die Abbrunzati Boys, YONAKA, The Butcher Sisters, Provinz, Drei Meter Feldweg, Betterov, Edwin Rosen, KAFFKIEZ, Esther Graf, Just Mustard, Davina Michelle, Militarie Gun, PA69, Destroy Boys, Ritter Lean, SPRINTS, rosmarin, Anda Morts, Tors, Delilah Bon, Royel Otis, Paula Engels, ROYA, unpeople, Kayla Shyx, Kingfishr, Filow, Vicky, PRESIDENT, Florence Road, Tinlicker Fri 12:00 PM•Eichenring Scheeßel" [ref=s1e1022]:
+      - /url: /concert/55nIEeBQ1QAeHUmwspdH3I
+      - time [ref=s1e1023]:
+        - paragraph [ref=s1e1024]: Jun
+        - paragraph [ref=s1e1025]: "19"
+      - heading "SCHEESSEL" [level=3] [ref=s1e1027]
+      - paragraph [ref=s1e1028]: Donots, Papa Roach, Pennywise, The Offspring, Billy Talent, Bosse, Alexisonfire, Modeselektor, Skindred, The Ataris, zebrahead, Sondaschule, Natasha Bedingfield, A Day To Remember, All Time Low, Boys Noize, Florence + The Machine, Empire Of The Sun, Kraftklub, Modestep, Basement, Twenty One Pilots, SSIO, Wolf Alice, Nothing But Thieves, SOFT PLAY, YUNGBLUD, The Beaches, grandson, BHZ, Ecca Vandal, Leony, OG Keemo, FiNCH, Roy Bianco & Die Abbrunzati Boys, YONAKA, The Butcher Sisters, Provinz, Drei Meter Feldweg, Betterov, Edwin Rosen, KAFFKIEZ, Esther Graf, Just Mustard, Davina Michelle, Militarie Gun, PA69, Destroy Boys, Ritter Lean, SPRINTS, rosmarin, Anda Morts, Tors, Delilah Bon, Royel Otis, Paula Engels, ROYA, unpeople, Kayla Shyx, Kingfishr, Filow, Vicky, PRESIDENT, Florence Road, Tinlicker
+      - time [ref=s1e1030]: Fri 12:00 PM•
+      - text: Eichenring Scheeßel
+    - heading "Merch" [ref=s1e1033]
+    - list [ref=s1e1035]:
+      - listitem [ref=s1e1036]:
+        - img "Tour 2026 - 24.11.2026 - Erlangen" [ref=s1e1038]
+        - link "Tour 2026 - 24.11.2026 - Erlangen" [ref=s1e1040]:
+          - /url: https://shop.spotify.com/en/artist/0BRUlYcw8Rr4MGHe8kRgTv/product/filow-tour-24-11-2026-erlangen?utm_source=spotify&utm_medium=app-nowplayingview&utm_term=00a46602bc1288309ff5773d1d457aee04890a5e72368104922f2e
+        - paragraph [ref=s1e1042]
+      - listitem [ref=s1e1043]:
+        - img "Tour 2026 - 06.12.2026 - Köln" [ref=s1e1045]:
+          - link "Tour 2026 - 06.12.2026 - Köln" [ref=s1e1047]:
+            - /url: https://shop.spotify.com/en/artist/0BRUlYcw8Rr4MGHe8kRgTv/product/filow-tour-06-12-2026-koln?utm_source=spotify&utm_medium=app-nowplayingview&utm_term=00a46602bc1288309ff5773d1d457aee04890a5e72368104922f2e
+        - paragraph [ref=s1e1049]
+      - listitem [ref=s1e1050]:
+        - img "Tour 2026 - 26.11.2026 - Frankfurt" [ref=s1e1052]:
+          - link "Tour 2026 - 26.11.2026 - Frankfurt" [ref=s1e1054]:
+            - /url: https://shop.spotify.com/en/artist/0BRUlYcw8Rr4MGHe8kRgTv/product/filow-tour-26-11-2026-frankfurt?utm_source=spotify&utm_medium=app-nowplayingview&utm_term=00a46602bc1288309ff5773d1d457aee04890a5e72368104922f2e
+        - paragraph [ref=s1e1056]
+    - heading "Next in queue" [level=2] [ref=s1e1059]
+    - button "Open queue" [ref=s1e1061]
+    - list [ref=s1e1062]:
+      - row "Anders" [expanded] [level=1] [ref=s1e1063]:
+        - group "Anders" [ref=s1e1064]:
+          - button "Anders 01099, Paul, Ski Aggu" [ref=s1e1065]
+          - button "Play Anders by 01099, Paul, Ski Aggu" [ref=s1e1072]
+          - paragraph [ref=s1e1075]: Anders
+          - paragraph [ref=s1e1077]:
+            - link "01099" [ref=s1e1080]:
+              - /url: /artist/3Z3aTg9PwJ37e8xeO0aUC9
+            - text: ","
+            - link "Paul" [ref=s1e1081]:
+              - /url: /artist/2SRd7Kx7xWkZjoaFKgEreg
+            - text: ","
+            - link "Ski Aggu" [ref=s1e1082]:
+              - /url: /artist/6CP5wWvO8oIxedESJNCN4H
+          - button "More options for Anders" [ref=s1e1085]
+  - text: Resize main navigation
+  - slider "Resize main navigation" [ref=s1e1088]: "420"
+  - status [ref=s1e1095]: "Now playing: Rasenschach by Filow"
+```
+
+## Key Information Extracted:
+- **Artist Name**: 52Blue
+- **Monthly Listeners**: 24,536
+- **Top Tracks**: 
+  1. Two Pieces - 602,200 plays
+  2. Blick über die Stadt - 542,325 plays
+  3. 5 Monster Energy (feat. Hello Hannes) - 9,072 plays
+  4. h1ghsc0re (feat. Hello Hannes) - 10,512 plays
+  5. Tote Rosen (feat. Dropped here) - 161,967 plays
+- **Latest Release**: Keine Drogen - Single
+- **Artist pick**: run it up!! - Keine Drogen promotion
+- **Collaborations**: Hello Hannes, Dropped here
+- **Related Artists**: Hello Hannes, 2late4hugs, Dropped here, El Rafo, to.ly808, mczy808, YASSINE, Bxgdan, isolated, kid kensaii
+- **Albums**: L(i)ebe (2023), 52Hz (2022), Tiefsee (2025)
+- **Singles**: Keine Drogen (2026), Two Pieces (2023), 5 Monster Energy (2026), Dummer Junge (2024), h1ghsc0re (2026), Tausend Geschichten (2024)
+
+## Navigation Elements:
+- Library with minimal content
+- Multiple related artists visible
+- Now playing: Rasenschach by Filow
+- Full discography and popular tracks section
+- Artist profile with image and follow button
+- Radio playlist available
+
+## Status: ✅ Complete screenshot captured and saved

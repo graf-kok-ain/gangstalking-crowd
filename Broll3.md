@@ -4,6 +4,8 @@
 - **Spotify ID**: 6vDkcoN7DTJJgxdoDZTZnW
 - **Spotify Link**: https://open.spotify.com/artist/6vDkcoN7DTJJgxdoDZTZnW
 - **Original Spotify-Link**: https://open.spotify.com/artist/6vDkcoN7DTJJgxdoDZTZnW?si=f6523f81492b4cdc
+- **Collection Timestamp**: 26.02.2026 03:22 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 20:25 (Page Loading Issues Confirmed via MCP Browser)
 - **Monthly Listeners**: 25 (captured: 26.02.2026 03:22)
 - **Followers**: Not available
 - **Genre**: Rap/Hip-Hop

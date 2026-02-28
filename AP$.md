@@ -4,6 +4,8 @@
 - **Spotify ID**: 3QcHVaIAppi8WZyd1k43ZE
 - **Spotify Link**: https://open.spotify.com/artist/3QcHVaIAppi8WZyd1k43ZE
 - **Original Spotify-Link**: https://open.spotify.com/artist/3QcHVaIAppi8WZyd1k43ZE?si=f6523f81492b4cdc
+- **Collection Timestamp**: 26.02.2026 03:04 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 19:35 (Page Loading Issues Confirmed via MCP Browser)
 - **Monthly Listeners**: 3 (captured: 26.02.2026 03:04)
 - **Followers**: Not available
 - **Genre**: Rap/Hip-Hop

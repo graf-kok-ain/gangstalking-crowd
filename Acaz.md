@@ -4,6 +4,8 @@
 - **Spotify ID**: 5IzV0mvf03uakVaCDgbRpH
 - **Spotify Link**: https://open.spotify.com/artist/5IzV0mvf03uakVaCDgbRpH
 - **Original Spotify-Link**: https://open.spotify.com/artist/5IzV0mvf03uakVaCDgbRpH?si=f6523f81492b4cdc
+- **Collection Timestamp**: 28.02.2026 19:05 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 19:15 (Page Loading Issues Confirmed via MCP Browser)
 - **Monthly Listeners**: Not available (page loading issues)
 - **Followers**: Not available
 - **Genre**: Not specified (likely German music based on context)

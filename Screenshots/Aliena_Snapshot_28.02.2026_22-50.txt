@@ -1,0 +1,464 @@
+# Aliena. - Spotify Screenshot
+## Timestamp: 28.02.2026 22:50
+## URL: https://open.spotify.com/artist/2OyB3aZA4sxx4LPNEb0546
+## Page Title: Aliena. | Spotify
+
+## Complete Page Content:
+```yaml
+- document [ref=s1e2]:
+  - document [ref=s1e6]
+  - link "Skip to main content" [ref=s1e16]:
+    - /url: "#main-view"
+  - link "Spotify" [ref=s1e19]:
+    - /url: /
+    - img "Spotify" [ref=s1e20]
+  - button "Home" [ref=s1e24]
+  - search [ref=s1e26]:
+    - button "Search" [ref=s1e28]
+    - combobox "What do you want to play?" [ref=s1e30]
+    - button "Browse" [ref=s1e34]
+  - button "Upgrade to Premium" [ref=s1e37]: Explore Premium
+  - link "Install App" [ref=s1e39]:
+    - /url: /download
+  - button "What's New" [ref=s1e42]
+  - button "Friend Activity" [ref=s1e43]
+  - button "Toni Be" [ref=s1e44]:
+    - figure "Toni Be" [ref=s1e45]:
+      - img "Toni Be" [ref=s1e47]
+  - navigation "Main" [ref=s1e49]:
+    - button "Open Your Library" [ref=s1e57]:
+      - heading "Your Library" [level=1] [ref=s1e61]
+    - button "Create" [ref=s1e63]
+    - grid "Your Library" [ref=s1e69]:
+      - row [ref=s1e73]
+      - row [ref=s1e78]
+  - text: Resize main navigation
+  - slider "Resize main navigation" [ref=s1e82]: "72"
+  - complementary "Now playing bar" [ref=s1e84]:
+    - 'region "Now playing: Rasenschach by Filow" [ref=s1e87]':
+      - button "Now playing view" [ref=s1e90]
+      - link "Rasenschach" [ref=s1e99]:
+        - /url: /album/0eyNmAznsO2cBF9hM17niE
+      - link "Filow" [ref=s1e107]:
+        - /url: /artist/0BRUlYcw8Rr4MGHe8kRgTv
+      - button "Add to Liked Songs" [ref=s1e109]
+    - button "Enable Shuffle for Rasenschach" [ref=s1e114]
+    - button "Previous" [ref=s1e115]
+    - button "Play" [ref=s1e116]
+    - button "Next" [ref=s1e119]
+    - checkbox "Enable repeat" [ref=s1e120]
+    - text: 0:02 Change progress
+    - slider "Change progress" [ref=s1e126]: "0"
+    - text: 2:24
+    - button "Lyrics" [ref=s1e136]
+    - button "Queue" [ref=s1e138]
+    - button "Connect to a device" [ref=s1e140]
+    - button "Mute" [ref=s1e142]
+    - text: Change volume
+    - slider "Change volume" [ref=s1e146]: "1"
+    - button "Open Miniplayer" [ref=s1e153]
+    - button "Enter Full screen" [ref=s1e154]
+  - banner "Top bar and user menu" [ref=s1e156]
+  - main "Aliena. | Spotify" [ref=s1e169]:
+    - text: Aliena. 135 monthly listeners
+    - button "Play" [ref=s1e187]
+    - button "Explore Aliena." [ref=s1e189]:
+      - img [ref=s1e192]
+      - img [ref=s1e204]
+    - button "Enable Shuffle for Aliena." [ref=s1e206]
+    - button "Follow" [ref=s1e207]
+    - button "More options for Aliena." [ref=s1e208]
+    - heading "Popular" [level=2] [ref=s1e213]
+    - grid "popular tracks" [ref=s1e215]:
+      - row "1 Play Raum und Zeit by Aliena. Raum und Zeit 1,186 Add to Liked Songs 2:27 More options for Raum und Zeit by Aliena." [ref=s1e225]:
+        - gridcell "1 Play Raum und Zeit by Aliena." [ref=s1e227]:
+          - text: "1"
+          - button "Play Raum und Zeit by Aliena." [ref=s1e230]
+        - gridcell "Raum und Zeit" [ref=s1e231]:
+          - img [ref=s1e232]
+          - link "Raum und Zeit" [ref=s1e234]:
+            - /url: /track/4AfRK8c7avkS2y4T4Mzb9l
+        - gridcell "1,186" [ref=s1e236]
+        - gridcell "Add to Liked Songs 2:27 More options for Raum und Zeit by Aliena." [ref=s1e238]:
+          - button "Add to Liked Songs" [ref=s1e239]
+          - text: 2:27
+          - button "More options for Raum und Zeit by Aliena." [ref=s1e241]
+      - row "2 Play Weniger von mir by Aliena. Weniger von mir 11,917 Add to Liked Songs 2:42 More options for Weniger von mir by Aliena." [ref=s1e242]:
+        - gridcell "2 Play Weniger von mir by Aliena." [ref=s1e244]:
+          - text: "2"
+          - button "Play Weniger von mir by Aliena." [ref=s1e247]
+        - gridcell "Weniger von mir" [ref=s1e248]:
+          - img [ref=s1e249]
+          - link "Weniger von mir" [ref=s1e251]:
+            - /url: /track/52uiDXoUgN2puFU8a2DUcL
+        - gridcell "11,917" [ref=s1e253]
+        - gridcell "Add to Liked Songs 2:42 More options for Weniger von mir by Aliena." [ref=s1e255]:
+          - button "Add to Liked Songs" [ref=s1e256]
+          - text: 2:42
+          - button "More options for Weniger von mir by Aliena." [ref=s1e258]
+      - row "3 Play OHNE DICH by Aliena., Laer Xirtam OHNE DICH 12,162 Add to Liked Songs 2:22 More options for OHNE DICH by Aliena., Laer Xirtam" [ref=s1e259]:
+        - gridcell "3 Play OHNE DICH by Aliena., Laer Xirtam" [ref=s1e261]:
+          - text: "3"
+          - button "Play OHNE DICH by Aliena., Laer Xirtam" [ref=s1e264]
+        - gridcell "OHNE DICH" [ref=s1e265]:
+          - img [ref=s1e266]
+          - link "OHNE DICH" [ref=s1e268]:
+            - /url: /track/2JgyqbNAcWvZqHC3y3NSb9
+        - gridcell "12,162" [ref=s1e270]
+        - gridcell "Add to Liked Songs 2:22 More options for OHNE DICH by Aliena., Laer Xirtam" [ref=s1e272]:
+          - button "Add to Liked Songs" [ref=s1e273]
+          - text: 2:22
+          - button "More options for OHNE DICH by Aliena., Laer Xirtam" [ref=s1e275]
+      - row "4 Play BLACKOUT by Aliena. BLACKOUT 7,074 Add to Liked Songs 2:29 More options for BLACKOUT by Aliena." [ref=s1e276]:
+        - gridcell "4 Play BLACKOUT by Aliena." [ref=s1e278]:
+          - text: "4"
+          - button "Play BLACKOUT by Aliena." [ref=s1e281]
+        - gridcell "BLACKOUT" [ref=s1e282]:
+          - img [ref=s1e283]
+          - link "BLACKOUT" [ref=s1e285]:
+            - /url: /track/5Ie0GAiu6wTATfv4zne1XX
+        - gridcell "7,074" [ref=s1e287]
+        - gridcell "Add to Liked Songs 2:29 More options for BLACKOUT by Aliena." [ref=s1e289]:
+          - button "Add to Liked Songs" [ref=s1e290]
+          - text: 2:29
+          - button "More options for BLACKOUT by Aliena." [ref=s1e292]
+      - row "5 Play KALT BEI DIR by Aliena., NYAR KALT BEI DIR 5,760 Add to Liked Songs 2:51 More options for KALT BEI DIR by Aliena., NYAR" [ref=s1e293]:
+        - gridcell "5 Play KALT BEI DIR by Aliena., NYAR" [ref=s1e295]:
+          - text: "5"
+          - button "Play KALT BEI DIR by Aliena., NYAR" [ref=s1e298]
+        - gridcell "KALT BEI DIR" [ref=s1e299]:
+          - img [ref=s1e300]
+          - link "KALT BEI DIR" [ref=s1e302]:
+            - /url: /track/4xbDcHNnvYQSP6HiIBi7mF
+        - gridcell "5,760" [ref=s1e304]
+        - gridcell "Add to Liked Songs 2:51 More options for KALT BEI DIR by Aliena., NYAR" [ref=s1e306]:
+          - button "Add to Liked Songs" [ref=s1e307]
+          - text: 2:51
+          - button "More options for KALT BEI DIR by Aliena., NYAR" [ref=s1e309]
+    - button "See more" [ref=s1e317]
+    - heading "Artist pick" [level=2] [ref=s1e321]
+    - img [ref=s1e324]
+    - figure "Aliena." [ref=s1e327]:
+      - img "Aliena." [ref=s1e329]
+    - text: Papa, der Song ist für dich 🕊️
+    - link "Raum und Zeit" [ref=s1e332]:
+      - /url: /album/3OLzZZYu4er0o3wYO2OopD
+    - text: Single
+    - region "Discography" [ref=s1e334]:
+      - group [ref=s1e336]:
+        - heading "Discography" [level=2] [ref=s1e339]:
+          - link "Discography" [ref=s1e341]:
+            - /url: /artist/2OyB3aZA4sxx4LPNEb0546/discography/all
+        - link "Show all" [ref=s1e343]:
+          - /url: /artist/2OyB3aZA4sxx4LPNEb0546/discography/all
+      - checkbox "Popular releases" [checked] [ref=s1e347]
+      - checkbox "Singles and EPs" [ref=s1e349]
+      - button "Raum und Zeit Latest Release • Single" [ref=s1e353]
+      - img [ref=s1e357]
+      - button "Play Raum und Zeit" [ref=s1e360]
+      - link "Raum und Zeit" [ref=s1e364]:
+        - /url: /album/3OLzZZYu4er0o3wYO2OopD
+        - paragraph [ref=s1e365]: Raum und Zeit
+      - time [ref=s1e371]: Latest Release •
+      - text: Single
+      - button "Weniger von mir 2025 • Single" [ref=s1e374]
+      - img [ref=s1e378]
+      - button "Play Weniger von mir" [ref=s1e381]
+      - link "Weniger von mir" [ref=s1e385]:
+        - /url: /album/4Qz3b64eluhXFMYxk0jqWz
+        - paragraph [ref=s1e386]: Weniger von mir
+      - time [ref=s1e392]: 2025 •
+      - text: Single
+      - button "Dunkle Kapitel 2025 • Single" [ref=s1e395]
+      - img [ref=s1e399]
+      - button "Play Dunkle Kapitel" [ref=s1e402]
+      - link "Dunkle Kapitel" [ref=s1e406]:
+        - /url: /album/0NA8ftcy0a9oWFMfr8HgC1
+        - paragraph [ref=s1e407]: Dunkle Kapitel
+      - time [ref=s1e413]: 2025 •
+      - text: Single
+      - button "BLACKOUT 2024 • Single" [ref=s1e416]
+      - img [ref=s1e420]
+      - button "Play BLACKOUT" [ref=s1e423]
+      - link "BLACKOUT" [ref=s1e427]:
+        - /url: /album/4XxSdGLaaIq3m14DU44OcQ
+        - paragraph [ref=s1e428]: BLACKOUT
+      - time [ref=s1e434]: 2024 •
+      - text: Single
+      - button "KALT BEI DIR 2024 • Single" [ref=s1e437]
+      - img [ref=s1e441]
+      - button "Play KALT BEI DIR" [ref=s1e444]
+      - link "KALT BEI DIR" [ref=s1e448]:
+        - /url: /album/3W8VAB8fMkLzOxToNqnaG7
+        - paragraph [ref=s1e449]: KALT BEI DIR
+      - time [ref=s1e455]: 2024 •
+      - text: Single
+      - button "Lass die Sonne kommen 2024 • Single" [ref=s1e458]
+      - img [ref=s1e462]
+      - button "Play Lass die Sonne kommen" [ref=s1e465]
+      - link "Lass die Sonne kommen" [ref=s1e469]:
+        - /url: /album/725XdNxdJUwcmZPMFBRYMH
+        - paragraph [ref=s1e470]: Lass die Sonne kommen
+      - time [ref=s1e476]: 2024 •
+      - text: Single
+      - button "OHNE DICH 2024 • Single" [ref=s1e479]
+      - img [ref=s1e483]
+      - button "Play OHNE DICH" [ref=s1e486]
+      - link "OHNE DICH" [ref=s1e490]:
+        - /url: /album/1sVuzYWq4kUkt1LtwmgxnY
+        - paragraph [ref=s1e491]: OHNE DICH
+      - time [ref=s1e497]: 2024 •
+      - text: Single
+      - button "POISON 2024 • Single" [ref=s1e500]
+      - img [ref=s1e504]
+      - button "Play POISON" [ref=s1e507]
+      - link "POISON" [ref=s1e511]:
+        - /url: /album/0rKRgBAiqBVyllkrsc76us
+        - paragraph [ref=s1e512]: POISON
+      - time [ref=s1e518]: 2024 •
+      - text: Single
+      - button "Seni Seviyorum 2024 • Single" [ref=s1e521]
+      - img [ref=s1e525]
+      - button "Play Seni Seviyorum" [ref=s1e528]
+      - link "Seni Seviyorum" [ref=s1e532]:
+        - /url: /album/1fbrLo1Qv7Pl5GaTZDv7cI
+        - paragraph [ref=s1e533]: Seni Seviyorum
+      - time [ref=s1e539]: 2024 •
+      - text: Single
+    - region "Featuring Aliena." [ref=s1e541]:
+      - group [ref=s1e543]:
+        - heading "Featuring Aliena." [level=2] [ref=s1e546]:
+          - link "Featuring Aliena." [ref=s1e548]:
+            - /url: /artist/2OyB3aZA4sxx4LPNEb0546/featuring
+      - button "Aliena. Radio By Spotify" [ref=s1e551]
+      - img [ref=s1e555]
+      - button "Play Aliena. Radio" [ref=s1e558]
+      - link "Aliena. Radio" [ref=s1e562]:
+        - /url: /playlist/37i9dQZF1E4yWB3mv7lz0b
+        - paragraph [ref=s1e563]: Aliena. Radio
+      - text: By Spotify
+    - heading "About" [ref=s1e573]
+    - button "Aliena." [ref=s1e575]:
+      - figure "Aliena." [ref=s1e577]:
+        - img "Aliena." [ref=s1e579]
+      - text: 135 monthly listeners
+    - region "Similar artists" [ref=s1e585]:
+      - group [ref=s1e587]:
+        - heading "Similar artists" [level=2] [ref=s1e590]:
+          - link "Similar artists" [ref=s1e592]:
+            - /url: /artist/2OyB3aZA4sxx4LPNEb0546/similar-artists
+        - link "Show all" [ref=s1e594]:
+          - /url: /artist/2OyB3aZA4sxx4LPNEb0546/similar-artists
+      - button "Laer Xirtam Artist" [ref=s1e597]
+      - img [ref=s1e601]
+      - button "Play Laer Xirtam" [ref=s1e604]
+      - link "Laer Xirtam" [ref=s1e608]:
+        - /url: /artist/1TC5KDxcv3Dv1aZ30BHQed
+        - paragraph [ref=s1e609]: Laer Xirtam
+      - text: Artist
+      - button "NYAR Artist" [ref=s1e617]
+      - img [ref=s1e621]
+      - button "Play NYAR" [ref=s1e624]
+      - link "NYAR" [ref=s1e628]:
+        - /url: /artist/6lVpHSAKXJMPuvTdCN4kMn
+        - paragraph [ref=s1e629]: NYAR
+      - text: Artist
+      - button "Voruntergehend Artist" [ref=s1e637]
+      - img [ref=s1e641]
+      - button "Play Voruntergehend" [ref=s1e644]
+      - link "Voruntergehend" [ref=s1e648]:
+        - /url: /artist/0oWzYmYRv1uHLRnZpIuhPw
+        - paragraph [ref=s1e649]: Voruntergehend
+      - text: Artist
+    - region "Appears On" [ref=s1e657]:
+      - group [ref=s1e659]:
+        - heading "Appears On" [level=2] [ref=s1e662]:
+          - link "Appears On" [ref=s1e664]:
+            - /url: /artist/2OyB3aZA4sxx4LPNEb0546/appears-on
+      - button "Gedankenreich 2022 • Album" [ref=s1e667]
+      - img [ref=s1e671]
+      - button "Play Gedankenreich" [ref=s1e674]
+      - link "Gedankenreich" [ref=s1e678]:
+        - /url: /album/789VJzkiaFtnps1bJkcqgw
+        - paragraph [ref=s1e679]: Gedankenreich
+      - time [ref=s1e685]: 2022 •
+      - text: Album
+      - button "Stoner Girl 2023 • Single" [ref=s1e688]
+      - img [ref=s1e692]
+      - button "Play Stoner Girl" [ref=s1e695]
+      - link "Stoner Girl" [ref=s1e699]:
+        - /url: /album/74RLYiIF4iQhqdNpyi8Oj7
+        - paragraph [ref=s1e700]: Stoner Girl
+      - time [ref=s1e706]: 2023 •
+      - text: Single
+    - separator [ref=s1e709]
+    - navigation [ref=s1e711]:
+      - list [ref=s1e715]:
+        - paragraph [ref=s1e716]: Company
+        - link "Impressum / Transparenzinformation" [ref=s1e717]:
+          - /url: https://www.spotify.com/de/about-us/impressum/
+        - link "About" [ref=s1e719]:
+          - /url: https://www.spotify.com/de/about-us/contact/
+        - link "Jobs" [ref=s1e721]:
+          - /url: https://www.lifeatspotify.com/
+        - link "For the Record" [ref=s1e723]:
+          - /url: https://newsroom.spotify.com/
+      - list [ref=s1e726]:
+        - paragraph [ref=s1e727]: Communities
+        - link "For Artists" [ref=s1e728]:
+          - /url: https://artists.spotify.com/
+        - link "Developers" [ref=s1e730]:
+          - /url: https://developer.spotify.com/
+        - link "Advertising" [ref=s1e732]:
+          - /url: https://ads.spotify.com/
+        - link "Investors" [ref=s1e734]:
+          - /url: https://investors.spotify.com/
+        - link "Vendors" [ref=s1e736]:
+          - /url: https://spotifyforvendors.com/
+      - list [ref=s1e739]:
+        - paragraph [ref=s1e740]: Useful links
+        - link "Support" [ref=s1e742]:
+          - /url: https://support.spotify.com/
+        - link "Free Mobile App" [ref=s1e744]:
+          - /url: https://www.spotify.com/de/download/
+        - link "Verträge hier kündigen" [ref=s1e746]:
+          - /url: https://www.spotify.com/de/account/cancel/
+        - link "Popular by Country" [ref=s1e748]:
+          - /url: /popular-in/de
+        - link "Import your music" [ref=s1e750]:
+          - /url: https://www.spotify.com/de/import-music/
+      - list [ref=s1e753]:
+        - paragraph [ref=s1e754]: Spotify Plans
+        - link "Premium Individual" [ref=s1e756]:
+          - /url: https://www.spotify.com/de/premium/#ref=spotifycom_footer_premium_individual
+        - link "Premium Duo" [ref=s1e758]:
+          - /url: https://www.spotify.com/de/duo/#ref=spotifycom_footer_premium_duo
+        - link "Premium Family" [ref=s1e760]:
+          - /url: https://www.spotify.com/de/family/#ref=spotifycom_footer_premium_family
+        - link "Premium Student" [ref=s1e762]:
+          - /url: https://www.spotify.com/de/student/#ref=spotifycom_footer_premium_student
+        - link "Spotify Free" [ref=s1e764]:
+          - /url: https://www.spotify.com/de/free/#ref=spotifycom_footer_free
+      - link "Instagram" [ref=s1e766]:
+        - /url: https://instagram.com/spotify
+      - link "Twitter" [ref=s1e768]:
+        - /url: https://twitter.com/spotify
+      - link "Facebook" [ref=s1e770]:
+        - /url: https://www.facebook.com/Spotify
+      - separator [ref=s1e771]
+      - link "Legal" [ref=s1e776]:
+        - /url: https://www.spotify.com/de/legal/
+      - link "Safety & Privacy Center" [ref=s1e779]:
+        - /url: https://www.spotify.com/de/safetyandprivacy/
+      - link "Privacy Policy" [ref=s1e782]:
+        - /url: https://www.spotify.com/de/legal/privacy-policy/
+      - button "Cookie Settings" [ref=s1e785]
+      - link "About Ads" [ref=s1e788]:
+        - /url: https://www.spotify.com/de/legal/privacy-policy/#s3
+      - link "Accessibility" [ref=s1e791]:
+        - /url: https://www.spotify.com/de/accessibility/
+      - paragraph [ref=s1e795]: © 2026 Spotify AB
+  - complementary "Now playing view" [ref=s1e803]:
+    - button "Hide Now Playing view" [ref=s1e807]
+    - link "Rasenschach" [ref=s1e809]:
+      - /url: /album/0eyNmAznsO2cBF9hM17niE?uid=614a034332ca07058dd7&uri=spotify:track:7jFcvN0U0ZZIXgfyEDYkcj
+      - heading "Rasenschach" [level=1] [ref=s1e813]
+    - button "More options for Rasenschach" [ref=s1e816]
+    - button "Expand Now Playing view" [ref=s1e817]
+    - 'link "Now playing: Rasenschach by Filow" [ref=s1e829]':
+      - /url: /album/0eyNmAznsO2cBF9hM17niE?uid=614a034332ca07058dd7&uri=spotify%3Atrack%3A7jFcvN0U0ZZIXgfyEDYkcj
+    - link "Rasenschach" [ref=s1e838]:
+      - /url: /album/0eyNmAznsO2cBF9hM17niE
+    - link "Filow" [ref=s1e846]:
+      - /url: /artist/0BRUlYcw8Rr4MGHe8kRgTv
+    - button "Copy link to Song" [ref=s1e847]
+    - button "Add to Liked Songs" [ref=s1e849]
+    - heading "Credits" [level=2] [ref=s1e852]
+    - button "Show all" [ref=s1e854]
+    - group [ref=s1e856]:
+      - button "Main Artist" [ref=s1e857]
+      - link "Filow" [ref=s1e860]:
+        - /url: /artist/0BRUlYcw8Rr4MGHe8kRgTv
+      - paragraph [ref=s1e861]: Main Artist
+      - button "Follow" [ref=s1e865]
+    - group [ref=s1e866]:
+      - text: Felix Filow
+      - paragraph [ref=s1e870]: Author
+    - heading "On tour" [level=2] [ref=s1e875]
+    - button "Show all" [ref=s1e877]
+    - link "Jun 19 SCHEESSEL Donots, Papa Roach, Pennywise, The Offspring, Billy Talent, Bosse, Alexisonfire, Modeselektor, Skindred, The Ataris, zebrahead, Sondaschule, Natasha Bedingfield, A Day To Remember, All Time Low, Boys Noize, Florence + The Machine, Empire Of The Sun, Kraftklub, Modestep, Basement, Twenty One Pilots, SSIO, Wolf Alice, Nothing But Thieves, SOFT PLAY, YUNGBLUD, The Beaches, grandson, BHZ, Ecca Vandal, Leony, OG Keemo, FiNCH, Roy Bianco & Die Abbrunzati Boys, YONAKA, The Butcher Sisters, Provinz, Drei Meter Feldweg, Betterov, Edwin Rosen, KAFFKIEZ, Esther Graf, Just Mustard, Davina Michelle, Militarie Gun, PA69, Destroy Boys, Ritter Lean, SPRINTS, rosmarin, Anda Morts, Tors, Delilah Bon, Royel Otis, Paula Engels, ROYA, unpeople, Kayla Shyx, Kingfishr, Filow, Vicky, PRESIDENT, Florence Road, Tinlicker Fri 12:00 PM•Eichenring Scheeßel" [ref=s1e879]:
+      - /url: /concert/55nIEeBQ1QAeHUmwspdH3I
+      - time [ref=s1e880]:
+        - paragraph [ref=s1e881]: Jun
+        - paragraph [ref=s1e882]: "19"
+      - heading "SCHEESSEL" [level=3] [ref=s1e884]
+      - paragraph [ref=s1e885]: Donots, Papa Roach, Pennywise, The Offspring, Billy Talent, Bosse, Alexisonfire, Modeselektor, Skindred, The Ataris, zebrahead, Sondaschule, Natasha Bedingfield, A Day To Remember, All Time Low, Boys Noize, Florence + The Machine, Empire Of The Sun, Kraftklub, Modestep, Basement, Twenty One Pilots, SSIO, Wolf Alice, Nothing But Thieves, SOFT PLAY, YUNGBLUD, The Beaches, grandson, BHZ, Ecca Vandal, Leony, OG Keemo, FiNCH, Roy Bianco & Die Abbrunzati Boys, YONAKA, The Butcher Sisters, Provinz, Drei Meter Feldweg, Betterov, Edwin Rosen, KAFFKIEZ, Esther Graf, Just Mustard, Davina Michelle, Militarie Gun, PA69, Destroy Boys, Ritter Lean, SPRINTS, rosmarin, Anda Morts, Tors, Delilah Bon, Royel Otis, Paula Engels, ROYA, unpeople, Kayla Shyx, Kingfishr, Filow, Vicky, PRESIDENT, Florence Road, Tinlicker
+      - time [ref=s1e887]: Fri 12:00 PM•
+      - text: Eichenring Scheeßel
+    - heading "Merch" [ref=s1e890]
+    - list [ref=s1e892]:
+      - listitem [ref=s1e893]:
+        - img "Tour 2026 - 24.11.2026 - Erlangen" [ref=s1e895]
+        - link "Tour 2026 - 24.11.2026 - Erlangen" [ref=s1e897]:
+          - /url: https://shop.spotify.com/en/artist/0BRUlYcw8Rr4MGHe8kRgTv/product/filow-tour-24-11-2026-erlangen?utm_source=spotify&utm_medium=app-nowplayingview&utm_term=00a46602bc1288309ff5773d1d457aee04890a5e72368104922f2e
+        - paragraph [ref=s1e899]
+      - listitem [ref=s1e900]:
+        - img "Tour 2026 - 06.12.2026 - Köln" [ref=s1e902]:
+        - link "Tour 2026 - 06.12.2026 - Köln" [ref=s1e904]:
+          - /url: https://shop.spotify.com/en/artist/0BRUlYcw8Rr4MGHe8kRgTv/product/filow-tour-06-12-2026-koln?utm_source=spotify&utm_medium=app-nowplayingview&utm_term=00a46602bc1288309ff5773d1d457aee04890a5e72368104922f2e
+        - paragraph [ref=s1e906]
+      - listitem [ref=s1e909]:
+        - img "Tour 2026 - 26.11.2026 - Frankfurt" [ref=s1e911]:
+        - link "Tour 2026 - 26.11.2026 - Frankfurt" [ref=s1e913]:
+          - /url: https://shop.spotify.com/en/artist/0BRUlYcw8Rr4MGHe8kRgTv/product/filow-tour-26-11-2026-frankfurt?utm_source=spotify&utm_medium=app-nowplayingview&utm_term=00a46602bc1288309ff5773d1d457aee04890a5e72368104922f2e
+        - paragraph [ref=s1e915]
+    - heading "Next in queue" [level=2] [ref=s1e918]
+    - button "Open queue" [ref=s1e920]
+    - list [ref=s1e921]:
+      - row "Anders" [expanded] [level=1] [ref=s1e922]:
+        - group "Anders" [ref=s1e923]:
+          - button "Anders 01099, Paul, Ski Aggu" [ref=s1e924]
+          - button "Play Anders by 01099, Paul, Ski Aggu" [ref=s1e931]
+          - paragraph [ref=s1e934]: Anders
+          - paragraph [ref=s1e936]:
+            - link "01099" [ref=s1e939]:
+              - /url: /artist/3Z3aTg9PwJ37e8xeO0aUC9
+            - text: ","
+            - link "Paul" [ref=s1e940]:
+              - /url: /artist/2SRd7Kx7xWkZjoaFKgEreg
+            - text: ","
+            - link "Ski Aggu" [ref=s1e941]:
+              - /url: /artist/6CP5wWvO8oIxedESJNCN4H
+          - button "More options for Anders" [ref=s1e944]
+  - text: Resize main navigation
+  - slider "Resize main navigation" [ref=s1e947]: "420"
+  - status [ref=s1e968]: "Now playing: Rasenschach by Filow"
+```
+
+## Key Information Extracted:
+- **Artist Name**: Aliena.
+- **Monthly Listeners**: 135
+- **Top Tracks**: 
+  1. Raum und Zeit - 1,186 plays
+  2. Weniger von mir - 11,917 plays
+  3. OHNE DICH (feat. Laer Xirtam) - 12,162 plays
+  4. BLACKOUT - 7,074 plays
+  5. KALT BEI DIR (feat. NYAR) - 5,760 plays
+- **Latest Release**: Raum und Zeit - Single
+- **Artist pick**: "Papa, der Song ist für dich 🕊️" - promoting latest single
+- **Collaborations**: Laer Xirtam, NYAR
+- **Related Artists**: Laer Xirtam, NYAR, Voruntergehend
+- **Singles**: Raum und Zeit (2026), Weniger von mir (2025), Dunkle Kapitel (2025), BLACKOUT (2024), KALT BEI DIR (2024), Lass die Sonne kommen (2024), OHNE DICH (2024), POISON (2024), Seni Seviyorum (2024)
+- **Appears On**: Gedankenreich (2022), Stoner Girl (2023)
+
+## Navigation Elements:
+- Library with minimal content
+- Multiple related artists visible
+- Now playing: Rasenschach by Filow
+- Full discography and popular tracks section
+- Artist profile with image and follow button
+- Radio playlist available
+- Compilation appearances documented
+- Artist pick with personal dedication
+
+## Status: ✅ Complete screenshot captured and saved

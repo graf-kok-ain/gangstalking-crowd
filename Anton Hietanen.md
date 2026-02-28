@@ -4,6 +4,8 @@
 - **Spotify ID**: 6i9yD5InlxtUpPrTjV0vMy
 - **Spotify Link**: https://open.spotify.com/artist/6i9yD5InlxtUpPrTjV0vMy
 - **Original Spotify-Link**: https://open.spotify.com/artist/6i9yD5InlxtUpPrTjV0vMy?si=f6523f81492b4cdc
+- **Collection Timestamp**: 26.02.2026 03:34 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 19:30 (Artist Existence Confirmed - No Longer Available via MCP Browser)
 - **Monthly Listeners**: 29 (captured: 26.02.2026 03:34)
 - **Followers**: Not available
 - **Genre**: Emo Rap/Alternative

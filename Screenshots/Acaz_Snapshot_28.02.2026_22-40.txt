@@ -1,0 +1,507 @@
+# Acaz - Spotify Screenshot
+## Timestamp: 28.02.2026 22:40
+## URL: https://open.spotify.com/artist/71Jg8baiSsQR2EcjypfEc6
+## Page Title: Acaz | Spotify
+
+## Complete Page Content:
+```yaml
+- document [ref=s1e2]:
+  - document [ref=s1e6]
+  - link "Skip to main content" [ref=s1e16]:
+    - /url: "#main-view"
+  - link "Spotify" [ref=s1e19]:
+    - /url: /
+    - img "Spotify" [ref=s1e20]
+  - button "Home" [ref=s1e24]
+  - search [ref=s1e26]:
+    - button "Search" [ref=s1e28]
+    - combobox "What do you want to play?" [ref=s1e30]
+    - button "Browse" [ref=s1e34]
+  - button "Upgrade to Premium" [ref=s1e37]: Explore Premium
+  - link "Install App" [ref=s1e39]:
+    - /url: /download
+  - button "What's New" [ref=s1e42]
+  - button "Friend Activity" [ref=s1e43]
+  - button "Toni Be" [ref=s1e44]:
+    - figure "Toni Be" [ref=s1e45]:
+      - img "Toni Be" [ref=s1e47]
+  - navigation "Main" [ref=s1e49]:
+    - button "Open Your Library" [ref=s1e57]:
+      - heading "Your Library" [level=1] [ref=s1e61]
+    - button "Create" [ref=s1e63]
+    - grid "Your Library" [ref=s1e69]:
+      - row [ref=s1e73]
+      - row [ref=s1e78]
+  - text: Resize main navigation
+  - slider "Resize main navigation" [ref=s1e82]: "72"
+  - complementary "Now playing bar" [ref=s1e84]:
+    - 'region "Now playing: Rasenschach by Filow" [ref=s1e87]':
+      - button "Now playing view" [ref=s1e90]
+      - link "Rasenschach" [ref=s1e99]:
+        - /url: /album/0eyNmAznsO2cBF9hM17niE
+      - link "Filow" [ref=s1e107]:
+        - /url: /artist/0BRUlYcw8Rr4MGHe8kRgTv
+      - button "Add to Liked Songs" [ref=s1e109]
+    - button "Enable Shuffle for Rasenschach" [ref=s1e114]
+    - button "Previous" [ref=s1e115]
+    - button "Play" [ref=s1e116]
+    - button "Next" [ref=s1e119]
+    - checkbox "Enable repeat" [ref=s1e120]
+    - text: 0:02 Change progress
+    - slider "Change progress" [ref=s1e126]: "5000"
+    - text: 2:24
+    - button "Lyrics" [ref=s1e136]
+    - button "Queue" [ref=s1e138]
+    - button "Connect to a device" [ref=s1e140]
+    - button "Mute" [ref=s1e142]
+    - text: Change volume
+    - slider "Change volume" [ref=s1e146]: "1"
+    - button "Open Miniplayer" [ref=s1e153]
+    - button "Enter Full screen" [ref=s1e154]
+  - banner "Top bar and user menu" [ref=s1e156]
+  - main "Acaz | Spotify" [ref=s1e169]:
+    - text: Acaz 15,346 monthly listeners
+    - button "Play" [ref=s1e187]
+    - button "Explore Acaz" [ref=s1e189]:
+      - img [ref=s1e191]
+    - button "Enable Shuffle for Acaz" [ref=s1e193]
+    - button "Following" [ref=s1e194]
+    - button "More options for Acaz" [ref=s1e195]
+    - heading "Popular" [level=2] [ref=s1e200]
+    - grid "popular tracks" [ref=s1e202]:
+      - row "1 Play Nicht genug by Acaz, Krijo Stalka Nicht genug Explicit 18,294 Add to playlist 2:43 More options for Nicht genug by Acaz, Krijo Stalka" [ref=s1e212]:
+        - gridcell "1 Play Nicht genug by Acaz, Krijo Stalka" [ref=s1e214]:
+          - text: "1"
+          - button "Play Nicht genug by Acaz, Krijo Stalka" [ref=s1e217]
+        - gridcell "Nicht genug Explicit" [ref=s1e218]:
+          - img [ref=s1e219]
+          - link "Nicht genug" [ref=s1e221]:
+            - /url: /track/4URfHJxuEbDicF65ih5V39
+          - text: E
+        - gridcell "18,294" [ref=s1e226]
+        - gridcell "Add to playlist 2:43 More options for Nicht genug by Acaz, Krijo Stalka" [ref=s1e228]:
+          - button "Add to playlist" [ref=s1e229]
+          - text: 2:43
+          - button "More options for Nicht genug by Acaz, Krijo Stalka" [ref=s1e231]
+      - row "2 Play 32 Zeilen by Acaz 32 Zeilen Explicit 14,026 Add to playlist 2:37 More options for 32 Zeilen by Acaz" [ref=s1e232]:
+        - gridcell "2 Play 32 Zeilen by Acaz" [ref=s1e234]:
+          - text: "2"
+          - button "Play 32 Zeilen by Acaz" [ref=s1e237]
+        - gridcell "32 Zeilen Explicit" [ref=s1e238]:
+          - img [ref=s1e239]
+          - link "32 Zeilen" [ref=s1e241]:
+            - /url: /track/5fq18G18M7UnN8lAXibgse
+          - text: E
+        - gridcell "14,026" [ref=s1e246]
+        - gridcell "Add to playlist 2:37 More options for 32 Zeilen by Acaz" [ref=s1e248]:
+          - button "Add to playlist" [ref=s1e249]
+          - text: 2:37
+          - button "More options for 32 Zeilen by Acaz" [ref=s1e251]
+      - row "3 Play Nur noch 1 Song by Acaz, Krijo Stalka Nur noch 1 Song Explicit 21,859 Add to playlist 3:06 More options for Nur noch 1 Song by Acaz, Krijo Stalka" [ref=s1e252]:
+        - gridcell "3 Play Nur noch 1 Song by Acaz, Krijo Stalka" [ref=s1e254]:
+          - text: "3"
+          - button "Play Nur noch 1 Song by Acaz, Krijo Stalka" [ref=s1e257]
+        - gridcell "Nur noch 1 Song Explicit" [ref=s1e258]:
+          - img [ref=s1e259]
+          - link "Nur noch 1 Song" [ref=s1e261]:
+            - /url: /track/03jJXuZlganx8pVzoDhFZ3
+          - text: E
+        - gridcell "21,859" [ref=s1e266]
+        - gridcell "Add to playlist 3:06 More options for Nur noch 1 Song by Acaz, Krijo Stalka" [ref=s1e268]:
+          - button "Add to playlist" [ref=s1e269]
+          - text: 3:06
+          - button "More options for Nur noch 1 Song by Acaz, Krijo Stalka" [ref=s1e271]
+      - row "4 Play Herbst by Acaz, PRIMUS MPZ Herbst Explicit 8,634 Add to playlist 3:01 More options for Herbst by Acaz, PRIMUS MPZ" [ref=s1e272]:
+        - gridcell "4 Play Herbst by Acaz, PRIMUS MPZ" [ref=s1e274]:
+          - text: "4"
+          - button "Play Herbst by Acaz, PRIMUS MPZ" [ref=s1e277]
+        - gridcell "Herbst Explicit" [ref=s1e278]:
+          - img [ref=s1e279]
+          - link "Herbst" [ref=s1e281]:
+            - /url: /track/0TrMm9eHEmVwjUOL6hA3GV
+          - text: E
+        - gridcell "8,634" [ref=s1e286]
+        - gridcell "Add to playlist 3:01 More options for Herbst by Acaz, PRIMUS MPZ" [ref=s1e288]:
+          - button "Add to playlist" [ref=s1e289]
+          - text: 3:01
+          - button "More options for Herbst by Acaz, PRIMUS MPZ" [ref=s1e291]
+      - row "5 Play Leb' wohl by Acaz Leb' wohl Explicit 7,837 Add to playlist 2:45 More options for Leb' wohl by Acaz" [ref=s1e292]:
+        - gridcell "5 Play Leb' wohl by Acaz" [ref=s1e294]:
+          - text: "5"
+          - button "Play Leb' wohl by Acaz" [ref=s1e297]
+        - gridcell "Leb' wohl Explicit" [ref=s1e298]:
+          - img [ref=s1e299]
+          - link "Leb' wohl" [ref=s1e301]:
+            - /url: /track/3krgEsRkLZaYvw3dIHo2bv
+          - text: E
+        - gridcell "7,837" [ref=s1e306]
+        - gridcell "Add to playlist 2:45 More options for Leb' wohl by Acaz" [ref=s1e308]:
+          - button "Add to playlist" [ref=s1e309]
+          - text: 2:45
+          - button "More options for Leb' wohl by Acaz" [ref=s1e311]
+    - button "See more" [ref=s1e319]
+    - heading "Artist pick" [level=2] [ref=s1e323]
+    - img "merch" [ref=s1e326]
+    - figure "Acaz" [ref=s1e330]:
+      - img "Acaz" [ref=s1e332]
+    - text: „Eigener Feind" OUT NOW! 🥷🏼
+    - img [ref=s1e336]
+    - link "Eigener Feind" [ref=s1e339]:
+      - /url: /album/2NhoyYxgWM1N7tza0yBJUI
+    - text: Album
+    - region "Discography" [ref=s1e342]:
+      - group [ref=s1e344]:
+        - heading "Discography" [level=2] [ref=s1e347]:
+          - link "Discography" [ref=s1e349]:
+            - /url: /artist/71Jg8baiSsQR2EcjypfEc6/discography/all
+        - link "Show all" [ref=s1e351]:
+          - /url: /artist/71Jg8baiSsQR2EcjypfEc6/discography/all
+      - checkbox "Popular releases" [checked] [ref=s1e355]
+      - checkbox "Albums" [ref=s1e357]
+      - checkbox "Singles and EPs" [ref=s1e359]
+      - checkbox "Compilations" [ref=s1e361]
+      - button "Eigener Feind Latest Release • Album" [ref=s1e365]
+      - img [ref=s1e369]
+      - button "Play Eigener Feind" [ref=s1e372]
+      - link "Eigener Feind" [ref=s1e376]:
+        - /url: /album/2NhoyYxgWM1N7tza0yBJUI
+        - paragraph [ref=s1e377]: Eigener Feind
+      - time [ref=s1e383]: Latest Release •
+      - text: Album
+      - button "Epilog 2025 • Album" [ref=s1e386]
+      - img [ref=s1e390]
+      - button "Play Epilog" [ref=s1e393]
+      - link "Epilog" [ref=s1e397]:
+        - /url: /album/76rjxpTQHv42I98n29NfJW
+        - paragraph [ref=s1e398]: Epilog
+      - time [ref=s1e404]: 2025 •
+      - text: Album
+      - button "Gefangen im Kopf 2011 • Album" [ref=s1e407]
+      - img [ref=s1e411]
+      - button "Play Gefangen im Kopf" [ref=s1e414]
+      - link "Gefangen im Kopf" [ref=s1e418]:
+        - /url: /album/66Dcc32TvexBySQyQfUxrr
+        - paragraph [ref=s1e4419]: Gefangen im Kopf
+      - time [ref=s1e425]: 2011 •
+      - text: Album
+      - button "Nemesis 2023 • Album" [ref=s1e428]
+      - img [ref=s1e432]
+      - button "Play Nemesis" [ref=s1e435]
+      - link "Nemesis" [ref=s1e439]:
+        - /url: /album/1Lhx7uRX1oXQXKNa7DbpcS
+        - paragraph [ref=s1e440]: Nemesis
+      - time [ref=s1e446]: 2023 •
+      - text: Album
+      - button "No Return 2022 • Album" [ref=s1e449]
+      - img [ref=s1e453]
+      - button "Play No Return" [ref=s1e456]
+      - link "No Return" [ref=s1e460]:
+        - /url: /album/1f4nR7UMl56ErTRY1o9EgP
+        - paragraph [ref=s1e461]: No Return
+      - time [ref=s1e467]: 2022 •
+      - text: Album
+      - button "Odyssee 2020 • Album" [ref=s1e470]
+      - img [ref=s1e474]
+      - button "Play Odyssee" [ref=s1e477]
+      - link "Odyssee" [ref=s1e481]:
+        - /url: /album/2L94qhmfPdEbEJbrUPAL9x
+        - paragraph [ref=s1e482]: Odyssee
+      - time [ref=s1e488]: 2020 •
+      - text: Album
+      - button "Schattenläufer 2016 • Album" [ref=s1e491]
+      - img [ref=s1e495]
+      - button "Play Schattenläufer" [ref=s1e498]
+      - link "Schattenläufer" [ref=s1e502]:
+        - /url: /album/5Snm3hoNadILKERSmxhWms
+        - paragraph [ref=s1e503]: Schattenläufer
+      - time [ref=s1e509]: 2016 •
+      - text: Album
+      - button "Mein dunkles Ich 2015 • Album" [ref=s1e512]
+      - img [ref=s1e516]
+      - button "Play Mein dunkles Ich" [ref=s1e519]
+      - link "Mein dunkles Ich" [ref=s1e523]:
+        - /url: /album/2Hr6IWrAg7a7gFY1NREDrd
+        - paragraph [ref=s1e524]: Mein dunkles Ich
+      - time [ref=s1e530]: 2015 •
+      - text: Album
+    - region "Featuring Acaz" [ref=s1e532]:
+      - group [ref=s1e534]:
+        - heading "Featuring Acaz" [level=2] [ref=s1e537]:
+          - link "Featuring Acaz" [ref=s1e539]:
+            - /url: /artist/71Jg8baiSsQR2EcjypfEc6/featuring
+      - button "This Is Acaz By Spotify" [ref=s1e542]
+      - img [ref=s1e546]
+      - button "Play This Is Acaz" [ref=s1e549]
+      - link "This Is Acaz" [ref=s1e553]:
+        - /url: /playlist/37i9dQZF1DZ06evO49I07X
+        - paragraph [ref=s1e554]: This Is Acaz
+      - text: By Spotify
+      - button "Acaz Radio By Spotify" [ref=s1e564]
+      - img [ref=s1e568]
+      - button "Play Acaz Radio" [ref=s1e571]
+      - link "Acaz Radio" [ref=s1e574]:
+        - /url: /playlist/37i9dQZF1E4yWB3mv7lz0b
+        - paragraph [ref=s1e575]: Acaz Radio
+      - text: By Spotify
+    - heading "About" [level=2] [ref=s1e585]
+    - button "Acaz" [ref=s1e587]:
+      - figure "Acaz" [ref=s1e589]:
+        - img "Acaz" [ref=s1e591]
+      - text: 15,346 monthly listeners
+    - region "Similar artists" [ref=s1e597]:
+      - group [ref=s1e599]:
+        - heading "Similar artists" [level=2] [ref=s1e602]:
+          - link "Similar artists" [ref=s1e604]:
+            - /url: /artist/71Jg8baiSsQR2EcjypfEc6/similar-artists
+        - link "Show all" [ref=s1e606]:
+          - /url: /artist/71Jg8baiSsQR2EcjypfEc6/similar-artists
+      - button "Krijo Stalka Artist" [ref=s1e610]
+      - img [ref=s1e614]
+      - button "Play Krijo Stalka" [ref=s1e617]
+      - link "Krijo Stalka" [ref=s1e621]:
+        - /url: /artist/3iBsRBThyYCyg0bFB5lier
+        - paragraph [ref=s1e622]: Krijo Stalka
+      - text: Artist
+      - button "PRIMUS MPZ Artist" [ref=s1e630]
+      - img [ref=s1e634]
+      - button "Play PRIMUS MPZ" [ref=s1e637]
+      - link "PRIMUS MPZ" [ref=s1e641]:
+        - /url: /artist/2tfiDDNly6v4TH68gYtz39
+        - paragraph [ref=s1e642]: PRIMUS MPZ
+      - text: Artist
+      - button "K-Fik Artist" [ref=s1e650]
+      - img [ref=s1e654]
+      - button "Play K-Fik" [ref=s1e657]
+      - link "K-Fik" [ref=s1e661]:
+        - /url: /artist/5FjvoeJCQqnj7vjwPtjAJz
+        - paragraph [ref=s1e662]: K-Fik
+      - text: Artist
+      - button "Artisblind Artist" [ref=s1e670]
+      - img [ref=s1e674]
+      - button "Play Artisblind" [ref=s1e677]
+      - link "Artisblind" [ref=s1e681]:
+        - /url: /artist/1TC5KDxcv3Dv1aZ30BHQed
+        - paragraph [ref=s1e682]: Artisblind
+      - text: Artist
+      - button "Laer Xirtam Artist" [ref=s1e690]
+      - img [ref=s1e694]
+      - button "Play Laer Xirtam" [ref=s1e697]
+      - link "Laer Xirtam" [ref=s1e701]:
+        - /url: /artist/1TC5KDxcv3Dv1aZ30BHQed
+        - paragraph [ref=s1e702]: Laer Xirtam
+      - text: Artist
+      - button "ArniTheSavage Artist" [ref=s1e710]
+      - img [ref=s1e714]
+      - button "Play ArniTheSavage" [ref=s1e717]
+      - link "ArniTheSavage" [ref=s1e721]:
+        - /url: /artist/1TC5KDxcv3Dv1aZ30BHQed
+        - paragraph [ref=s1e722]: ArniTheSavage
+      - text: Artist
+    - region "Appears On" [ref=s1e730]:
+      - group [ref=s1e732]:
+        - heading "Appears On" [level=2] [ref=s1e735]:
+          - link "Appears On" [ref=s1e737]:
+            - /url: /artist/71Jg8baiSsQR2EcjypfEc6/appears-on
+      - button "Krypta Beatz - Audiotherapie 2016 • Compilation" [ref=s1e740]
+      - img [ref=s1e744]
+      - button "Play Krypta Beatz - Audiotherapie" [ref=s1e747]
+      - link "Krypta Beatz - Audiotherapie" [ref=s1e751]:
+        - /url: /album/4TbRFI2fdQbfUSwFAXs4m6
+        - paragraph [ref=s1e752]: Krypta Beatz - Audiotherapie
+      - time [ref=s1e758]: 2016 •
+      - text: Compilation
+      - button "Schlangengift 2017 • Album" [ref=s1e761]
+      - img [ref=s1e765]
+      - button "Play Schlangengift" [ref=s1e768]
+      - link "Schlangengift" [ref=s1e771]:
+        - /url: /album/7q0gL0gozO8KSqSCKZnDLg
+        - paragraph [ref=s1e772]: Schlangengift
+      - time [ref=s1e778]: 2017 •
+      - text: Album
+      - button "Uncut 2014 • Album" [ref=s1e781]
+      - img [ref=s1e785]
+      - button "Play Uncut" [ref=s1e788]
+      - link "Uncut" [ref=s1e791]:
+        - /url: /album/0LKE0hp8ygIBboRALGeLZr
+        - paragraph [ref=s1e792]: Uncut
+      - time [ref=s1e798]: 2014 •
+      - text: Album
+      - button "X-Beliebig 2019 • Album" [ref=s1e801]
+      - img [ref=s1e805]
+      - button "Play X-Beliebig" [ref=s1e808]
+      - link "X-Beliebig" [ref=s1e811]:
+        - /url: /album/6EJGVJ4Tis9LejhGr06dXw
+        - paragraph [ref=s1e812]: X-Beliebig
+      - time [ref=s1e818]: 2019 •
+      - text: Album
+    - separator [ref=s1e821]
+    - navigation [ref=s1e823]:
+      - list [ref=s1e827]:
+        - paragraph [ref=s1e828]: Company
+        - link "Impressum / Transparenzinformation" [ref=s1e829]:
+          - /url: https://www.spotify.com/de/about-us/impressum/
+        - link "About" [ref=s1e831]:
+          - /url: https://www.spotify.com/de/about-us/contact/
+        - link "Jobs" [ref=s1e833]:
+          - /url: https://www.lifeatspotify.com/
+        - link "For the Record" [ref=s1e835]:
+          - /url: https://newsroom.spotify.com/
+      - list [ref=s1e838]:
+        - paragraph [ref=s1e839]: Communities
+        - link "For Artists" [ref=s1e840]:
+          - /url: https://artists.spotify.com/
+        - link "Developers" [ref=s1e842]:
+          - /url: https://developer.spotify.com/
+        - link "Advertising" [ref=s1e844]:
+          - /url: https://ads.spotify.com/
+        - link "Investors" [ref=s1e846]:
+          - /url: https://investors.spotify.com/
+        - link "Vendors" [ref=s1e848]:
+          - /url: https://spotifyforvendors.com/
+      - list [ref=s1e851]:
+        - paragraph [ref=s1e852]: Useful links
+        - link "Support" [ref=s1e853]:
+          - /url: https://support.spotify.com/
+        - link "Free Mobile App" [ref=s1e855]:
+          - /url: https://www.spotify.com/de/download/
+        - link "Verträge hier kündigen" [ref=s1e857]:
+          - /url: https://www.spotify.com/de/account/cancel/
+        - link "Popular by Country" [ref=s1e859]:
+          - /url: /popular-in/de
+        - link "Import your music" [ref=s1e861]:
+          - /url: https://www.spotify.com/de/import-music/
+      - list [ref=s1e864]:
+        - paragraph [ref=s1e865]: Spotify Plans
+        - link "Premium Individual" [ref=s1e866]:
+          - /url: https://www.spotify.com/de/premium/#ref=spotifycom_footer_premium_individual
+        - link "Premium Duo" [ref=s1e867]:
+          - /url: https://www.spotify.com/de/duo/#ref=spotifycom_footer_premium_duo
+        - link "Premium Family" [ref=s1e868]:
+          - /url: https://www.spotify.com/de/family/#ref=spotifycom_footer_premium_family
+        - link "Premium Student" [ref=s1e869]:
+          - /url: https://www.spotify.com/de/student/#ref=spotifycom_footer_premium_student
+        - link "Spotify Free" [ref=s1e870]:
+          - /url: https://www.spotify.com/de/free/#ref=spotifycom_footer_free
+      - link "Instagram" [ref=s1e873]:
+        - /url: https://instagram.com/spotify
+      - link "Twitter" [ref=s1e875]:
+        - /url: https://twitter.com/spotify
+      - link "Facebook" [ref=s1e877]:
+        - /url: https://www.facebook.com/Spotify
+      - separator [ref=s1e878]
+      - link "Legal" [ref=s1e883]:
+        - /url: https://www.spotify.com/de/legal/
+      - link "Safety & Privacy Center" [ref=s1e886]:
+        - /url: https://www.spotify.com/de/safetyandprivacy/
+      - link "Privacy Policy" [ref=s1e889]:
+        - /url: https://www.spotify.com/de/legal/privacy-policy/
+      - button "Cookie Settings" [ref=s1e892]
+      - link "About Ads" [ref=s1e895]:
+        - /url: https://www.spotify.com/de/legal/privacy-policy/#s3
+      - link "Accessibility" [ref=s1e898]:
+        - /url: https://www.spotify.com/de/accessibility/
+      - paragraph [ref=s1e902]: © 2026 Spotify AB
+  - complementary "Now playing view" [ref=s1e910]:
+    - button "Hide Now Playing view" [ref=s1e914]
+    - link "Rasenschach" [ref=s1e916]:
+      - /url: /album/0eyNmAznsO2cBF9hM17niE?uid=614a034332ca07058dd7&uri=spotify:track:7jFcvN0U0ZZIXgfyEDYkcj
+      - heading "Rasenschach" [level=1] [ref=s1e920]
+    - button "More options for Rasenschach" [ref=s1e923]
+    - button "Expand Now Playing view" [ref=s1e924]
+    - 'link "Now playing: Rasenschach by Filow" [ref=s1e936]':
+      - /url: /album/0eyNmAznsO2cBF9hM17niE?uid=614a034332ca07058dd7&uri=spotify%3Atrack%3A7jFcvN0U0ZZIXgfyEDYkcj
+    - link "Rasenschach" [ref=s1e945]:
+      - /url: /album/0eyNmAznsO2cBF9hM17niE
+    - link "Filow" [ref=s1e953]:
+      - /url: /artist/0BRUlYcw8Rr4MGHe8kRgTv
+    - button "Copy link to Song" [ref=s1e954]
+    - button "Add to Liked Songs" [ref=s1e956]
+    - heading "Credits" [level=2] [ref=s1e959]
+    - button "Show all" [ref=s1e961]
+    - group [ref=s1e963]:
+      - button "Main Artist" [ref=s1e964]
+      - link "Filow" [ref=s1e967]:
+        - /url: /artist/0BRUlYcw8Rr4MGHe8kRgTv
+      - paragraph [ref=s1e968]: Main Artist
+      - button "Follow" [ref=s1e972]
+    - group [ref=s1e973]:
+      - text: Felix Filow
+      - paragraph [ref=s1e977]: Author
+    - heading "On tour" [level=2] [ref=s1e982]
+    - button "Show all" [ref=s1e984]
+    - link "Jun 19 SCHEESSEL Donots, Papa Roach, Pennywise, The Offspring, Billy Talent, Bosse, Alexisonfire, Modeselektor, Skindred, The Ataris, zebrahead, Sondaschule, Natasha Bedingfield, A Day To Remember, All Time Low, Boys Noize, Florence + The Machine, Empire Of The Sun, Kraftklub, Modestep, Basement, Twenty One Pilots, SSIO, Wolf Alice, Nothing But Thieves, SOFT PLAY, YUNGBLUD, The Beaches, grandson, BHZ, Ecca Vandal, Leony, OG Keemo, FiNCH, Roy Bianco & Die Abbrunzati Boys, YONAKA, The Butcher Sisters, Provinz, Drei Meter Feldweg, Betterov, Edwin Rosen, KAFFKIEZ, Esther Graf, Just Mustard, Davina Michelle, Militarie Gun, PA69, Destroy Boys, Ritter Lean, SPRINTS, rosmarin, Anda Morts, Tors, Delilah Bon, Royel Otis, Paula Engels, ROYA, unpeople, Kayla Shyx, Kingfishr, Filow, Vicky, PRESIDENT, Florence Road, Tinlicker Fri 12:00 PM•Eichenring Scheeßel" [ref=s1e986]:
+      - /url: /concert/55nIEeBQ1QAeHUmwspdH3I
+      - time [ref=s1e987]:
+        - paragraph [ref=s1e988]: Jun
+        - paragraph [ref=s1e989]: "19"
+      - heading "SCHEESSEL" [level=3] [ref=s1e991]
+      - paragraph [ref=s1e992]: Donots, Papa Roach, Pennywise, The Offspring, Billy Talent, Bosse, Alexisonfire, Modeselektor, Skindred, The Ataris, zebrahead, Sondaschule, Natasha Bedingfield, A Day To Remember, All Time Low, Boys Noize, Florence + The Machine, Empire Of The Sun, Kraftklub, Modestep, Basement, Twenty One Pilots, SSIO, Wolf Alice, Nothing But Thieves, SOFT PLAY, YUNGBLUD, The Beaches, grandson, BHZ, Ecca Vandal, Leony, OG Keemo, FiNCH, Roy Bianco & Die Abbrunzati Boys, YONAKA, The Butcher Sisters, Provinz, Drei Meter Feldweg, Betterov, Edwin Rosen, KAFFKIEZ, Esther Graf, Just Mustard, Davina Michelle, Militarie Gun, PA69, Destroy Boys, Ritter Lean, SPRINTS, rosmarin, Anda Morts, Tors, Delilah Bon, Royel Otis, Paula Engels, ROYA, unpeople, Kayla Shyx, Kingfishr, Filow, Vicky, PRESIDENT, Florence Road, Tinlicker
+      - time [ref=s1e994]: Fri 12:00 PM•
+      - text: Eichenring Scheeßel
+    - heading "Merch" [level=2] [ref=s1e997]
+    - list [ref=s1e999]:
+      - listitem [ref=s1e1000]:
+        - img "Tour 2026 - 24.11.2026 - Erlangen" [ref=s1e1002]
+        - link "Tour 2026 - 24.11.2026 - Erlangen" [ref=s1e1004]:
+          - /url: https://shop.spotify.com/en/artist/0BRUlYcw8Rr4MGHe8kRgTv/product/filow-tour-24-11-2026-erlangen?utm_source=spotify&utm_medium=app-nowplayingview&utm_term=00a46602bc1288309ff5773d1d457aee04890a5e72368104922f2e
+        - paragraph [ref=s1e1006]
+      - listitem [ref=s1e1007]:
+        - img "Tour 2026 - 06.12.2026 - Köln" [ref=s1e1009]:
+        - link "Tour 2026 - 06.12.2026 - Köln" [ref=s1e1011]:
+          - /url: https://shop.spotify.com/en/artist/0BRUlYcw8Rr4MGHe8kRgTv/product/filow-tour-06-12-2026-koln?utm_source=spotify&utm_medium=app-nowplayingview&utm_term=00a46602bc1288309ff5773d1d457aee04890a5e72368104922f2e
+        - paragraph [ref=s1e1013]
+      - listitem [ref=s1e1014]:
+        - img "Tour 2026 - 26.11.2026 - Frankfurt" [ref=s1e1016]:
+        - link "Tour 2026 - 26.11.2026 - Frankfurt" [ref=s1e1018]:
+          - /url: https://shop.spotify.com/en/artist/0BRUlYcw8Rr4MGHe8kRgTv/product/filow-tour-26-11-2026-frankfurt?utm_source=spotify&utm_medium=app-nowplayingview&utm_term=00a46602bc1288309ff5773d1d457aee04890a5e72368104922f2e
+        - paragraph [ref=s1e1020]
+    - heading "Next in queue" [level=2] [ref=s1e1023]
+    - button "Open queue" [ref=s1e1025]
+    - list [ref=s1e1026]:
+      - row "Anders" [expanded] [level=1] [ref=s1e1027]:
+        - group "Anders" [ref=s1e1028]:
+          - button "Anders 01099, Paul, Ski Aggu" [ref=s1e1029]
+          - button "Play Anders by 01099, Paul, Ski Aggu" [ref=s1e1036]
+          - paragraph [ref=s1e1039]: Anders
+          - paragraph [ref=s1e1041]:
+            - link "01099" [ref=s1e1044]:
+              - /url: /artist/3Z3aTg9PwJ37e8xeO0aUC9
+            - text: ","
+            - link "Paul" [ref=s1e1045]:
+              - /url: /artist/2SRd7Kx7xWkZjoaFKgEreg
+            - text: ","
+            - link "Ski Aggu" [ref=s1e1046]:
+              - /url: /artist/6CP5wWvO8oIxedESJNCN4H
+          - button "More options for Anders" [ref=s1e1049]
+  - text: Resize main navigation
+  - slider "Resize main navigation" [ref=s1e1052]: "420"
+  - status [ref=s1e1062]: "Now playing: Rasenschach by Filow"
+```
+
+## Key Information Extracted:
+- **Artist Name**: Acaz
+- **Monthly Listeners**: 15,346
+- **Top Tracks**: 
+  1. Nicht genug (feat. Krijo Stalka) (Explicit) - 18,294 plays
+  2. 32 Zeilen (Explicit) - 14,026 plays
+  3. Nur noch 1 Song (feat. Krijo Stalka) (Explicit) - 21,859 plays
+  4. Herbst (feat. PRIMUS MPZ) (Explicit) - 8,634 plays
+  5. Leb' wohl (Explicit) - 7,837 plays
+- **Latest Release**: Eigener Feind - Album
+- **Artist pick**: „Eigener Feind" OUT NOW! 🥷🏼 - promoting latest album
+- **Collaborations**: Krijo Stalka, PRIMUS MPZ
+- **Related Artists**: Krijo Stalka, PRIMUS MPZ, K-Fik, Artisblind, Laer Xirtam, ArniTheSavage
+- **Albums**: Eigener Feind (2026), Epilog (2025), Gefangen im Kopf (2011), Nemesis (2023), No Return (2022), Odyssee (2020), Schattenläufer (2016), Mein dunkles Ich (2015)
+- **Appears On**: Krypta Beatz - Audiotherapie (2016), Schlangengift (2017), Uncut (2014), X-Beliebig (2019)
+
+## Navigation Elements:
+- Library with minimal content
+- Multiple related artists visible
+- Now playing: Rasenschach by Filow
+- Full discography and popular tracks section
+- Artist profile with image and follow button
+- Radio playlist available
+- Compilation appearances documented
+- Artist pick promoting latest release
+
+## Status: ✅ Complete screenshot captured and saved

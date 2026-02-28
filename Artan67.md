@@ -5,6 +5,8 @@
 - **Spotify ID**: 5l8LtmbV6Wqy15DWc7wGTQ
 - **Spotify Link**: https://open.spotify.com/artist/5l8LtmbV6Wqy15DWc7wGTQ
 - **Original Spotify-Link**: https://open.spotify.com/artist/5l8LtmbV6Wqy15DWc7wGTQ?si=f6523f81492b4cdc
+- **Collection Timestamp**: 28.02.2026 03:00 (MCP Browser Tool - LATEST)
+- **Updated Timestamp**: 28.02.2026 19:50 (Page Loading Issues Confirmed via MCP Browser)
 - **Monthly Listeners**: 13 (LATEST: 28.02.2026 03:00 - MCP Browser Tool) | PREVIOUS: 14 (26.02.2026 03:50)
 - **Followers**: Not available
 - **Genre**: Alternative/Indie
